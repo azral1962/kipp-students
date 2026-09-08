@@ -1,6 +1,6 @@
 ---
 title: "Slide PDF Perkuliahan"
-format: pdf
+format: html
 toc: false
 ---
 
