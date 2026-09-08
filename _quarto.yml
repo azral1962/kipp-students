@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - "assets/**"
+    - "slides-pdf/*.pdf"
   render:
     - "*.qmd"
     - "course/*.qmd"
@@ -11,6 +12,7 @@ project:
     - "assessment/*.qmd"
     - "lk/*.qmd"
     - "slides/*.qmd"
+    - "slides-pdf/*.qmd"
 
 website:
   title: "Portfolio KIPP-2"
@@ -32,6 +34,10 @@ website:
         text: Contoh
       - href: lk/index.qmd
         text: Lembar Kerja
+      - href: slides.qmd
+        text: Slide
+      - href: slides-pdf/index.qmd
+        text: Slide PDF
       - href: assessment/index.qmd
         text: Assessment
     right:
