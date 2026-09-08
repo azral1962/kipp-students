@@ -9,6 +9,7 @@ project:
     - "portfolio/*.qmd"
     - "examples/*.qmd"
     - "assessment/*.qmd"
+    - "lk/*.qmd"
     - "slides/*.qmd"
 
 website:
@@ -29,6 +30,8 @@ website:
         text: Portfolio
       - href: examples/index.qmd
         text: Contoh
+      - href: lk/index.qmd
+        text: Lembar Kerja
       - href: assessment/index.qmd
         text: Assessment
     right:
