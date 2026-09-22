@@ -1,16 +1,16 @@
 student:
-  name: "Nama Mahasiswa"
+  name: "Muhammad Aquilla Arizqy"
   id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  program: "Sistem dan Teknologi Informasi"
+  cohort: "2025"
+  email: "18225017@maahasiswa.itb.ac.id"
 
 course:
-  code: "KIPP-2"
+  code: "II2100"
   name: "Komunikasi Inter Personal dan Publik"
   lecturer: "Armein Z. R. Langi"
-  semester: "Semester / Tahun Akademik"
+  semester: "Ganjil / 2026-2027"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  url: "https://github.com/matematikal/kipp-studentt.git"
 
