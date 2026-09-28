@@ -2,7 +2,7 @@
 title: "Discovery Interview — Motivasi & Persepsi Gambar Teknik"
 week: 5
 status: "Selesai"
-self_score: "19/20"
+self_score: "93/100"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement mengenai persepsi awal terhadap mata kuliah Gambar Teknik."
 categories: [Professional, Discovery]
@@ -128,16 +128,4 @@ Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 beriku
 | **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | 95 |
 | **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | 95 |
 
-*Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*
-
-## Self-assessment
-
-| Dimensi | Skor | Evidence singkat |
-|---|---:|---|
-| Person & Character | 4 | Berhasil menggali akar kecemasan Fal (krisis relevansi Biomedis-STI & integrasi sistem) serta constraint teknis/waktu secara presisi. |
-| Objective & State | 4 | Mampu meruntuhkan asumsi awal (mengira Fal malas/perangkat berat) menjadi shared problem statement yang disetujui bersama. |
-| Repertoire, Language & AI | 3 | Menggunakan pertanyaan open-ended, konfirmasi ulang, serta memformulasi transkrip dan lembar kerja secara terstruktur. |
-| Response & Adaptation | 4 | Mengadaptasi draf awal secara fleksibel berdasarkan masukan konfirmasi Fal terkait kecemasan integrasi sistem medis. |
-| Agreement, Action & Relationship | 4 |Customer Problem Statement disepakati total dan menyepakati langkah tindak lanjut (action plan) penyusunan checklist mandiri. |
-
-**Total: 19/20 — Mahir.**
+**Total: 93/100 — Unggul.**
