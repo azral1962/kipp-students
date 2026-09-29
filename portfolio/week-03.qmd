@@ -84,12 +84,19 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 **Nama Mitra Latihan:** Inisial A
 **Tanggal Pelaksanaan:** 28/09/2026
 
-> **Aku:** "Gimana progress tugas besar Basis Data kelompok kita? Aku jujur khawatir kita keteteran karena deadline pengumpulan tinggal tiga hari lagi tapi schema DB-nya belum rampung."  
-> **A:** "Aku lagi lelah banget minggu ini, Qil. Banyak deadline matakuliah lain yang bentrok, jadi fokusku terpecah dan belum sempat megang bagianku."  
-> **Aku:** "Jadi kamu butuh ruang bernapas dan kejelasan prioritas dulu ya buat bagi fokus, tapi kamu paham kan kalau kita juga butuh schema itu beres supaya bagian modul yang lain bisa mulai dikoding?"  
-> **A:** "Iya, paham banget kok. Aku nggak berniat nunda, cuma butuh kompromi alokasi pengerjaannya aja."  
-> **Aku:** "Gimana kalau kita bagi dua bagian schema-nya? Kamu kerjakan relasi utamanya malam ini 1-2 jam saja, lalu sisanya aku pimpin bareng anak-anak besok siang di kampus."  
-> **A:** "Oke, sepakat. Malam ini jam 8 aku kelarin relasi utamanya biar besok bisa kalian lanjutin."
+## Evidence
+
+> **Aku:** (Melirik jam di ponsel, menghela napas berat lalu menatap A dengan raut cemas) "Gimana progress tugas besar Basis Data kelompok kita? Aku jujur khawatir kita keteteran karena deadline pengumpulan tinggal tiga hari lagi tapi schema DB-nya belum rampung."
+
+> **A:** (Menyilangkan tangan di dada, menyenderkan badan ke kursi lalu mengusap wajahnya yang tampak lelah) "Aku lagi lelah banget minggu ini, Qil. Banyak deadline matakuliah lain yang bentrok, jadi fokusku terpecah dan belum sempat megang bagianku."
+
+> **Aku:** (Mengangguk pelan penuh simpati, lalu memajukan badan dan menepuk bahu A secara perlahan) "Jadi kamu butuh ruang bernapas dan kejelasan prioritas dulu ya buat bagi fokus, tapi kamu paham kan kalau kita juga butuh schema itu beres supaya bagian modul yang lain bisa mulai dikoding?"
+
+> **A:** (Menurunkan tangannya, menatap langsung ke mataku sambil mengangguk mantap) "Iya, paham banget kok. Aku nggak berniat nunda, cuma butuh kompromi alokasi pengerjaannya aja."
+
+> **Aku:** (Mencondongkan tubuh ke depan, membuka telapak tangan sambil meletakkan kertas buram di atas meja) "Gimana kalau kita bagi dua bagian schema-nya? Kamu kerjakan relasi utamanya malam ini 1-2 jam saja, lalu sisanya aku pimpin bareng anak-anak besok siang di kampus."
+
+> **A:** (Bahu tampak lebih rileks, mengangguk lega sambil mengacungkan jempol) "Oke, sepakat. Malam ini jam 8 aku kelarin relasi utamanya biar besok bisa kalian lanjutin."
 
 ### **BAGIAN A: Catatan Pendengar (Diisi saat Anda menjadi Pendengar)**
 
