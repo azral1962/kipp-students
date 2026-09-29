@@ -2,8 +2,8 @@
 title: "Relationship Conversation"
 week: 3
 status: "Siap dinilai"
-self_score: "—"
-assessor_score: "—"
+self_score: "-"
+assessor_score: "-"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
 ---
@@ -24,7 +24,7 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 
 ## Konteks performance
 
-**Tanggal dan setting:** juli 2024 — percakapan dengan Mey (Sekretaris Jenderal MPK) di sela rapat organisasi.
+**Tanggal dan setting:** Juli 2024, percakapan dengan Mey (Sekretaris Jenderal MPK) di sela rapat organisasi. Transkrip di bawah saya rekonstruksi dari ingatan karena percakapannya tidak direkam.
 
 **Persons dan relationship:** Saya (Ketua) dan Mey (Sekjen), teman dekat yang juga teman sekelas. Relasi kerja kami saling membutuhkan karena peran Ketua dan Sekjen memang harus berjalan beriringan.
 
@@ -45,11 +45,55 @@ Sejak dulu saya terbiasa mandiri dan awalnya sulit meminta bantuan, termasuk dal
 
 Pembagian kerja: sore itu, Mey mengerjakan sebagian besar draf proposal, sementara saya fokus memimpin rapat untuk menentukan rencana keberjalanan program kerja terlebih dahulu, lalu menyusul membantu bagian yang berkaitan dengan hasil rapat tersebut.
 
-Tidak ada momen *repair* dalam percakapan ini — topik yang saya latih di sini adalah meminta bantuan, bukan memperbaiki relasi yang rusak.
+Tidak ada momen *repair* dalam percakapan ini, topik yang saya latih di sini adalah meminta bantuan, bukan memperbaiki relasi yang rusak.
+
+### Analisis relationship state dan O-F-N-R
+
+| Aspek | Analisis |
+|---|---|
+| Relationship state sebelum | Dekat dan saling percaya (teman sekelas dan pasangan Ketua-Sekjen), tetapi saya terbiasa tidak menyatakan kebutuhan sehingga Mey tidak tahu saya butuh bantuan. |
+| Relationship state sesudah | Lebih jelas dan lebih mampu bertindak: pembagian kerja terbentuk, dan Mey tahu bahwa meminta tolong kepadanya aman. |
+| Observation | Hasil rapat kemarin belum menjadi proposal. |
+| Feeling | Tidak enak merepotkan dan sedikit kewalahan (dari kebiasaan mandiri). |
+| Need | Bantuan penyusunan proposal supaya saya bisa fokus memimpin rapat program kerja. |
+| Request | "Boleh kah aku minta tolong untuk membuat proposal MPK berdasarkan hasil rapat kemarin?" Ini berbentuk permintaan yang memberi ruang untuk menolak, bukan tuntutan. |
+| Listening | Mey menjawab dengan tindakan ("sore ini kita susun bersama"). Saya membaca kesediaannya lewat nada dan responsnya yang langsung menawarkan waktu. |
+
+### Latihan listening tanpa memperbaiki
+
+**Naskah persiapan (5-10 menit, dengan satu teman atau anggota keluarga):**
+
+1. Minta pasangan bercerita 3 menit tentang satu keresahan ringan. Larang diri memberi saran.
+2. Ajukan maksimal 2 pertanyaan terbuka, mis. "Bagian mana yang paling berat buat kamu?"
+3. Parafrasa: "Kalau aku tidak salah tangkap, yang bikin berat itu … ya?"
+4. Tebak perasaan secara tentatif: "Sepertinya kamu merasa … karena … penting buat kamu?"
+5. Pertanyaan emas: "Kamu ingin didengarkan saja, dibantu memikirkan pilihan, atau butuh saran dariku?"
+6. Minta umpan balik: kapan terasa didengarkan, dan kapan saya terlalu cepat menyimpulkan.
+
+| Catatan latihan | Isi |
+|---|---|
+| Mitra dan tanggal | Natasha (teman), 29 September 2026 |
+| Tingkat 1, kata (fakta yang diceritakan) | Minggu ini tugas kami banyak deadline dan minggu depan ada kuis. Natasha merasa waktu berjalan sangat cepat, tetapi ia tetap mengerjakan tugas-tugas dulu secara seadanya, dan mencoba menjadwalkan belajar bersama teman-temannya yang jago di mata kuliah yang akan diujikan. |
+| Tingkat 2, makna (parafrasa saya) | Tidak dilakukan. Saya tidak merangkum ulang ceritanya untuk dikonfirmasi. Ini bahan perbaikan. |
+| Tingkat 3, pribadi (perasaan dan kebutuhan yang saya tebak) | Tidak disebutkan secara tentatif. Dari ceritanya, Natasha merasa waktu berjalan sangat cepat dan tertekan oleh banyaknya deadline. |
+| Pilihan mitra atas pertanyaan emas | Natasha memilih "denger aja" (tidak butuh saran). |
+| Umpan balik: momen paling hadir | Setelah selesai bercerita, ekspresi Natasha menjadi lebih lega, dan ia juga mengatakan bahwa ia merasa lega setelah selesai bercerita. |
+| Umpan balik: momen buru-buru memperbaiki | Saya sempat tergoda memberi solusi, tetapi menahannya karena tahu Natasha biasanya sudah punya solusi sendiri. |
+| Komitmen 14 hari | Dalam 14 hari ke depan, setiap kali teman atau keluarga bercerita, saya akan melakukan satu parafrasa dan satu tebakan perasaan secara tentatif ("kayaknya kamu … karena …, bener?") sebelum bertanya "mau didengerin aja atau butuh saran?". Target: minimal 3 kali, dan saya akan meminta umpan balik dari satu orang. |
+
+**Pembuka percakapan.** Saya mulai dengan bertanya, "Sha, kamu kenapa kok kayak diem gitu dari tadi?" Pertanyaan ini lahir dari pengamatan: Natasha biasanya ceria dan cerewet, tetapi hari itu lebih diam. Saya sendiri cemas melihat perubahan itu. Pertanyaan terbuka tadi memberi Natasha ruang untuk bercerita tanpa harus menjelaskan dirinya dulu.
+
+**Menahan solusi dan mengeceknya.** Saya menahan diri memberi solusi dengan alasan Natasha "selalu punya solusi sendiri". Itu asumsi saya, jadi saya mengujinya dengan bertanya apakah ia hanya ingin didengar atau butuh saran. Natasha menjawab "denger aja", sehingga asumsi itu terkonfirmasi oleh jawabannya, bukan hanya oleh perkiraan saya. Cerita Natasha juga sesuai dugaan: ia tetap mengerjakan tugas seadanya dulu, lalu menjadwalkan belajar bersama teman yang jago di mata kuliah kuis.
+
+**Batas dalam sesi ini.** Saya sudah menduga cerita Natasha akan tentang tugas karena kami sekelas. Dugaan itu ternyata benar, tetapi saya tidak merangkum ulang atau menebak perasaannya untuk diperiksa, sehingga bagian *makna* dan *pribadi* belum diuji langsung. Saya juga tidak tahu apakah ada hal lain di balik diamnya selain tugas. Pada percakapan berikutnya, saya akan menyebut satu parafrasa dan satu tebakan perasaan secara tentatif ("kayaknya kamu kewalahan karena …, bener?") sebelum menanyakan pertanyaan emas.
+
+**Sinyal halus.** Saya menangkap perubahan pada Natasha (diam, tidak seperti biasanya) sebelum ia menyatakan apa pun secara eksplisit. Setelah bercerita, ekspresinya berubah menjadi lebih lega.
+
+*Memahami vs menyetujui:* Dalam percakapan dengan Natasha, saya memahami dulu situasinya, baru menanyakan apakah ia butuh saran atau hanya ingin didengar. Urutan itu penting: saya mendengar alasannya lebih dulu, yaitu banyak deadline, waktu terasa cepat, dan ia memilih mengerjakan tugas seadanya dulu sambil menjadwalkan belajar bersama teman yang jago di mata kuliah kuis. Dalam kasus ini saya juga menilai strateginya tepat, jadi memahami dan menyetujui kebetulan berjalan bersamaan. Tetapi saya belajar bahwa keduanya tidak harus sama. Pemahaman saya tidak bergantung pada apakah saya setuju dengan caranya, dan saya tidak perlu menilai strateginya sebelum ia selesai bercerita. Yang saya lakukan adalah memvalidasi pengalamannya (waktu terasa berjalan cepat) tanpa menyodorkan penilaian atau solusi.
 
 ### Mengelola prioritas yang bersaing
 
-Saat itu saya masih SMA, jadi bukan soal SKS kuliah, tetapi ada masa-masa timeline pengerjaan MPK bertabrakan dengan tugas sekolah. Dalam situasi itu, saya harus menyusun skala prioritas: memutuskan mana yang harus saya selesaikan lebih dulu di antara tanggung jawab organisasi dan tanggung jawab akademik. Respons dari Mey dan tim terhadap kondisi ini adalah saling memahami dan saling meng-*handle* — kalau saya sedang fokus ke tugas sekolah, tim mengerti dan menutupi bagian saya, dan saya melakukan hal yang sama untuk anggota tim yang sedang kewalahan. Intinya, itu semua bisa berjalan karena komunikasi terbuka soal kapasitas masing-masing, bukan asumsi sepihak.
+Saat itu saya masih SMA, jadi bukan soal SKS kuliah, tetapi ada masa-masa timeline pengerjaan MPK bertabrakan dengan tugas sekolah. Dalam situasi itu, saya harus menyusun skala prioritas: memutuskan mana yang harus saya selesaikan lebih dulu di antara tanggung jawab organisasi dan tanggung jawab akademik. Respons dari Mey dan tim terhadap kondisi ini adalah saling memahami dan saling meng-*handle*, kalau saya sedang fokus ke tugas sekolah, tim mengerti dan menutupi bagian saya, dan saya melakukan hal yang sama untuk anggota tim yang sedang kewalahan. Intinya, itu semua bisa berjalan karena komunikasi terbuka soal kapasitas masing-masing, bukan asumsi sepihak.
 
 ### Bagaimana saya mengelola authority sebagai ketua
 
@@ -65,7 +109,15 @@ Sebagai ketua, saya sering kali sudah punya gambaran keputusan yang akan diambil
 | Repertoire & language | Saya memakai permintaan langsung dan sopan ("boleh kah aku minta tolong"), bukan sindiran atau menahan diri seperti kebiasaan saya sebelumnya. |
 | Response & adaptation | Mey merespons cepat dan positif ("okay Fay, sore ini kita susun bersama"), yang langsung membentuk kesepakatan kerja tanpa perlu negosiasi panjang. |
 | Agreement/action | Disepakati: proposal disusun sore itu, dengan Mey mengerjakan bagian utama penulisan proposal dan saya berfokus pada hasil rapat serta rencana program kerja. Ini juga mencerminkan pola kerja saya sebagai ketua: tetap melibatkan tim untuk berdiskusi walau saya sudah punya arah keputusan, dan menyelesaikan perbedaan pendapat lewat negosiasi kekeluargaan sesuai aturan demokrasi organisasi. |
-| Relationship outcome | Skor kedekatan saya dengan Mey naik dari 6/10 sebelum menjabat bersama menjadi 9.7/10 setelahnya. Selain karena kami sekelas, keterbukaan dalam meminta dan memberi bantuan di organisasi memperkuat relasi kerja ini. |
+| Relationship outcome | Kedekatan saya dengan Mey terasa jauh meningkat setelah kami menjabat bersama. Selain karena kami sekelas, keterbukaan dalam meminta dan memberi bantuan di organisasi memperkuat relasi kerja ini. |
+
+### Pendalaman analisis: mendengar, memeriksa, dan menggunakan posisi
+
+Dari latihan dengan Natasha, saya berhasil menahan diri memberi solusi dan menanyakan apakah ia mau didengar saja. Tetapi parafrasa dan tebakan perasaan belum saya lakukan. Itu celah yang jelas dan jadi sasaran latihan berikutnya.
+
+Diam atau perubahan ekspresi Natasha saya perlakukan sebagai petunjuk, bukan kesimpulan. Karena itu saya bertanya dulu dan memberi ruang baginya untuk mengoreksi dugaan saya.
+
+Sebagai ketua, saya sadar posisi bisa membuat anggota sungkan berbeda pendapat. Jadi tim saya ajak berdiskusi sebelum keputusan final, bukan cuma dimintai setuju sesudahnya.
 
 ## Penggunaan AI
 
@@ -75,29 +127,29 @@ AI tidak digunakan untuk menyusun isi percakapan, karena transcript ini melibatk
 
 **Feedback yang diterima:** Mey bilang aku jadi lebih enak diajak kerja sama sekarang, karena segala hal tentang organisasi itu semuanya dilibatkan. Ini sejalan dengan pengalaman saya sendiri: saya jadi seorang ketua yang selalu bertanya pada sekretaris jenderal dan tidak pernah memutuskan keputusan organisasi tanpa timnya tahu.
 
+**Feedback dari Natasha (latihan listening):** Bagian yang membuat ia nyaman adalah saat saya mendengarkan seluruh masalahnya dan memperhatikannya dengan baik. Ia juga mengatakan merasa lega setelah selesai bercerita.
+
 **Adaptation/replay:** Setelah ini, saya belajar untuk mendelegasikan tugas ke orang yang tepat, karena pada akhirnya tugas seorang ketua adalah mengatur dan melibatkan tim, bukan mengerjakan semuanya sendiri.
 
 **Next practice:** Terus melatih diri meminta bantuan secara eksplisit kepada rekan organisasi lain, tidak hanya kepada Mey, agar kebiasaan mandiri tidak menghambat kerja tim secara keseluruhan.
 
 ## Self-assessment
 
-*Usulan skor, silakan disesuaikan.*
-
-| Dimensi | Skor 1–4 | Evidence singkat |
+| Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Relasi dan peran kedua person (Ketua-Sekjen) dikenali dengan jelas |
-| Objective & State | 4 | Mengelola dua tanggung jawab yang bersaing (organisasi vs. sekolah) dengan menyusun skala prioritas saat timeline bertabrakan, bukan memaksakan mengerjakan semuanya |
-| Repertoire, Language & AI | 3 | Permintaan langsung dinyatakan; batas penggunaan AI untuk data orang lain jelas |
-| Response & Adaptation | 3 | Respons Mey dan pembagian kerja tercatat |
-| Agreement, Action & Relationship | 4 | Authority sebagai ketua dikelola secara sadar: tetap berdiskusi walau sudah punya arah keputusan, dan perbedaan pendapat diselesaikan lewat aturan demokrasi serta negosiasi kekeluargaan organisasi |
+| Person & Character | 4 | Relasi Ketua-Sekjen dikenali, dan perubahan Natasha dari biasanya ceria menjadi diam dibaca sebagai perubahan konteks |
+| Objective & State | 4 | Mengelola dua tanggung jawab yang bersaing (organisasi vs. sekolah) dengan menyusun skala prioritas saat timeline bertabrakan |
+| Repertoire, Language & AI | 3 | Saya menggunakan pertanyaan terbuka dan pertanyaan emas untuk memberi ruang bagi lawan bicara menjelaskan kebutuhannya. Saya juga membedakan hal yang saya amati dari dugaan tentang perasaan orang lain, sehingga bahasa yang dipilih tidak mengunci makna sebelum diklarifikasi. |
+| Response & Adaptation | 3 | Ketika Natasha yang biasanya ceria menjadi diam, saya menangkap perubahan tersebut dan memilih menahan dorongan untuk langsung menawarkan solusi. Saya menggunakan sinyal itu sebagai alasan untuk lebih memperhatikan konteks, bukan sebagai kesimpulan tentang perasaannya. Pengalaman ini menjadi dasar untuk membiasakan klarifikasi secara langsung pada percakapan berikutnya. |
+| Agreement, Action & Relationship | 4 | Authority sebagai ketua dikelola sadar (berdiskusi walau sudah punya arah), dan permintaan bantuan berujung kesepakatan kerja yang jelas |
 
-**Total:** 17 / 20
+**Total:** 18 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
 
-**Skor:** — / 20
-**Evidence yang mendukung:** —
-**Prioritas perbaikan:** —
+**Skor:** - / 20
+**Evidence yang mendukung:** -
+**Prioritas perbaikan:** -
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::

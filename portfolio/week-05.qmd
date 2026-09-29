@@ -2,8 +2,8 @@
 title: "Professional Discovery Interview"
 week: 5
 status: "Siap dinilai"
-self_score: "—"
-assessor_score: "—"
+self_score: "-"
+assessor_score: "-"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
 ---
@@ -24,7 +24,7 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 
 ## Konteks performance
 
-**Tanggal dan setting:** 20 september 2026 — sesi evaluasi tim (retro) bersama Kei dan Aya setelah mengikuti Business Case Competition, di mana tim kami berhasil masuk top 5 dari seluruh peserta.
+**Tanggal dan setting:** 20 September 2026, sesi evaluasi tim (retro) bersama Kei dan Aya setelah mengikuti Business Case Competition, di mana tim kami berhasil masuk top 5 dari seluruh peserta.
 
 **Persons dan relationship:** Saya, Kei, dan Aya adalah satu tim di kompetisi tersebut. Kami saling mewawancarai satu sama lain, jadi discovery ini bersifat dua arah, bukan satu pewawancara-satu narasumber.
 
@@ -33,6 +33,14 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 ## Evidence
 
 ::: {.evidence-block}
+### Person/character map
+
+| Person | Character dalam tim | Objective | Authority |
+|---|---|---|---|
+| Fayza | Anggota tim sekaligus penengah | Menemukan penyebab sebenarnya | Setara, tanpa jabatan |
+| Kei | Anggota tim | Menjelaskan kesulitan menyamakan solusi | Setara |
+| Aya | Anggota tim | Mengevaluasi kekalahan tim | Setara |
+
 ### Initial assumption
 
 Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadline yang terlalu mepet.
@@ -45,6 +53,8 @@ Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadlin
 
 ### Transcript percakapan
 
+*Transcript ini adalah bagian diskusi setelah suasana mereda (lihat bagian ketegangan di bawah).*
+
 > **Aya:** "Kita perlu evaluasi."
 > **Fay dan Kei:** "Oke, ayok."
 > **Fay:** "Kita mulai dari awal penyusunan ya..."
@@ -56,6 +66,16 @@ Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadlin
 > **Fay:** "Oh iya juga, jadinya kita butuh waktu tambahan untuk menyamakan ide solusi dari tim kita ya."
 > **Aya:** "Betul! Makanya kita mepet deadline, karena kemarin saat pengerjaan revisiannya banyak banget."
 
+### Lima pertanyaan discovery dan yang didengar
+
+| Pertanyaan | Yang saya dengar |
+|---|---|
+| Apa yang sedang terjadi? | Pitch deck selesai mepet deadline dan revisinya banyak. |
+| Mengapa itu menjadi masalah? | Solusi tiap orang beragam sehingga integrasi memakan waktu. |
+| Siapa yang terdampak? | Kami bertiga, terutama kualitas dan persiapan pitching. |
+| Apa yang sudah dicoba? | Sebelum evaluasi, tim belum menyamakan solusi di awal. Masing-masing menyusun solusi sendiri lalu menyatukannya lewat banyak revisi menjelang deadline. |
+| Hasil seperti apa yang cukup baik? | Pemahaman masalah dan solusi disamakan sejak case rilis, dan latihan pitch minimal dua hari sebelum hari-H. |
+
 ### Problem, impact, dan constraint
 
 - **Problem (root cause):** Penyusunan masalah dan solusi case tidak dilakukan bersamaan sejak awal. Kei, Aya, dan saya masing-masing memikirkan solusi sendiri-sendiri sebelum menyamakan pemahaman.
@@ -64,7 +84,7 @@ Dugaan awal saya: keterlambatan pengumpulan PPT pitching disebabkan oleh deadlin
 
 ### Ketegangan dan peran menengahi
 
-Sebelum mencapai root cause di atas, sesi evaluasi ini sempat tegang. Kami sampai saling berdebat tentang apa inti permasalahan sebenarnya, karena masing-masing merasa sudah mengerjakan bagiannya mati-matian tetapi hasilnya tidak juara. Dalam situasi ini saya yang biasanya menengahi. Cara saya adalah mencoba melihat setiap pendapat dari sudut pandang orang yang menyampaikannya, dan memahami apa yang sebenarnya ada di kepala mereka sebelum menyimpulkan siapa yang "benar". Pendekatan ini yang membantu diskusi bergerak dari saling mempertahankan pendapat menjadi menemukan root cause bersama.
+Sebelum percakapan di transcript, sesi evaluasi ini sempat tegang. Kami sampai saling berdebat tentang apa inti permasalahan sebenarnya, karena masing-masing merasa sudah mengerjakan bagiannya mati-matian tetapi hasilnya tidak juara. Dalam situasi ini saya yang biasanya menengahi. Cara saya adalah mencoba melihat setiap pendapat dari sudut pandang orang yang menyampaikannya, dan memahami apa yang sebenarnya ada di kepala mereka sebelum menyimpulkan siapa yang "benar". Pendekatan ini yang membantu diskusi bergerak dari saling mempertahankan pendapat menjadi menemukan root cause bersama.
 :::
 
 ## Analisis komunikasi
@@ -80,9 +100,37 @@ Sebelum mencapai root cause di atas, sesi evaluasi ini sempat tegang. Kami sampa
 
 ### Shared problem statement yang dikonfirmasi
 
+*Versi formula (slide):* Tim (Fayza, Kei, Aya) mengalami penyusunan solusi yang dilakukan sendiri-sendiri, yang menyebabkan integrasi ide lama, revisi banyak, dan pengerjaan pitch mepet deadline, dalam constraint waktu kompetisi yang terbatas. Kami sepakat hasil yang dibutuhkan adalah pemahaman masalah dan solusi yang sama sejak awal, tanpa langsung menentukan solusi tindakannya.
+
+*Versi awal:*
+
 > "Tim membutuhkan cara untuk menyamakan pemahaman masalah dan solusi case sejak awal, karena penyusunan solusi yang dilakukan sendiri-sendiri menyebabkan integrasi ide memakan waktu lama dan membuat pengerjaan pitching mepet deadline."
 
 Kei dan Aya turut menyampaikan root cause ini dalam percakapan, sehingga problem statement di atas merupakan simpulan bersama, bukan kesimpulan sepihak saya.
+
+### Membaca sinyal halus: kerja kelompok bersama A
+
+*Kejadian ini berasal dari kerja kelompok tahun lalu, bukan dari sesi evaluasi tim di atas. Saya memakai inisial A untuk menjaga privasi.*
+
+Dalam kerja kelompok, A sangat lambat dan selalu mengerjakan milestone mepet deadline. Pada suatu momen, nada bicara A berubah dan ia menjadi diam dulu. Saya menangkap perubahan itu sebagai tanda ada sesuatu di balik keterlambatannya, bukan sekadar malas.
+
+| Isi | Catatan |
+|---|---|
+| Tanda halus yang muncul | Nada A berubah dan ia diam sejenak. |
+| Yang saya ucapkan lebih dulu | Saya bertanya apakah A sedang ada masalah, karena ia selalu mengerjakan tugas mepet deadline. Saya bertanya lebih dulu daripada menegur atau menyimpulkan. |
+| Dugaan kebutuhan saya | A kurang bisa membagi waktu. |
+| Apakah dugaan benar? Respons partner | Benar. A bercerita bahwa ia tidak bisa membagi waktu sehingga kewalahan mengerjakan semuanya. |
+| Yang saya ubah | Saya memecah milestone menjadi target yang lebih kecil, lalu memberi pengingat dan tenggat antara supaya A tidak menumpuk pekerjaan menjelang deadline. |
+
+**Analisis.** Tanda halus di sini adalah perubahan nada dan diam sejenak, bukan pernyataan eksplisit. Saya tidak langsung mencap A lambat atau tidak bertanggung jawab. Saya memakai pertanyaan terbuka untuk mengecek dugaan saya, sehingga ada ruang bagi A untuk menjelaskan. Dugaan saya terbukti, tetapi saya baru mengetahuinya setelah A yang mengonfirmasi. **Batas:** saya tidak tahu apakah ada penyebab lain selain pembagian waktu.
+
+### Pendalaman analisis: kualitas discovery dan kesepakatan tim
+
+Awalnya saya mengira masalahnya cuma deadline yang mepet. Setelah bertanya "kenapa awalnya mepet?", terlihat bahwa mepet hanyalah gejala. Penyebabnya, kami mengembangkan ide sendiri-sendiri sebelum menyamakan pemahaman.
+
+Di akhir sesi kami baru sepakat soal masalah dan hasil yang diinginkan, belum soal solusi final. Saya sengaja menahan diri untuk tidak melompat ke solusi sebelum Kei dan Aya sama-sama merasa masalahnya sudah tepat.
+
+Kesepakatan ini bisa dicek di kompetisi berikutnya: diskusi inti dilakukan segera setelah case rilis, pembagian tugas baru setelah arah solusi selaras, dan latihan pitch dimulai minimal dua hari sebelum hari-H.
 
 ## Penggunaan AI
 
@@ -101,23 +149,21 @@ Kei dan Aya turut menyampaikan root cause ini dalam percakapan, sehingga problem
 
 ## Self-assessment
 
-*Usulan skor, silakan disesuaikan.*
-
-| Dimensi | Skor 1–4 | Evidence singkat |
+| Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Saat diskusi memanas, saya secara sadar mengambil peran menengahi dengan melihat masalah dari sudut pandang tiap orang, bukan mempertahankan posisi sendiri — menunjukkan kepekaan terhadap dinamika power dan perspektif dalam tim |
-| Objective & State | 3 | Initial assumption diperbarui menjadi root cause yang lebih akurat |
-| Repertoire, Language & AI | 3 | Pertanyaan discovery terbuka; penggunaan AI dinyatakan dan diperiksa |
-| Response & Adaptation | 3 | Jawaban Kei mengubah pemahaman Fay tentang penyebab masalah |
-| Agreement, Action & Relationship | 3 | Ada shared problem statement dan rencana tindak lanjut konkret |
+| Person & Character | 4 | Saat diskusi memanas, saya secara sadar mengambil peran menengahi dengan melihat masalah dari sudut pandang tiap orang |
+| Objective & State | 4 | Saya memulai dengan asumsi bahwa keterlambatan pitch deck berkaitan dengan timeline, lalu memperbarui pemahaman setelah mendengar bahwa ide solusi dikembangkan terpisah sebelum tim menyamakan arah. Saya membedakan gejala dari akar masalah dan mempertimbangkan dampaknya terhadap proses kerja tim. |
+| Repertoire, Language & AI | 4 | Saya menggunakan pertanyaan discovery terbuka untuk menggali masalah dari dugaan awal menuju penyebab yang lebih spesifik. Peran AI dijelaskan secara transparan sebagai bantuan memahami konsep dan merapikan draf, lalu isi percakapan diperiksa kembali agar tetap sesuai dengan pembicaraan yang sebenarnya. |
+| Response & Adaptation | 4 | Jawaban Kei mengubah pemahaman, dan pada kasus A saya menangkap perubahan nada lalu memperbaiki cara kerja (milestone lebih kecil, pengingat) |
+| Agreement, Action & Relationship | 4 | Shared problem statement menghasilkan kesepakatan untuk menyusun masalah dan solusi bersama sejak awal, memperhatikan timeline, serta berlatih pitching minimal dua hari sebelum hari-H. Tindak lanjut untuk kompetisi berikutnya sudah dirumuskan. |
 
-**Total:** 16 / 20
+**Total:** 20 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
 
-**Skor:** — / 20
-**Evidence yang mendukung:** —
-**Prioritas perbaikan:** —
+**Skor:** - / 20
+**Evidence yang mendukung:** -
+**Prioritas perbaikan:** -
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
