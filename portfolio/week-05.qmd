@@ -2,7 +2,7 @@
 title: "Discovery Interview — Motivasi & Persepsi Gambar Teknik"
 week: 5
 status: "Selesai"
-self_score: "93/100"
+self_score: "96/100"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement mengenai persepsi awal terhadap mata kuliah Gambar Teknik."
 categories: [Professional, Discovery]
@@ -57,7 +57,27 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 
 ### 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
 
+## Evidence
 
+> **Aku:** “Bisa ceritakan pengalaman konkret minggu lalu saat kamu mengerjakan tugas Gambar Teknik untuk perancangan instrumen medis?”
+
+> **Fal:** “Wah, itu pas hari Kamis kemarin. Saya ada tugas bikin sketsa dan model CAD 3D untuk cangkang (enclosure) alat pemantau denyut jantung. Saya sudah luangkan waktu sekitar 7 jam dari malam sampai subuh buat bikin modelnya. Tapi pas asistensi sama asisten lab di hari Jumat pagi, pengerjaan saya ditolak total karena penentuan sudut proyeksi Eropa/Amerika-nya terbalik dan toleransi geometrisnya ngasal.”
+
+> **Aku:** “Apa dampak langsung dari penolakan itu ke kamu, baik secara waktu maupun emosional?”
+
+>**Fal:** “Dampaknya kerasa banget. Saya harus rework total dari nol pada H-1 deadline pengumpulan ulang. Waktu yang harusnya dipakai buat belajar kuis Kimia dan Pemrograman jadi tersita. Secara emosional jujur stres dan burnout banget, sampai sempat ragu apakah saya salah masuk jurusan karena merasa dipaksa jadi anak Teknik Mesin murni.”
+
+> **Aku:** “Selain kamu sendiri, siapa saja pihak lain yang ikut terdampak oleh persoalan ini?”
+
+> **Fal:** “Teman-teman seangkatan di Biomedis rata-rata mengalami hal serupa, jadi suasana kelas agak demotivasi. Asisten lab juga keteteran karena harus mengoreksi kesalahan mendasar yang sama berulang kali. Efek panjangnya, pas nanti kerja kelompok interdisiplin sama anak STI buat integrasi hardware ke software, komunikasi teknis kita bakal terhambat kalau standar bacanya beda.”
+
+> **Aku:** “Tanpa menyebutkan alat atau aplikasi canggih, situasi ideal seperti apa yang sebenarnya kamu harapkan?”
+
+> **Fal:** “Saya butuh pemahaman mendasar dulu tentang kenapa anak Biomedis harus belajar Gambar Teknik fisik ini dan bagaimana hubungannya dengan sistem medis yang diintegrasikan ke perangkat lunak/sensor. Selain itu, saya butuh acuan verifikasi mandiri buat mengevaluasi kebenaran aturan gambar saya sebelum maju ke asisten.”
+
+> **Aku:** “Apa saja kendala atau constraint nyata di lapangan yang membatasi kamu saat ini?”
+
+> **Fal:** “Waktu tatap muka asistensi terbatas banget, cuma sekitar 10 sampai 15 menit per orang. Spesifikasi laptop teman-teman juga beda-beda kalau menjalankan software berat, ditambah jadwal praktikum lab Biomedis lain sudah sangat padat di semester awal ini.”
 
 #### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
 *   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
