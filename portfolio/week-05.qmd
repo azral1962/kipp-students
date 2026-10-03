@@ -15,7 +15,7 @@ Fokus: Mempraktikkan wawancara *discovery* untuk menahan asumsi solusi dini, men
 
 ## Initial assumption dan rencana discovery
 
-Saya berasumsi bahwa keterlambatan integrasi modul proyek tim disebabkan oleh **keterbatasan performa server pengujian (*staging server*)** yang spesifikasinya rendah sehingga proses kompilasi (*build*) lambat. Sebelum mengajukan usulan penambahan kapasitas server (yang membutuhkan biaya tambahan), saya mewawancarai “Tristan”, seorang rekan pengembang yang menangani integrasi frontend-backend.
+Saya berasumsi bahwa keterlambatan integrasi modul proyek tim disebabkan oleh **keterbatasan performa server pengujian (*staging server*)** yang spesifikasinya rendah sehingga proses kompilasi (*build*) lambat. Sebelum mengajukan usulan penambahan kapasitas server (yang membutuhkan biaya tambahan), saya mewawancarai “A”, seorang rekan pengembang yang menangani integrasi frontend-backend.
 
 **Daftar pertanyaan discovery:**
 
@@ -47,11 +47,11 @@ Asumsi awal saya bahwa “tim membutuhkan peningkatan spesifikasi komputasi serv
 2. **Dampak terukur:** Terbuangnya waktu 2–3 jam per minggu per pengembang murni untuk mengurai konflik kompilasi, bukan untuk menulis kode.
 3. **Constraint pengguna:** Penolakan tegas terhadap solusi yang menambah friksi birokrasi (seperti *ticketing form*).
 
-**Shared Problem Statement yang dikonfirmasi Tristan:**
+**Shared Problem Statement yang dikonfirmasi A:**
 
 > “Pengembang integrasi modul membutuhkan **mekanisme sinyal status pemakaian yang instan dan transparan** di lingkungan pengujian bersama, karena ketiadaan visibilitas memicu tabrakan *build* berulang yang menghabiskan 2–3 jam kerja tiap minggu untuk investigasi galat, tanpa menambah prosedur izin atau birokrasi yang memperlambat ritme kerja.”
 
-*Catatan konfirmasi:* Tristan secara eksplisit meminta penghapusan istilah awal saya (“sistem reservasi terpusat”) dan menggantinya dengan “mekanisme sinyal status yang instan” agar tidak membatasi ruang eksplorasi solusi teknis ke arah perkakas yang rumit.
+*Catatan konfirmasi:* A secara eksplisit meminta penghapusan istilah awal saya (“sistem reservasi terpusat”) dan menggantinya dengan “mekanisme sinyal status yang instan” agar tidak membatasi ruang eksplorasi solusi teknis ke arah perkakas yang rumit.
 
 ---
 
