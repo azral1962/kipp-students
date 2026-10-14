@@ -1,6 +1,6 @@
 ﻿---
-title: "MBTI dan Komunikasi Efektif: Memahami Tipe Kepribadian untuk Interaksi yang Lebih Bermakna"
-subtitle: "Makalah Pra-UTS — Komunikasi Interpersonal dan Publik (II-2100)"
+title: "Komunikasi Efektif & MBTI: Mengenal Tipe Kepribadian untuk Interaksi yang Bermakna"
+subtitle: "Makalah Pra-UTS / Komunikasi Interpersonal dan Publik / II-2100"
 author: "Muhammad Aquilla Arizqy (18225017)"
 date: "2026-10-14"
 lang: id
