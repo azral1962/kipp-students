@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2a"
-subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +9,288 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Eka Suci Ramadhani |
+| NIM | 18225063 |
+| Kelas dan tanggal | K1 / 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 (Persahabatan dan Profesionalitas) |
+| Nama dan ID target | Fajar (K2-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (simulasi kasus Tubes Pengenalan STI) |
+| Kelengkapan transkrip | Lengkap (seluruh segmen sejak identifikasi hingga konfirmasi) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
-
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+* **Brief Kasus**: Tenggat tugas besar (Tubes) kelompok Pengenalan STI tinggal 48 jam lagi. Rekan dekat dalam kelompok (Fajar) belum mengirimkan bagian tugasnya (diagram alur proses bisnis dan analisis sistem) serta merasa pembagian tugas dari awal tidak adil karena bagiannya terlalu teknis dibanding bab anggota lain.
+* **Tujuan Tindakan (Action Target & Boundary)**:
+  1. *Kesepakatan Pembagian Tugas (Re-scoping)*: Menegosiasikan pembagian ulang yang realistis; Fajar berfokus pada penyelesaian kerangka 3 alur proses bisnis inti (*happy path*), sementara komunikator mengambil alih penjabaran naratif, tata letak, dan analisis kebutuhan sistem.
+  2. *Komitmen Waktu (Checkpoint)*: Menyepakati tenggat draf diagram masuk ke dokumen bersama paling lambat pukul 20.00 WIB (24 jam sebelum tenggat akhir) dengan jendela reviu tegas maksimal 1 jam (pukul 20.00–21.00 WIB) tanpa revisi gantung.
+  3. *Mekanisme Komunikasi & Akuntabilitas*: Menyepakati komunikasi proaktif jika ada kendala logika/teknis, menghindari saling mendiamkan hingga menit terakhir.
+* **Indikator Keberhasilan**: Draf diagram 3 alur inti diunggah tepat waktu, relasi pertemanan tetap hangat dan saling percaya, serta dokumen siap digabungkan 24 jam sebelum batas akhir pengumpulan.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: Mampu mengambil alih narasi teknis dan menjaga komunikasi tenang. Kelemahan: Ketergantungan progres kelompok pada diagram Fajar. Peluang: Sisa waktu 48 jam cukup jika lingkup kerja dipangkas. Ancaman: Risiko konflik personal jika menekan rekan dekat. | U002 | Tinggi |
+| Attitude | Komitmen tinggi pada tenggat kelompok, empati terhadap beban rekan, mengedepankan kolaborasi suportif tanpa konfrontasi. | U002 | Tinggi |
+| Knowledge | Memahami integrasi bab laporan Tubes STI, batasan pemodelan diagram alur proses bisnis vs deskripsi naratif sistem. | U002, U004 | Tinggi |
+| Skill | Keterampilan negosiasi *de-scoping*, manajemen waktu bertingkat (*checkpoint*), serta perumusan *definition of done*. | U002, U004 | Tinggi |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan/tidak didiagnosis formal (berfokus pada peran kepemimpinan koordinatif yang terstruktur). | U002 | Laporan diri |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa anggota kelompok sekaligus teman dekat; menjunjung kultur kerja sama egaliter, transparansi, dan tanggung jawab akademik bersama. | U002 | Tinggi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Mengubah status defensif dan rasa diperlakukan tidak adil menjadi komitmen kerja kolaboratif yang terukur. | Keseimbangan beban kerja dan kejelasan batasan peran. | Validasi rasa keberatan, tawaran *de-scoping*, dan komitmen saling menopang. | Fajar menerima pembagian kerja baru dan menyepakati tenggat waktu. |
+| Attention | Frustrasi terhadap tugas teknis dan enggan berdiskusi panjang. | Attitude: Merasa didengar dan dipahami bebannya. | Pembuka santai, mengakui sisa waktu 48 jam secara objektif tanpa menyalahkan, menanyakan kendala. | Respons Fajar melunak dan bersedia mendengar alternatif solusi. |
+| Interest | Menganggap bagian diagram alur dan analisis sistem tidak adil dan terlalu berat. | Knowledge: Memisahkan bagian esensial vs bagian pelengkap. | Memvalidasi bahwa diagram memang teknis; menawarkan pemangkasan beban hingga 50%. | Fajar menanyakan detail atau batasan 3 alur inti yang harus dikerjakan. |
+| Desire | Khawatir terjebak rapat panjang yang tidak efektif dan takut dibebani revisi berkepanjangan. | Knowledge & Skill: Memberi definisi selesai (*definition of done*) yang jelas. | Menetapkan batasan lingkup *happy path* tanpa *edge case*, membebaskan format draf, serta menjamin reviu instan (maksimal 1 jam). | Fajar menyatakan beban terasa terjangkau dan berkomitmen langsung mengeksekusi. |
+| Action | Menyerahkan draf diagram tepat waktu tanpa revisi berulang. | Skill: Dukungan penyederhanaan saat terjadi kendala teknis. | Mengunci batas waktu pengunggahan jam 20.00 WIB dan konfirmasi tertulis status tuntas. | Draf terunggah di dokumen bersama sesuai kesepakatan. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**U001** [Identifikasi]:
+Eka Suci Ramadhani
+18225063
+K1
+14 Oktober 2026
+Teks
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**AI001** [Identifikasi]:
+Data identitas telah dicatat untuk lembar laporan (bukan verifikasi identitas resmi):
+- Nama: Eka Suci Ramadhani
+- NIM: 18225063
+- Kelas: K1
+- Tanggal: 14 Oktober 2026
+- Modalitas: Teks
+Brief Kasus 2 (Persahabatan dan Profesionalitas): Tenggat pengumpulan tugas kelompok tinggal 48 jam lagi. Fajar, rekan dekat Anda dalam kelompok kuliah, belum mengirimkan bagian tugasnya dan merasa pembagian tugas yang ada tidak adil. Anda bertindak sebagai komunikator yang berinisiatif mengajak berbicara untuk menjaga hubungan pertemanan sekaligus menyepakati penyelesaian tanggung jawab tugas kelompok secara jelas dan tepat waktu.
+Sebelum simulasi dimulai, silakan sampaikan: 1. Tujuan komunikasi, 2. Dugaan awal status profil, 3. Rencana awal.
 
-### U001 - Mahasiswa - [Tahap]
+**U002** [Rencana Awal]:
+Hai, aku mau ngecek progres tubes Pengenalan STI kita nih. Laporannya kan harus dikumpul 48 jam lagi, tapi bagian diagram alur proses bisnis sama analisis sistemnya belum masuk ke dokumen bareng. Kamu lagi ada kendala atau pusing ngerjain bagian itu nggak? Santai aja, ceritain ke aku biar kita bisa cari jalan keluarnya bareng.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**AI002** [Permintaan Kelengkapan Rencana]:
+Pesan pembuka Anda untuk Fajar telah tercatat. Namun, sebelum kita masuk ke Tahap C (Simulasi Awal) dan Fajar memberikan respons pertamanya, mohon sampaikan terlebih dahulu perencanaan awal Anda: 1. Tujuan tindakan, 2. Dugaan awal profil target (Fajar), 3. Rencana awal (Repertoar).
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**U003** [Rencana Awal Lengkap]:
+1. Tujuan Tindakan (Action Target & Boundary)
+ * Kesepakatan Pembagian Tugas (Re-scoping): Menegosiasikan pembagian ulang yang realistis pada Tubes Pengenalan STI. Fajar berfokus pada penyelesaian diagram alur proses bisnis inti (3 alur utama organisasi), sementara saya mengambil alih deskripsi naratif dan analisis kebutuhan fiturnya agar beban kerja seimbang.
+ * Komitmen Waktu (Checkpoint): Menyepakati tenggat antara yang terukur, yaitu draf diagram alur harus sudah diunggah ke dokumen bersama paling lambat besok malam pukul 20.00 WIB (24 jam sebelum tenggat akhir tugas). Hal ini memberikan sisa waktu 24 jam untuk penggabungan dokumen, pengecekan format akhir, dan simulasi bersama.
+ * Mekanisme Akuntabilitas & Komunikasi: Menyepakati saluran pelaporan hambatan secara berkala; Fajar berkomitmen memberi kabar paling lambat siang hari jika ada logika alur yang membingungkan, bukan mendiamkannya atau menunda sampai menit terakhir.
+2. Dugaan Awal Profil Target (Fajar — Analisis ASK & SWOT Subjektif)
+ * Attitude (Sikap & Motivasi): Fajar diduga memandang percakapan ini sebagai ancaman (threat)—merasa disalahkan, dihakimi, atau diperlakukan tidak adil karena memegang bagian yang terasa paling rumit. Hal ini memicu respons reaktif berupa pola menghindar (avoidance) atau defensif.
+ * Knowledge (Pengetahuan & Konteks): Ada kesenjangan pemahaman (knowledge gap) mengenai dependensi tugas; Fajar mungkin belum menyadari bahwa keterlambatan diagramnya menahan seluruh bab analisis dan penggabungan laporan. Selain itu, ia mungkin belum tahu cara memecah kompleksitas studi kasus organisasi menjadi alur yang terkelola.
+ * Skill (Keterampilan Eksekusi): Ada potensi kendala teknis (skill deficit) dalam menggunakan perangkat lunak diagram alur (tools modeling) atau kebingungan logika dalam memetakan notasi proses bisnis, sehingga memicu kelelahan kognitif (overwhelmed).
+3. Rencana Awal (Repertoar Komunikasi Berbasis TAIDA)
+ * Target: Mengubah status emosional Fajar dari defensif/menghindar menjadi kooperatif dan bertanggung jawab melalui pembagian kerja yang adil dan terstruktur.
+ * Attention (Membangun Rasa Aman): Masuk dengan fakta objektif tanpa nada menuduh. Menyampaikan bahwa sisa waktu tinggal 48 jam dan dokumen masih kosong, disertai empati dan pertanyaan terbuka untuk memeriksa kabarnya.
+ * Interest (Validasi & Parafrase): Jika Fajar mengeluhkan beban tugas atau rasa tidak adil, dengarkan tanpa menyela atau membela diri. Lakukan parafrase untuk memvalidasi perasaannya.
+ * Desire (Mengubah SWOT Subjektif): Tawarkan solusi kompromi yang konkret untuk mengubah persepsinya dari "beban mustahil" menjadi "tugas yang dapat diselesaikan". Dekonstruksi beban kerja: tawarkan diri untuk mengambil alih analisis deskripsinya, sehingga Fajar hanya perlu menyelesaikan kerangka diagram intinya.
+ * Action (Mengunci Kesepakatan & Batasan): Mengunci tenggat antara (checkpoint pukul 20.00 WIB besok), menyepakati batasan tanggung jawab masing-masing, serta menegaskan haknya untuk bertanya jika menemui kendala teknis tanpa takut dihakimi.
 
-[Tempel pesan AI persis seperti sumber.]
+**AI003** [Simulasi Awal — Pembuka Fajar]:
+“Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu. Jujur aja, pembagian tugas ini dari awal nggak adil—bagian diagram alur dan analisis sistem itu teknis dan makan waktu banget dibanding bab kalian yang cuma teori. Sekarang kamu mau nawarin solusi apa yang langsung bisa beres tanpa harus rapat panjang lebar lagi?”
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**U004** [Simulasi Awal — Respons Mahasiswa 1]:
+"Aku ngerti banget dan kamu bener, memetakan diagram alur dan analisis sistem dari nol memang jauh lebih teknis dan makan waktu dibanding bab teori kami. Wajar banget kalau kamu ngerasa pembagian awal ini nggak adil.
+Karena kamu butuh solusi cepat tanpa rapat panjang lebar, langsung ke intinya: kita potong bebanmu jadi setengah.
+ * Bagianmu dipangkas: Kamu cukup bikin kerangka diagram untuk 3 alur proses bisnis intinya saja (dalam bentuk draf kasar atau coretan rapi, nggak perlu format sempurna dulu).
+ * Bagian yang aku ambil alih: Seluruh penjabaran naratif deskripsinya, perapian format diagram, dan analisis kebutuhan sistemnya biar aku yang kerjakan malam ini.
+ * Komitmen waktu: Draf 3 alur itu cukup kamu taruh di dokumen bersama paling lambat besok malam jam 20.00 WIB, jadi kita nggak perlu rapat sama sekali.
+Dengan cara ini, beban teknismu langsung berkurang drastis dan sisa waktu 24 jam terakhir tinggal aku yang gabungin ke laporan utama.
+Apakah solusi dan pembagian ini realistis buat kamu eksekusi?
+
+**AI004** [Simulasi Awal — Respons Fajar 1]:
+“Nah, tawaran kayak gini baru masuk akal dan adil. Nggak perlu buang waktu rapat lagi, dan aku megang intinya aja.
+Tapi biar aku nggak kerja dua kali dan hasilnya langsung pas, 3 alur proses bisnis inti yang kamu maksud itu spesifiknya apa aja batasan fungsinya di sistem kita? Biar draf kasar yang aku setor besok jam 20.00 langsung sesuai kebutuhan narasi yang mau kamu tulis.”
+
+**U005** [Simulasi Awal — Respons Mahasiswa 2]:
+"Biar langsung fokus dan nggak ada kerja dua kali, batasan 3 alur intinya kita kunci di fungsi utama ini:
+ * Alur Pendaftaran & Validasi Anggota: Mulai dari pengguna isi formulir pendaftaran daring, sistem validasi kelengkapan berkas, sampai akun terverifikasi dan menerima surel notifikasi.
+ * Alur Pengajuan & Persetujuan Kegiatan: Dari panitia mengunggah draf proposal, alur persetujuan bertingkat (ketua divisi -> ketua umum), hingga status proposal berubah jadi 'Disetujui'.
+ * Alur Pencatatan & Pelaporan Keuangan Kas: Alur bendahara mencatat pemasukan/pengeluaran, verifikasi bukti bayar, sampai sistem otomatis menghasilkan ringkasan laporan kas bulanan.
+Batasannya cukup sampai situ saja:
+ * Nggak perlu bikin alur percabangan yang rumit kalau terjadi sistem down atau kasus langka (edge case).
+ * Cukup buat alur utama (happy path) menggunakan kotak proses dan panah sederhana.
+Formatnya bebas, mau pakai screenshot draf di kertas, Canva, atau tautan alat diagram alur, langsung taruh di dokumen bersama besok jam 20.00 WIB. Nanti deskripsi alurnya langsung aku kembangkan dari tiga poin itu.
+Batasan alurnya sudah cukup jelas dan aman buat kamu kerjakan?
+
+**AI005** [Simulasi Awal — Respons Fajar 2]:
+“Sip, batasannya pas dan jelas banget kalau cuma happy path tanpa cabang yang aneh-aneh. Itu langsung kepegang, bakal langsung aku gas kerjain di alat diagram biar rapi sekalian.
+Tapi ada satu hal: pas aku taruh drafnya di dokumen besok jam 20.00 WIB, kamu bisa langsung tinjau dan konfirmasi hasilnya malam itu juga nggak? Aku butuh kepastian cepat bagianku udah dianggap selesai atau belum, biar nggak ada revisi gantung pas sisa waktu makin mepet.”
+
+**U006** [Simulasi Awal — Respons Mahasiswa 3]:
+"Bisa banget. Begitu kamu taruh drafnya jam 20.00 WIB, aku langsung tinjau dari jam 20.00 sampai maksimal jam 21.00 WIB.
+Tolok ukur selesainya kita kunci malam itu juga:
+ * Definisi selesai: Selama 3 alur happy path tadi sudah tergambar alurnya, tugasmu resmi tuntas 100%.
+ * Bebas revisi gantung: Kalaupun butuh penyesuaian istilah atau perapian tata letak kecil saat digabung ke laporan utama, itu sepenuhnya aku yang tangani tanpa membebani kamu lagi.
+ * Konfirmasi tertulis: Paling lambat jam 21.00 WIB besok, aku bakal langsung kirim pesan konfirmasi tegas di grup/chat: 'Draf diagram beres, bagian Fajar resmi selesai', biar pikiranmu tenang.
+Semua kesepakatan pembagian, batasan teknis, dan waktu konfirmasi sudah klir. Semangat ngerjainnya ya!
+Karena kesepakatan akhir sudah terkunci lengkap, sesi simulasi percakapan resmi selesai. Mari kita lanjut ke tahap evaluasi, uji ulang, dan penyusunan laporan.
+
+**AI006** [Tahap D — Evaluasi Sementara]:
+Evaluasi jalannya simulasi awal tadi:
+1. Pembacaan Status Terakhir: Bagaimana kondisi ASK serta kesimpulan SWOT subjektif Fajar pada akhir percakapan awal dibandingkan dugaan awal?
+2. Kutipan Bukti: Sebutkan kutipan atau respons spesifik Fajar yang membuktikan perubahan/konfirmasi status tersebut.
+3. Pesan Personal & Rasa Aman: Pesan/tindakan apa yang paling berdampak menurunkan defensivitas Fajar dan membangun rasa saling percaya?
+
+**U007** [Tahap D — Analisis Evaluasi Mahasiswa]:
+1. Pembacaan Status Terakhir (Perbandingan ASK & SWOT Subjektif)
+ * Attitude (Sikap): Terjadi pergeseran radikal dari sikap defensif dan resisten (fight/avoidance) menjadi kooperatif, proaktif, dan berkomitmen penuh. Fajar yang awalnya memandang pembagian kerja sebagai ketidakadilan kini merasakan keadilan relasional karena bebannya diakui dan dipangkas secara proporsional.
+ * Knowledge (Pengetahuan): Kesenjangan pemahaman (knowledge gap) mengenai apa yang harus dikerjakan teratasi tuntas. Fajar kini memahami batasan tugasnya secara presisi (tiga fungsi utama dalam skenario happy path saja, tanpa percabangan rumit).
+ * Skill (Keterampilan): Beban kognitif yang awalnya memicu keraguan eksekusi berkurang drastis. Dengan lingkup yang terdefinisi mikro, Fajar merasa memiliki kapasitas dan kendali penuh (self-efficacy) untuk mengeksekusi diagram secara rapi menggunakan alat pemodelan.
+ * SWOT Subjektif: Awalnya situasi dinilai sebagai Ancaman (Threat) berupa eksploitasi beban kerja dan waktu yang tersita. Status ini berubah menjadi Peluang (Opportunity) untuk menuntaskan tanggung jawab secara terhormat, adil, dan cepat tanpa hambatan birokrasi rapat.
+2. Kutipan Bukti (Evidence Respons Fajar)
+ * Bukti Validasi Keadilan dan Penurunan Resistensi: "Nah, tawaran kayak gini baru masuk akal dan adil. Nggak perlu buang waktu rapat lagi, dan aku megang intinya aja."
+ * Bukti Kejelasan Batasan Teknis & Komitmen Eksekusi Proaktif: "Sip, batasannya pas dan jelas banget kalau cuma happy path tanpa cabang yang aneh-aneh. Itu langsung kepegang, bakal langsung aku gas kerjain di alat diagram biar rapi sekalian."
+ * Bukti Keinginan Menjaga Akuntabilitas & Kepastian: "Tapi ada satu hal: pas aku taruh drafnya di dokumen besok jam 20.00 WIB, kamu bisa langsung tinjau dan konfirmasi hasilnya malam itu juga nggak? Aku butuh kepastian cepat bagianku udah dianggap selesai atau belum..."
+3. Pesan Personal & Rasa Aman yang Berdampak
+ * Validasi Emosi Langsung Tanpa Membela Diri: Mengakui di kalimat pertama bahwa bagian diagram alur memang jauh lebih teknis dan wajar jika Fajar merasa pembagian awal tidak adil. Hal ini melucuti mekanisme pertahanan diri (defensiveness) Fajar karena ia merasa didengar, bukan didebat.
+ * Solusi Dekonstruksi Beban yang Riil (Actionable): Alih-alih memberikan kata-kata motivasi kosong, saya membagi beban kerja secara konkret (Fajar memegang 3 alur inti, saya mengambil alih narasi deskripsi, tata letak, dan analisis fitur).
+ * Pemberian Kepastian (Definition of Done & Anti-Revisi Gantung): Menetapkan batasan reviu maksimal 1 jam (pukul 20.00–21.00 WIB), konfirmasi tertulis eksplisit di grup, serta jaminan bahwa penyesuaian minor akan ditangani sendiri tanpa melempar revisi kembali ke Fajar. Tindakan ini memberikan rasa aman profesional dan psikologis tertinggi bagi Fajar.
+
+**AI007** [Tahap E — Uji Ulang / Re-test]:
+Keesokan harinya pukul 19.30 WIB (30 menit sebelum tenggat draf diagram), Fajar mengirimkan pesan di obrolan pribadi:
+“Ka, alur pendaftaran sama proposal udah selesai dan rapi di alat diagram. Tapi pas masuk alur ketiga—pencatatan kas dan pelaporan keuangan—aku mendadak bingung di verifikasi bukti bayar sama pembagian hak akses bendahara vs ketua. Logikanya muter terus dan fiturnya nggak mau rapi di template diagramku. Waktu tinggal 30 menit ke jam delapan malam, dan aku nggak mau hasil akhirnya berantakan atau nahan dokumen kalian. Gimana solusinya biar bagian ini tetap beres tepat waktu tanpa harus ngulang dari awal?”
+Bagaimana Anda menanggapi kendala Fajar dengan tetap mempertahankan kejelasan langkah, rasa aman relasional, serta kepastian hasil yang telah disepakati sebelumnya?
+
+**U008** [Tahap E — Respons Uji Ulang Mahasiswa]:
+"Apresiasi besar kamu ngabarin 30 menit sebelum tenggat, dan keren banget dua alur utama sudah selesai rapi! Itu sudah menyelesaikan lebih dari 80% beban diagramnya.
+Jangan panik dan jangan diulang dari awal. Masalah hak akses dan verifikasi bertingkat itu sebenarnya masuk ke ranah narasi sistem, bukan diagram alur. Biar bagian ini tuntas dalam 30 menit tanpa bikin kamu pusing, kita terapkan solusi praktis ini:
+ * Pangkas jadi 4 kotak lurus (Pure Happy Path):
+   Abaikan pembagian hak akses ketua vs bendahara di diagram. Buat alurnya lurus dan sederhana saja:
+   * [Bendahara input data transaksi & unggah bukti bayar] -> [Sistem simpan & validasi data] -> [Sistem perbarui saldo kas] -> [Laporan kas bulanan terbit].
+   * Selesai, cukup 4 kotak itu saja tanpa percabangan status persetujuan.
+ * Unggah tepat pukul 20.00 WIB:
+   Taruh dua diagram yang sudah rapi ditambah draf 4 kotak alur kas tersebut ke dokumen bersama.
+ * Penyelarasan jam 20.00–21.00 WIB (Tanggung jawabku):
+   Sesuai komitmen kemarin, penjelas detail soal hak akses (siapa yang berhak verifikasi dan menyetujui) bakal aku jabarkan di bagian teks narasi laporan. Tata letak diagramnya juga biar aku yang sesuaikan saat penggabungan.
+Tugasmu tetap terhitung tuntas 100% begitu drafnya masuk jam delapan nanti. Ambil alur 4 kotak sederhana tadi, masukkan ke dokumen, dan setelah itu kamu bisa istirahat tenang. Gas selesaikan, tinggal selangkah lagi!"
+
+**AI008** [Tahap E — Respons Uji Ulang Fajar]:
+“Wah mantap, solusinya langsung kena sasaran dan realistis banget dipraktikkan dalam 30 menit ini. Pemotongan jadi 4 kotak lurus itu bikin logikanya langsung masuk akal dan nggak nge-blank lagi. Dua alur yang sudah beres langsung aku masukin ke dokumen bareng draf alur kas 4 kotak ini sekarang. Makasih banyak udah megang komitmen buat handle narasi sama revisi kecilnya, Ka. Jam 20.00 pas semuanya udah ada di Google Docs!”
+
+**AI009** [Tahap F — Pengungkapan Profil & Pertanyaan Refleksi]:
+Menampilkan ringkasan profil internal Fajar (ID: K2-06, ESTP, pelaksana lapangan, praktis, butuh definisi selesai tegas dan anti-rapat panjang). Meminta refleksi: 1. Pencapaian tujuan, 2. Perubahan SWOT & ASK, 3. Stimulus efektif vs tidak efektif, 4. Lesson learned relasional, 5. Rencana tindak lanjut.
+
+**U009** [Tahap F — Refleksi Mahasiswa]:
+Pencapaian Tujuan
+Target tindakan awal tercapai sepenuhnya (100%). Kesepakatan kerja berhasil dinegosiasikan tanpa perdebatan atau rapat panjang. Fajar berhasil menyelesaikan dua diagram alur utama secara rapi dan menuntaskan alur ketiga melalui penyederhanaan empat kotak proses happy path tepat pukul 20.00 WIB di dokumen bersama. Batasan tanggung jawab terbagi secara adil: Fajar menyerahkan kerangka visual inti, sementara integrasi narasi, perincian hak akses, dan penyesuaian tata letak diambil alih sepenuhnya oleh saya.
+Perubahan SWOT & ASK
+ * Kondisi Fajar:
+   * Attitude: Beralih dari sikap defensif dan resisten akibat persepsi ketidakadilan menjadi kooperatif, proaktif, dan bertanggung jawab penuh terhadap komitmen waktu.
+   * Knowledge: Memahami secara presisi pemisahan antara kebutuhan visual diagram alur dasar dengan elaborasi narasi sistem.
+   * Skill: Mampu mengatasi kebuntuan kognitif dengan mengeksekusi diagram alur sederhana secara terarah dalam batasan waktu 30 menit.
+   * SWOT Subjektif: Ancaman (Threat) berupa eksploitasi beban kerja dan waktu tersita berubah menjadi Peluang (Opportunity) untuk menuntaskan kontribusi secara konkret, cepat, dan adil.
+ * Kondisi Diri Sendiri:
+   * Attitude: Bergeser dari kecemasan terhadap tenggat waktu tugas kelompok menjadi kepemimpinan suportif yang tenang dan solutif.
+   * Knowledge: Memahami cara mengelola rekan bertipe pelaksana (doer) yang membutuhkan instruksi operasional langsung tanpa beban teori berlebih.
+   * Skill: Terasah dalam melakukan de-scoping teknis secara cepat di bawah tekanan waktu serta menetapkan batasan selesai (definition of done) yang tegas.
+   * SWOT Subjektif: Kelemahan (Weakness) terkait ketergantungan progres pada rekan berhasil diubah menjadi Kekuatan (Strength) melalui koordinasi tugas yang adaptif dan terstruktur.
+Stimulus Efektif vs Tidak Efektif
+ * Stimulus Efektif:
+   * Validasi langsung terhadap rasa keberatan Fajar di awal tanpa membantah atau mencari pembenaran.
+   * Pemangkasan ruang lingkup (de-scoping) menjadi tiga alur happy path, serta penyederhanaan darurat menjadi empat kotak lurus saat terjadi kendala teknis menjelang tenggat.
+   * Jaminan ketiadaan revisi gantung dan kepastian batas waktu reviu maksimal satu jam.
+ * Stimulus yang Berpotensi Menghambat (Dihindari):
+   * Memaksa diadakannya rapat daring panjang untuk membahas teori atau metodologi perancangan.
+   * Menuntut kelengkapan diagram mencakup seluruh skenario kegagalan, pembagian hak akses rumit, dan notasi formal di saat sisa waktu kritis.
+   * Menunjukkan respons panik atau menyalahkan ketika Fajar mengabarkan kendala pada pukul 19.30 WIB.
+Lesson Learned (Pesan Relasional & Batas Inferensi)
+Rasa dipercaya dan dipedulikan tumbuh ketika kendala teknis rekan disambut dengan solusi praktis, bukan penghakiman. Mengapresiasi inisiatif Fajar yang memberi kabar 30 menit sebelum tenggat membuktikan bahwa komunikasi terbuka dihargai.
+Batas inferensi penting yang harus dijaga adalah membedakan hambatan eksekusi teknis dari komitmen personal. Keengganan rekan tidak boleh langsung diartikan sebagai kemalasan; sering kali itu merupakan tanda kebingungan akibat lingkup kerja yang terlalu kabur. Selain itu, menjaga persahabatan tidak dilakukan dengan membiarkan tugas terbengkalai, melainkan dengan memperjelas batas akuntabilitas secara objektif agar relasi personal tetap aman dan target akademik tercapai.
+Rencana Tindak Lanjut (Menuju Tenggat 48 Jam)
+ * Pukul 20.00–21.00 WIB: Memeriksa seluruh draf diagram di Google Docs, merapikan keselarasan visual, dan mengirimkan pesan konfirmasi tertulis di grup chat bahwa bagian Fajar telah tuntas 100%.
+ * Pukul 21.00–24.00 WIB: Menyusun bab narasi proses bisnis, menjabarkan mekanisme hak akses bendahara versus ketua, serta menyatukan seluruh bagian ke draf laporan utama.
+ * 24 Jam Terakhir: Melakukan pemeriksaan konsistensi format laporan, penomoran diagram, dan pengecekan akhir bersama seluruh anggota kelompok sebelum pengunggahan berkas final.
+
+**AI010** [Tahap G — Konfirmasi Ringkasan Asesmen]:
+Merangkum data identitas, tujuan tindakan, hasil simulasi awal dan uji ulang, usulan penilaian 6 dimensi, serta meminta konfirmasi final mahasiswa.
+
+**U010** [Tahap G — Konfirmasi Mahasiswa]:
+ya
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
+Tujuan komunikasi tercapai 100% secara operasional. Seluruh indikator keberhasilan terpenuhi: Fajar mengunggah draf diagram alur proses bisnis tepat pukul 20.00 WIB, relasi pertemanan tetap terjaga solid, dan pembagian tugas berjalan adil tanpa revisi berkepanjangan.
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Dinilai sebagai Ancaman (Threat) berupa beban kerja tidak seimbang dan waktu tersita oleh rapat panjang. | Berubah menjadi Peluang (Opportunity) untuk menuntaskan kontribusi secara konkret, cepat, dan adil. | U004, AI004, AI008 | Bukti respons simulasi; batas: berlaku pada konteks penyelesaian tugas kelompok ini. |
+| Attitude | Defensif, skeptis, dan resisten terhadap tugas kelompok karena merasa diperlakukan tidak adil. | Kooperatif, proaktif mengabarkan kendala, dan bersemangat menyelesaikan komitmen. | AI003, AI004, AI008 | Bukti dialog verbal; mencerminkan perubahan sikap saat persepsi keadilan terpenuhi. |
+| Knowledge | Bingung membedakan ruang lingkup diagram proses bisnis dengan analisis naratif dan spesifikasi hak akses. | Memahami batasan *happy path* diagram inti dan menyerahkan analisis sistem pada bagian narasi laporan. | AI004, U005, AI008 | Terbukti dari kemampuan memangkas proses menjadi 4 kotak sederhana. |
+| Skill | Kelelahan kognitif dan terjebak kerumitan notasi alat diagram pemodelan. | Mampu menyelesaikan 2 alur rapi di alat diagram dan 1 alur 4 kotak tepat pukul 20.00 WIB. | AI007, AI008 | Demonstrasi nyata pada uji ulang berbatas waktu 30 menit. |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| Simulasi Awal (AI003, U004, AI004) | Fajar defensif: *“Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.”* | Validasi emosi: membenarkan beban teknis diagram dan langsung menawarkan pemangkasan beban 50% (*de-scoping*). | Fajar melunak: *“Nah, tawaran kayak gini baru masuk akal dan adil. Nggak perlu buang waktu rapat lagi...”* | A: Defensivitas runtuh, rasa aman naik. K: Memahami opsi pembagian tugas baru. | Mahasiswa langsung merinci batasan 3 alur inti tanpa memperpanjang obrolan. |
+| Negosiasi Teknis (U005, AI005, U006) | Fajar butuh kepastian batasan dan anti-revisi gantung. | Menjelaskan 3 alur *happy path* tanpa *edge case*, menjamin reviu 1 jam, dan konfirmasi tuntas tertulis. | Fajar berkomitmen: *“Sip, batasannya pas dan jelas... bakal langsung aku gas kerjain di alat diagram.”* | K: Batasan tugas sangat jelas. S: Siap mengeksekusi mandiri. | Mahasiswa mengunci komitmen reviu pukul 20.00–21.00 WIB. |
+| Uji Ulang / Kendala 30 Menit (AI007, U008, AI008) | Kebuntuan logika pada alur ketiga: *“...aku mendadak bingung di verifikasi bukti bayar sama hak akses... Waktu tinggal 30 menit.”* | Mengapresiasi pelaporan dini, memangkas alur jadi 4 kotak lurus, mengambil alih hak akses ke narasi. | Fajar lega: *“Wah mantap, solusinya langsung kena sasaran... Jam 20.00 pas semuanya udah ada di Docs!”* | S: *Self-efficacy* pulih seketika, kebuntuan teknis teratasi dalam waktu kritis. | Adaptasi darurat berbasis penyederhanaan alur tanpa melanggar tenggat. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| Pembuka & Solusi Awal (U004) | *"Aku ngerti banget dan kamu bener... Wajar banget kalau kamu ngerasa pembagian awal ini nggak adil."* | Fajar langsung menurunkan resistensi dan menerima pembagian tugas tanpa debat. | Rasa Aman: Tinggi. Kepercayaan: Sedang ke Tinggi. Keterbukaan: Tinggi. | Memulihkan persepsi keadilan relasional. Batas: Fajar tetap menuntut kejelasan batasan teknis. |
+| Jaminan Reviu (U006) | *"Definisi selesai: Selama 3 alur happy path tadi sudah tergambar... tugasmu resmi tuntas 100%... pikiranmu tenang."* | Fajar merasa dihargai waktunya dan berkomitmen merapikan diagram di alat pemodelan. | Rasa Aman: Sangat Tinggi. Kepercayaan: Tinggi. Keterbukaan: Sangat Tinggi. | Menghilangkan kecemasan revisi gantung. Batas: Fajar butuh bukti kepastian waktu reviu nyata. |
+| Uji Ulang (U008) | *"Apresiasi besar kamu ngabarin 30 menit sebelum tenggat, dan keren banget dua alur utama sudah selesai rapi!"* | Fajar tidak merasa dihakimi, langsung mengeksekusi 4 kotak alur dalam 30 menit. | Rasa Aman: Sangat Tinggi. Kepercayaan: Sangat Tinggi. Keterbukaan: Sangat Tinggi. | Menghilangkan rasa takut disalahkan saat menghadapi kendala mepet. |
 
 ## Uji ulang dan pembelajaran
-
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Pada tahap uji ulang, Fajar dihadapkan pada kendala logika teknis (kebingungan hak akses dan format diagram) 30 menit sebelum tenggat. Respons mahasiswa menunjukkan retensi komitmen yang konsisten:
+1. Tidak panik dan tidak menyalahkan Fajar atas waktu yang mepet.
+2. Memberikan apresiasi atas pelaporan terbuka (*psychological safety*).
+3. Memberikan solusi dekonstruksi instan yang operasional (4 kotak proses *happy path*).
+4. Menegaskan kembali pembagian peran (hak akses dipindah ke bab narasi yang dikerjakan mahasiswa).
+Hasilnya, Fajar berhasil mengunggah seluruh diagram tepat pukul 20.00 WIB. Ini membuktikan bahwa kemampuan komunikasi persuasif dan kepemimpinan adaptif mahasiswa berfungsi nyata di bawah tekanan waktu.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U003, U004: *"Draf 3 alur itu cukup kamu taruh di dokumen bersama paling lambat besok malam jam 20.00 WIB..."* | Tujuan sangat spesifik, terukur (*checkpoint* 24 jam sebelum tenggat), relevan dengan kebutuhan konteks tugas besar, dan batasan peran terdefinisi operasional. |
+| Persepsi dan validasi profil/status | 4 | U004: *"Aku ngerti banget dan kamu bener... Wajar banget kalau kamu ngerasa pembagian awal ini nggak adil."* | Sangat tepat membaca karakter ESTP/pelaksana lapangan Fajar; memvalidasi keluhan ketidakadilan di giliran pertama tanpa mendebat. |
+| Pemilihan dan urutan repertoar | 4 | U003, U004, U005, U008: Alur TAIDA runtut; validasi rasa aman -> *de-scoping* teknis -> batasan *happy path* -> solusi darurat 4 kotak. | Urutan intervensi sangat logis dan taktis; setiap stimulus langsung menjawab hambatan utama Fajar pada giliran tersebut. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U006: *"Konfirmasi tertulis: Paling lambat jam 21.00 WIB besok, aku bakal langsung kirim pesan konfirmasi tegas..."* | Bahasa lugas, menghargai waktu, memberikan rasa aman tanpa basa-basi berlebih, dan konsisten memegang komitmen hingga tahap uji ulang. |
+| Evaluasi dan adaptasi | 4 | U007, U008: Solusi darurat 4 kotak saat Fajar buntu di menit ke-30 sebelum tenggat. | Evaluasi mandiri di Tahap D sangat tajam; adaptasi di Tahap E cepat, solutif, dan tidak merusak kesepakatan awal. |
+| Refleksi dan lesson learned | 4 | U009: *"Batas inferensi penting yang harus dijaga adalah membedakan hambatan eksekusi teknis dari komitmen personal..."* | Refleksi sangat mendalam, membedakan hambatan teknis dari karakter personal, serta merumuskan prinsip integrasi persahabatan dan akuntabilitas profesional. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Usulan Nilai Sesi 2a**: (24 / 24) × 100 = **100** *(Usulan AI untuk moderasi dosen penilai)*.
 
 ## Refleksi dan lesson learned mahasiswa
-
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+* **Koreksi Dugaan Awal**: Dugaan awal bahwa Fajar menghindar karena malas terkoreksi; Fajar bersikap defensif semata-mata karena merasa diperlakukan tidak adil dan bingung dengan batasan teknis tugas.
+* **Stimulus Efektif**: Validasi langsung tanpa sanggahan, pemangkasan lingkup (*de-scoping*), dan jaminan bebas revisi gantung terbukti menjadi kunci keberhasilan menghadapi rekan tipe pelaksana lapangan.
+* **Pelajaran Relasional**: Menjaga persahabatan dalam kerja kelompok tidak berarti mengambil alih seluruh tugas atau membiarkan tugas terbengkalai, melainkan memberikan struktur kerja yang adil, memperjelas ekspektasi, dan memberikan dukungan konkret saat rekan menemui jalan buntu.
 
 ## Tindak lanjut dan batas bukti
+* **Rencana Kerja Lanjutan Menuju 48 Jam**:
+  1. *Pukul 20.00–21.00 WIB*: Melakukan pengecekan draf 3 diagram Fajar di Google Docs dan mengirimkan pesan konfirmasi tertulis resmi bahwa bagian Fajar telah tuntas.
+  2. *Pukul 21.00–24.00 WIB*: Menyusun bagian narasi proses bisnis dan spesifikasi hak akses ke dalam draf laporan utama.
+  3. *24 Jam Terakhir*: Penggabungan seluruh dokumen, penomoran diagram, perapian tata letak, dan simulasi akhir sebelum pengumpulan berkas final.
+* **Batas Bukti**: Asesmen ini berbasis interaksi teks dalam lingkungan simulasi AI; dinamika intonasi suara, ekspresi non-verbal langsung, serta konsistensi jangka panjang di luar sesi ini belum dapat diobservasi secara menyeluruh.
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+## Bobot dan nilai akhir UTS
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | 100 (Usulan AI, perlu moderasi dosen) |
+| Sesi 2b | 18% | Menunggu pelaksanaan |
+| Sesi 3a | 18% | Menunggu pelaksanaan |
+| Sesi 3b | 18% | Menunggu pelaksanaan |
+| **Total** | **100%** | |
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**
 
-{{< include "../../includes/uts-penilaian.md" >}}
+*Status Nilai Akhir*: **Belum dihitung** (menunggu nilai makalah resmi dari dosen dan penyelesaian seluruh rangkaian sesi).
+
