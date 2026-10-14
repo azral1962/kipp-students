@@ -1,10 +1,10 @@
----
-title: "UTS Performance Evidence Package"
+﻿---
+title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
 status: "Siap dinilai"
 self_score: "19/20"
 assessor_score: "—"
-description: "Integrated performance Target–Attention–Interest."
+description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
@@ -60,3 +60,44 @@ Performance ini menunjukkan bahwa keberhasilan komunikasi tidak hanya ditentukan
 Hal yang masih perlu diperbaiki adalah penggunaan evidence yang lebih lengkap. Proses performance sudah dapat direfleksikan melalui transcript dan feedback, tetapi belum didukung bukti fisik yang dapat digunakan untuk membandingkan improvement secara lebih objektif.
 
 AI dapat membantu proses refleksi, terutama untuk melihat apakah stimulus, respons, dan adaptation sudah saling berkaitan. Namun, tanpa artefak yang dapat diverifikasi, AI belum cukup untuk menjadi bukti utama performance.
+::: {.callout-tip title="Mulai mengisi"}
+Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+:::
+
+## Identitas dan status paket
+
+| Elemen | Isi mahasiswa |
+|---|---|
+| Nama | [Isi] |
+| NIM | [Isi sebagai teks; pertahankan nol di awal] |
+| Kelas | [Isi] |
+| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
+| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
+| Modalitas | [Teks/suara; sumber transkripsi] |
+| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+
+## Makalah dan lima laporan
+
+| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+
+{{< include "../includes/uts-penilaian.md" >}}
+
+## Rekap nilai komponen
+
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---|---|---|---|
+| Makalah | 10% | — | — | — | Belum dinilai |
+| Sesi 1 | 18% | — | — | — | Belum dinilai |
+| Sesi 2a | 18% | — | — | — | Belum dinilai |
+| Sesi 2b | 18% | — | — | — | Belum dinilai |
+| Sesi 3a | 18% | — | — | — | Belum dinilai |
+| Sesi 3b | 18% | — | — | — | Belum dinilai |
+
+**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
