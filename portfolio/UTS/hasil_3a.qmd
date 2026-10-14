@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 3a"
-subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +9,176 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3a](../../examples/UTS/hasil_3a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
-| Target | [Nama dan ID customer sesuai ZIP 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Eka Suci Ramadhani |
+| NIM | 18225063 |
+| Kelas dan tanggal | K1; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Dimas (K3-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Simulasi edukatif fiktif terstandardisasi |
+| Kelengkapan transkrip | Lengkap (U001/AI001 hingga U006/AI006) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief Kasus: Pengelola usaha (Dimas) menghadapi kendala pesan berulang dan pesanan pelanggan yang tercecer dengan tenaga operasional terbatas. Ia belum yakin terhadap efektivitas dan kebutuhan adopsi teknologi/AI.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan Tindakan:
+* Menyepakati pelaksanaan uji coba terbatas (pilot project) solusi alur pesan terstruktur dan pencatatan otomatis selama jam makan siang (11.30–13.30) tanpa biaya awal.
+* Menetapkan cakupan pada penanganan pesan repetitif dan format pesanan masuk dengan verifikasi ganda.
+* Indikator Keberhasilan: Komitmen eksplisit Dimas untuk simulasi internal dan uji coba, tolok ukur akurasi 100% pada catatan khusus/alergi, efisiensi penanganan admin di bawah 1 menit per transaksi, serta adanya batas aman operasional melalui protokol sakelar darurat (kill-switch 1 detik).
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Peluang: penguasaan alur sistem terstruktur; Kendala: perlu meyakinkan pengguna skeptis tanpa jargon. | Rencana awal mahasiswa | Tinggi |
+| Attitude | Terbuka mendengarkan kebutuhan riil mitra, berorientasi keselamatan bisnis mitra. | U002, U003 | Tinggi |
+| Knowledge | Memahami integrasi alur data otomatis mikro, alur verifikasi dua arah, dan mitigasi disrupsi operasional. | U002, U004 | Tinggi |
+| Skill | Mampu merancang alur human-in-the-loop, menyusun template data modular, dan meredam resistensi operasional. | U003, U005 | Tinggi |
+| Preferensi/MBTI jika dilaporkan | Analitis terstruktur, adaptif terhadap umpan balik operasional. | U001, U002 | Laporan diri |
+| Karakter, peran, kultur/ko-kultur | Konsultan solusi teknologi yang memprioritaskan kenyamanan tim operasional mitra. | U002, U005 | Tinggi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Skeptis menjadi bersedia uji coba bertahap. | Edukasi batas sistem dan kontrol manusia. | Pengajuan uji coba zero-risk di jam sibuk. | Kesepakatan jadwal dan alur uji coba. |
+| Attention | Bertahan pada metode manual. | Menghargai beban kerja jam sibuk. | Menggali jam paling rentan pesanan tercecer. | Komunikan membuka jam 11.30–13.30 dan 18.30–20.30. |
+| Interest | Khawatir pesanan salah rekap. | Penjelasan alur verifikasi ganda (double-check). | Menampilkan mekanisme penanda visual merah (high-priority flag). | Komunikan menilai logika alur masuk akal. |
+| Desire | Menolak jadwal terburu-buru. | Validasi beban kerja persiapan stok harian. | Menarik target besok siang, menawarkan format tabel santai. | Komunikan bersedia meminta admin mengisi data menu. |
+| Action | Menghadapi penolakan dari dapur. | Menjamin zero kitchen disruption. | Isolasi dapur: format tiket fisik 100% identik dan tombol bahan habis. | Komunikan mengunci jadwal uji coba lusa. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**[Tahap A: Identifikasi]**
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+* **AI001**: Sesi 3a (Kasus 3) diaktifkan dengan target komunikan Dimas (K3-04). Untuk memulai tahap Identifikasi, silakan lengkapi data berikut: Nama lengkap, NIM, Kelas, Tanggal pelaksanaan, Modalitas.
+* **U001**: Eka Suci Ramadhani / 18225063 / K1 / 14 Oktober 2026 / Teks
 
-### U001 - Mahasiswa - [Tahap]
+**[Tahap B: Kasus dan Rencana Awal]**
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+* **AI002**: Data identifikasi telah dicatat. [Menampilkan Brief Kasus 3 dan meminta tujuan tindakan, dugaan profil awal komunikan, serta rencana repertoar komunikasi TAIDA].
+* **U002**: [Menyampaikan dokumen perencanaan: Target hasil uji coba pilot project 3-5 hari di jam sibuk, indikator akurasi dan efisiensi waktu, dugaan ASK dan SWOT Dimas yang skeptis terhadap jargon, serta tahapan repertoar TAIDA dengan zero-risk trial].
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**[Tahap C: Simulasi Awal]**
 
-[Tempel pesan AI persis seperti sumber.]
+* **AI003 (Dimas)**: "Apa bukti pendekatan ini lebih baik?"
+* **U003**: "Buktinya bukan di teknologi yang muluk-muluk, Mas, tapi di dua hal konkret yang langsung kerasa di operasional harian dan laci kasir: Nol pesanan tercecer saat jam sibuk... Hemat 2–3 jam waktu kerja tim... Tapi bukti terbaik jelas bukan dari kata-kata saya, melainkan melihat langsung hasilnya di usaha Mas Dimas. Karena itu, saya tawarkan uji coba terbatas selama 3 hari di jam-jam paling ramai tanpa biaya dan tanpa merombak sistem kerja yang sudah ada. Kalau dalam 3 hari sistem ini malah bikin ribet staf atau pesanan tetap ada yang luput, kita hentikan saat itu juga tanpa konsekuensi apa pun. Di jam-jam operasional mana yang biasanya paling sering bikin tim Mas Dimas kewalahan membalas chat sampai pesanan rawan terlewat?"
+* **AI004 (Dimas)**: "Angka 70% dan klaim 'nol pesanan tercecer' itu masih asumsi di atas kertas, karena variasi pesanan di tempat saya sering memuat permintaan khusus yang tidak bisa disamaratakan. Kalau bicara jam sibuk, beban tertinggi memang ada di dua rentang: makan siang pukul 11.30–13.30 dan malam pukul 18.30–20.30. Di rentang itu, admin harus membalas ketersediaan stok sekaligus mencatat alamat pengiriman. Masalah utamanya bukan sekadar membalas cepat, tapi akurasi: sekali admin salah catat varian atau catatan alergi pelanggan, komplainnya memakan waktu lebih lama untuk diselesaikan. Jika sistem otomatis yang Anda tawarkan menangani pesan di jam tersebut, bagaimana mekanisme kontrolnya agar pesanan dengan catatan khusus tidak salah rekap sebelum masuk ke bagian dapur?"
+* **U004**: "Poin Mas Dimas tepat sekali. Di bisnis kuliner, kecepatan tanpa akurasi justru bom waktu—terutama jika menyangkut alergi dan varian khusus. Prinsip sistem ini bukan memotong kendali manusia, melainkan menjadi asisten pencatat yang menyiapkan draf sebelum disetujui. Mekanisme kontrol tiga lapisnya dirancang agar tidak ada tiket salah yang tembus ke dapur: 1. Kotak Catatan Khusus dengan Penanda Visual (High-Priority Flag)... 2. Konfirmasi Balik Mandiri ke Pelanggan (Double Check)... 3. Gerbang Kendali Admin (Human-in-the-Loop Approval)... Dengan mekanisme ini, admin tidak lagi pusing mengetik alamat atau rincian harga berulang kali, tetapi fokus 100% pada fungsi pengawasan... Untuk uji coba 3 hari nanti, kita tidak perlu pasang di semua jam. Kita bisa uji khusus di satu rentang paling padat, misalnya jam makan siang (11.30–13.30)... Bagaimana jika kita siapkan draf template alur pesan dan penanda catatan khususnya sore ini untuk diuji coba besok siang?"
+* **AI005 (Dimas)**: "Mekanisme verifikasi dua arah dan tombol persetujuan admin itu masuk akal secara logika alur, karena kontrol akhir tetap dipegang staf saya sebelum pesanan masuk ke dapur. Namun, ajakan menyiapkan draf sore ini untuk uji coba besok siang terlalu terburu-buru. Menyiapkan template itu bukan sekadar teknis pengetikan, tapi butuh sinkronisasi daftar menu aktif, batasan varian bumbu, dan penyesuaian alur kerja admin agar mereka tidak kagok saat jam makan siang yang sangat padat. Beban kerja kami hari ini sudah penuh untuk persiapan stok. Sebelum bicara jadwal eksekusi, saya ingin kejelasan indikatornya dulu: parameter apa persisnya yang kita jadikan tolok ukur evaluasi mandiri selama uji coba tersebut, dan bagaimana pembagian tanggung jawabnya jika terjadi gangguan teknis saat jam 11.30–13.30 berlangsung?"
+* **U005**: "Mas Dimas benar sekali. Memaksakan uji coba besok siang saat persiapan stok sedang penuh justru menjadi risiko operasional yang tidak perlu. Kita batalkan target besok; persiapan tidak boleh mengorbankan kelancaran layanan yang sedang berjalan. Mengenai dua pertanyaan kunci Mas Dimas, berikut kejelasan parameter dan protokol pembagian tanggung jawabnya: 1. Parameter Tolok Ukur Evaluasi Mandiri: Tingkat Akurasi Catatan Khusus (Target: 100%), Efisiensi Waktu Penanganan Pesanan (Handling Time di bawah 1 menit), Tingkat Kenyamanan Staf... 2. Pembagian Tanggung Jawab & Protokol Gangguan Teknis: Protokol Sakelar Darurat (Kill-Switch 1 Detik), Tanggung Jawab Teknis Pihak Saya (standby penuh real-time), Tanggung Jawab Operasional Staf Mas Dimas (fokus verifikasi stok fisik)... Hari ini dan besok fokuskan sepenuhnya pada operasional rutin Mas Dimas. Sinkronisasi daftar menu dan varian bumbu cukup dilakukan santai lewat satu lembar tabel sederhana saat ada waktu luang... Apakah batasan parameter dan protokol sakelar darurat ini sudah memberikan rasa aman operasional yang Mas Dimas butuhkan?"
+* **AI006 (Dimas)**: "Adanya protokol kill-switch dan pemisahan tanggung jawab teknis itu memberi batas aman yang jelas bagi operasional kami. Tolok ukur akurasi 100% dan evaluasi kenyamanan staf juga sudah sesuai dengan apa yang kami butuhkan. Saya setuju dengan alur bertahap ini: simulasi internal terlebih dahulu sebelum sistem menyentuh pelanggan langsung. Kirimkan format tabel sederhana untuk daftar menu dan batasan varian bumbu tersebut hari ini. Saya akan minta admin mengisinya di sela jam istirahat sore saat beban kerja mulai melandai. Jika pengisian data selesai besok dan simulasi internal 10 menit bersama admin berjalan tanpa kendala, kita bisa jadwalkan uji coba jam makan siang mulai lusa. Berapa lama waktu yang Anda perlukan untuk menyiapkan draf sistem setelah data menu dan varian tersebut kami serahkan?"
+* **U006**: "Saya hanya memerlukan waktu maksimal 2 hingga 3 jam setelah tabel data menu dan varian tersebut diserahkan... [Menyajikan tabel format menu, varian, dan catatan khusus]... Rencana Eksekusi Menuju Uji Coba Lusa: Hari ini pengisian tabel santai; Besok penyerahan data, sinkronisasi 2-3 jam, simulasi internal 10 menit; Lusa uji coba perdana 11.30-13.30 dengan pendampingan penuh. Karena kesepakatan uji coba bertahap, tolok ukur, dan pembagian tanggung jawab operasional telah terkunci lengkap, sesi simulasi percakapan awal ini telah selesai."
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**[Tahap D: Evaluasi Sementara]**
+
+* **AI007**: [Beralih ke peran fasilitator evaluasi; meminta pembacaan status ASK dan SWOT komunikan saat ini, revisi dugaan awal, serta status relasional].
+* **U007**: [Menyampaikan evaluasi sementara: Membaca pergeseran Dimas dari skeptis menjadi terbuka bersyarat; mengoreksi dugaan awal bahwa masalah utama bukan sekadar chat lambat melainkan akurasi catatan khusus/alergi; mencatat tingginya rasa aman operasional berkat kill-switch dan pembatalan target buru-buru].
+
+**[Tahap E: Uji Ulang]**
+
+* **AI008**: [Membuka ringkasan profil internal Dimas K3-04 (INTJ, penilai teknis, butuh kontrol manusia). Memulai simulasi uji ulang].
+* **AI009 (Dimas)**: "Saya sudah sampaikan rencana pengisian tabel dan simulasi internal ini ke staf admin dan kepala juru masak. Tapi juru masak langsung keberatan. Dia bilang: 'Kalau format tiket pesanan dari admin berubah jadi cetakan atau tampilan digital baru, anak dapur bakal bingung baca catatan modifikasi menu pas jam sibuk. Lagian admin juga suka mendadak ubah pesanan di tengah jalan kalau ada bahan yang tiba-tiba habis di rak depan.' Melihat kekhawatiran orang dapur ini, bagaimana penyesuaian Anda agar uji coba lusa tidak justru mengacaukan ritme kerja di area dapur?"
+* **U008**: "Kekhawatiran kepala juru masak sangat beralasan, Mas Dimas. Di tengah jam sibuk, area dapur bergerak berdasarkan memori otot (muscle memory). Mengubah format visual tiket atau memaksa mereka melihat layar digital baru adalah resep pasti terjadinya kekacauan dan keterlambatan saji. Prinsip dasar kita: area dapur tidak boleh dibebani adaptasi apa pun. Sistem baru ini berhenti di meja admin, bukan di dapur. Berikut dua penyesuaian konkret untuk menjawab kekhawatiran kepala juru masak secara tuntas: 1. Menjaga Format Tiket Dapur 100% Sama (Zero Kitchen Disruption): Tata letak, media fisik kertas kasir, dan urutan penulisan tetap dipertahankan persis... 2. Penanganan Bahan Habis Mendadak & Revisi di Tengah Jalan: Tombol Cepat 'Bahan Habis' di sisi admin untuk mematikan menu di chat secara instan, serta keleluasaan revisi manual (manual override) di mana admin tetap bisa mencoret tiket fisik... Uji Visual Bersama Kepala Juru Masak: Besok kita cetak 1 lembar contoh tiket simulasi dan tunjukkan 2 menit ke kepala juru masak untuk memastikan tata letaknya aman. Bagaimana menurut Mas Dimas, apakah pendekatan isolasi dapur ini sudah menjawab kekhawatiran tim juru masak?"
+* **AI010 (Dimas)**: "Pendekatan mengisolasi area dapur dan mempertahankan format fisik tiket yang sudah biasa dibaca itu masuk akal. Poin kuncinya memang ada di sana: anak dapur tidak boleh dipaksa beradaptasi dengan layar baru pas jam sibuk. Adanya tombol cepat bahan habis dan validasi visual langsung 2 menit ke kepala juru masak besok juga memberi kepastian buat dia. Kalau batasannya jelas seperti itu, keberatan dari pihak dapur selesai. Saya pegang komitmen ini: besok sore setelah tabel menu diisi admin, kita lakukan simulasi internal 10 menit sekaligus validasi sampel tiket ke kepala juru masak. Kalau dia setuju tampilannya identik, kita jalan uji coba jam makan siang lusa dengan pengawasan Anda."
+
+**[Tahap F: Hasil dan Refleksi]**
+
+* **AI011**: [Menutup simulasi uji ulang dan meminta refleksi akhir mahasiswa terkait pencapaian tujuan, evaluasi stimulus-respons, pertanyaan netral protokol relasional, dan lesson learned].
+* **U009**: [Menyampaikan refleksi komprehensif: Target tercapai 100%; analisis pergeseran ASK dan SWOT; evaluasi efektivitas stimulus verifikasi 3 lapis dan isolasi dapur; menjawab pertanyaan protokol bahwa pengakuan kebiasaan dapur membangun rasa dipercaya; serta menyusun rencana tindak lanjut operasional].
+
+**[Tahap G: Konfirmasi]**
+
+* **AI012**: [Menyajikan konfirmasi identitas, ringkasan hasil, dan menerbitkan laporan utuh hasil_3a_18225063.qmd].
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+Target tindakan awal tercapai penuh. Dimas menyetujui pelaksanaan uji coba terbatas (pilot project) sistem otomasi alur pesan dan verifikasi pesanan pada jam makan siang (11.30–13.30) lusa, didahului pengisian tabel menu sore ini serta simulasi internal 10 menit dan validasi tiket 2 menit bersama kepala juru masak besok sore.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Menilai teknologi menambah beban kerja dan berisiko salah catat. | Menilai otomasi melindungi akurasi pesanan dan dapur tetap aman. | U003 vs U006, U008 | Transkrip simulasi aktual |
+| Attitude | Skeptis terhadap klaim statistik dan khawatir kehilangan kendali. | Kooperatif dan terbuka pada uji coba bertahap berbasis batas aman. | AI003, AI004 vs AI006, AI010 | Pengamatan verbal tokoh |
+| Knowledge | Mengira sistem otomatis langsung mengubah seluruh alur kasir dan dapur. | Memahami fungsi sistem sebagai pre-entry filter dengan kontrol manusia. | AI004 vs AI005, AI010 | Logika operasional teruji |
+| Skill | Menolak adopsi sistem karena keterbatasan waktu dan kapasitas tim. | Menyetujui pendelegasian pengisian data dan jadwal uji coba lusa. | AI006, AI010 | Komitmen tindakan bertahap |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| Pembuka (U003–AI004) | Skeptis: "Apa bukti pendekatan ini lebih baik?" (AI003) | Menawarkan klaim angka (70% waktu, nol pesanan) dan uji coba 3 hari (U003). | Menolak klaim sebagai asumsi di atas kertas, menuntut akurasi pesanan khusus (AI004). | A masih defensif; K menuntut rincian batas dan mekanisme kontrol. | Berhenti menjual angka abstrak; beralih menjelaskan alur verifikasi ganda. |
+| Negosiasi Alur (U004–AI005) | Menuntut kendali: bagaimana mencegah salah rekap alergi (AI004). | Memaparkan kontrol 3 lapis: penanda merah, konfirmasi mandiri, persetujuan admin (U004). | Mengakui logika alur masuk akal, tapi menolak jadwal besok siang (AI005). | K membaik signifikan; A tetap protektif terhadap beban kerja tim. | Membatalkan target terburu-buru, menyusun parameter evaluasi objektif. |
+| Kesepakatan Awal (U005–AI006) | Meminta kejelasan indikator dan protokol gangguan (AI005). | Menetapkan target akurasi 100%, kill-switch 1 detik, tanggung jawab teknis di luar staf (U005). | Menyetujui alur bertahap, meminta format tabel menu untuk diisi admin (AI006). | A sangat kooperatif; S meningkat ke tahap delegasi internal. | Mengirim format tabel modular dan mengunci alur simulasi internal. |
+| Uji Ulang Dapur (AI009–AI010) | Keberatan juru masak: takut bingung baca format baru pas jam sibuk (AI009). | Menjamin zero kitchen disruption: tiket dapur 100% fisik identik dan tombol bahan habis (U008). | Keberatan selesai; menyetujui uji sampel 2 menit ke juru masak (AI010). | Kesiapan operasional penuh; risiko resistensi tim tertangani. | Mengonfirmasi eksekusi bertahap lusa. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+Berdasarkan profil internal tokoh K3-04 (INTJ, penilai teknis, otonomi tinggi), respons Dimas sangat konsisten dengan rancangan konfigurasi. Ia hanya melunakkan resistensi ketika batasan teknis dinyatakan transparan, klaim didukung mekanisme logika, dan otoritas kontrol timnya tidak dilangkahi.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| Pembatalan Target (U005) | Mengakui beban persiapan stok tim Dimas dan membatalkan target uji coba besok siang. | Menurunkan nada defensif, menyepakati alur bertahap (AI006). | Rasa aman operasional meningkat dari Rendah ke Tinggi. | Dimas merasa tidak dieksploitasi demi target sepihak komunikator. |
+| Jaminan Kill-Switch (U005) | Mengambil alih 100% risiko teknis dan menyediakan tombol darurat 1 detik. | Bersedia meminta admin mengisi tabel menu sore hari (AI006). | Kepercayaan teknis meningkat dari Rendah ke Tinggi. | Hambatan rasa takut sistem macet dinetralkan secara konkret. |
+| Proteksi Memori Otot Dapur (U008) | Memvalidasi kekhawatiran juru masak dan menolak pemasangan layar baru di dapur. | Menyatakan keberatan selesai dan mengunci jadwal uji coba lusa (AI010). | Keterbukaan kolaborasi berada pada tingkat Tinggi. | Kepedulian terhadap ritme kerja staf terbukti lewat desain solusi. |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Pesan yang Membantu vs Menghambat:
+* Membantu: Pengakuan terhadap beban kerja tim lapangan dan kesediaan menjaga kebiasaan fisik dapur (*zero kitchen disruption*). Buktinya, Dimas langsung menyatakan: *"Pendekatan mengisolasi area dapur dan mempertahankan format fisik tiket yang sudah biasa dibaca itu masuk akal... keberatan dari pihak dapur selesai."*
+* Menghambat: Pernyataan klaim umum seperti "menghemat 70% waktu kerja" tanpa menjelaskan cara kerja varian khusus. Dimas langsung merespons dingin dengan menyebutnya sebagai *"asumsi di atas kertas"*.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Pada tahap uji ulang, Dimas menghadirkan kendala baru terkait resistensi juru masak terhadap format tiket baru dan perubahan bahan mendadak. Mahasiswa tidak memaksakan modernisasi serba digital ke area dapur, melainkan mengisolasi sistem hanya di meja admin (hulu) dan mempertahankan format cetak manual yang identik bagi dapur (hilir). Respon adaptif ini membuktikan pemahaman mendalam bahwa keberhasilan teknologi di lapangan ditentukan oleh minimnya friksi pada kebiasaan operasional pengguna akhir.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U002, U006, U008 | Menetapkan dan mencapai target uji coba bertahap dengan parameter terukur (akurasi 100%, handling time <1 menit). |
+| Persepsi dan validasi profil/status | 4 | U004, U005, U008 | Membaca profil analitis-skeptis Dimas dengan tepat, mengoreksi fokus dari chat lambat ke akurasi catatan khusus/alergi. |
+| Pemilihan dan urutan repertoar | 4 | U003, U004, U005 | Repertoar tersusun logis: validasi masalah, dekonstruksi alur 3 lapis, penarikan target buru-buru, hingga protokol kill-switch. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U005, U008 | Menunjukkan kepedulian nyata pada kelelahan fisik admin dan memori otot juru masak; konsisten menjaga kendali manusia. |
+| Evaluasi dan adaptasi | 4 | U005, U008, U009 | Beradaptasi cepat membatalkan jadwal tergesa-gesa dan menyelesaikan kekhawatiran juru masak lewat strategi zero kitchen disruption. |
+| Refleksi dan lesson learned | 4 | U007, U009 | Refleksi tajam, sistematis, membedakan data empiris dari asumsi, serta merumuskan wawasan integrasi hulu-hilir yang realistis. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+Usulan Skor AI: 24 / 24 × 100 = 100 (Usulan AI untuk bahan pertimbangan moderasi dosen).
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+* Wawasan Terbesar: Integrasi teknologi pada operasional bisnis kuliner tidak boleh memaksakan adopsi menyeluruh (*all-or-nothing*). Digitalisasi di hulu (penyaringan pesan dan pencatatan kasir) harus mampu hidup berdampingan dengan kebiasaan fisik di hilir (sobekan tiket dapur) agar tidak menciptakan penolakan internal.
+* Dugaan yang Dikoreksi: Dugaan awal bahwa masalah utama adalah kecepatan balas pesan ternyata keliru; masalah paling kritis bagi pengelola usaha adalah akurasi pesanan khusus (alergi/varian) karena kesalahan pada aspek ini memicu kerugian reputasi dan waktu penyelesaian yang mahal.
+* Penerapan Berikutnya: Menghindari klaim statistik abstrak di awal pertemuan dengan mitra bertipe penilai teknis, serta selalu menyertakan protokol pembatalan darurat (*kill-switch*) dalam setiap proposal adopsi sistem baru.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+* Rencana Pelaksanaan:
+  * Besok 10.00–14.00: Penerimaan tabel menu dari admin Dimas.
+  * Besok 14.00–16.30: Konfigurasi sistem dan pencetakan sampel tiket fisik identik.
+  * Besok 16.30–17.00: Simulasi internal 10 menit bersama admin dan validasi visual 2 menit bersama kepala juru masak.
+  * Lusa 11.30–13.30: Pelaksanaan uji coba perdana jam makan siang dengan pendampingan real-time.
+* Batas Bukti: Percakapan ini merupakan simulasi berbasis teks dengan agen AI; keberhasilan komitmen lisan dalam simulasi belum menjamin ketiadaan kendala teknis jaringan atau dinamika psikologis staf di lapangan nyata.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Bobot dan nilai akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Nilai sesi 1 |
+| Sesi 2a | 18% | Nilai sesi 2a |
+| Sesi 2b | 18% | Nilai sesi 2b |
+| Sesi 3a | 18% | 100 (Usulan AI) |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**
+
+Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia lengkap dan dimoderasi oleh dosen.
