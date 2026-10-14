@@ -6,6 +6,7 @@ pencapaian mata kuliah **Komunikasi Inter Personal dan Publik**.
 ## Isi repository
 
 - `course/`: pengantar, hasil belajar, slide, quiz, dan arahan evidence untuk 15 minggu.
+- `buku/`: bahan ajar dan reading suplements
 - `slides/`: 15 deck RevealJS yang dapat dirender bersama situs.
 - `portfolio/`: satu halaman evidence yang dapat diedit untuk setiap minggu.
 - `examples/`: contoh portfolio fiktif yang telah terisi untuk 15 minggu.
@@ -61,6 +62,10 @@ Workflow akan merender dan menerbitkan situs ke branch `gh-pages` setiap ada
 push ke `main`. Pastikan GitHub Actions memiliki izin menulis ke repository.
 Setelah workflow pertama selesai, periksa **Settings → Pages** dan pastikan
 branch `gh-pages` digunakan sebagai sumber publikasi.
+
+## Bobot UTS Minggu 8
+
+Makalah pra-UTS berbobot **10%**, dan masing-masing sesi **1, 2a, 2b, 3a, 3b berbobot 18%**. Nilai akhir /100 = `0,10 × nilai makalah + 0,18 × jumlah nilai kelima sesi`. Hitung hanya ketika seluruh komponen sah tersedia; BT bukan nol. Lihat [ketentuan penilaian UTS](includes/uts-penilaian.md) dan [portfolio Minggu 8](portfolio/week-08.qmd).
 
 ## Aturan assessment
 
