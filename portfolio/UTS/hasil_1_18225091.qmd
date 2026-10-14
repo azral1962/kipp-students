@@ -1,0 +1,335 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+author: "Muhammad Orkhan - 18225091"
+status: "Siap dinilai"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Orkhan |
+| NIM | 18225091 |
+| Kelas dan tanggal | K01; 15/10/2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 (Memimpin diri dan terus belajar) |
+| Nama dan ID target | Diri mahasiswa; pembanding Budi (ID K1-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0; aturan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap (U001-U013 dan AI001-AI012; 13 giliran mahasiswa, 12 giliran AI) |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+* **Brief kasus**: Memilih satu kemampuan yang ingin dikembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan, serta memeriksa cara memimpin diri ketika menghadapi hambatan belajar. Tokoh Budi (K1-02) bertindak sebagai cermin pembanding pengembangan diri.
+* **Konteks**: Mahasiswa ingin meningkatkan kemampuan *public speaking* dan mengatasi hambatan internal berupa indisiplin, kecemasan, serta kecenderungan berpikir cepat yang berbalik menjadi *overthinking*.
+* **Respons akhir yang diharapkan**: Mahasiswa mampu memimpin dirinya sendiri dengan langkah mental dan fisik konkret saat hambatan muncul, sekaligus mampu mengomunikasikan usulan perubahan secara persuasif kepada komunikator berorientasi prosedural (Budi).
+* **Indikator keberhasilan**: Mampu melakukan *public speaking* di depan 50+ orang dengan lancar, mengatasi penolakan dan kendala operasional Budi dengan prosedur terukur, serta merumuskan protokol mitigasi berbasis waktu nyata.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | S: Berpikir cepat. W: Grogi di depan umum, indisiplin. O: Memanfaatkan nalar cepat untuk membangun rasa percaya diri. T: Overthinking memicu rasa tidak percaya diri. | U002 | Laporan diri awal |
+| Attitude | Sikap baik, namun keyakinan diri belum kokoh saat berhadapan dengan audiens. | U002 | Laporan diri awal |
+| Knowledge | Pemahaman konsep dan pemetaan gap sudah sangat baik didukung kemampuan analisis cepat. | U002 | Laporan diri awal |
+| Skill | Penguasaan materi/hard skill baik, memerlukan peningkatan soft skill komunikasi panggung dan konsistensi latihan. | U002 | Laporan diri awal |
+| Preferensi/MBTI jika dilaporkan | Lugas, apa adanya, tanpa pemanis (*no sugarcoating*). | U002 | Laporan diri |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa pembelajar, menghadapi hambatan disiplin dan konsistensi dalam rutinitas mandiri. | U002 | Laporan diri |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Membangun kesepakatan latihan bersama dan menyelaraskan metode baru tanpa mengancam kenyamanan kerja tim. | A: Menurunkan resistensi risiko.<br>K: Menjelaskan evaluasi formatif.<br>S: Merancang jadwal terukur. | Diskusi dua arah, eksplorasi keberatan, penawaran uji coba parsial. | Budi bersedia mendengarkan tanpa defensif dan menyepakati skema uji coba. |
+| Attention | Tertutup terhadap perubahan karena merasa cara lama sudah aman. | A: Validasi keberhasilan metode lama. | Mengakui keunggulan cara kerja lama sebelum memaparkan kekurangan. | Budi memberikan perhatian dan mengutarakan alasan keberatannya. |
+| Interest | Mengamati potensi risiko terhadap penurunan nilai atau standar kerja. | K: Edukasi batas risiko uji coba. | Penjelasan keuntungan simulasi sedini mungkin dengan batas durasi ketat. | Budi menanyakan rincian operasional dan indikator keberhasilan. |
+| Desire | Membutuhkan kepastian bahwa tugas utama tidak terbengkalai. | S: Menyajikan matriks jadwal dan tolok ukur objektif. | Rencana uji coba 7 hari dengan batas waktu harian maksimal 30 menit. | Budi menyetujui parameter pengujian dan indikator evaluasi. |
+| Action | Komitmen menjalankan uji coba dan menyelesaikan kendala waktu secara taktis. | S: Menyediakan dukungan teknis dan pembagian peran yang tegas. | Penerapan timer terstruktur (5-20-5 menit) dan bantuan perangkuman materi. | Budi berkomitmen melanjutkan uji coba dengan prosedur yang disempurnakan. |
+
+# C) Skrip Percakapan
+
+**U001** [Tahap A — Identifikasi]:  
+1. K01  
+2. 15/10/2026  
+3. Teks  
+4. Fiktif  
+
+**AI001** [Tahap B — Kasus dan Tujuan]:  
+Data identifikasi telah dicatat: Kelas K01, Tanggal 15/10/2026, Modalitas Teks, Karakter Kasus Fiktif.  
+Brief Kasus 1: "Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."  
+Sebelum masuk ke simulasi dialog diri, silakan tentukan dan sampaikan rencana awal Anda:  
+1. Kemampuan sasaran: Kemampuan apa yang ingin Anda pelajari atau kembangkan?  
+2. Tujuan tindakan: Apa target konkret yang ingin dicapai, dan bagaimana indikator keberhasilannya?  
+3. Dugaan profil diri awal (SWOT & ASK): Kekuatan, kelemahan, peluang, ancaman, Attitude, Knowledge, Skill, serta preferensi gaya komunikasi.  
+4. Hambatan utama: Apa hambatan internal terbesar yang biasanya muncul saat Anda mulai konsisten mempelajari hal tersebut?  
+
+**U002** [Tahap B — Kasus dan Tujuan]:  
+1. Kemampuan public speaking  
+2. Saya ingin meningkatkan kemampuan public speaking agar saya dapat percaya diri ketika saya menyampaikan ide / gagasan saya ke orang lain / khalayak umum, indikatornya adalah saya dapat melakukan public speaking di depan 50++ orang dengan lancar.  
+3. S : Saya memiliki kemampuan berfikir yang cepat. W : Saya suka grogi ketika berbicara di depan orang banyak. O : Saya bisa menggunakan kemampuan berfikir untuk meningkatkan kepercayaan diri. T : Kemampuan berfikir tersebut dapat backfire dan menjadi overthinking yang nantinya malah membuat saya tidak percaya diri.  
+4. ASK : Attitude : Menurut saya, sikap saya sudah baik, tetapi keyakinan saya belum terlalu tinggi. Knowledge : Pemahaman konsep & gap saya sudah sangat baik, didukung kemampuan berfikir saya. Skill : Hard skill sudah saya kuasai, tinggal soft skill  
+5. Preferensi / Karakter : Saya lebih suka menerima informasi yang apa adanya, no sugarcoating  
+6. Hambatan Utama : indiscipline. Saya orang yang susah sekali untuk disiplin dan konsisten.  
+
+**AI002** [Tahap C — Simulasi Awal]:  
+Rencana awal dan profil diri telah tercatat untuk laporan.  
+Kita mulai eksplorasi dialog dengan diri sendiri terkait hambatan utama: indisiplin/konsistensi dan kecenderungan berpikir cepat yang berbalik menjadi overthinking/grogi.  
+Bayangkan Anda sudah merancang jadwal latihan public speaking mandiri selama 15 menit hari ini, namun ketika waktunya tiba, muncul rasa enggan, godaan menunda, dan pikiran: "Nanti saja, sekarang belum siap."  
+Tuliskan pesan internal yang Anda sampaikan kepada diri Anda sendiri saat momen penolakan itu terjadi, dan jelaskan respons batin apa yang langsung terasa setelahnya.  
+
+**U003** [Tahap C — Simulasi Awal]:  
+Pesan: Jika kamu disiplin, tiap hari terasa sama. Tapi jika kamu tidak disiplin, setiap tahun akan terasa sama. Pilih yang mana?  
+Respons batin : Saya menjadi tergerak, karena saya tidak ingin hidup saya disitu-situ saja  
+
+**AI003** [Tahap C — Simulasi Awal]:  
+Pesan tersebut langsung memicu dorongan bertindak melalui kontras konsekuensi jangka panjang.  
+Namun, dorongan motivasional sering kali meredup saat berhadapan langsung dengan kebiasaan lama atau rasa cemas saat latihan dimulai. Ketika Anda berdiri untuk mulai berbicara dan otak yang berpikir cepat itu mulai memproyeksikan skenario grogi di depan 50 orang, bagaimana Anda menerjemahkan dorongan "tidak ingin hidup begitu-begitu saja" menjadi tindakan mikro konkret 5 menit pertama agar tidak kembali tergelincir menjadi penundaan?  
+
+**U004** [Tahap C — Simulasi Awal]:  
+Saya langsung berfikir, just do it, do it scared, kamu sudah ada di depan panggung, pun tidak ada yang terlalu peduli atau memerhatikan. Pede saja.  
+
+**AI004** [Tahap C — Simulasi Awal]:  
+Instruksi "just do it, do it scared" langsung menembus keraguan awal.  
+Namun, bagaimana cara Anda mengukur secara objektif bahwa sesi latihan singkat itu berhasil—terutama untuk memastikan Anda tidak hanya sekadar selesai berbicara, tetapi benar-benar melatih ketenangan agar overthinking tidak mengambil alih saat di panggung nyata?  
+
+**U005** [Tahap C — Simulasi Awal]:  
+Tentunya saya dapat merasakan tegang atau tidaknya saya di atas panggung. Jika metode tersebut benar-benar berhasil, maka penonton akan antusias dan mendengar dengan seksama serta memberi aplaus, hal tersebut menunjukkan speech saya berhasil.  
+
+**AI005** [Tahap C — Simulasi Awal]:  
+Anda mengandalkan indikator internal (rasa tegang tubuh) dan eksternal (reaksi audiens).  
+Ketika sedang latihan mandiri sebelum hari-H—di mana belum ada tepuk tangan atau tatapan 50 orang audiens—bagaimana Anda memverifikasi secara mandiri bahwa pesan dan cara bicara Anda sudah terstruktur rapi dan tidak membingungkan pendengar?  
+
+**U006** [Tahap C — Simulasi Awal]:  
+Saya mencoba memposisikan diri sebagai audiens. Jika menurut saya masih kurang, maka saya coba untuk verifikasi dengan orang lain, jika mereka merasa yang sama, maka hal tersebut perlu diperbaiki  
+
+**AI006** [Tahap C — Simulasi Awal: Pembanding]:  
+Meminta masukan pihak lain memberi tolok ukur eksternal yang nyata.  
+Sekarang kita masuk ke segmen pembanding. Bayangkan Anda mengajak teman Anda, Budi, untuk bersama-sama melatih kemampuan presentasi dan komunikasi dengan metode latihan mandiri dan saling mengevaluasi ini.  
+Budi menatap Anda dengan datar, lalu berkata:  
+"Cara sekarang sudah jelas. Mengapa harus berubah?"  
+Bagaimana Anda menanggapi keberatan Budi tersebut dengan gaya komunikasi Anda yang lugas, tanpa mengabaikan kebutuhannya akan kejelasan prosedur?  
+
+**U007** [Tahap C — Simulasi Awal: Pembanding]:  
+Saya akan menjelaskan dari sudut pandang saya, lalu saya bertanya balik, mengapa menurutmu tidak perlu berubah? Lalu saya akan mendengarkan argumen dia, dan jika memang argumen dia masuk akal, saya akan ikut Budi. Jika tidak, maka akan saya tentang secara halus, sehingga tidak menyenggol egonya tapi terkesan seperti diskusi sehat. Lalu saya akan mencari jalan tengah antara kedua pendapat kita  
+
+**AI007** [Tahap C — Simulasi Awal: Pembanding]:  
+[Pemeranan Tokoh: Budi]  
+Budi mengangguk perlahan mendengar keterbukaan Anda untuk berdiskusi, postur tubuhnya sedikit lebih rileks, meski nada bicaranya tetap formal dan berhati-hati:  
+"Saya bukan anti-perubahan. Prosedur yang kita pakai selama ini—bikin catatan poin, latihan sendiri dua hari sebelum presentasi—hasilnya selalu aman dan nilai tugas kita tetap di atas rata-rata. Kalau tiba-tiba kita ganti metode latihan, harus rekaman, dievaluasi orang lain setiap hari, itu butuh waktu tambahan dan belum tentu standarnya naik. Menurutmu, bagian mana dari cara lama yang kamu anggap kurang, dan apa jaminannya cara baru ini tidak malah bikin persiapan kita berantakan?"  
+Bagaimana respons konkret Anda menjawab kekhawatiran Budi soal risiko turunnya standar kerja dan kejelasan prosedur tersebut?  
+
+**U008** [Tahap C — Simulasi Awal: Pembanding]:  
+Saya akan merespons Budi dengan mengakui bahwa metode lama terbukti berhasil, tetapi menjelaskan bahwa kekurangannya terletak pada evaluasi yang terlambat dan kurangnya latihan dalam kondisi menyerupai presentasi sesungguhnya. Saya juga akan mengusulkan uji coba terbatas agar perubahan tidak langsung mengganggu standar kerja tim.  
+
+**AI008** [Tahap C — Simulasi Awal: Pembanding]:  
+[Pemeranan Tokoh: Budi]  
+Budi mendengarkan penjelasan Anda dengan seksama, lalu mencatat sesuatu di bukunya. Nada bicaranya terdengar jauh lebih terbuka:  
+"Usul uji coba terbatas itu masuk akal. Saya setuju kalau kita tidak langsung merombak semua prosedur sekaligus. Tapi untuk uji coba ini, saya butuh batasan yang jelas. Berapa lama waktu yang kita pakai untuk uji coba ini, kapan jadwal pastinya, dan indikator apa yang membuktikan bahwa uji coba ini berhasil tanpa mengorbankan persiapan materi utama kita?"  
+Bagaimana kesepakatan langkah konkret, jadwal, pembagian tanggung jawab, dan tolok ukur yang Anda tawarkan kepada Budi untuk menjawab kebutuhannya tersebut?  
+
+**U009** [Tahap C — Simulasi Awal: Pembanding]:  
+Saya akan menawarkan uji coba selama satu minggu dengan jadwal yang tidak mengganggu penyusunan materi utama, pembagian tanggung jawab yang jelas, dan indikator keberhasilan yang dapat diukur.  
+“Baik, Budi. Supaya batasannya jelas, aku usulkan kita melakukan uji coba selama tujuh hari sebelum presentasi, dengan tambahan waktu latihan dan evaluasi maksimal 30 menit per hari. Kita tetap memprioritaskan penyelesaian materi utama.  
+Untuk jadwalnya, bagaimana kalau kita sepakati langkah berikut?  
+1. Hari pertama — Persiapan: Kita menyelesaikan kerangka materi, membagi tugas, dan menetapkan standar penilaian bersama.  
+2. Hari kedua sampai keempat — Penyusunan materi: Setiap anggota menyelesaikan bagiannya sesuai tenggat yang telah disepakati. Latihan mandiri tetap menggunakan metode lama.  
+3. Hari kelima — Simulasi: Kita merekam satu kali presentasi penuh dengan durasi maksimal 30 menit untuk simulasi dan persiapan rekaman.  
+4. Hari keenam — Evaluasi: Kita meluangkan waktu maksimal 30 menit untuk meninjau rekaman, memberikan umpan balik berdasarkan kriteria yang disepakati, dan menentukan perbaikan yang diperlukan.  
+5. Hari ketujuh — Finalisasi: Kita memeriksa materi, berlatih kembali pada bagian yang masih lemah, dan memastikan semuanya siap dipresentasikan.  
+Untuk pembagian tanggung jawab, setiap anggota tetap bertanggung jawab atas materi bagiannya. Aku akan mengoordinasikan jadwal dan mengumpulkan hasil evaluasi, sedangkan kamu bisa membantu memastikan materi tetap akurat dan standar penilaian diterapkan secara konsisten. Anggota lain juga berhak memberikan masukan agar evaluasinya objektif.  
+Agar kita bisa menentukan keberhasilannya secara konkret, aku mengusulkan empat indikator:  
+- Ketepatan materi: Tidak ada kesalahan substansial dan seluruh poin wajib dalam tugas sudah tercakup.  
+- Ketepatan waktu: Presentasi selesai dalam batas durasi yang ditentukan.  
+- Kualitas penyampaian: Setiap anggota mampu menjelaskan bagiannya dengan jelas dan melakukan transisi yang lancar.  
+- Efisiensi persiapan: Penyusunan materi utama tidak terlambat akibat uji coba, dan tambahan waktu evaluasi tidak melebihi batas yang kita sepakati.  
+Kita bisa membandingkan hasil simulasi dengan standar presentasi kita sebelumnya. Uji coba dinyatakan berhasil jika seluruh persyaratan materi terpenuhi, presentasi sesuai durasi, dan kualitas penyampaian memenuhi standar yang kita sepakati bersama, tanpa menyebabkan keterlambatan penyelesaian materi.  
+Kalau ada indikator yang tidak terpenuhi, kita tidak akan memaksakan metode baru. Kita evaluasi penyebabnya dan mempertahankan bagian dari metode lama yang terbukti efektif.  
+Bagaimana menurutmu? Kalau jadwal dan indikator ini disepakati, kita bisa menetapkannya sebagai rencana uji coba bersama sebelum mulai bekerja.”  
+
+**AI009** [Tahap C — Simulasi Awal / Tahap D — Evaluasi Sementara]:  
+[Pemeranan Tokoh: Budi]  
+Budi membaca poin-poin yang Anda ajukan dengan teliti, mencentang beberapa catatan, lalu tersenyum tipis dan mengangguk mantap:  
+"Rencana ini jelas dan adil. Batasan maksimal 30 menit per hari, pembagian peran pengawasan standar, serta indikator ketepatan waktu dan materi membuat saya tenang bahwa kualitas tugas utama tidak akan terganggu. Saya setuju untuk menjalankan uji coba 7 hari ini."  
+[Tahap D — Evaluasi Sementara]  
+Sebelum kita melanjutkan ke tahap berikutnya, luangkan waktu sejenak untuk merefleksikan dua hal:  
+1. Evaluasi Stimulus Terhadap Budi: Mengapa proposal terstruktur tadi berhasil menurunkan defensivitas Budi, dan apa perbedaan mencolok antara cara Anda memimpin diri sendiri ("just do it / do it scared") dibandingkan saat Anda memimpin/mengajak orang lain seperti Budi?  
+2. Dugaan Profil Budi: Berdasarkan interaksi tadi, apa dugaan Anda mengenai preferensi gaya kerja, kekhawatiran terbesar (threat), dan kebutuhan utama Budi sebelum Anda membaca profil internalnya?  
+
+**U010** [Tahap D — Evaluasi Sementara]:  
+1. Evaluasi  
+Stimulus terhadap Budi  
+Proposal berhasil menurunkan defensivitas Budi karena saya mengakui keberhasilan metode lama, menjelaskan kekurangannya secara spesifik, dan menawarkan uji coba dengan risiko terkendali. Jadwal, pembagian tanggung jawab, serta indikator keberhasilan yang jelas membuat perubahan terasa lebih aman dan terukur.  
+Perbedaan kepemimpinan saya terletak pada pendekatannya: memimpin diri sendiri berarti berani bertindak meski takut (do it scared), sedangkan memimpin orang lain berarti membangun kepercayaan dan mengelola risiko bersama. Saya tidak bisa hanya mengandalkan keberanian pribadi untuk meyakinkan orang lain.  
+2. Dugaan Profil Budi  
+- Preferensi gaya kerja: Terstruktur, konsisten, dan berbasis bukti, terlihat dari penekanannya pada prosedur dan standar kerja yang sudah terbukti.  
+- Kekhawatiran terbesar (threat): Penurunan kualitas hasil dan terganggunya persiapan akibat perubahan yang belum teruji.  
+- Kebutuhan utama: Kepastian prosedur, pembagian tanggung jawab yang jelas, serta indikator keberhasilan yang terukur.  
+Dugaan ini merupakan hipotesis berdasarkan interaksi, bukan kesimpulan pasti mengenai kepribadian Budi.  
+
+**AI010** [Tahap E — Uji Ulang]:  
+Refleksi dan pembacaan profil yang Anda lakukan sangat akurat.  
+Sebagai keterbukaan simulasi, profil rancangan internal tokoh pembanding Budi (K1-02) memang mencatat preferensi tipe kerja prosedural (cenderung ISTJ), dengan fokus pada kepastian, data/bukti, dan kejelasan operasional. Kekhawatiran terbesarnya adalah standar kerja yang turun akibat perubahan tanpa tolok ukur. Tawaran Anda yang menyajikan pembagian kerja bertahap dan batas risiko konkret tepat menjawab hambatannya.  
+[Tahap E — Uji Ulang]  
+Sekarang kita menguji konsistensi dan adaptasi Anda pada dua ranah: penerapan diri dan menghadapi kendala operasional Budi.  
+Bagian 1: Uji Ulang Tokoh Pembanding (Budi)  
+Dua hari setelah uji coba berjalan, Budi menemui Anda dengan wajah agak tegang. Ia membawa catatan evaluasi dan berkata:  
+"Jadwal 30 menit yang kita sepakati ternyata molor jadi 45 menit karena diskusi evaluasi rekaman melebar ke mana-mana. Materi bab 3 saya jadi agak tertunda malam ini. Kalau begini terus, persiapan utama kita bisa kena imbasnya seperti yang saya khawatirkan kemarin. Bagaimana kita mengatasi ini sekarang?"  
+Bagaimana Anda menanggapi kendala operasional Budi ini secara taktis dan menjaga komitmen yang sudah dibuat?  
+Bagian 2: Uji Ulang Diri Sendiri  
+Bayangkan minggu depan Anda dijadwalkan berbicara di depan forum mahasiswa (sekitar 50 orang). Ketika Anda sedang bersiap naik panggung, rasa grogi kembali muncul, jantung berdegup kencang, dan pikiran overthinking mulai mendikte bahwa audiens akan menghakimi Anda jika Anda salah bicara.  
+Tuliskan respons mental/tindakan konkret yang benar-benar akan Anda jalankan saat itu juga di belakang panggung untuk mengendalikan diri.  
+
+**U011** [Tahap E — Uji Ulang]:  
+Bagian 1: Mengatasi kendala operasional Budi  
+Saya akan mengakui bahwa evaluasi yang melewati batas waktu merupakan masalah nyata, lalu segera mengambil tindakan korektif tanpa mengorbankan materi utama.  
+Respons kepada Budi:  
+“Terima kasih sudah memberi tahu. Kamu benar, kita sudah sepakat maksimal 30 menit, jadi evaluasi yang molor menjadi 45 menit berarti kita belum konsisten menjalankan prosedur.  
+Untuk malam ini, prioritaskan penyelesaian materi bab 3 terlebih dahulu. Aku akan membantu merangkum hasil evaluasi tadi menjadi beberapa poin perbaikan utama agar kamu tidak perlu mengulang diskusi.  
+Untuk sesi berikutnya, kita gunakan timer 30 menit: 5 menit untuk mengidentifikasi masalah, 20 menit untuk membahas maksimal tiga perbaikan prioritas, dan 5 menit untuk menyepakati tindak lanjut. Hal yang tidak sempat dibahas kita catat untuk dibahas jika masih diperlukan.  
+Kita tetap menjalankan uji coba, tetapi dengan prosedur yang diperbaiki. Setelah itu, kita periksa apakah materi selesai tepat waktu dan kualitas presentasi tetap terjaga.”  
+Tindakan konkret: Membantu memulihkan keterlambatan, membatasi diskusi berdasarkan prioritas, dan memantau ketepatan waktu pada sesi berikutnya. Dengan demikian, komitmen awal tetap dijaga melalui koreksi nyata, bukan sekadar permintaan maaf.  
+Bagian 2: Mengendalikan diri sebelum presentasi  
+Saat grogi muncul, saya akan menerapkan prinsip do it scared: tidak menunggu rasa takut hilang sepenuhnya untuk mulai bertindak.  
+1. Menenangkan respons fisik. Saya akan berdiri dengan stabil, menarik napas perlahan, lalu mengembuskannya sedikit lebih lama selama beberapa siklus.  
+2. Menghentikan overthinking. Saya akan berkata kepada diri sendiri: “Aku tidak harus tampil sempurna. Tugasku adalah menyampaikan gagasan dengan jelas, bukan mengendalikan penilaian semua orang.”  
+3. Mengalihkan fokus. Saya akan berhenti membayangkan kemungkinan dipermalukan dan mengingat tiga poin utama yang ingin disampaikan kepada audiens.  
+4. Mengambil tindakan pertama. Saya akan mengingat kalimat pembuka, berjalan ke panggung, menatap audiens, lalu mulai berbicara dengan tempo yang terkendali meskipun jantung masih berdegup kencang.  
+Prinsip yang saya pegang: Keberanian bukan berarti tidak merasa takut, melainkan tetap melakukan tindakan yang penting meskipun rasa takut masih ada.  
+
+**AI011** [Tahap F — Refleksi dan Lesson Learned]:  
+Tindakan korektif terhadap Budi sangat presisi: mengakui ketidaksesuaian waktu, memberikan bantuan langsung (merangkum poin), dan menetapkan protokol rapat berbasis alokasi timer (5-20-5 menit). Pada diri sendiri, Anda juga berhasil mendemonstrasikan transisi dari sekadar dorongan mental abstrak menuju 4 langkah aksi somatik dan kognitif konkret.  
+[Tahap F — Refleksi dan Lesson Learned]  
+Untuk melengkapi laporan, jawablah beberapa pertanyaan sintesis berikut:  
+1. Perubahan ASK Diri: Bagaimana Attitude, Knowledge, dan Skill Anda bergeser dari awal percakapan hingga selesai uji ulang?  
+2. Stimulus Efektif vs Tidak Efektif: Pada diri sendiri dan pada Budi, stimulus/pesan apa yang terbukti berhasil menggerakkan tindakan, dan stimulus apa yang berisiko membuat macet/defensif?  
+3. Pesan Personal & Rasa Aman: Pesan atau tindakan apa yang membantu Budi merasa dihargai dan aman secara relasional tanpa harus menggunakan bahasa yang berlebihan (sugarcoating)?  
+4. Tindak Lanjut & Batas Bukti: Apa langkah lanjutan yang realistis untuk latihan public speaking Anda ke depan, dan apa batas pembuktian dari simulasi teks ini dibandingkan situasi panggung riil?  
+
+**U012** [Tahap F — Refleksi dan Lesson Learned]:  
+1. Perubahan   
+ASK Diri (Attitude, Skill, Knowledge)  
+- Attitude: Dari berfokus pada keberanian diri sendiri (do it scared) menjadi memahami bahwa mengajak orang lain berubah membutuhkan empati, kepercayaan, dan pengelolaan risiko.  
+- Knowledge: Memahami bahwa perubahan lebih mudah diterima ketika disertai alasan yang jelas, prosedur terukur, dan indikator keberhasilan.  
+- Skill: Berkembang dalam menyusun uji coba, membagi tanggung jawab, menetapkan batas waktu, serta melakukan koreksi ketika pelaksanaan tidak sesuai rencana.  
+2. Stimulus Efektif vs. Tidak Efektif  
+Konteks | Efektif | Berisiko tidak efektif  
+Diri sendiri | Instruksi konkret, seperti mengatur napas dan langsung memulai kalimat pembuka | Menunggu sampai rasa takut hilang atau terus membayangkan kegagalan  
+Budi | Mengakui keberhasilan metode lama, menawarkan uji coba, dan menetapkan indikator terukur | Memaksakan perubahan, mengabaikan kekhawatiran, atau menjanjikan hasil tanpa bukti  
+3. Pesan Personal dan Rasa Aman  
+Budi merasa dihargai ketika saya mengakui bahwa kekhawatirannya tentang keterlambatan memang beralasan, menerima tanggung jawab atas ketidaksesuaian waktu, dan menawarkan bantuan konkret untuk merangkum evaluasi.  
+Saya tidak sekadar menenangkannya dengan kata-kata, tetapi menunjukkan bahwa masukan dan batasan yang telah disepakati benar-benar memengaruhi tindakan saya.  
+4. Tindak Lanjut dan Batas Bukti  
+Tindak lanjut latihan public speaking:  
+1. Berlatih presentasi singkat secara rutin dan merekam diri sendiri.  
+2. Mengevaluasi kejelasan penyampaian, tempo, kontak mata, dan durasi.  
+3. Meminta umpan balik dari teman menggunakan kriteria yang jelas.  
+4. Berlatih secara bertahap di hadapan kelompok kecil sebelum tampil di forum yang lebih besar.  
+5. Menerapkan teknik pernapasan dan fokus pada pesan utama saat grogi muncul.  
+Batas pembuktian: Simulasi teks ini menunjukkan bahwa saya dapat merumuskan strategi dan respons yang masuk akal, tetapi belum membuktikan bahwa saya mampu menerapkannya secara konsisten dalam situasi nyata. Kemampuan mengendalikan kecemasan, membaca respons audiens, dan beradaptasi saat terjadi kesalahan tetap perlu diuji melalui latihan langsung dan pengalaman di panggung.  
+
+**AI012** [Tahap G — Konfirmasi Ringkasan]:  
+Seluruh tahapan dari A hingga F telah selesai dijalankan.  
+Berikut adalah ringkasan data dan pencapaian sesi untuk konfirmasi akhir sebelum artefak laporan di-generate:  
+- Identitas: Muhammad Orkhan (NIM: 18225091), Kelas K01, Tanggal 15/10/2026, Modalitas Teks, Kasus Fiktif.  
+- Kemampuan Sasaran: Peningkatan public speaking di depan 50+ orang dengan mengatasi hambatan internal indisiplin dan overthinking.  
+- Target Pembanding: Budi (ID K1-02), preferensi kerja prosedural/ISTJ, fokus kepastian dan standar kerja.  
+- Hasil Simulasi & Uji Ulang:  
+  * Dialog Diri: Berhasil bertransisi dari sekadar afirmasi mental (do it scared) menjadi 4 langkah aksi konkret (regulasi napas, reframing kognitif, fokus pesan, aksi kalimat pembuka).  
+  * Interaksi Budi: Berhasil menurunkan defensivitas melalui pengakuan metode lama, desain uji coba 7 hari dengan alokasi waktu maksimal 30 menit, dan mitigasi kendala operasional dengan protokol timer terstruktur (5-20-5 menit) serta bantuan merangkum materi.  
+- Penilaian 6 Dimensi (Usulan AI untuk Moderasi Dosen): Memenuhi kriteria pada tingkat pencapaian optimal (Skor 4/4 pada seluruh dimensi).  
+Apakah Anda mengonfirmasi seluruh isi ringkasan ini untuk dicetak ke dalam berkas hasil_1_18225091.qmd?  
+
+**U013** [Tahap G — Konfirmasi Ringkasan]:  
+Ya  
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+* **Pencapaian tujuan**: Tujuan tercapai secara terstruktur pada tingkat perumusan rencana, dialog kepemimpinan diri, dan pengelolaan relasi tugas tim.
+* **Bukti komitmen vs tindakan riil**: Mahasiswa mendemonstrasikan protokol tindakan mikro kognitif-somatik untuk diri sendiri serta solusi operasional taktis untuk Budi di dalam simulasi teks. Tindakan di panggung nyata tetap menjadi komitmen lanjutan di luar sesi.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Merasa overthinking dan indisiplin menghambat tindakan belajar. | Mengintegrasikan nalar analitis cepat ke dalam SOP latihan bertahap dan pemecahan masalah operasional. | U002, U010, U011, U012 | Refleksi diri dan demonstrasi simulasi teks. |
+| Attitude | Keyakinan diri belum tinggi; bergantung pada dorongan sesaat (*do it scared*). | Menyadari memimpin diri butuh protokol mikro, memimpin orang lain butuh empati dan manajemen risiko. | U002, U004, U010, U012 | Laporan diri terkonfirmasi perubahan perspektif. |
+| Knowledge | Memahami konsep dasar namun belum merinci indikator eksternal dan batas waktu. | Menguasai perancangan uji coba terstruktur, pembagian peran kerja sama, dan mitigasi jadwal berbasis prioritas. | U002, U009, U011, U012 | Demonstrasi perancangan proposal dan SOP. |
+| Skill | Mengetahui konsep tetapi belum menguji langkah aksi terstruktur. | Mampu merumuskan 4 langkah regulasi gugup dan protokol rapat 5-20-5 menit saat terjadi deviasi waktu. | U011 | Demonstrasi uji ulang operasional dalam teks. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| Dialog Diri (U003–U005) | Ragu dan menunda latihan mandiri. | Pesan kontras waktu dan instruksi *"do it scared"*. | Terdorong bertindak namun masih mengandalkan rasa percaya diri abstrak. | A: Meningkat sementara.<br>S: Masih butuh struktur konkret. | Mengarahkan evaluasi ke sudut pandang audiens dan verifikasi pihak ketiga. |
+| Negosiasi Budi (U007–U009) | Budi defensif, khawatir standar turun dan waktu tersita (AI007). | Mengakui capaian metode lama, menawarkan uji coba 7 hari dengan batas waktu 30 menit dan 4 indikator objektif. | Budi menerima usulan dengan rasa aman dan komitmen penuh (AI009). | A Budi: Menurunkan resistensi.<br>K Budi: Memahami batas uji coba.<br>S Budi: Terbuka pada evaluasi. | Menyusun jadwal harian rinci dan pembagian peran pengawasan standar. |
+| Uji Ulang Budi (U011) | Budi cemas akibat evaluasi molor menjadi 45 menit (AI010). | Mengakui deviasi waktu, membantu merangkum materi bab 3, dan menetapkan timer 5-20-5 menit. | Hambatan operasional teratasi tanpa merusak relasi dan komitmen awal. | S: Adaptasi operasional terbukti tangguh dan solutif. | Menjaga kepatuhan prosedur melalui intervensi waktu nyata. |
+
+* **Perbandingan Profil Budi**: Dugaan awal mahasiswa di U010 (tipe kerja terstruktur, berbasis bukti, kebutuhan kepastian prosedur, ancaman penurunan mutu) identik dengan profil internal simulator K1-02 (ISTJ, standar kerja tertib, takut standar turun). Mahasiswa berhasil membaca kebutuhan profil sebelum pengungkapan resmi dilakukan.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| Negosiasi Awal (U007, U009) | "Supaya batasannya jelas, aku usulkan kita melakukan uji coba... Kita tetap memprioritaskan penyelesaian materi utama." | Budi mendengarkan seksama, mencatat, dan menyetujui rencana kerja sama. | Rasa aman: Sedang → Tinggi.<br>Kepercayaan: Meningkat.<br>Keterbukaan: Penuh. | Menghargai kebutuhan kepastian mitra kerja; persetujuan didasari kejelasan logika dan batasan, bukan kepatuhan buta. |
+| Uji Ulang (U011) | "Terima kasih sudah memberi tahu. Kamu benar... Untuk malam ini, prioritaskan materi bab 3. Aku bantu rangkum hasilnya." | Budi merasa kekhawatirannya divalidasi dan bebannya diringankan secara riil. | Kepercayaan: Sangat kokoh.<br>Rasa aman: Terjaga stabil dalam situasi krisis. | Tindakan korektif konkret membuktikan integritas kepemimpinan tanpa perlu bahasa berbunga-bunga (*no sugarcoating*). |
+
+## Uji ulang dan pembelajaran
+
+* **Stimulus sejenis**: Pada pengujian awal, mahasiswa menggunakan dorongan keberanian pribadi dan proposal tertulis. Pada uji ulang, kendala dihadirkan dalam bentuk deviasi waktu nyata (rapat molor) dan lonjakan kecemasan sesaat sebelum tampil.
+* **Respons dan perbaikan**: 
+  * Pada mitra kerja: Mahasiswa tidak defensif atau sekadar meminta maaf, melainkan langsung melakukan intervensi operasional (pembagian waktu 5-20-5 menit dan pembatasan prioritas topik).
+  * Pada diri sendiri: Mahasiswa tidak lagi mengandalkan kalimat motivasi abstrak, melainkan menjalankan 4 protokol tindakan berurutan: napas fisik, reframing kognitif non-perfeksionis, fokus pada 3 poin materi, dan eksekusi kalimat pembuka.
+* **Keterbatasan transfer**: Kesiapan yang ditunjukkan dalam teks mengonfirmasi kematangan kognitif dan strategi komunikasi, namun adaptasi neuromuscular di atas panggung fisik sesungguhnya membutuhkan pengulangan jam terbang langsung.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| 1. Tujuan dan konteks | 4 | U002: "...indikatornya adalah saya dapat melakukan public speaking di depan 50++ orang dengan lancar." | Menetapkan tujuan kemampuan yang spesifik, relevan, serta memiliki tolok ukur kuantitatif dan kualitatif yang jelas. |
+| 2. Persepsi dan validasi profil/status | 4 | U007, U010: "Dugaan Profil Budi... Terstruktur, konsisten, dan berbasis bukti... Kebutuhan utama: Kepastian prosedur..." | Mendiagnosis hambatan dan kebutuhan lawan bicara secara presisi tanpa stereotipe, serta memvalidasi fakta secara tepat. |
+| 3. Pemilihan dan urutan repertoar | 4 | U009: "...uji coba selama tujuh hari... maksimal 30 menit per hari... empat indikator: Ketepatan materi, Ketepatan waktu..." | Memilih strategi uji coba bertahap (TAIDA), mengurutkan agenda dari persiapan hingga finalisasi secara logis. |
+| 4. Eksekusi jelas, peduli dan konsisten | 4 | U011: "Untuk malam ini, prioritaskan penyelesaian materi bab 3... Aku akan membantu merangkum hasil evaluasi tadi..." | Menyampaikan pesan lugas tanpa *sugarcoating*, menunjukkan kepedulian melalui bantuan riil dan penegakan komitmen bersama. |
+| 5. Evaluasi dan adaptasi | 4 | U011: "...kita gunakan timer 30 menit: 5 menit untuk mengidentifikasi masalah, 20 menit untuk membahas maksimal tiga perbaikan..." | Mengidentifikasi kegagalan alokasi waktu dan langsung memodifikasi prosedur secara taktis dan terstruktur. |
+| 6. Refleksi dan lesson learned | 4 | U010, U012: "...memimpin diri sendiri berarti berani bertindak... memimpin orang lain berarti membangun kepercayaan dan mengelola risiko bersama." | Sintesis mendalam yang membedakan kepemimpinan diri dari kepemimpinan tim, serta mengakui batasan simulasi teks secara jujur. |
+
+* **Usulan Nilai AI**: Jumlah skor = 4 + 4 + 4 + 4 + 4 + 4 = 24.  
+  Nilai Sesi 1 = (24 / 24) × 100 = **100**. *(Memerlukan moderasi dosen)*.
+
+## Refleksi dan lesson learned mahasiswa
+
+* **Dugaan yang dikoreksi**: Mahasiswa menyadari bahwa keberanian pribadi (*just do it*) tidak dapat dipaksakan kepada orang lain; mengajak mitra kerja membutuhkan rasa aman, kejelasan prosedur, dan mitigasi risiko.
+* **Stimulus efektif vs tidak efektif**: Pada diri sendiri, instruksi somatik dan kognitif konkret jauh lebih efektif daripada menunggu rasa takut hilang. Pada Budi, pengakuan metode lama dan pembatasan risiko jauh lebih efektif daripada memaksakan perubahan sepihak.
+* **Pelajaran yang diterapkan**: Menjaga integritas relasi profesional dilakukan melalui kepatuhan terhadap batasan yang telah disepakati dan kesediaan turun tangan membantu saat terjadi hambatan.
+
+## Tindak lanjut dan batas bukti
+
+* **Langkah lanjutan**:
+  1. Berlatih presentasi berkala secara mandiri dengan perekaman audio-video.
+  2. Melakukan evaluasi terstruktur terhadap tempo, intonasi, kontak mata, dan durasi.
+  3. Meminta umpan balik berkala dari rekan sejawat menggunakan rubrik objektif.
+  4. Bertransisi secara bertahap dari forum kelompok kecil menuju forum 50+ audiens.
+  5. Menjalankan protokol pernapasan dan pemfokusan pesan utama saat mengalami sindrom kecemasan performa.
+* **Batas pembuktian**: Percakapan teks membuktikan kapabilitas konseptual, analisis psikososial, dan kecakapan penyusunan strategi komunikasi persuasif. Kendati demikian, performa somatik aktual, ketahanan terhadap distraksi audiens langsung, serta konsistensi jangka panjang tetap memerlukan validasi empiris di dunia nyata.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100 |
+| Sesi 2a | 18% | BT |
+| Sesi 2b | 18% | BT |
+| Sesi 3a | 18% | BT |
+| Sesi 3b | 18% | BT |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS**: **Belum dihitung** (menunggu nilai makalah pra-UTS serta penyelesaian Sesi 2a, 2b, 3a, dan 3b).

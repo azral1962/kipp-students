@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
@@ -16,24 +16,24 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Muhammad Orkhan |
+| NIM | 18225091 |
+| Kelas | K01 |
+| Periode/tanggal pelaksanaan | 15/10/2026 (kelima sesi dan makalah) |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0 |
+| Modalitas | Teks (chatbot) |
+| Status pengumpulan | Lengkap (Makalah pra-UTS dan kelima laporan sesi telah selesai) |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Siap dinilai | Naskah lengkap 11 bagian + referensi |
+| 1 | [hasil_1_18225091.qmd](UTS/hasil_1_18225091.qmd) | Diri; pembanding Budi (K1-02) | Siap dinilai | Transkrip U001-U013 / AI001-AI012 |
+| 2a | [hasil_2a_18225091.qmd](UTS/hasil_2a_18225091.qmd) | Cyntia (K2-03) | Siap dinilai | Transkrip U001-U009 / AI001-AI008 |
+| 2b | [hasil_2b_18225091.qmd](UTS/hasil_2b_18225091.qmd) | Fajar (K2-06) | Siap dinilai | Transkrip U001-U008 / AI001-AI007 |
+| 3a | [hasil_3a_18225091.qmd](UTS/hasil_3a_18225091.qmd) | Ali (K3-01) | Siap dinilai | Transkrip U001-U009 / AI001-AI008 |
+| 3b | [hasil_3b_18225091.qmd](UTS/hasil_3b_18225091.qmd) | Dimas (K3-04) | Siap dinilai | Transkrip U001-U008 / AI001-AI007 |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
