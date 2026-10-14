@@ -1,39 +1,35 @@
-﻿---
+---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "92"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
-:::
-
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Eka Suci Ramadhani |
+| NIM | 18225063 |
+| Kelas | K1 |
+| Periode/tanggal pelaksanaan | 14 Oktober 2026 |
+| Versi bank/paket aktif | Paket UTS NIM 18225063 |
+| Modalitas | Teks |
+| Status pengumpulan | Siap diajukan melalui Pull Request |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Lengkap (Abstrak s.d. Daftar Pustaka) |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri dan Pembanding | Selesai | Lengkap |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Target Kasus 2a | Selesai | Lengkap |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Target Kasus 2b | Selesai | Lengkap |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Dimas (K3-04) | Selesai | Lengkap (Kesepakatan uji coba jam makan siang) |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Ali (K3-01) | Selesai | Lengkap (Kesepakatan simulasi internal dan uji coba sore) |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -41,11 +37,11 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | 90 | — | — | Dokumen lengkap |
+| Sesi 1 | 18% | 90 | — | — | Transkrip lengkap |
+| Sesi 2a | 18% | 92 | — | — | Transkrip lengkap |
+| Sesi 2b | 18% | 92 | — | — | Transkrip lengkap |
+| Sesi 3a | 18% | 94 | — | — | Transkrip lengkap |
+| Sesi 3b | 18% | 94 | — | — | Transkrip lengkap |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
