@@ -1,1 +1,288 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
 
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Aquilla Arizqy |
+| NIM | 18225017 |
+| Kelas dan tanggal | K-01, 15/10/2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 (Menawarkan Solusi TI dan AI) |
+| Nama dan ID target | Dimas (K3-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks (Berbasis sesi AI) |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief Kasus:**
+Dimas adalah seorang pengelola usaha/customer yang menghadapi kendala pertanyaan pelanggan berulang dan pesanan tercecer di tengah keterbatasan tenaga. Ia belum yakin bahwa solusi teknologi/AI benar-benar dibutuhkan atau lebih baik dari penanganan manual. Tugas mahasiswa adalah menggali kebutuhan Dimas, membuktikan nilai/manfaat secara rasional, dan menawarkan solusi TI/AI yang sesuai dengan sasaran keputusan/uji coba terukur.
+
+**Konteks & Tujuan:**
+Mahasiswa bertujuan untuk memvalidasi masalah operasional Dimas (pesanan tercecer & pertanyaan berulang), membuktikan efisiensi nilai TI/AI secara rasional tanpa *overpromising*, serta menyepakati uji coba/pilot project skala kecil yang terukur (penanganan pesan berulang selama 7 hari) agar Dimas dapat melihat dampaknya secara langsung tanpa risiko operasional.
+
+**Indikator Keberhasilan:**
+1. Dimas mengakui masalah operasional (75% pertanyaan berulang dan bottleneck pesanan).
+2. Dimas menyetujui kerangka guardrails (strict knowledge base & human-in-the-loop).
+3. Dimas menyepakati pilot project 7 hari dan bersedia menyempurnakan alur operasional saat timbul kendala uji coba.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | **Strength:** Kemampuan analisis komparatif, transparansi batasan sistem, dan komunikasi berbasis data. **Weakness:** Potensi dianggap terlalu teoritis jika tanpa contoh terukur. **Opportunity:** Membangun kemitraan jangka panjang sebagai trusted advisor. **Threat:** Skeptisisme tinggi dari profil INTJ. | U001 | Laporan Diri |
+| Attitude | Menghargai skeptisisme kritis lawan bicara, terbuka pada batasan sistem, dan menghindari klaim berlebihan. | U001 | Terobservasi |
+| Knowledge | Memahami arsitektur guardrails AI, mekanisme Human-in-the-Loop, dan analisis hidden cost operasional. | U001 | Terobservasi |
+| Skill | Mampu merancang skema pilot project terukur (>95% akurasi), memvalidasi masalah, dan melakukan penyesuaian alur otomatisasi (Smart Auto-Routing). | U001, U002, U003 | Terobservasi |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan | U001 | Laporan Diri |
+| Karakter, peran, kultur/ko-kultur | Konsultan TI/AI yang analitis, rasional, dan solutif. | U001-U003 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati uji coba pilot project 7 hari tanpa risiko | Menjawab kekhawatiran akurasi dan keraguan efisiensi AI | Perbandingan objektif (Manual vs Auto) & skema pilot test | Dimas menyetujui uji coba terukur |
+| Attention | Dimas skeptis dan menanyakan bukti ("Apa bukti pendekatan ini lebih baik?") | A: Memvalidasi skeptisisme dan membedah hidden cost manual | Pemaparan komparasi Manual vs Otomatisasi & pertanyaan porsi rutin | Dimas mengakui 75% pertanyaannya berulang |
+| Interest | Dimas mengonfirmasi 75% pesan berulang tapi khawatir akurasi AI | K: Menjelaskan 3 lapis guardrails & Human-in-the-Loop | Penjelasan pemagaran database resmi & penawaran pilot project 7 hari | Dimas menyetujui pilot project 7 hari |
+| Desire | Dimas menyetujui uji coba 7 hari mulai minggu depan | K & S: Mengunci kriteria evaluasi akurasi >95% | Pelaksanaan pilot test dengan pemantauan rekap log bulanan | Dimas mengevaluasi hasil uji coba |
+| Action | Dimas menemukan kendala pesan kustom di luar jam kerja pada hari ke-3 | S: Merancang Smart Auto-Routing & Pre-Input Form | Penyesuaian pesan transparansi & 3 pertanyaan kustom otomatis | Dimas terkesan dan melanjutkan pilot test hingga hari ke-7 |
+
+# C) Skrip Percakapan
+
+**[Tahap A & B: Identifikasi dan Penentuan Kasus]**
+
+**U001:** 1. K-01, 15/10/2026, Teks - Sesi AI  
+2. Fiktif  
+3. Memvalidasi masalah operasional Dimas (pesanan tercecer & pertanyaan berulang), membuktikan efisiensi nilai TI/AI secara rasional tanpa overpromising, serta menyepakati uji coba gratis/pilot project skala kecil yang terukur (misal: penanganan pesan berulang selama 7–14 hari) agar Dimas dapat melihat dampaknya secara langsung tanpa risiko operasional.  
+A. Dugaan Awal Profil Dimas (ASK):  
+- Attitude (A - Skeptis & Protektif): Takut biaya investasi terbuang sia-sia, khawatir sistem AI kaku/salah jawab hingga merusak hubungan dengan pelanggan, dan menganggap cara manual masih lebih aman meski melelahkan.  
+- Skill (S - Terbiasa Manual): Mahir mengelola operasional secara langsung/manual, tetapi belum terbiasa mengoperasikan atau mengintegrasikan sistem otomatisasi pelanggan.  
+- Knowledge (K - Pemahaman Terbatas tentang AI Bisnis): Menganggap AI rumit, mahal, atau hanya cocok untuk perusahaan besar; belum memahami bagaimana AI sederhana (chatbot/automation) dapat disetting secara spesifik sesuai SOP usahanya.  
+B. Strategi Pendekatan (Rasionalkan Nilai & Mitigasi Risiko):  
+1. Validasi Masalah Operasional & Biaya Tersembunyi (Hidden Cost): Mengakui beban kerja manualnya dan membantu Dimas menghitung berapa potensi pendapatan yang hilang akibat pesanan tercecer atau slow response.  
+2. Akui Batasan Sistem secara Jujur: Tidak menjual AI sebagai "pembasmi semua masalah", melainkan sebagai asisten penyaring awal (80% pertanyaan rutin) sementara 20% kasus kompleks tetap ditangani manusia (Dimas).  
+3. Penawaran Uji Coba Aman (Pilot Test Tanpa Risiko): Menawarkan simulasi/uji coba gratis pada segmen terbatas (misal: auto-reply FAQ WhatsApp di luar jam kerja) dengan kriteria evaluasi keberhasilan yang jelas (before vs after).
+
+**AI001:** Terima kasih atas analisis perencanaan yang sangat matang dan terstruktur!
+
+---
+
+### **Tahap C: Simulasi Percakapan (Kasus 3a)**
+
+Skenario dimulai: Anda berkonsultasi dengan Dimas, seorang pengelola bisnis yang sedang kewalahan menangani pesan berulang dan pesanan yang tercecer.
+
+**Dimas (K3-04) menatap Anda dengan pandangan kritis dan langsung mengajukan pertanyaan dasar:**
+
+> **Dimas:** *“Apa bukti pendekatan ini lebih baik?”*
+
+---
+
+**Giliran Anda (U001):**
+Bagaimana Anda membalas pertanyaan kritis Dimas secara rasional, memvalidasi beban operasionalnya, dan mulai mendiskusikan perbandingan objektif antara cara manual dengan otomatisasi terukur?
+
+**[Tahap C: Simulasi Awal - Membedah Logika & Hidden Cost]**
+
+**U002:** "Pertanyaan yang sangat wajar, Mas Dimas. Sebagai pengelola usaha, Mas tentu butuh kepastian angka dan efisiensi nyata, bukan sekadar janji manis teknologi.
+Pertimbangan utamanya bukan berarti cara manual itu salah, melainkan masalah kapasitas dan biaya waktu tersembunyi (hidden cost). Mari kita bandingkan secara objektif:
+1. Penanganan Manual:
+  - Kelebihan: Respon sangat personal.
+  - Kekurangan: Ketika pesan masuk bersamaan (terutama di jam sibuk/malam hari), terjadi bottleneck. Akibatnya, balasan lambat (slow response), pelanggan berpindah ke kompetitor, dan pesanan berisiko tercecer karena keterbatasan tenaga manusia.
+2. Pendekatan Otomatisasi Terukur (Sistem/AI):
+  - Fungsi: Bukan menggantikan manusia sepenuhnya, melainkan bertindak sebagai penyaring awal 24/7.
+  - Dampak: 70–80% pertanyaan berulang (seperti cek stok, harga, lokasi, atau format order) dijawab instan dalam kurun detik. Pesanan tercatat otomatis ke dalam database, sehingga Mas Dimas dan tim hanya perlu fokus pada 20% kasus kompleks atau penutupan penjualan (closing).
+*Dengan cara ini, tenaga tim hemat, tidak ada pesanan tercecer, dan respon ke pelanggan tetap konsisten. *
+Boleh saya tahu, Mas, dari seluruh pesan yang masuk setiap hari, kira-kira berapa persen yang bentuk pertanyaannya sebenarnya sama dan berulang?"
+
+**AI002:** Sikap Anda yang sangat rasional, transparan, dan tidak menjual AI secara berlebihan membuat Dimas (*INTJ*) yang kritis merasa logikanya dihargai. Defensivitasnya berkurang dan ia bersedia membagikan data operasional usahanya.
+
+**Dimas (K3-04) mengangguk pelan sambil mengamati penjelasan Anda:**
+
+> **Dimas:** *“Gaya analisismu masuk akal. Kalau dihitung-hitung, memang sekitar 75% pertanyaan yang masuk itu cuma nanya hal yang sama: pricelist, ketersediaan stok hari ini, sama cara pemesanan. Masalah utamanya, staf saya sering keteteran pas jam makan siang dan malam hari, jadi banyak chat tertimbun dan pesanan tercecer. Tapi pertanyaan saya: sejauh mana sistem ini bisa dijamin akurasinya? Saya enggak mau sistem AI malah salah kasih informasi harga/stok atau menjawab ngawur ke pelanggan yang bikin citra toko saya rusak.”*
+
+---
+
+### **Langkah Simulasi berikutnya (Tahap C - Giliran U002):**
+
+Dimas kini telah mengakui bahwa **75% pertanyaannya berulang** (masalah operasional terkonfirmasi). Namun, ia memiliki hambatan kecemasan (*Attitude/Knowledge*) terkait **akurasi jawaban AI, risiko merusak citra bisnis, dan kontrol manusia**.
+
+Bagaimana kalimat tanggapan Anda (U002) untuk merespons kekhawatiran Dimas ini? Berikan penjelasan batasan sistem yang jujur (*guardrails*), mekanisme *Human-in-the-Loop* (kontrol manusia), serta tawarkan skema uji coba gratis/pilot project terukur untuk membuktikan akurasinya.
+
+**[Tahap C: Simulasi Awal - Guardrails & Pilot Test]**
+
+**U003:** "Kekhawatiran yang sangat tepat, Mas Dimas. Bagi bisnis, citra toko dan akurasi informasi harga/stok adalah hal yang tidak bisa dikompromikan.
+Jawabannya tegas: AI tidak boleh dibiarkan 'menebak' atau mengarang jawaban. Untuk memastikan hal itu tidak terjadi, kita menerapkan 3 lapis pengaman (guardrails):
+1. Strict Knowledge Base (Hanya Menjawab dari Data Resmi):
+  - AI hanya dipagari untuk menjawab berdasarkan database resmi toko Mas Dimas (pricelist, daftar stok, dan SOP yang Mas setujui). Jika ada pertanyaan di luar data tersebut, AI secara otomatis diprogram untuk menjawab: "Sebentar ya Kak, pertanyaan ini akan dibantu langsung oleh tim customer service kami."
+2. Mekanisme Human-in-the-Loop (Kontrol Manusia Penuh):
+  - Sistem ini bersifat asisten, bukan pengganti. Mas Dimas dan staf tetap memegang dashboard utama. Kapan pun ada pesan sensitif atau pesanan khusus, staf bisa langsung mengambil alih obrolan secara real-time (handover instan).
+3. Skema Pilot Project / Uji Coba Gratis Terukur (Tanpa Risiko):
+  - Agar Mas Dimas bisa membuktikan sendiri akurasinya tanpa risiko merusak citra toko, saya tawarkan uji coba gratis selama 7 hari khusus untuk menangani 75% pertanyaan rutin (pricelist, stok, dan cara pesan) di luar jam kerja staf (misal: jam makan siang & malam hari).
+Selama 7 hari ini, Mas Dimas bisa mengevaluasi rekap log jawabannya setiap hari. Jika akurasinya mencapai >95% dan terbukti mencegah chat tertimbun, baru kita bicara langkah lanjutnya. Bagaimana menurut Mas Dimas?"
+
+**AI003:** Penjelasan Anda yang sangat presisi mengenai *strict guardrails*, mekanisme *Human-in-the-Loop*, serta penawaran uji coba terukur (*7 hari pilot test*) berhasil menjawab secara sempurna keraguan teknis dan risiko bisnis yang dikhawatirkan Dimas. Sikap analitis dan skeptis Dimas berubah menjadi ketertarikan rasional.
+
+**Dimas (K3-04) mengangguk setuju dengan ekspresi puas:**
+
+> **Dimas:** *“Pendekatan yang sangat masuk akal. Pembatasan jawaban dari database resmi dan kriteria evaluasi >95% selama 7 hari uji coba di luar jam kerja itu adil. Kalau mekanismenya transparan dan ada kontrol penuh di tim saya, saya setuju untuk coba pilot project 7 hari ini mulai minggu depan.”*
+
+---
+
+### **Tahap D: Evaluasi Sementara (Sebelum Pengungkapan Profil Internal)**
+
+Perkembangan simulasi sejauh ini:
+* **Tujuan Awal:** Memvalidasi masalah operasional, membuktikan nilai rasional TI/AI tanpa *overpromising*, serta menyepakati uji coba terukur.
+* **Evaluasi Fasilitator:** Anda berhasil menghadapi profil INTJ Dimas yang skeptis. Penguraian matriks manual vs otomatisasi (*Attitude*), mekanisme batas jawaban & *Human-in-the-Loop* (*Knowledge*), serta kesepakatan *pilot project* 7 hari (*Skill*) tereksekusi dengan sangat kuat.
+
+---
+
+### **Tahap E: Uji Re-Apply / Uji Ulang**
+
+Sekarang mari kita uji ketahanan kesepakatan ini dalam situasi kendala operasional baru (*Uji Ulang*):
+
+**Skenario Uji Ulang:**
+Hari ke-3 masa uji coba pilot project, Dimas menghubungi Anda melalui pesan singkat:
+
+> **Dimas:** *“Secara umum sistem responnya cepat dan akurat untuk pertanyaan stok dan pricelist. Tapi hari ini ada 2 kejadian di mana pelanggan menanyakan varian kustom yang datanya belum ada di database resmi, dan sistem menjawab dengan pesan standar 'akan dibantu tim CS'. Masalahnya, pesan itu masuk jam 9 malam pas staf saya sudah offline, jadi pelanggannya merasa digantung sampai besok pagi. Gimana solusinya supaya pertanyaan kustom di luar jam kerja tetap tertangani tanpa membuat janji palsu atau merusak akurasi?”*
+
+---
+
+**Giliran Anda (U003):**
+Tuliskan kalimat jawaban Anda kepada Dimas untuk merespons kendala baru ini secara analitis dan solutif, menjaga akurasi sistem, serta menyempurnakan alur operasional pilot project!
+
+**[Tahap E: Uji Ulang - Smart Auto-Routing & Pre-Input Form]**
+
+**U004:** "Terima kasih banyak atas feedback dan data lapangan hari ke-3 ini, Mas Dimas. Ini poin evaluasi yang sangat bagus untuk menyempurnakan alur pilot project kita.
+Untuk menyelesaikan pertanyaan kustom di luar jam kerja tanpa merusak akurasi dan tanpa membuat pelanggan merasa digantung, kita terapkan 2 Penyesuaian Alur Sistem (Smart Auto-Routing) ini mulai malam ini:
+1. Pemberitahuan Transparan & Kepastian Waktu Balas (Set Clear Expectation):
+  - Jika pertanyaan kustom masuk di luar jam operasional (misal: jam 21.00 - 08.00), pesan standar AI kita perbarui menjadi:
+  - "Halo Kak! Untuk varian kustom ini butuh pengecekan khusus oleh Tim Desain/CS kami. Karena saat ini di luar jam operasional toko (08.00–20.00), pesan Kakak sudah kami catat dengan prioritas utama dan akan dijawab langsung oleh staf kami besok pagi mulai pukul 08.30 WIB. Terima kasih atas kesabarannya!"
+2. Formulir Kustom Otomatis (Pre-Input Form):
+  - Sambil menunggu staf online besok pagi, AI langsung mengirimkan 3 pertanyaan singkat (misal: pilihan warna, ukuran, atau estimasi jumlah) agar pelanggan bisa mengisinya terlebih dahulu.
+  - Hasilnya: Pelanggan merasa kustomisasinya langsung diproses, dan besok pagi jam 08.30 staf Mas Dimas bisa langsung memberikan estimasi harga kustom tanpa perlu bertanya dari awal lagi.
+*Dengan cara ini, akurasi data tetap 100% terjaga (karena tidak ditebak oleh AI), ekspektasi pelanggan terkelola dengan jujur, dan efisiensi waktu staf besok pagi meningkat. *
+Bagaimana Mas Dimas, apakah penyesuaian teks dan alur ini bisa kita update ke sistem sore ini untuk uji coba malam nanti?"
+
+**AI004:** Solusi yang sangat tajam, solutif, dan analitis! Anda mengelola ekspektasi pelanggan secara jujur (*managing expectations*) sekaligus meningkatkan nilai efisiensi kerja staf (*Pre-Input Form*). Dimas (*INTJ*) yang menghargai efisiensi dan kepastian logika merasa sangat puas dengan penyesuaian alur ini.
+
+**Dimas (K3-04) membalas singkat namun penuh apresiasi:**
+
+> **Dimas:** *“Solusi yang sangat cerdas dan praktis! Memberi kepastian jam balasan besok pagi jam 08.30 plus mengumpulkan detail kustomnya lewat 3 pertanyaan itu bikin pelanggan merasa tetap dilayani dan staf saya besok pagi tinggal eksekusi. Tolong update alurnya sore ini juga. Uji coba pilot project kita teruskan sampai hari ke-7.”*
+
+---
+
+### **Tahap F: Refleksi dan Lesson Learned Mahasiswa**
+
+Sebelum saya menyusun dan menyerahkan berkas laporan lengkap **hasil_3a_18225017.qmd**, mohon jawab 3 pertanyaan refleksi singkat berikut untuk melengkapi Seksi D laporan:
+
+1. **Perubahan ASK & SWOT Diri/Dimas:**
+   Bagaimana Anda melihat perubahan status Dimas dari awal (*skeptis, mempertanyakan bukti, meragukan akurasi AI*) hingga akhir (*sangat puas, menyetujui uji coba terukur, dan aktif memberikan saran penyempurnaan alur*)?
+2. **Keseimbangan Logika Bisnis & Transparansi Batasan Sistem:**
+   Bagaimana strategi Anda dalam menjelaskan potensi kelemahan/batasan sistem TI/AI tanpa menurunkan kepercayaan customer, melainkan justru meningkatkan kredibilitas Anda di mata Dimas?
+3. **Pesan Personal & Kualitas Relasi:**
+   Pesan atau pendekatan apa dalam percakapan tadi yang menurut Anda paling membantu membangun rasa percaya dan rasa dihargai pada Dimas (karakter INTJ/penilai teknis)?
+
+**[Tahap F: Jawaban Refleksi Mahasiswa]**
+
+**U005:** 1. Perubahan ASK & SWOT Diri/Dimas
+- Perubahan Status Dimas:
+  - Attitude (A): Berubah dari sikap defensif dan skeptis terhadap klaim teknologi menjadi terbuka, suportif, serta aktif berkolaborasi memberikan masukan operasional berbasis data nyata dari lapangan.
+  - Skill (S): Dari kecenderungan menangani pesan secara manual dan sporadis menjadi mampu memanfaatkan sistem otomatisasi dan alur prapemesanan (Pre-Input Form) untuk meningkatkan efisiensi kerja timnya.
+  - Knowledge (K): Memahami dengan jelas kerangka pengamanan AI (strict guardrails), mekanisme kontrol manusia (Human-in-the-Loop), serta pentingnya expectation management dalam layanan pelanggan.
+- SWOT Shift: Mengubah ancaman (Threat) berupa risiko salah jawab AI dan pesanan tercecer menjadi peluang (Opportunity) untuk membangun operasional bisnis 24/7 yang profesional, terukur, dan efisien.
+2. Keseimbangan Logika Bisnis & Transparansi Batasan Sistem
+- Strategi Transparansi Batasan (Honesty as a Strategy):
+  - Bagi klien kritis/INTJ, klaim berlebihan (overpromising) adalah pemicu utama ketidakpercayaan. Dengan secara jujur mengakui batasan AI (bahwa AI tidak boleh menebak dan tidak menggantikan fungsi staf manusia penuh), kredibilitas justru meningkat.
+- Mengubah Kelemahan Menjadi Kontrol Risk-Free:
+  - Menjelaskan batasan sistem bersamaan dengan skema guardrails (pemagaran data resmi) dan Human-in-the-Loop membuktikan bahwa AI hadir sebagai alat bantu yang aman. Transparansi ini diperkuat dengan penawaran pilot project gratis 7 hari berbasis kriteria evaluasi objektif (>95% akurasi), sehingga risiko keputusan bisnis klien berada pada titik terendah.
+3. Pesan Personal & Kualitas Relasi
+- Pendekatan Kunci yang Membangun Rasa Percaya (INTJ Profiling):
+  1. Komunikasi Berbasis Logika & Komparasi Data: Tidak menggunakan pendekatan penjualan emosional, melainkan menyajikan perbandingan objektif (Manual vs System) beserta analisis hidden cost dan rasio porsi pertanyaan (80:20).
+  2. Validasi Masukan & Solusi Operasional Cepat: Saat Dimas memberikan masukan pada hari ke-3 uji coba, respon yang diberikan tidak bersikap defensif, melainkan mengapresiasi data tersebut dan langsung menghadirkan solusi teknis yang presisi (Smart Auto-Routing & Pre-Input Form).
+- Dampak Relasi: Dimas merasa logikanya dihormati, kapasitas kepemimpinannya diakui, dan sistem yang ditawarkan benar-benar disesuaikan dengan kebutuhan unik bisnunya. Kemitraan bertransformasi dari sekadar hubungan penjual-pembeli menjadi penasihat teknologi terpercaya (trusted advisor).
+
+**[Tahap G: Konfirmasi Final]**
+
+**AI005:** Melakukan konfirmasi seluruh data identitas, transkrip, dan refleksi sebelum penerbitan dokumen laporan akhir `.qmd`.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+[Tujuan tercapai penuh. Dimas tervalidasi masalah operasionalnya, menerima demonstrasi logika TI/AI, dan menyetujui uji coba pilot project 7 hari.]
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Skeptis, takut merusak citra bisnis, dan meragukan efisiensi AI. | Sangat puas, berkolaborasi aktif, dan mendukung otomatisasi ber-guardrails. | U002-U005 | Laporan Diri & Refleksi |
+| Attitude | Defensivitas tinggi terhadap penjual teknologi. | Terbuka, menghargai transparansi, dan bertindak sebagai mitra kolaboratif. | U002, U004 | Demonstrasi Simulasi |
+| Knowledge | Menganggap AI tidak aman/suka mengarang jawaban. | Memahami fungsi guardrails, Human-in-the-Loop, dan Pre-Input Form secara presisi. | U003, U005 | Evaluasi Diri |
+| Skill | Menangani chat pelanggan secara manual/sporadis. | Mampu mengevaluasi log sistem dan menerapkan alur prapemesanan kustom. | U004 | Demonstrasi Uji Ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 - AI002 | Attention: Skeptis ("Apa bukti... lebih baik?") | "Pertanyaan yang sangat wajar... komparasi Manual vs Otomatisasi... Boleh tahu berapa persen pertanyaan berulang?" | Defensivitas berkurang, mengonfirmasi 75% pertanyaan berulang, namun menanyakan jaminan akurasi. | A membaik; K & S terpetakan pada porsi 75% FAQ | Menjelaskan guardrails dan menawarkan pilot project 7 hari |
+| U003 - AI003 | Interest & Desire: Khawatir merusak citra bisnis | "Jawabannya tegas: AI tidak boleh dibiarkan 'menebak'... 3 lapis guardrails... Pilot project 7 hari akurasi >95%" | Mengangguk setuju, menilai pendekatan adil & transparan, menyetujui pilot test. | A & K tuntas 100%; kepercayaan rasional terbentuk | Menyiapkan uji ulang kendala pesan kustom |
+| U004 - AI004 | Action: Kendala pertanyaan kustom di luar jam kerja | "Terima kasih atas feedback... 2 Penyesuaian Alur: Set Clear Expectation & Pre-Input Form" | Membalas dengan pujian ("Solusi sangat cerdas dan praktis!"), meminta update sore itu juga. | S & Action tuntas penuh; kepuasan tinggi dan komitmen uji coba berkelanjutan. | Beralih ke tahap refleksi |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002, U003, U004 | "Sebagai pengelola usaha, Mas tentu butuh kepastian angka...", "Ini poin evaluasi yang sangat bagus..." | Dimas merespons dengan penuh perhatian, membagikan data internal toko, dan memuji solusi teknis. | Rendah → Sangat Tinggi; Dimas merasa kapasitas analitisnya dihormati secara profesional. | Menghilangkan kecemasan risiko bisnis pada Dimas tanpa janji berlebihan (*overpromising*). |
+
+## Uji ulang dan pembelajaran
+
+Pada uji ulang (U004), ketika muncul kendala pertanyaan varian kustom di luar jam kerja pada hari ke-3 uji coba, mahasiswa menghadirkan solusi *Smart Auto-Routing* dan *Pre-Input Form*. Langkah ini terbukti berhasil mempertahankan akurasi 100% tanpa menebak data, sekaligus mengelola ekspektasi waktu balasan pelanggan secara jujur dan profesional.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U003, U005 | Membuktikan nilai bisnis TI/AI dan mengamankan kesepakatan uji coba terukur. |
+| Persepsi dan validasi profil/status | 4 | U002, U003 ("Sebagai pengelola usaha, Mas tentu butuh kepastian angka...") | Sangat peka terhadap profil INTJ Dimas yang membutuhkan bukti logis dan pengendalian risiko. |
+| Pemilihan dan urutan repertoar | 4 | U002, U003, U004 | Menggunakan urutan komparasi data → skema guardrails → pilot test terukur → penyesuaian alur otomatis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U004 ("AI tidak boleh dibiarkan 'menebak'... Pre-Input Form") | Eksekusi sangat transparan, solutif, jujur akan batasan sistem, dan bernilai bisnis tinggi. |
+| Evaluasi dan adaptasi | 4 | U003 ke U004 | Menyesuaikan alur sistem secara cerdas saat dimasuki umpan balik kendala kustom lapangan. |
+| Refleksi dan lesson learned | 4 | U005 | Refleksi sangat mendalam mengenai *Honesty as a Strategy* dan manajemen hubungan dengan klien kritis. |
+
+**Nilai Usulan AI Sesi 3a = (24 / 24) × 100 = 100.00** *(Memerlukan moderasi dosen)*.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa menyimpulkan bahwa kejujuran mengenai batasan sistem (*Honesty as a Strategy*) justru merupakan kunci utama dalam membangun kredibilitas dengan klien bernalar kritis (INTJ). Dengan tidak memaksakan AI untuk menjawab hal di luar kemampuannya dan menyediakan pengaman *Human-in-the-Loop*, klien merasa aman untuk melakukan investasi teknologi secara bertahap.
+
+## Tindak lanjut dan batas bukti
+
+**Langkah Lanjutan:**
+1. Menyusun dokumen SOP pemagaran data resmi (*Knowledge Base*) untuk setiap klien penerap teknologi otomatisasi.
+2. Menerapkan skema uji coba terbatas (*pilot project*) sebagai standar penawaran solusi TI/AI di dunia kerja.
+
+**Batas Bukti:**
+Simulasi ini menguji perancangan pesan konsultatif tertulis dan penanganan kendala bisnis. Keberhasilan implementasi jangka panjang di lapangan memerlukan pemeliharaan teknis sistem dan integrasi data yang berkelanjutan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100.00 *(Usulan AI)* |
+| Sesi 2a | 18% | 100.00 *(Usulan AI)* |
+| Sesi 2b | 18% | 100.00 *(Usulan AI)* |
+| Sesi 3a | 18% | 100.00 *(Usulan AI)* |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | |
+
+**Nilai Akhir UTS:** **Belum dihitung** (Menunggu nilai makalah dosen serta penyelesaian Sesi 3b).
