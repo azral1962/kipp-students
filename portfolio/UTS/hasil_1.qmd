@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 1"
-subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +9,353 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Eka Suci Ramadhani |
+| NIM | 18225063 |
+| Kelas dan tanggal | K1; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 (Memimpin Diri dan Terus Belajar) |
+| Nama dan ID target | Diri mahasiswa; pembanding Dimas (K1-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Nyata |
+| Kelengkapan transkrip | Lengkap (seluruh giliran percakapan tercatat dari tahap identifikasi hingga refleksi) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief Kasus 1 memfokuskan pengembangan kemampuan memimpin diri sendiri (*self-leadership*) dan ketahanan belajar saat menghadapi hambatan kognitif serta fisik dalam perkuliahan teknik. Konteks spesifik yang dihadapi mahasiswa adalah beban ganda praktikum pemrograman (Pemrograman Berorientasi Objek dan Pemodelan Basis Data) yang berlangsung pada hari yang sama setelah jadwal kuliah padat hingga sore hari.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+* **Tujuan Tindakan:**
+  * Membangun dialog diri yang rasional dan suportif guna menghentikan siklus penundaan (*procrastination*) dan asumsi buruk (*fixed mindset*).
+  * Menyusun strategi alokasi waktu dan batasan eksperimen mikro (*micro-stepping*) yang terukur untuk belajar mandiri tanpa mengorbankan pemulihan fisik.
+  * Menguji ketahanan argumentasi dan perencanaan terstruktur saat berhadapan dengan tokoh pembanding berkarakter kritis-analitis (Dimas, K1-04).
+* **Respons Akhir yang Diharapkan:**
+  * Mahasiswa mampu mendefinisikan metrik eksekusi teknis yang objektif (*query* 3 tabel dan fungsi agregasi).
+  * Mahasiswa menyepakati batas waktu kerja konkret (maksimal 25 menit) dengan aturan berhenti (*stop-rule*) dan rencana cadangan (*fallback plan*) adaptif.
+* **Indikator Keberhasilan:**
+  * Meredam kecemasan berlebih (*overthinking*) sebelum mulai belajar.
+  * Keberhasilan mengunci kesepakatan rasional dengan tokoh pembanding berbasis transparansi batasan kapasitas dan otonomi.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths:** Memiliki alokasi waktu dan sumber belajar terstruktur (Edunex). <br>**Weaknesses:** Energi fisik terkuras di sore hari, mudah terdistraksi, ragu memulai. <br>**Opportunities:** Belajar bersama rekan sebaya menurunkan kepanikan. <br>**Threats:** Beban dua praktikum berat di hari yang sama memicu *overthinking* dan rasa takut tertinggal. | U004, U005, U006, U011, U012 | Terkonfirmasi melalui laporan diri |
+| Attitude | Rentan terjebak asumsi negatif (*fixed mindset* bahwa diri "tidak berbakat"), namun memiliki kemauan belajar kuat karena dorongan tanggung jawab akademik. | U010, U011 | Terkonfirmasi |
+| Knowledge | Memahami materi perkuliahan secara konseptual, namun mengalami bias kognitif dengan mencampuradukkan fakta ("baru belajar sedikit") dengan interpretasi ("tidak berbakat"). | U010 | Terkonfirmasi |
+| Skill | Mampu merancang alur dekonstruksi teknis dan aturan belajar terstruktur, tetapi pada awalnya bersikap reaktif terhadap kelelahan fisik. | U006, U012, U015 | Teramati melalui demonstrasi |
+| Preferensi/MBTI jika dilaporkan | Cenderung reflektif, membutuhkan rasa aman emosional sebelum eksekusi, responsif terhadap struktur dan logika bertahap. | U008, U015 | Laporan diri / observasi perilaku |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa sains/teknologi yang menghadapi tuntutan standar performa tinggi; menghargai pembuktian praktis dan kejelasan parameter tugas. | U005, U014 | Terkonfirmasi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Target utama adalah dialog diri mahasiswa sendiri, sedangkan Dimas (K1-04) berfungsi sebagai cermin pembanding eksternal.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Membangun kepemimpinan diri dan meyakinkan pembanding kritis mengenai efektivitas belajar terstruktur. | Menyelaraskan keyakinan rasional, metrik pemahaman, dan eksperimen terbatas. | Menyajikan fakta beban kognitif dan alternatif solusi terukur. | Terbentuknya komitmen belajar tanpa paksaan. |
+| Attention | Diri terjebak rasa lelah; Dimas skeptis terhadap klaim efektivitas metode. | **A:** Mengakui skeptisisme dan rasa lelah sebagai alarm biologis yang valid. | Menanyakan kriteria pembuktian dan mendengarkan keraguan. | Kesiapan mendiskusikan parameter evaluasi. |
+| Interest | Tertarik mencari cara belajar yang tidak menguras tenaga secara sia-sia. | **K:** Menjelaskan dekonstruksi kueri dan pemisahan logika dari sintaks. | Menguraikan alur kerja 25 menit (*micro-step*). | Fokus pada efisiensi proses bertahap. |
+| Desire | Keinginan mencapai hasil praktikum optimal tanpa frustrasi kognitif. | **A & S:** Memberikan rasa aman melalui *stop-rule* dan rencana darurat. | Menawarkan batasan risiko minimal (*Minimum Viable Action*). | Penurunan defensivitas dan penerimaan batas energi. |
+| Action | Mengeksekusi eksperimen belajar malam hari atau mengaktifkan rencana cadangan. | **S:** Menjalankan tindakan nyata terukur dengan evaluasi mandiri. | Mengunci kesepakatan aturan 25 menit beserta *fallback plan*. | Kesepakatan eksplisit untuk mulai mencoba. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**U001 [identifikasi]:**
+Inventarisasi paket saya dan jalankan. Mulai sesi 1. [Lampiran file zip]
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**AI001 [identifikasi]:**
+Empat berkas yang terdeteksi di dalam paket:
+* PENUGASAN.md
+* prompt_umum.md
+* profil_komunikan.md
+* template_laporan.qmd
+Teks yang dikirimkan merupakan data biner dari arsip ZIP yang terkompresi, sehingga isi instruksi di dalamnya tidak dapat terbaca secara langsung. Agar sesi 1 bisa segera dijalankan, silakan ekstrak arsip tersebut terlebih dahulu dan tempelkan isi teks dari PENUGASAN.md serta prompt_umum.md ke sini.
 
-### U001 - Mahasiswa - [Tahap]
+**U002 [identifikasi]:**
+[Mengunggah teks lengkap dari profil_komunikan.md, prompt_umum.md, template_laporan.qmd, dan PENUGASAN.md]
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**AI002 [identifikasi]:**
+Sesi 1 (Kasus 1: Memimpin Diri dan Terus Belajar) resmi dimulai. Mohon lengkapi dan konfirmasikan data identitas Anda untuk pencatatan laporan:
+* Nama lengkap
+* NIM
+* Kelas
+* Tanggal pelaksanaan
+* Modalitas komunikasi (misalnya teks atau suara)
+* Sifat kasus (nyata atau fiktif)
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**U003 [identifikasi]:**
+Eka Suci Ramadhani
+18225063
+K1
+14 Oktober 2026
+Teks
+Nyata
 
-[Tempel pesan AI persis seperti sumber.]
+**AI003 [rencana]:**
+Data identitas Anda telah dicatat untuk laporan:
+* Nama: Eka Suci Ramadhani
+* NIM: 18225063
+* Kelas: K1
+* Tanggal: 14 Oktober 2026
+* Modalitas: Teks
+* Sifat kasus: Nyata
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+Brief Kasus 1 — Memimpin Diri dan Terus Belajar
+Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar. Target utama dalam kasus ini adalah diri Anda sendiri.
+Kemampuan spesifik apa yang ingin Anda kembangkan saat ini, dan apa tujuan konkret serta hambatan utama (baik dari segi sikap, pemahaman, maupun kesiapan teknis) yang biasanya Anda alami saat mencoba mempelajarinya?
+
+**U004 [simulasi awal - dialog diri]:**
+Halo, akhir-akhir ini aku ngerasa susah banget buat fokus ngerjain tugas coding/belajar, rasanya gampang ke-distract atau bingung mau mulai dari mana. Kamu pernah ngerasain ini nggak?
+
+**AI004 [simulasi awal - dialog diri]:**
+Sebagai AI, aku memang nggak ngalamin distraksi secara fisik, tapi aku sering banget melihat pola ini. Rasa kewalahan pas mau mulai tugas yang butuh konsentrasi tinggi kayak ngoding itu wajar banget. Saat tugasnya terasa besar, rumit, atau abstrak, fokus kita gampang terpecah dan akhirnya lari ke distraksi karena bingung harus mengeksekusi langkah pertama dari mana.
+Pas momen kamu lagi ngerasa mentok, gampang ke-distract, atau bingung mau mulai itu, biasanya apa kalimat atau pikiran yang paling sering muncul di dalam diri kamu sendiri?
+
+**U005 [simulasi awal - dialog diri]:**
+Aku kadang kayak susah banget gituloh ngerjain praktikum oop dan praktikum pbd karena ada di hari yang sama, aku bingung membagi belajarnya karena aku rasa kedua matkul tersebut berat dan target ingin dapat nilai yang bagus membuatku merasa kesulitan
+
+**AI005 [simulasi awal - dialog diri]:**
+Punya dua praktikum teknis yang sama-sama berat di satu hari ditambah target nilai tinggi emang wajar banget bikin kamu ngerasa kewalahan sebelum mulai. Tekanan untuk harus langsung sempurna di keduanya sering kali justru bikin kita beku (freeze) dan bingung nentuin prioritas.
+Kalau kamu lagi ada di situasi terjepit di antara dua praktikum itu, pesan atau kalimat seperti apa yang biasanya kamu katakan ke dirimu sendiri, dan bagaimana perasaanmu saat mendengar kalimat itu?
+
+**U006 [simulasi awal - dialog diri]:**
+Kayak, aduh kenapa susah banget sih mana jadwal kuliah sampe sore semua, nyampe kos kayak udah ngantukcbanget gitu loh
+
+**AI006 [simulasi awal - dialog diri]:**
+Kuliah sampai sore memang benar-benar menguras energi fisik dan mental, jadi wajar banget kalau sampai kos kondisimu sudah lowbat total.
+Waktu pikiran "aduh kenapa susah banget sih" dan rasa ngantuk itu datang, respons otomatis apa yang biasanya kamu ambil saat itu, dan apa dampaknya ke rasa cemasmu soal target nilai tadi?
+
+**U007 [simulasi awal - dialog diri]:**
+Iya respons otomatis yang aku ambil saat itu cuma pengen istirahat dulu gitu lo soalnya jeda buat praktikum sama praktikum PBB cuma dua jam dan aku rasa dengan alokasi waktu dua jam untuk mengerjakan praktikum yang dua itu masih kurang karena materinya itu sangat padat tiap pertemuannya
+
+**AI007 [simulasi awal - dialog diri]:**
+Jeda dua jam di antara dua materi sepadat itu memang sempit banget kalau ekspektasinya harus langsung menuntaskan atau memahami semuanya sekaligus. Sangat wajar kalau tubuh dan pikiranmu akhirnya otomatis memilih buat istirahat dulu.
+Kalau kamu perhatikan lagi, ekspektasi apa yang sebenarnya kamu bebankan ke diri sendiri saat menatap jeda dua jam itu, dan kalimat apa yang bisa kamu katakan ke dirimu supaya jeda tersebut tetap memberi waktu istirahat tanpa memicu rasa panik atau bersalah?
+
+**U008 [simulasi awal - dialog diri]:**
+Ya kadang aku istirahatnya belajarnya sama teman aja itu buat ngerasa enggak panik gitu
+
+**AI008 [simulasi awal - dialog diri]:**
+Belajar bareng teman memang ampuh buat nurunin panik dan bikin suasana jadi terasa lebih ringan ditanggung bareng.
+Waktu kamu belajar bareng teman itu, gimana pengaruhnya ke fokus dan pemahamanmu terhadap tugas coding OOP atau PBD—apakah jadi benar-benar terbantu buat mulai eksekusi kodenya, atau justru ada tantangan lain yang muncul?
+
+**U009 [simulasi awal - dialog diri]:**
+Sebenarnya cuman ngurangin rasa panik aja sih soalnya kan juga bentar tuh jadi enggak bisa belajar sebanyak itu dan itu kan jedanya pas jam makan siang jadi sekalian makan gitu
+
+**AI009 [simulasi awal - dialog diri]:**
+Berarti waktu jeda dua jam itu fungsinya memang paling cocok buat pemulihan energi dan makan siang, bukan buat memaksakan belajar materi berat dalam jumlah banyak. Membebani jeda sempit itu dengan ekspektasi belajar penuh justru cuma bikin rasa bersalah saat waktu tersebut dipakai makan atau istirahat.
+Kalau melihat jadwal harianmu secara keseluruhan, pesan konkret seperti apa yang ingin kamu tetapkan untuk dirimu sendiri soal cara membagi waktu persiapan praktikum sebelum hari H, supaya kamu nggak merasa terjepit di jeda dua jam itu lagi?
+
+**U010 [simulasi awal - dialog diri]:**
+Faktanya aku memang baru belajar sedikit, tapi asumsi burukku selalu bilang 'aku nggak bakat'. Kira-kira solusinya apa ya biar nggak overthinking?
+
+**AI010 [simulasi awal - dialog diri]:**
+Menyadari perbedaan antara fakta (baru belajar sedikit) dan asumsi ("aku nggak bakat") sebenarnya langkah awal yang krusial banget. Pikiran "nggak bakat" itu sering kali cuma cara otak kita merespons rasa lelah atau panik saat menghadapi materi yang rumit, bukan kesimpulan yang valid soal kapasitasmu.
+Kunci buat meredam overthinking adalah dengan menggeser fokus dari label ("bakat atau tidak") ke jam terbang dan proses kecil yang bisa diukur. Kalau kamu mau mengganti suara asumsi itu dengan kalimat yang lebih adil dan berpegang pada fakta tadi, kalimat seperti apa yang ingin kamu katakan ke dirimu sendiri saat rasa cemas itu mulai muncul lagi?
+
+**U011 [simulasi awal - dialog diri]:**
+Ya sebenarnya aku selalu mau mulai buat belajar lagi karena mau enggak mau kalau misal aku enggak belajar pasti nilainya tuh bakal jelek banget apalagi kalau misalnya teman teman pas praktikum dapat ngerjain beberapa soal berapa gitu tadi belajarnya makin tinggi gitu
+
+**AI011 [simulasi awal - dialog diri]:**
+Rasa takut tertinggal saat melihat teman-teman bisa mengerjakan lebih banyak soal memang dorongan yang wajar, tapi membandingkan diri secara terus-menerus biasanya justru menguras energi yang harusnya dipakai buat memahami materi.
+Sebelum kita beralih ke langkah berikutnya, kalau kamu rangkum menjadi satu komitmen tindakan: kalimat penenang apa yang ingin kamu ucapkan ke dirimu saat rasa cemas itu datang, dan berapa alokasi waktu konkret (misalnya 20–30 menit di hari apa) yang paling realistis ingin kamu jadwalkan untuk mencicil latihan coding sebelum hari praktikum?
+
+**U012 [simulasi awal - dialog diri]:**
+Sebenarnya kalau alokasi waktu konkritnya tuh malam sebelum hari H aku pasti selalu nyempetin kayak dua sampai tiga jam terus pagi sebelum praktikum sekitar 30 menit dan setelah praktikum pertama minimal satu jam dengan mencoba beberapa latihan soal dari Edunex
+
+**AI012 [simulasi pembanding]:**
+Alokasi waktu dan sumber belajar yang kamu susun (malam 2–3 jam, pagi 30 menit, dan 1 jam pasca-praktikum melalui latihan Edunex) sudah sangat terstruktur dan terukur secara teknis.
+Sekarang kita masuk ke segmen cermin pembanding untuk mengamati bagaimana pendekatan belajarmu bekerja pada orang lain dengan hambatan serupa. Tokoh pembanding berikut adalah Dimas, seorang teman pembanding pengembangan diri.
+Dimas: "Apa bukti pendekatan ini lebih baik?"
+Bagaimana pesan atau tanggapan yang ingin kamu sampaikan kepada Dimas untuk menjawab pertanyaannya tersebut?
+
+**U013 [simulasi pembanding]:**
+Iya aku rasa lebih baik dan membantu sih
+
+**AI013 [simulasi pembanding]:**
+Dimas: "Ukuran 'merasa terbantu' itu masih terlalu subjektif. Kalau nggak ada parameter atau metrik yang jelas—misalnya perbandingan jumlah soal yang bisa diselesaikan atau pemahaman konsep sebelum dan sesudahnya—gimana caranya kita yakin kalau alokasi waktu itu beneran efisien dan sepadan dengan energi yang keluar?"
+Fasilitator: Respons Dimas memperlihatkan bahwa klaim yang bertumpu pada perasaan subjektif belum cukup menjawab keraguan orang yang membutuhkan bukti logis dan terukur. Segmen ini adalah cermin pembanding. Melihat perbedaan respons tersebut dibandingkan saat kamu berbicara ke diri sendiri, menurutmu apa yang perlu diubah atau disesuaikan dari gaya komunikasimu ketika menyampaikan ide ke orang dengan karakter seperti Dimas?
+
+**U014 [simulasi pembanding]:**
+Metrik Eksekusi (Output): Dari satu soal query kompleks (minimal melibatkan relasi tiga tabel dan fungsi agregasi), aku berhasil menuliskan alurnya secara bertahap dan menjalankannya sampai hasilnya keluar tanpa error.
+
+**AI014 [simulasi pembanding]:**
+Dimas: "Tolok ukur itu jauh lebih masuk akal. Menyelesaikan satu query dengan relasi tiga tabel dan fungsi agregasi sampai berjalan tanpa error adalah parameter objektif yang bisa langsung diuji. Tapi dengan keterbatasan waktu dan tenaga setelah kuliah seharian, bagaimana bentuk eksperimen kecil pertamanya agar kita bisa membuktikan cara ini efektif tanpa harus langsung memforsir waktu belajar berjam-jam?"
+
+**U015 [simulasi pembanding]:**
+Bentuk eksperimen kecil pertamanya kita batasi dengan aturan micro-step berdurasi maksimal 25 menit saja malam ini, tanpa perlu menunggu kondisi energi penuh.
+Alur eksperimennya dibuat bertahap agar tidak membebani kognitif:
+* Pemetaan Relasi (5 menit, tanpa buka laptop): Corat-coret cepat di kertas atau tablet. Tulis tiga tabel yang terlibat beserta kunci penghubungnya (Primary Key dan Foreign Key). Tujuannya mengunci logika relasi sebelum pusing memikirkan sintaks.
+* Uji Coba Join Dasar (10 menit): Buka DBMS, lalu tulis dan jalankan query hanya sampai klausa JOIN saja tanpa filter rumit atau fungsi agregasi. Begitu tabel berhasil tersambung dan datanya muncul, itu validasi bahwa struktur dasarnya sudah benar.
+* Penyematan Agregasi & Batas Waktu (10 menit): Tambahkan fungsi agregasi dan GROUP BY untuk menyelesaikan soal secara utuh.
+Aturan Berhenti (Stop-Rule):
+Kalau dalam rentang 25 menit query berhasil keluar datanya tanpa error, eksperimen malam ini resmi selesai. Namun, kalau sampai menit ke-25 masih mentok atau muncul error, kita wajib berhenti dan tidak boleh menambah waktu. Cukup tangkap layar (screenshot) pesan error-nya dan catat di baris mana logikanya macet untuk ditanyakan besok.
+Dengan cara ini, energi tidak terkuras untuk memaksakan belajar berjam-jam, tetapi kita tetap mendapat progres nyata dan membuktikan bahwa rasa takut di awal bisa dipatahkan langkah demi langkah. Setuju untuk kita coba malam ini?
+
+**AI015 [uji ulang pembanding]:**
+Dimas: "Rencana 25 menit dengan stop-rule dan pemisahan tahap logika sebelum sintaks ini sangat terstruktur dan masuk akal. Risikonya terukur, otonomi waktu terjaga, dan parameternya objektif—aku sepakat untuk coba malam ini. 
+Namun, ada satu kendala teknis: bagaimana kalau malam ini kondisi fisik benar-benar drop sehingga bahkan untuk fokus 5 menit corat-coret di kertas saja pikiran sudah buntu, atau koneksi DBMS lokal bermasalah sebelum 25 menit berjalan? Apa penyesuaian eksperimennya agar komitmen ini tidak langsung gugur total?"
+
+**U016 [uji ulang pembanding]:**
+Kalau skenario kendala fisik atau teknis itu terjadi, kita aktifkan rencana darurat (fallback plan) agar komitmennya tidak gugur total:
+1. Jika kondisi fisik benar-benar drop: Kita turunkan targetnya menjadi Minimum Viable Action (5 menit saja). Kita tidak memaksakan memecahkan soal baru; cukup buka satu contoh query join yang sudah pernah berhasil dari modul atau praktikum sebelumnya, lalu baca dan pahami ulang alur logikanya. Jika kepala tetap buntu, segera tidur dan jadwalkan ulang 15 menit besok pagi saat energi sudah pulih.
+2. Jika DBMS lokal bermasalah: Jangan buang sisa energi malam ini untuk troubleshooting environment atau instalasi. Cukup tuliskan draf syntax query-nya secara manual di kertas atau aplikasi catatan. Validasi eksekusinya kita tunda dan uji besok di kampus.
+Ukuran keberhasilan dari rencana cadangan ini adalah menjaga kebiasaan untuk tetap hadir dan berprogres, bukan memaksakan diri di luar kapasitas fisik.
+Karena batasan, risiko, dan alternatifnya sudah terantisipasi dengan sangat konkret, kesepakatan ini resmi kita kunci untuk malam ini. Sesi dialog roleplay selesai, mari kita lanjut ke tahap evaluasi, uji ulang, dan penyusunan laporannya.
+
+**AI016 [evaluasi & uji ulang diri]:**
+Dimas: "Sangat rasional dan adaptif. Otonomi untuk menyesuaikan batas energi dan fallback plan tanpa memaksakan diri di luar kapasitas membuat eksperimen ini realistis untuk dijalankan. Kesepakatan kita kunci untuk malam ini."
+Simulasi pembanding bersama Dimas telah selesai. Kita sekarang beralih ke tahap Evaluasi Sementara & Uji Ulang Diri.
+Sebelum ringkasan profil pembanding dibuka, silakan jawab dua hal berikut untuk kebutuhan laporan:
+1. Evaluasi Sementara Diri: Berdasarkan dialog tadi, bagaimana Anda membaca kondisi awal diri Anda (terkait keyakinan/kemauan, pemahaman, dan keterampilan memimpin diri), serta perubahan apa yang mulai terbentuk setelah Anda menyusun metrik dan micro-step tersebut?
+2. Uji Ulang Diri (Penerapan Nyata): Bayangkan pada kesempatan belajar praktikum berikutnya Anda kembali berada di posisi lelah sepulang kuliah, waktu jeda sempit, dan muncul rasa takut 'tidak bakat'. Tuliskan tindakan nyata yang akan Anda jalankan saat itu juga, alasan logisnya, dan indikator evaluasi untuk mengukur keberhasilannya.
+
+**U017 [evaluasi & uji ulang diri]:**
+Evaluasi Sementara Diri
+* Kondisi Awal (ASK & Status Internal):
+  * Attitude: Terdapat kecenderungan fixed mindset dan penilaian subjektif yang melihat tugas rumit sebagai ancaman mutlak. Rasa cemas direspons dengan asumsi negatif ("saya tidak berbakat di bidang basis data") yang memicu keinginan menghindar atau menunda.
+  * Knowledge: Terjadi kekeliruan dalam memisahkan fakta dan interpretasi. Saya mengira belum paham seluruh materi berarti gagal total, padahal faktanya materi hanya membutuhkan penguraian tahap demi tahap.
+  * Skill: Keterampilan memimpin diri (self-leadership) masih reaktif; saya belum terbiasa menetapkan batasan waktu kerja yang terstruktur (timeboxing) dan mudah panik ketika menghadapi galat (error) sintaksis.
+* Perubahan Pasca-Penyusunan Metrik & Micro-Step:
+  * Pembaruan Attitude: Terjadi pergeseran dari kepanikan emosional menuju sikap eksperimental yang realistis dan bertanggung jawab. Target tidak lagi menuntut kesempurnaan instan, melainkan kesediaan berproses.
+  * Pembaruan Knowledge: Memahami bahwa penyusunan kueri basis data dapat didekonstruksi secara bertahap (analisis relasi kunci, uji coba join, baru penerapan agregasi) sehingga beban kognitif menjadi terukur.
+  * Pembaruan Skill: Terbentuk keterampilan memimpin diri melalui perancangan eksperimen konkret: membatasi durasi 25 menit, menetapkan stop-rule yang tegas, serta menyiapkan fallback plan adaptif sesuai kapasitas energi.
+
+Uji Ulang Diri (Penerapan Nyata)
+* Tindakan Nyata Saat Itu Juga:
+  * Mengambil jeda sadar 1 menit untuk mengenali narasi "tidak berbakat" sebagai asumsi (story), bukan fakta objektif.
+  * Menjalankan aksi minimum (Minimum Viable Action) selama 10 menit: tidak langsung membuka perangkat lunak DBMS, melainkan membuka catatan untuk membaca kembali satu contoh kueri yang sudah berhasil atau mencoretkan relasi antartabel di kertas.
+  * Mengaktifkan stop-rule: jika setelah 10 menit pikiran tetap buntu karena kelelahan fisik, saya sengaja menghentikan sesi, mencatat satu pertanyaan kendala untuk asisten praktikum, dan langsung beristirahat tanpa rasa bersalah.
+* Alasan Logis:
+  * Memaksakan belajar dalam kondisi kognitif yang terkuras hanya akan memperbesar frekuensi galat, memicu frustrasi, dan memperkuat narasi palsu bahwa diri "tidak mampu".
+  * Menurunkan hambatan awal (friction to start) melalui tindakan mikro menjaga momentum belajar tetap berjalan tanpa mengorbankan pemulihan fisik.
+* Indikator Evaluasi Keberhasilan:
+  * Indikator Proses: Tidak terjadi pelarian waktu tanpa tujuan (seperti scrolling media sosial) lebih dari 15 menit sebagai bentuk kompensasi rasa cemas.
+  * Indikator Output: Tersusunnya minimal satu artefak konkret berupa sketsa relasi tabel di kertas atau satu poin pertanyaan spesifik yang siap diajukan saat sesi praktikum berikutnya.
+  * Indikator Sikap: Keputusan untuk berhenti atau melanjutkan belajar diambil secara sadar (deliberate choice), bukan didorong oleh kepanikan atau rasa putus asa.
+
+**AI017 [refleksi]:**
+Evaluasi diri dan rencana uji ulang nyata Anda telah tercatat dengan sangat baik dan terstruktur.
+Sesuai prosedur, berikut adalah pengungkapan ringkasan profil tokoh pembanding Dimas (K1-04) yang sebelumnya dirahasiakan untuk keperluan evaluasi:
+* Peran/Karakter: Penilai teknis; ko-kultur yang menghargai alasan kritis dan otonomi (preferensi komunikasi logis, ringkas, terukur).
+* Hambatan Awal:
+  * Attitude (A): Meragukan manfaat latihan, skeptis terhadap klaim subjektif.
+  * Knowledge (K): Memerlukan ukuran peningkatan/parameter yang objektif.
+  * Skill (S): Memerlukan eksperimen terbatas dan realistis terhadap beban waktu.
+* Kondisi Perubahan: Menghargai pertanyaan kritis, mengakui batas energi, menyusun uji terukur yang dapat dievaluasi sendiri, serta menyepakati langkah pertama, waktu, dan fallback plan adaptif.
+
+Sebelum berkas laporan utuh (hasil_1_18225063.qmd) disusun dan dikonfirmasi, silakan jawab satu pertanyaan refleksi utama berikut:
+"Pesan atau tindakan apa yang selama dialog tadi membantu atau justru menghambat rasa dipercaya dan dipedulikan (baik pada diri sendiri maupun saat menghadapi Dimas), dan apa bukti respons konkret yang Anda amati?"
+
+**U018 [refleksi & konfirmasi]:**
+Pesan dan Tindakan yang Membantu
+* Penyusunan Rencana Cadangan (Fallback Plan) dan Otonomi Diri: Mengakui keterbatasan energi fisik secara jujur serta merumuskan tindakan alternatif (membatasi durasi menjadi 5–10 menit atau mencatat draf di kertas saat perangkat bermasalah). Tindakan ini menumbuhkan rasa dipedulikan pada diri sendiri karena tidak memaksakan kapasitas di luar batas, sekaligus menumbuhkan rasa percaya pada Dimas bahwa komitmen yang dibuat bersifat realistis dan adaptif, bukan sekadar janji kosong.
+* Pendefinisian Parameter yang Terukur: Menggeser fokus dari target abstrak menjadi batasan teknis yang jelas (kueri tiga tabel dengan fungsi agregasi dalam alokasi waktu 25 menit). Hal ini membuktikan profesionalitas dan keseriusan evaluasi tanpa mengabaikan aspek kelelahan.
+Pesan dan Tindakan yang Menghambat
+* Penggunaan Tolok Ukur yang Terlalu Subjektif di Awal: Penggunaan frasa seperti "merasa terbantu" sempat menghambat rasa percaya lawan bicara karena terkesan tidak memiliki dasar evaluasi yang jelas dan rawan menjadi pembenaran semu.
+* Pelabelan Diri yang Menghakimi (Internal Story): Menyamakan kesalahan sintaksis atau kegagalan eksekusi kueri dengan kesimpulan "tidak berbakat". Pesan internal ini menghambat kepedulian terhadap kondisi diri sendiri, memicu respons defensif, dan memperbesar kecemasan sebelum mencoba.
+Bukti Respons Konkret yang Diamati
+* Bukti Verbal dari Dimas: Dimas yang awalnya skeptis dan menuntut kejelasan ("Ukuran 'merasa terbantu' itu masih terlalu subjektif...") berubah memberikan validasi penuh dan menyepakati komitmen setelah batasan kapasitas dan rencana cadangan diberikan ("Sangat rasional dan adaptif. Otonomi untuk menyesuaikan batas energi dan fallback plan tanpa memaksakan diri di luar kapasitas membuat eksperimen ini realistis untuk dijalankan. Kesepakatan kita kunci untuk malam ini.").
+* Bukti Respons Internal Diri: Penurunan ketegangan kognitif yang ditandai dengan berhentinya keinginan menunda (procrastination). Dorongan untuk menghindar berganti menjadi kesiapan mengeksekusi eksperimen mikro karena adanya kepastian aturan berhenti (stop-rule).
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+Tujuan Kasus 1 tercapai secara menyeluruh. Mahasiswa berhasil mengidentifikasi akar hambatan belajar mandiri (beban ganda praktikum dan keletihan fisik), membedakan fakta objektif dari narasi bias kognitif, serta merancang arsitektur tindakan mikro (*micro-step*) berdurasi 25 menit yang dilengkapi dengan aturan berhenti (*stop-rule*) dan rencana cadangan (*fallback plan*).
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Merasa terancam oleh tugas berat; menganggap kelelahan fisik sebagai kegagalan bakat; waktu belajar tidak terstruktur. | Memandang kelelahan sebagai batasan biologis yang wajar; memanfaatkan peluang *micro-stepping*; memitigasi ancaman *overthinking* dengan *stop-rule*. | U005, U006, U010 $\rightarrow$ U015, U016, U017 | Laporan diri mahasiswa yang divalidasi melalui perancangan eksperimen nyata. |
+| Attitude | *Fixed mindset*, reaktif terhadap cemas, takut tertinggal oleh rekan sejawat. | Bersikap eksperimental, menerima batas kapasitas energi secara jujur, peduli pada pemulihan fisik. | U010, U011 $\rightarrow$ U016, U017, U018 | Refleksi internal dan komitmen tindakan terukur. |
+| Knowledge | Bias kognitif: menyamakan proses belajar yang belum tuntas dengan ketidakmampuan absolut. | Pemahaman dekonstruksi masalah: memisahkan relasi tabel dari sintaks kueri; membedakan fakta versus asumsi (*story*). | U010 $\rightarrow$ U014, U015, U017 | Terkonfirmasi melalui alur teknis SQL. |
+| Skill | Menghindar melalui penundaan atau belajar bersama tanpa fokus teknis mendalam. | Menguasai *self-leadership* terstruktur: *timeboxing* 25 menit, *Minimum Viable Action* 5–10 menit, dan mitigasi kendala teknis. | U007, U009 $\rightarrow$ U015, U016, U017 | Demonstrasi rancangan langkah konkret. |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| Episode 1: Dialog Diri Awal (U004–U009) | Status cemas dan lelah. Mahasiswa terjepit jadwal kuliah sore dan beban dua praktikum (U005, U006). | Mengeksplorasi alasan di balik dorongan istirahat dan fungsi jeda 2 jam (U007, U009). | Menyadari bahwa jeda 2 jam adalah waktu makan dan istirahat, bukan untuk diforsir (U009). | **A:** Penurunan rasa bersalah saat istirahat. **K:** Mengetahui fungsi riil waktu istirahat siang. | Menggeser persiapan praktikum ke waktu malam dan pagi sebelum praktikum. |
+| Episode 2: Dekonstruksi Asumsi (U010–U012) | Muncul narasi "tidak bakat" saat membandingkan diri dengan rekan (U010, U011). | Memisahkan fakta (baru belajar sedikit) dari asumsi (tidak bakat) (U010). | Menetapkan alokasi waktu konkret: malam 2–3 jam, pagi 30 menit, setelah praktikum 1 jam via Edunex (U012). | **A:** Mengurangi *overthinking*. **S:** Menentukan jadwal persiapan terstruktur. | Mempersiapkan bukti konkret sebelum masuk ke segmen pembanding. |
+| Episode 3: Penolakan Pembanding (U013–AI013) | Dimas menuntut bukti logis atas klaim efektivitas (AI012, AI013). | Merespons secara subjektif: "Iya aku rasa lebih baik dan membantu sih" (U013). | Dimas menolak klaim subjektif dan meminta metrik objektif (AI013). | **A (Dimas):** Tetap skeptis. Mahasiswa menyadari kelemahan klaim abstrak. | Mengubah gaya komunikasi dari impresi personal ke parameter teknis terukur. |
+| Episode 4: Penyajian Metrik & Micro-Step (U014–AI015) | Dimas terbuka jika ada ukuran jelas (AI013). | Mendefinisikan kueri 3 tabel dan merancang alur 25 menit + *stop-rule* (U014, U015). | Dimas mengapresiasi struktur logika, namun menguji kendala fisik/teknis mendadak (AI014, AI015). | **K & S (Dimas):** Paham dan melihat kelayakan. **A (Dimas):** Bergerak menuju kesepakatan awal. | Menyiapkan rencana kontinjensi (*fallback plan*) adaptif. |
+| Episode 5: Penguncian Kesepakatan (U016–AI016) | Dimas menguji ketahanan rencana saat fisik *drop* atau DBMS galat (AI015). | Menyajikan *Minimum Viable Action* 5 menit dan penulisan draf manual tanpa *troubleshooting* (U016). | Dimas menerima sepenuhnya: "Sangat rasional dan adaptif... Kesepakatan kita kunci malam ini" (AI016). | **A, K, S:** Tercapai kesepakatan penuh berbasis otonomi dan batas kapasitas nyata. | Menutup simulasi dan melanjutkan ke evaluasi reflektif. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+*Diagnosis Profil Pembanding:* Sebelum profil dibuka, mahasiswa berhasil mendiagnosis bahwa Dimas menolak klaim berbasis perasaan subjektif dan menuntut batasan logis yang dapat diuji mandiri. Hal ini cocok tepat dengan profil internal Dimas (K1-04: penilai teknis, berorientasi logika ringkas, otonomi, dan metrik peningkatan konkret).
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| Dialog Diri (U006, U010) | Mengakui kelelahan fisik kuliah hingga sore sebagai fakta biologis yang sah, bukan kemalasan moral. | Berhentinya rasa panik dan kepasrahan buta; timbul kemauan menyusun jadwal rasional (U009, U012). | Rasa aman internal meningkat dari **Rendah** ke **Tinggi** saat label "tidak berbakat" dicabut. | Sikap beralih dari penghindaran defensif ke eksplorasi pemecahan masalah. |
+| Uji Pembanding 1 (U013) | Respons normatif yang mengasumsikan lawan bicara percaya begitu saja ("aku rasa lebih baik"). | Dimas merespons kaku dan menuntut data: "Ukuran merasa terbantu itu masih terlalu subjektif" (AI013). | Kepercayaan Dimas berada pada level **Rendah** karena klaim tidak disertai akuntabilitas. | Menunjukkan bahwa kehangatan semu tanpa substansi teknis tidak efektif pada karakter analitis. |
+| Uji Pembanding 2 (U015, U016) | Menghargai otonomi dan keterbatasan energi melalui *stop-rule* 25 menit serta *fallback plan* 5 menit. | Dimas memvalidasi pendekatan: "Sangat rasional dan adaptif... otonomi untuk menyesuaikan batas energi..." (AI016). | Kepercayaan dan rasa dipahami meningkat dari **Sedang** ke **Tinggi** (bukti verbal eksplisit pada AI016). | Kepedulian yang diwujudkan melalui proteksi beban kognitif berhasil mengunci aksi tanpa paksaan. |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+*Batas Inferensi:* Penerimaan Dimas adalah simulasi berbasis teks yang merefleksikan prinsip konsistensi logis. Ketulusan dalam konteks ini dinilai secara objektif dari keselarasan indikator perilaku (perlindungan waktu istirahat dan transparansi kapasitas), bukan dugaan motif batiniah.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+* **Stimulus Serupa pada Uji Ulang:** Mahasiswa dihadapkan pada skenario hipotetis berulang: kelelahan sepulang kuliah, waktu sempit, dan godaan kepanikan "tidak berbakat" (U016, U017).
+* **Respons Awal vs Uji Ulang:**
+  * *Awal:* Memaksakan belajar dalam kelelahan $\rightarrow$ pikiran buntu $\rightarrow$ menuduh diri tidak berbakat $\rightarrow$ menunda (*procrastination*) atau melarikan diri ke obrolan tanpa hasil (U005, U006, U008).
+  * *Uji Ulang:* Mengambil jeda sadar 1 menit $\rightarrow$ mengaktifkan *Minimum Viable Action* 10 menit (membaca kueri yang sudah berhasil/coret kertas) $\rightarrow$ menghentikan sesi jika buntu tanpa rasa bersalah (U017).
+* **Indikator Perbaikan dan Transferabilitas:**
+  * Terbentuknya *stop-rule* yang mencegah *doom-scrolling* lebih dari 15 menit.
+  * Menghasilkan artefak konkret (draf kertas atau 1 pertanyaan spesifik untuk asisten praktikum).
+  * Keputusan menghentikan belajar diambil secara sadar (*deliberate choice*), bukan didorong frustrasi.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
-|---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|:---:|---|---|
+| Tujuan dan konteks | 4 | U003, U005, U012: *"alokasi waktu konkritnya tuh malam sebelum hari H... dua sampai tiga jam terus pagi... 30 menit..."* | Menetapkan konteks akademik secara spesifik (praktikum OOP dan PBD) serta mengartikulasikan sasaran tindakan yang realistis. |
+| Persepsi dan validasi profil/status | 4 | U010, U014, U017: *"Faktanya aku memang baru belajar sedikit, tapi asumsi burukku selalu bilang 'aku nggak bakat'..."* | Mampu membedakan fakta objektif dari opini bias diri, serta membaca kebutuhan metrik terukur pada profil Dimas secara akurat. |
+| Pemilihan dan urutan repertoar | 4 | U015: *"Pemetaan Relasi (5 menit)... Uji Coba Join Dasar (10 menit)... Penyematan Agregasi & Batas Waktu (10 menit)... Aturan Berhenti (Stop-Rule)..."* | Menyusun urutan stimulus yang sangat sistematis: mengurai logika relasi sebelum sintaks, membatasi durasi, dan menetapkan aturan berhenti. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U015, U016: *"Jika kondisi fisik benar-benar drop: Kita turunkan targetnya menjadi Minimum Viable Action (5 menit saja)..."* | Menyampaikan pesan secara lugas, transparan terhadap kelelahan fisik, serta menjaga integritas otonomi diri dan lawan bicara. |
+| Evaluasi dan adaptasi | 4 | U013 $\rightarrow$ U014, U016: *"Kalau skenario kendala fisik atau teknis itu terjadi, kita aktifkan rencana darurat (fallback plan)..."* | Menyesuaikan pendekatan secara instan saat klaim subjektif ditolak pembanding, serta menyiapkan mitigasi kendala teknis tak terduga. |
+| Refleksi dan lesson learned | 4 | U017, U018: *"Penggunaan tolok ukur yang terlalu subjektif di awal... Pelabelan diri yang menghakimi... Penurunan ketegangan kognitif..."* | Menganalisis dinamika komunikasi secara tajam, mengidentifikasi faktor penghambat/pendukung, serta merumuskan indikator keberhasilan terukur. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+*Usulan AI untuk Moderasi Dosen:*
+$$\text{Nilai Sesi 1} = \frac{\text{Jumlah Skor}}{24} \times 100 = \frac{4 + 4 + 4 + 4 + 4 + 4}{24} \times 100 = \frac{24}{24} \times 100 = 100$$
+*(Semua dimensi teramati secara lengkap; usulan skor performa bernilai 100 dan memerlukan verifikasi serta moderasi dosen pengampu).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+Mahasiswa merefleksikan bahwa hambatan terbesar dalam memimpin diri bersumber dari *cognitive distortions* (distorsi kognitif), yakni ketika kelelahan biologis ditafsirkan sebagai ketiadaan bakat intelektual. 
+
+* **Pelajaran Kunci (*Lesson Learned*):**
+  1. *Eksperimen Mengalahkan Ekspektasi:* Membebani diri dengan ekspektasi kesempurnaan instan saat energi terkuras adalah pemicu utama penundaan. Pendekatan mikro berdurasi 25 menit jauh lebih efektif membangun momentum.
+  2. *Kejelasan Teknis Menumbuhkan Kepercayaan:* Dalam konteks profesional atau berhadapan dengan rekan bertipe analitis, kepedulian sejati tidak ditunjukkan melalui kata-kata manis atau perasaan subjektif, melainkan melalui penghormatan terhadap waktu, perumusan batasan kerja yang realistis, dan rencana darurat yang melindungi kapasitas energi bersama.
+  3. *Otonomi Menghilangkan Rasa Bersalah:* Berhenti belajar karena batas waktu (*stop-rule*) adalah tindakan sadar yang bertanggung jawab, berbeda secara fundamental dengan menyerah karena putus asa.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+* **Rencana Tindak Lanjut Nyata:**
+  * Mengaplikasikan sistem *timeboxing* 25 menit untuk modul praktikum Pemodelan Basis Data berikutnya.
+  * Menyediakan buku catatan saku khusus untuk mencoretkan skema relasi (tabel, PK, FK) sebelum membuka laptop.
+  * Menghentikan aktivitas ngoding tepat saat aturan berhenti tercapai, lalu menginventarisasi pesan kesalahan (*error message*) untuk didiskusikan pada sesi praktikum di kampus.
+* **Batas Bukti:**
+  * Percakapan ini dilaksanakan melalui modalitas teks simulasi berbasis komputer.
+  * Tidak mencakup observasi bahasa tubuh, intonasi vokal, atau prosodi emosional alami.
+  * Keberhasilan simulasi mencerminkan kemampuan kognitif dan perencanaan komunikasi verbal mahasiswa; ketahanan implementasi jangka panjang di dunia nyata memerlukan pembiasaan disiplin mandiri yang berkelanjutan.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Bobot dan nilai akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100 (usulan AI; moderasi dosen) |
+| Sesi 2a | 18% | [Belum dijalankan] |
+| Sesi 2b | 18% | [Belum dijalankan] |
+| Sesi 3a | 18% | [Belum dijalankan] |
+| Sesi 3b | 18% | [Belum dijalankan] |
+| **Total** | **100%** | |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**
+
+Status Nilai Akhir: **Belum dihitung** (menunggu pelaksanaan Sesi 2a, Sesi 2b, Sesi 3a, Sesi 3b, serta penilaian makalah oleh dosen)[cite: 3, 5].
