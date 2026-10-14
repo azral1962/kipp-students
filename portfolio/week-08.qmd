@@ -1,4 +1,5 @@
-﻿---
+---
+
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
 status: "Siap dinilai"
@@ -6,20 +7,24 @@ self_score: "19/20"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
----
+-----------------------------
+
+::: {.callout-tip title="Mulai mengisi"}
+Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+:::
 
 ## Performance card
 
-- **Person/target:** Teman yang menjadi target percakapan.
-- **Initial state:** Target sudah mengetahui adanya masalah, tetapi masih memiliki pertimbangan sebelum menerima pendekatan yang ditawarkan.
-- **Objective:** Membawa target dari Attention menuju Interest dengan menunjukkan relevance dari problem dan solution yang dibahas.
-- **Evidence:** Respons target selama percakapan dan perubahan respons setelah stimulus disesuaikan.
-- **Boundary:** Tidak memaksakan persetujuan dan tidak menganggap respons positif sebagai bukti bahwa masalah sudah selesai.
+* **Person/target:** Teman yang menjadi target percakapan.
+* **Initial state:** Target sudah mengetahui adanya masalah, tetapi masih memiliki pertimbangan sebelum menerima pendekatan yang ditawarkan.
+* **Objective:** Membawa target dari Attention menuju Interest dengan menunjukkan relevance dari problem dan solution yang dibahas.
+* **Evidence:** Respons target selama percakapan dan perubahan respons setelah stimulus disesuaikan.
+* **Boundary:** Tidak memaksakan persetujuan dan tidak menganggap respons positif sebagai bukti bahwa masalah sudah selesai.
 
 ## Decisive moment
 
-> **Mahasiswa:** Menyampaikan problem dan solution yang dianggap relevan dengan kondisi target.  
-> **Target:** Memberikan respons yang menunjukkan adanya pertimbangan terhadap solution yang ditawarkan.  
+> **Mahasiswa:** Menyampaikan problem dan solution yang dianggap relevan dengan kondisi target.
+> **Target:** Memberikan respons yang menunjukkan adanya pertimbangan terhadap solution yang ditawarkan.
 > **Mahasiswa:** Mengakui pertimbangan tersebut dan menyesuaikan penjelasan agar lebih sesuai dengan kebutuhan target.
 
 Response target menunjukkan bahwa pendekatan awal belum sepenuhnya menjawab pertimbangannya. Mahasiswa kemudian tidak langsung mempertahankan pitch, tetapi menggunakan respons tersebut untuk menyesuaikan cara penyampaian dan memperjelas value yang relevan bagi target.
@@ -34,22 +39,22 @@ Feedback tersebut membantu mahasiswa membedakan antara target yang sekadar mende
 
 ## Evidence package
 
-- Performance card digunakan untuk menentukan target, initial state, objective, evidence, dan boundary.
-- Transcript/performance digunakan untuk melihat stimulus, respons, dan adaptation selama percakapan.
-- Feedback digunakan untuk mengevaluasi cara mahasiswa membaca respons target.
-- Replay digunakan untuk melihat bagian yang masih dapat diperbaiki.
-- Tidak terdapat bukti fisik tambahan yang dapat dilampirkan untuk mendukung evaluasi secara lebih objektif.
-- AI digunakan sebagai bantuan refleksi untuk mengevaluasi hubungan antara stimulus, respons, dan adaptation. Namun, karena tidak terdapat artefak AI atau bukti fisik yang dapat diverifikasi, penggunaannya belum dapat dinilai secara maksimal.
+* Performance card digunakan untuk menentukan target, initial state, objective, evidence, dan boundary.
+* Transcript/performance digunakan untuk melihat stimulus, respons, dan adaptation selama percakapan.
+* Feedback digunakan untuk mengevaluasi cara mahasiswa membaca respons target.
+* Replay digunakan untuk melihat bagian yang masih dapat diperbaiki.
+* Tidak terdapat bukti fisik tambahan yang dapat dilampirkan untuk mendukung evaluasi secara lebih objektif.
+* AI digunakan sebagai bantuan refleksi untuk mengevaluasi hubungan antara stimulus, respons, dan adaptation. Namun, karena tidak terdapat artefak AI atau bukti fisik yang dapat diverifikasi, penggunaannya belum dapat dinilai secara maksimal.
 
 ## Self-assessment
 
-| Dimensi | Skor | Evidence singkat |
-|---|---:|---|
-| Person & Character | 4 | Mampu mengenali karakteristik, kebutuhan, dan kondisi target sebelum menentukan pendekatan |
-| Objective & State | 4 | Initial state dan perubahan respons target dapat dibedakan selama performance |
-| Repertoire, Language & AI | 3 | Repertoire dan bahasa disesuaikan dengan target, tetapi belum memiliki bukti fisik/artefak AI yang dapat diverifikasi |
-| Response & Adaptation | 4 | Mampu menggunakan respons target untuk menyesuaikan pendekatan |
-| Agreement, Action & Relationship | 4 | Percakapan tetap diarahkan pada kebutuhan target tanpa memaksakan persetujuan |
+| Dimensi                          | Skor | Evidence singkat                                                                                                      |
+| -------------------------------- | ---: | --------------------------------------------------------------------------------------------------------------------- |
+| Person & Character               |    4 | Mampu mengenali karakteristik, kebutuhan, dan kondisi target sebelum menentukan pendekatan                            |
+| Objective & State                |    4 | Initial state dan perubahan respons target dapat dibedakan selama performance                                         |
+| Repertoire, Language & AI        |    3 | Repertoire dan bahasa disesuaikan dengan target, tetapi belum memiliki bukti fisik/artefak AI yang dapat diverifikasi |
+| Response & Adaptation            |    4 | Mampu menggunakan respons target untuk menyesuaikan pendekatan                                                        |
+| Agreement, Action & Relationship |    4 | Percakapan tetap diarahkan pada kebutuhan target tanpa memaksakan persetujuan                                         |
 
 **Total: 19/20 — Kompeten.**
 
@@ -60,44 +65,41 @@ Performance ini menunjukkan bahwa keberhasilan komunikasi tidak hanya ditentukan
 Hal yang masih perlu diperbaiki adalah penggunaan evidence yang lebih lengkap. Proses performance sudah dapat direfleksikan melalui transcript dan feedback, tetapi belum didukung bukti fisik yang dapat digunakan untuk membandingkan improvement secara lebih objektif.
 
 AI dapat membantu proses refleksi, terutama untuk melihat apakah stimulus, respons, dan adaptation sudah saling berkaitan. Namun, tanpa artefak yang dapat diverifikasi, AI belum cukup untuk menjadi bukti utama performance.
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
-:::
 
 ## Identitas dan status paket
 
-| Elemen | Isi mahasiswa |
-|---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Elemen                      | Isi mahasiswa                       |
+| --------------------------- | ----------------------------------- |
+| Nama                        | Michelle Nataneilla                 |
+| NIM                         | 18225071                            |
+| Kelas                       | K01                          |
+| Periode/tanggal pelaksanaan | 8 Oktober2026 - 15 Oktober 2026    |
+| Versi bank/paket aktif      | 2.0 |
+| Modalitas                   | Teks    |
+| Status pengumpulan          | Sudah submit     |
 
 ## Makalah dan lima laporan
 
-| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
-|---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Tahap   | Template untuk diisi             | Target sesuai ZIP                       | Status        | Bukti/ID atau bagian yang masih kurang |
+| ------- | -------------------------------- | --------------------------------------- | ------------- | -------------------------------------- |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd)       | Kajian empat pertanyaan MBTI/PASK       | Siap dinilai | -                                  |
+| 1       | [hasil_1.qmd](UTS/hasil_1.qmd)   | Diri; Budi (K1-02) sebagai pembanding   | Siap dinilai | Bagian yang masih kurang adalah transkrip asli pertanyaan AI dan jawaban secara berurutan, terutama konfirmasi identitas, pertanyaan lanjutan Tahap B, dialog lengkap simulasi Budi, serta pertanyaan sebelum evaluasi dan penutup. Beberapa jawaban dan refleksi sudah tercatat, tetapi belum semua pesan verbatim tersedia.                                  |
+| 2a      | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2]        | Siap dinilai | [Isi]                                  |
+| 2b      | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Siap dinilai | [Isi]                                  |
+| 3a      | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3]        | Siap dinilai | [Isi]                                  |
+| 3b      | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Siap dinilai | [Isi]                                  |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
 ## Rekap nilai komponen
 
-| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
-|---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti  |
+| -------- | ----: | -------------------- | -------------- | ---------------------- | ------------- |
+| Makalah  |   10% | —                    | —              | —                      | Siap dinilai |
+| Sesi 1   |   18% | —                    | —              | —                      | Siap dinilai |
+| Sesi 2a  |   18% | —                    | —              | —                      | Siap dinilai |
+| Sesi 2b  |   18% | —                    | —              | —                      | Siap dinilai |
+| Sesi 3a  |   18% | —                    | —              | —                      | Siap dinilai |
+| Sesi 3b  |   18% | —                    | —              | —                      | Siap dinilai |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
