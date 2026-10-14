@@ -1,0 +1,299 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+author: "Muhammad Orkhan - 18225091"
+status: "Siap dinilai"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Orkhan |
+| NIM | 18225091 |
+| Kelas dan tanggal | K01; 15/10/2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 (Menawarkan solusi TI dan AI) |
+| Nama dan ID target | Ali (ID K3-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0; aturan dalam PENUGASAN_2.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap (U001-U009 dan AI001-AI008; 9 giliran mahasiswa, 8 giliran AI) |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+* **Brief kasus**: Customer menangani pertanyaan pelanggan berulang dan pesanan tercecer, tenaga terbatas. Ia belum yakin perlu AI. Mahasiswa bertugas menggali kebutuhan dan menawarkan solusi TI/AI yang sesuai, dengan sasaran keputusan/uji coba konkret.
+* **Konteks**: Ali mengelola usaha skala kecil dengan dua staf admin, menghadapi lonjakan chat WhatsApp/DM saat jam sibuk (menu, harga, ongkir, jam buka), dan pesanan sering terselip. Ali cemas teknologi AI terlalu rumit, staf bingung, atau sistem salah menjawab ke pelanggan setia.
+* **Respons akhir yang diharapkan**: Membangun rasa aman, menyepakati uji coba skala kecil yang realistis tanpa memaksakan AI menyeluruh, menyediakan demo dan pendampingan bertahap bagi staf admin, serta menetapkan batas intervensi sistem dengan kontrol manusia.
+* **Indikator keberhasilan**: Disepakatinya skema uji coba dua minggu (minggu 1: persiapan, demo 30 menit & latihan 30 menit; minggu 2: uji coba terawasi), target kuantitatif penurunan waktu chat 30%, akurasi jawaban 90%, nol pesanan tercecer, serta adaptasi demo menjadi sesi pengenalan santai tanpa pengiriman pesan riil guna meredakan kecemasan staf senior.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | S: Mampu menganalisis masalah dan menawarkan alternatif solusi. W: Belum memahami proses bisnis dan anggaran Ali. O: Otomatisasi menghemat waktu dan menertibkan pesanan. T: Penolakan teknologi, kekhawatiran biaya, dan risiko eror AI. | U002 | Laporan diri awal |
+| Attitude | Empatik, terbuka, mendengarkan aktif, dan tidak memaksakan adopsi AI jika belum dibutuhkan. | U002 | Laporan diri awal |
+| Knowledge | Memahami otomatisasi pesan standar, chatbot, integrasi pencatatan pesanan, dan batasan operasional AI. | U002 | Laporan diri awal |
+| Skill | Menggali kebutuhan operasional, menyederhanakan konsep teknis ke bahasa awam, serta merancang skema uji coba. | U002 | Laporan diri awal |
+| Preferensi/MBTI jika dilaporkan | Solutif, bertahap, berorientasi nilai guna dan pendampingan manusiawi. | U002 | Laporan diri |
+| Karakter, peran, kultur/ko-kultur | Konsultan/rekan pemecah masalah teknologi yang memprioritaskan kenyamanan pengguna non-teknis. | U002 | Laporan diri |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Membangun kesepakatan uji coba konkret otomatisasi pesan berulang selama 2 minggu dengan pendampingan staf. | A: Menghilangkan rasa takut gagal.<br>K: Menjelaskan batas sistem.<br>S: Merancang demo & latihan. | Validasi keraguan, pengenalan bertahap, pembatasan ruang lingkup AI, dan pendampingan intensif. | Ali menyetujui uji coba dua minggu dan menyambut demo pelatihan bagi stafnya di lokasi. |
+| Track (Attention) | Ali ragu dan berhati-hati, merasa belum yakin mampu menerapkan teknologi baru. | A: Menghargai keraguan dan tidak menekan untuk membeli/menggunakan AI. | Menyapa ramah, menanyakan alur masuknya pertanyaan pelanggan dan sistem pencatatan pesanan saat ini. | Ali rileks, terbuka menceritakan kendala 2 staf adminnya, pertanyaan berulang, dan pesanan tercecer. |
+| Analyze (Interest) | Ali khawatir AI terlalu canggih, staf bingung, dan bot salah jawab ke pelanggan. | K: Membedakan otomatisasi sederhana dengan AI kompleks; menjelaskan kontrol admin. | Mengusulkan jawaban otomatis untuk pertanyaan umum, pencatatan terpusat, dan admin tetap pegang pesanan khusus. | Ali merasa penjelasan masuk akal, rasa waswasnya hilang, dan mulai menanyakan mekanisme uji coba. |
+| Imagine & Decide (Desire) | Membutuhkan kepastian bentuk uji coba, durasi, pelatihan staf, dan indikator keberhasilan. | S: Menyusun skema uji coba 2 minggu, demo 30 menit, latihan 30 menit, dan 4 metrik sukses. | Menjelaskan alur bertahap (minggu 1 persiapan/latihan, minggu 2 uji coba terawasi) dan target penurunan waktu 30%. | Ali setuju penuh, menilai target realistis, dan menanyakan jadwal demo di tempat usahanya. |
+| Act (Action) | Staf admin senior cemas digantikan mesin dan takut salah pencet hingga membuat pelanggan marah. | S: Mendesain ulang sesi demo menjadi pengenalan santai tanpa pengiriman pesan riil. | Menegaskan AI hanya alat bantu, menghargai pemahaman staf senior, dan memberi latihan aman tanpa tekanan. | Ali merasa tenang dan teduh, optimisme tumbuh, dan langsung mengajak memulai sesi bersama kedua staf. |
+
+# C) Skrip Percakapan
+
+**U001** [Tahap A — Identifikasi]:  
+1. K01  
+2. 15/10/2026  
+3. Teks  
+4. Fiktif  
+
+**AI001** [Tahap B — Kasus dan Tujuan]:  
+Data identifikasi Sesi 3a telah dicatat: Kelas K01, Tanggal 15/10/2026, Modalitas Teks, Karakter Kasus Fiktif.  
+Brief Kasus 3: “Customer menangani pertanyaan pelanggan berulang dan pesanan tercecer, tenaga terbatas. Ia belum yakin perlu AI. Anda bertugas menggali kebutuhan dan menawarkan solusi TI/AI yang sesuai, dengan sasaran keputusan/uji coba konkret.”  
+Sebelum memulai simulasi percakapan dengan Ali, silakan tentukan dan sampaikan rencana awal Anda:  
+1. Tujuan tindakan: Sasaran konkret dalam percakapan ini (solusi awal, lingkup uji coba, indikator keberhasilan).  
+2. Dugaan profil diri awal (SWOT & ASK): Posisi sebagai penyedia solusi, sikap, pemahaman, dan keterampilan.  
+3. Dugaan awal terhadap customer (Ali): Perkiraan keraguan/ketakutan dan rencana TAIDA.  
+
+**U002** [Tahap B — Kasus dan Tujuan]:  
+1. Tujuan Tindakan:  
+Mengidentifikasi masalah utama Ali dalam menangani pertanyaan pelanggan dan pencatatan pesanan, kemudian menawarkan solusi TI/AI yang sesuai kebutuhan.  
+Target konkret: menyepakati uji coba selama dua minggu dengan indikator keberhasilan berupa penurunan waktu penanganan pertanyaan berulang dan berkurangnya pesanan yang terlewat.  
+2. Dugaan Profil Diri Awal (SWOT & ASK):  
+SWOT: Strengths: Mampu menganalisis masalah dan menawarkan alternatif solusi; Weaknesses: Belum memahami proses bisnis dan anggaran Ali; Opportunities: Otomatisasi dapat menghemat waktu dan meningkatkan ketertiban pesanan; Threats: Penolakan terhadap teknologi, biaya, dan risiko kesalahan AI.  
+ASK: Attitude: Empati, terbuka, dan tidak memaksakan AI; Knowledge: Memahami otomatisasi, chatbot, dan sistem pencatatan pesanan; Skill: Mendengarkan aktif, menggali kebutuhan, dan menjelaskan solusi secara sederhana.  
+3. Dugaan Awal terhadap Ali dan Strategi TAIDA:  
+Saya menduga Ali khawatir terhadap biaya, kompleksitas teknologi, keandalan AI, dan manfaatnya bagi bisnis. Dugaan ini perlu dikonfirmasi melalui percakapan.  
+Strategi TAIDA yang digunakan:  
+- Track: Menggali kondisi dan masalah operasional Ali.  
+- Analyze: Menentukan akar masalah dan prioritas kebutuhan.  
+- Imagine: Membandingkan solusi manual, otomatisasi sederhana, dan AI.  
+- Decide: Menyepakati solusi serta indikator keberhasilan uji coba.  
+- Act: Melaksanakan uji coba dan mengevaluasi hasilnya.  
+Prinsip utama: Memahami kebutuhan Ali terlebih dahulu, bukan langsung menjual AI.  
+
+**AI002** [Tahap C — Simulasi Awal]:  
+Rencana awal, profil diri, dan strategi TAIDA telah dicatat untuk laporan.  
+Sesuai ketentuan penugasan, hanya nama, peran, dan kalimat pembuka tokoh yang ditampilkan:  
+- Nama / Peran: Ali, pengelola usaha / customer.  
+- Konteks: Menangani pertanyaan pelanggan yang berulang dan pesanan yang sering tercecer di tengah keterbatasan staf, namun belum yakin memerlukan AI.  
+[Pemeranan Tokoh: Ali]  
+Ali menyambut Anda dengan senyum sopan namun raut wajahnya menyiratkan keraguan dan kehati-hatian:  
+“Terima kasih, tetapi saya belum yakin bisa melakukannya.”  
+Bagaimana respons Anda menanggapi keraguan pembuka dari Ali ini untuk menciptakan rasa aman sekaligus menggali kondisi operasional usahanya saat ini?  
+
+**U003** [Tahap C — Simulasi Awal]:  
+“Tidak apa-apa, Pak Ali. Saya tidak bermaksud langsung meminta Bapak menggunakan AI. Saya ingin memahami kondisi usaha Bapak terlebih dahulu, lalu kita bisa melihat apakah ada solusi yang benar-benar membantu.  
+Boleh saya tahu, selama ini pertanyaan pelanggan biasanya masuk melalui saluran apa, dan bagaimana Bapak mencatat serta memastikan setiap pesanan diproses?”  
+
+**AI003** [Tahap C — Simulasi Awal]:  
+[Pemeranan Tokoh: Ali]  
+Ali tersenyum ramah dan bahunya tampak lebih rileks mendengar nada bicara Anda yang tidak menekan dan menghargai keraguannya:  
+“Alhamdulillah, terima kasih ya sudah memahami. Usaha kami ini masih skala kecil dan staf admin saya cuma dua orang. Sebagian besar pesan masuk lewat WhatsApp dan DM media sosial. Masalahnya, tiap hari pertanyaannya hampir sama terus: tanya daftar menu, harga, ongkir, sampai jam buka. Pas jam sibuk siang hari, admin saya sering keteteran balas chat. Akibatnya, ada pesanan yang terselip di obrolan bawah dan baru ketahuan pas pelanggan komplain. Tapi kalau dengar istilah AI, saya suka takut. Khawatirnya teknologinya terlalu canggih atau rumit, nanti staf saya yang terbiasa pakai cara manual malah bingung, atau sistemnya salah jawab ke pelanggan setia kami.”  
+Bagaimana Anda merespons kekhawatiran Ali mengenai staf yang bingung dan risiko kesalahan sistem, sekaligus menjelaskan batasan solusi secara sederhana tanpa istilah teknis yang berat?  
+
+**U004** [Tahap C — Simulasi Awal]:  
+“Saya paham, Pak Ali. Kita tidak perlu langsung menggunakan AI yang rumit atau mengganti seluruh cara kerja staf Bapak. Kita bisa mulai dari hal sederhana, misalnya menyiapkan jawaban otomatis untuk pertanyaan umum seperti menu, harga, ongkir, dan jam buka.  
+Untuk pesanan, kita bisa mencoba pencatatan terpusat agar lebih mudah dipantau dan tidak tertimbun di chat. Namun, AI tetap bisa salah menjawab, jadi untuk pertanyaan khusus atau pesanan yang belum jelas, admin tetap menangani langsung.  
+Bagaimana kalau kita coba dalam skala kecil terlebih dahulu? Staf Bapak bisa belajar secara bertahap, lalu kita evaluasi apakah solusi ini benar-benar membantu. Menurut Bapak, apakah pendekatan seperti ini lebih memungkinkan?”  
+
+**AI004** [Tahap C — Simulasi Awal / Tahap D — Evaluasi Sementara]:  
+[Pemeranan Tokoh: Ali]  
+Ali mengangguk-angguk perlahan dengan ekspresi yang tampak jauh lebih lega dan tertarik:  
+“Penjelasan Mas masuk akal sekali dan tidak bikin waswas. Memang yang paling bikin capek staf saya itu cuma pertanyaan berulang seperti menu dan ongkir tadi. Kalau hal-hal standar itu bisa dibantu otomatis dan admin tetap pegang pesanan khusus, staf saya pasti tidak kaget. Tapi jujur, karena staf saya pendidikannya sederhana dan belum pernah pegang sistem baru, saya butuh kepastian soal cara mulainya. Kira-kira bentuk uji cobanya nanti seperti apa ya? Berapa lama waktunya, bagaimana cara melatih dua staf admin saya supaya tidak bingung, dan apa tanda pastinya kalau cara ini beneran berhasil buat usaha kami?”  
+Bagaimana Anda merumuskan kesepakatan uji coba konkret (mencakup lingkup, durasi, sesi demo/pelatihan kecil bagi staf, serta indikator keberhasilan yang terukur) untuk menjawab kebutuhan Ali?  
+
+**U005** [Tahap C — Simulasi Awal]:  
+“Baik, Pak Ali. Saya usulkan uji coba selama dua minggu dengan langkah sederhana.  
+Minggu pertama, kita siapkan jawaban otomatis untuk pertanyaan umum seperti menu, harga, ongkir, dan jam buka. Saya akan mengadakan demo singkat sekitar 30 menit, lalu mendampingi kedua staf Bapak berlatih selama 30 menit lagi menggunakan contoh percakapan sehari-hari.  
+Minggu kedua, kita jalankan uji coba dengan pengawasan. AI hanya menangani pertanyaan standar, sedangkan pesanan dan pertanyaan khusus tetap ditangani admin.  
+Untuk mengukur keberhasilannya, kita bandingkan kondisi sebelum dan sesudah uji coba, dengan target:  
+1. Waktu menangani pertanyaan berulang berkurang minimal 30%.  
+2. Minimal 90% pertanyaan standar dijawab dengan benar.  
+3. Tidak ada pesanan yang terlewat akibat pencatatan.  
+4. Kedua staf mampu menggunakan sistem secara mandiri untuk tugas dasar.  
+Jika hasilnya belum tercapai, kita evaluasi dan perbaiki sebelum memutuskan melanjutkan. Apakah Bapak bersedia mencoba skema dua minggu ini dengan kedua staf admin, dimulai dari demo singkat terlebih dahulu?”  
+
+**AI005** [Tahap C — Simulasi Awal / Tahap D — Evaluasi Sementara]:  
+[Pemeranan Tokoh: Ali]  
+Ali tersenyum lebar dan mengangguk dengan rasa percaya yang tumbuh:  
+“Penjelasannya sangat menenangkan dan terukur. Demo 30 menit ditambah latihan langsung buat staf admin itu pas sekali, tidak bikin mereka tertekan atau merasa digantikan. Targetnya juga realistis buat usaha kecil kami. Saya setuju untuk uji coba dua minggu ini. Kapan Mas ada waktu luang minggu ini untuk demo awal di tempat kami?”  
+[Tahap D — Evaluasi Sementara]  
+Sebelum masuk ke tahap uji ulang, silakan lakukan evaluasi sementara terhadap percakapan yang baru berlangsung:  
+1. Evaluasi Stimulus & Respons Ali: Mengapa pendekatan bertahap, demo pendampingan, dan batasan teknologi yang Anda tawarkan berhasil mengubah keraguan Ali menjadi kesepakatan uji coba?  
+2. Dugaan Profil Komunikan (Ali): Perkiraan hambatan A/K/S utama, karakter/preferensi komunikasi, dan kekhawatiran terbesarnya sebelum melihat rancangan profil internal.  
+
+**U006** [Tahap D — Evaluasi Sementara]:  
+1. Evaluasi Stimulus & Respons Ali  
+Pendekatan saya berhasil karena:  
+- Bertahap: Solusi dimulai dari pertanyaan berulang, bukan langsung mengubah seluruh proses bisnis.  
+- Pendampingan: Demo dan latihan langsung mengurangi kekhawatiran staf terhadap sistem baru.  
+- Batasan teknologi: AI hanya menangani pertanyaan standar, sedangkan admin tetap menangani pesanan khusus untuk mengurangi risiko kesalahan.  
+- Target terukur: Indikator keberhasilan dan durasi dua minggu membuat manfaat uji coba lebih jelas dan dapat dievaluasi.  
+Hasilnya, Ali merasa dipahami, tidak tertekan, dan memiliki kendali atas keputusan. Kepercayaan tersebut mendorongnya menyetujui uji coba.  
+2. Dugaan Profil Komunikan (Ali)  
+- Attitude (A): Cenderung berhati-hati dan skeptis terhadap teknologi baru, tetapi terbuka apabila manfaatnya jelas dan risikonya terkendali.  
+- Knowledge (K): Pemahaman tentang AI dan sistem digital kemungkinan masih terbatas, begitu pula pengalaman staf menggunakan sistem baru.  
+- Skill (S): Kemampuan mengoperasikan teknologi baru pada Ali dan stafnya mungkin belum memadai sehingga membutuhkan demo dan latihan praktis.  
+Karakter dan preferensi komunikasi: Ali tampaknya menyukai komunikasi sederhana, konkret, tidak terlalu teknis, serta disertai contoh dan langkah implementasi yang jelas.  
+Kekhawatiran terbesar: Teknologi terlalu rumit, staf kesulitan beradaptasi, dan AI memberikan jawaban keliru yang merusak kepercayaan pelanggan.  
+Kesimpulan: Ali bukan menolak inovasi secara mutlak. Ia membutuhkan bukti manfaat, pendampingan, dan kendali manusia sebelum bersedia mengadopsi teknologi baru.  
+
+**AI006** [Tahap E — Uji Ulang]:  
+Analisis dan dugaan profil yang Anda rumuskan sangat akurat dan tajam.  
+Sebagai bentuk keterbukaan simulasi: profil internal K3-01 (Ali) dirancang dengan preferensi fiktif INFP (menghargai makna personal, harmoni, berhati-hati, dan butuh rasa aman). Hambatan utamanya: Attitude (ingin berkembang namun takut gagal, khawatir staf tidak sanggup), Knowledge (gambaran manfaat ada, namun prosedur dan batas belum dipahami), Skill (staf mampu langkah dasar, butuh demo dan pelatihan kecil).  
+[Tahap E — Uji Ulang]  
+Sekarang kita memasuki tahap uji ulang untuk menguji konsistensi pendampingan dan adaptasi solusi Anda saat dihadapkan pada kendala operasional baru di lapangan.  
+Saat Anda datang ke lokasi untuk sesi demo 30 menit di hari pertama, salah satu staf admin senior Ali terlihat ragu dan cemas. Ali kemudian mengajak Anda bicara berdua di sudut ruangan:  
+“Mas, ini staf admin saya yang senior kelihatannya masih grogi banget. Tadi pas saya kasih tahu soal otomatisasi ini, dia sempat nyeletuk takut nanti kalau salah pencet sistemnya malah kirim chat yang bikin pelanggan marah, atau ujung-ujungnya pekerjaan dia digantikan sama mesin. Kalau staf saya sudah cemas begini sebelum demo mulai, saya jadi ragu lagi untuk melanjutkannya. Bagaimana kita menyikapi kekhawatiran staf saya ini sebelum demo dimulai?”  
+Bagaimana respons Anda menenangkan kekhawatiran Ali dan stafnya, menjaga rasa aman mereka, serta menyesuaikan alur demo/latihan agar tidak menimbulkan resistensi?  
+
+**U007** [Tahap E — Uji Ulang]:  
+“Saya mengerti, Pak Ali. Menurut saya, kita sebaiknya tidak langsung memulai demo sebelum staf merasa nyaman. Saya juga ingin menegaskan bahwa tujuan otomatisasi ini bukan menggantikan pekerjaan staf, tetapi mengurangi beban menjawab pertanyaan yang berulang agar mereka bisa lebih fokus melayani pelanggan.  
+Bagaimana kalau demo hari ini kita ubah menjadi pengenalan santai terlebih dahulu? Kita mulai dengan melihat contoh pertanyaan dan jawaban tanpa mengirim pesan sungguhan kepada pelanggan. Setelah itu, staf boleh mencoba sendiri menggunakan contoh percakapan, dengan saya mendampingi. Kita juga akan menjelaskan cara memeriksa jawaban dan memastikan pesan tidak terkirim tanpa sengaja.  
+Tidak ada tuntutan untuk langsung mahir. Kalau ada bagian yang membingungkan, kita berhenti dan mengulanginya. Masukan dari staf senior justru penting karena beliau paling memahami kebiasaan pelanggan dan alur kerja sehari-hari.  
+Bagaimana, Pak Ali? Apakah Bapak bersedia jika kita meminta staf mencoba secara bertahap, tanpa tekanan, lalu memutuskan langkah berikutnya berdasarkan kenyamanan dan hasil latihan mereka?”  
+
+**AI007** [Tahap F — Refleksi dan Lesson Learned]:  
+[Pemeranan Tokoh: Ali]  
+Wajah Ali yang tadinya tegang seketika menjadi teduh. Ia menghela napas lega dan tersenyum tulus:  
+“Alhamdulillah, terima kasih banyak ya Mas. Ide untuk mengubah sesi jadi pengenalan santai tanpa kirim pesan sungguhan ini pas sekali. Penegasan bahwa sistem ini bukan untuk menggantikan mereka—ditambah menghargai pengalaman staf senior saya—pasti bikin mereka merasa aman dan dihargai. Mari kita sampaikan langsung ke beliau berdua dengan cara seperti itu. Saya yakin kalau didampingi bertahap dan tahu pesan tidak akan terkirim sembarangan, rasa takutnya bakal hilang. Ayo Mas, kita mulai sesinya!”  
+[Tahap F — Refleksi dan Lesson Learned]  
+Untuk melengkapi draf laporan Sesi 3a, silakan jawab empat pertanyaan sintesis berikut:  
+1. Perubahan ASK & SWOT dalam menghadapi kekhawatiran adopsi teknologi dari pemilik usaha dan staf non-teknis.  
+2. Stimulus efektif vs tidak efektif dalam menumbuhkan rasa aman Ali dan stafnya.  
+3. Pesan personal dan kualitas relasi dalam merespons kekhawatiran manusiawi tanpa mengabaikan objektivitas solusi TI/AI.  
+4. Tindak lanjut konkret dan batas bukti simulasi teks dibandingkan implementasi riil.  
+
+**U008** [Tahap F — Refleksi dan Lesson Learned]:  
+1. Perubahan ASK & SWOT:  
+- Knowledge: Saya memahami bahwa adopsi TI/AI tidak hanya bergantung pada kecanggihan teknologi, tetapi juga pada kesiapan pengguna dan batas operasional sistem.  
+- Attitude: Saya menjadi lebih empatik, sabar, dan terbuka terhadap keraguan customer maupun staf.  
+- Skill: Saya belajar menggali kebutuhan, menjelaskan teknologi dengan bahasa sederhana, serta menyesuaikan demo dan pelatihan dengan kesiapan pengguna.  
+Dari sisi SWOT, kekuatan saya adalah analisis masalah dan komunikasi adaptif. Kelemahan saya adalah belum memiliki bukti implementasi nyata. Peluangnya adalah meningkatkan efisiensi usaha, sedangkan ancamannya meliputi resistensi staf, kesalahan sistem, dan gangguan pelayanan.  
+2. Stimulus Efektif vs. Tidak Efektif:  
+Stimulus efektif:  
+- Menegaskan bahwa AI membantu pekerjaan, bukan menggantikan staf.  
+- Memulai demo tanpa mengirim pesan sungguhan kepada pelanggan.  
+- Memberikan latihan bertahap dengan pendampingan.  
+- Menghargai pengalaman staf senior dan menjadikan masukan mereka sebagai bahan evaluasi.  
+Stimulus yang berisiko memicu resistensi:  
+- Memaksakan penggunaan AI tanpa memahami kekhawatiran pengguna.  
+- Menggunakan istilah teknis yang sulit dipahami.  
+- Menjanjikan AI selalu benar atau menjamin pekerjaan menjadi lebih mudah tanpa bukti.  
+- Mengabaikan pengalaman staf dan langsung mengubah seluruh alur kerja.  
+3. Pesan Personal & Kualitas Relasi:  
+Saya menunjukkan kepedulian dengan mendengarkan kekhawatiran Ali dan stafnya tanpa menghakimi. Saya juga menghargai pengalaman staf senior serta memberikan ruang bagi mereka untuk belajar tanpa tekanan.  
+Namun, empati tetap harus disertai objektivitas. Saya tidak menjanjikan sistem bebas kesalahan, melainkan menjelaskan batasannya, mempertahankan pengawasan manusia, dan mengukur manfaatnya melalui hasil uji coba.  
+4. Tindak Lanjut & Batas Bukti:  
+Rencana uji coba dua minggu:  
+1. Hari pertama: Demo pengenalan 30 menit tanpa pesan sungguhan, dilanjutkan latihan terbimbing.  
+2. Minggu pertama: Menyiapkan jawaban otomatis untuk pertanyaan umum dan pencatatan pesanan terpusat.  
+3. Minggu kedua: Menguji sistem secara terbatas, memantau kesalahan, dan mengumpulkan masukan kedua staf.  
+4. Evaluasi akhir: Membandingkan waktu penanganan pertanyaan, ketepatan jawaban, pesanan yang terlewat, dan kemampuan staf menggunakan sistem.  
+Target awalnya adalah mengurangi waktu penanganan pertanyaan berulang minimal 30%, mencapai ketepatan jawaban minimal 90%, dan tidak ada pesanan yang terlewat akibat pencatatan. Target ini perlu dievaluasi berdasarkan data awal dan kondisi aktual.  
+Batas bukti: Simulasi teks hanya menunjukkan bahwa pendekatan komunikasi dapat membangun kepercayaan dan menghasilkan persetujuan uji coba dalam skenario fiktif. Simulasi ini belum membuktikan efektivitas teknologi, kesiapan staf sebenarnya, atau pencapaian target operasional. Kesimpulan tersebut baru dapat ditarik setelah implementasi dan pengukuran langsung.  
+
+**AI008** [Tahap G — Konfirmasi Ringkasan]:  
+Tahap A hingga F untuk Sesi 3a telah selesai dijalankan secara utuh.  
+Ringkasan data dicatat: Mahasiswa Muhammad Orkhan (NIM 18225091), Kelas K01, Tanggal 15/10/2026, Komunikan Ali (K3-01), Kasus Solusi TI dan AI. Berhasil mengatasi keraguan adopsi teknologi dan resistensi staf senior melalui pendekatan bertahap, demo aman tanpa kirim pesan riil, dan matriks target terukur. Usulan nilai enam dimensi = 24/24 (100).  
+Apakah Anda mengonfirmasi seluruh isi ringkasan ini untuk dicetak ke dalam berkas hasil_3a_18225091.qmd?  
+
+**U009** [Tahap G — Konfirmasi Ringkasan]:  
+ya  
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+* **Pencapaian tujuan**: Target tindakan tercapai secara komprehensif; Ali menyetujui uji coba bertahap selama dua minggu, keraguan staf senior dimitigasi dengan simulasi aman tanpa kirim pesan langsung, dan pengawasan manusia dipertahankan secara tegas.
+* **Bukti komitmen vs tindakan riil**: Di dalam sesi teks, komitmen Ali tercermin dari kesediaannya membuka dialog dan langsung mengajak mahasiswa menemui staf untuk memulai sesi santai. Keberhasilan teknis sistem dan pencapaian target 30% efisiensi waktu tetap memerlukan pembuktian empiris saat uji coba lapangan berjalan.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Khawatir penolakan teknologi dan kendala anggaran/staf. | Memanfaatkan kepekaan empatik untuk menyelaraskan solusi TI dengan kesiapan psikologis staf. | U002, U006, U008 | Laporan diri terkonfirmasi dalam teks. |
+| Attitude | Terbuka dan solutif, namun berpotensi tergesa-gesa mempromosikan fitur teknologi. | Empatik, sabar, memprioritaskan kenyamanan manusia di atas kebanggaan kecanggihan alat. | U003, U004, U007, U008 | Demonstrasi pendekatan konsultatif. |
+| Knowledge | Menguasai arsitektur bot dan otomatisasi secara teknis semata. | Memahami dinamika adopsi sistem: batasan kesalahan AI, risiko resistensi karyawan, dan pentingnya *human-in-the-loop*. | U004, U006, U008 | Diagnosis psikososial dan teknis presisi. |
+| Skill | Mengetahui konsep demo tetapi belum terbiasa merancang *sandbox* tanpa risiko. | Mampu mengubah format demo teknis menjadi simulasi latihan santai yang bebas ancaman operasional. | U005, U007 | Demonstrasi pemecahan masalah kontekstual. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| Pembuka (U003) | Ali ragu dan berhati-hati: "belum yakin bisa melakukannya" (AI002). | Memvalidasi keraguan tanpa menekan, menegaskan tidak langsung jualan AI, menanyakan saluran pesan & pesanan. | Rileks, bahu mengendur, curhat soal 2 admin kewalahan chat berulang & pesanan tercecer (AI003). | A: Rasa aman naik.<br>K: Kebutuhan operasional terbuka. | Menghindari promosi fitur canggih; fokus pada pemetaan masalah. |
+| Solusi & Uji Coba (U004–U005) | Ali takut AI rumit, staf bingung, dan bot salah jawab (AI003). | Usul otomatisasi chat umum & rekap pesanan, admin pegang kasus khusus, rencana uji coba 2 minggu, 4 metrik sukses. | Sangat tertarik, rasa waswas hilang, menyetujui uji coba 2 minggu, menanyakan jadwal demo (AI004, AI005). | K: Batas AI dipahami.<br>S: Struktur uji coba jelas. | Menyisipkan sesi latihan 30 menit khusus staf di minggu pertama. |
+| Uji Ulang Disrupsi (U007) | Staf senior grogi takut digantikan mesin & takut salah pencet hingga Ali ragu (AI006). | Menunda demo formal, tegaskan AI bukan pengganti staf, ubah sesi ke pengenalan santai tanpa kirim pesan riil. | Wajah teduh, menghela napas lega, tersenyum tulus, langsung mengajak mulai sesi bersama staf (AI007). | A: Resistensi staf luntur.<br>S: Lingkungan belajar aman. | Menempatkan staf senior sebagai pemberi masukan alur kerja utama. |
+
+* **Perbandingan Profil Ali**: Estimasi mahasiswa di U006 (tipe berhati-hati, menjaga harmoni/staf, cemas teknologi rumit, butuh contoh konkret dan pendampingan bertahap) sepenuhnya cocok dengan konfigurasi internal K3-01 (INFP, hambatan A: takut staf tidak sanggup; K: prosedur belum dipahami; S: butuh demo & pelatihan kecil). Mahasiswa mengidentifikasi profil dengan tepat sebelum pengungkapan resmi.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| Membuka Keraguan (U003) | “Tidak apa-apa, Pak Ali. Saya tidak bermaksud langsung meminta Bapak menggunakan AI. Saya ingin memahami kondisi usaha Bapak terlebih dahulu...” | Ali tersenyum ramah, bahunya tampak rileks, dan mengucap terima kasih atas pemahamannya. | Rasa aman: Tinggi.<br>Kepercayaan: Mulai terbentuk.<br>Keterbukaan: Sangat kooperatif. | Memvalidasi ketakutan komunikan meruntuhkan persepsi bahwa mahasiswa hanya mengejar transaksi sepihak (*no hard-selling*). |
+| Meredakan Kecemasan Staf (U007) | “...tujuan otomatisasi ini bukan menggantikan pekerjaan staf... Masukan dari staf senior justru penting karena beliau paling memahami kebiasaan pelanggan...” | Wajah Ali menjadi teduh, lega, dan tersenyum tulus mengajak langsung menemui staf. | Kepercayaan: Kokoh.<br>Rasa aman: Sangat tinggi bagi pemilik dan staf. | Menghargai martabat dan pengalaman kerja karyawan lokal menciptakan loyalitas kemitraan tanpa sanjungan berlebihan. |
+
+## Uji ulang dan pembelajaran
+
+* **Stimulus sejenis**: Pada fase awal, keraguan datang dari Ali selaku pemilik bisnis yang khawatir teknologi membuat operasional kacau. Pada tahap uji ulang, penolakan bergeser ke tingkat akar rumput: staf senior mengalami ketakutan eksistensial (takut digantikan mesin) dan ketakutan teknis (takut salah pencet).
+* **Respons dan adaptasi**: Mahasiswa tidak meremehkan ketakutan staf. Ia segera mengubah skenario demo menjadi sesi tanpa risiko (*sandbox* lokal tanpa pengiriman ke nomor pelanggan) dan memposisikan staf senior sebagai mitra ahli yang memahami karakter pembeli.
+* **Keterbatasan transfer**: Keberhasilan negosiasi dalam format teks membuktikan keunggulan strategi empati dan perancangan komunikasi adaptif mahasiswa. Namun, adopsi teknologi di lapangan nyata sering kali menghadapi friksi laten berupa kesenjangan literasi digital antar-generasi, antarmuka aplikasi yang membingungkan, atau konektivitas jaringan yang tidak stabil.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| 1. Tujuan dan konteks | 4 | U002: "Target konkret: menyepakati uji coba selama dua minggu dengan indikator keberhasilan berupa penurunan waktu penanganan pertanyaan berulang dan berkurangnya pesanan yang terlewat." | Menetapkan sasaran uji coba yang jelas, memetakan indikator kinerja, dan menghormati skala operasional UMKM secara kontekstual. |
+| 2. Persepsi dan validasi profil/status | 4 | U003, U006: "Dugaan Profil: Attitude (berhati-hati terhadap teknologi), Knowledge (pemahaman AI terbatas), Skill (butuh demo dan latihan praktis)..." | Menangkap sinyal keraguan non-teknis secara peka dan mendiagnosis profil hambatan secara akurat sebelum simulator membukanya. |
+| 3. Pemilihan dan urutan repertoar | 4 | U004, U005: "Minggu pertama: siapkan jawaban otomatis, demo 30 menit, dampingi 30 menit... Minggu kedua: uji coba pengawasan... Target 30% waktu berkurang, 90% akurat..." | Menyusun tahapan TAIDA secara terstruktur: beralih dari empati menuju perancangan alur implementasi bertahap yang sangat logis. |
+| 4. Eksekusi jelas, peduli dan konsisten | 4 | U004, U007: "...tujuan otomatisasi ini bukan menggantikan pekerjaan staf... Masukan dari staf senior justru penting... kita ubah jadi pengenalan santai tanpa kirim pesan sungguhan..." | Menghadirkan empati nyata dan kepedulian fungsional tanpa janji palsu, menjaga batasan kontrol admin demi keamanan bisnis pelanggan. |
+| 5. Evaluasi dan adaptasi | 4 | U007: "Bagaimana kalau demo hari ini kita ubah menjadi pengenalan santai terlebih dahulu? Kita mulai dengan melihat contoh... tanpa mengirim pesan sungguhan..." | Mampu mengintervensi kepanikan staf di jam pertama demo dengan mengubah metodologi pelatihan secara fleksibel dan bebas risiko. |
+| 6. Refleksi dan lesson learned | 4 | U008: "Adopsi TI/AI tidak hanya bergantung pada kecanggihan teknologi, tetapi juga pada kesiapan pengguna... Bantuan diberikan untuk meringankan, bukan menggantikan..." | Menyajikan perenungan kritis yang matang mengenai batas etis otomatisasi, psikologi tenaga kerja, dan batas validasi simulasi teks. |
+
+* **Usulan Nilai AI**: Jumlah skor = 4 + 4 + 4 + 4 + 4 + 4 = 24.  
+  Nilai Sesi 3a = (24 / 24) × 100 = **100**. *(Memerlukan moderasi dosen)*.
+
+## Refleksi dan lesson learned mahasiswa
+
+* **Dugaan yang dikoreksi**: Mahasiswa menyadari bahwa hambatan terbesar dalam penetrasi teknologi digital bukanlah penolakan terhadap harga atau fitur, melainkan kecemasan psikologis akan hilangnya rasa aman kerja (*job insecurity*) dan ketakutan dipermalukan oleh sistem.
+* **Stimulus efektif vs tidak efektif**: Pendekatan bertahap, jaminan perlindungan kerja manusia, simulasi pengenalan tertutup (*offline/draft*), serta metrik evaluasi yang jelas terbukti efektif membuka kolaborasi. Sebaliknya, janji bombastis dan demonstrasi langsung di jalur produksi berisiko memicu penolakan defensif.
+* **Pelajaran yang diterapkan**: Keberhasilan integrasi teknologi informasi berbanding lurus dengan derajat rasa aman yang dirasakan oleh operator lapangan; partisipasi aktif pengguna akhir harus dibangun sejak menit pertama.
+
+## Tindak lanjut dan batas bukti
+
+* **Langkah lanjutan**:
+  1. Menjalankan sesi pengenalan santai 30 menit bersama Ali dan kedua staf admin menggunakan modul *mock-up* teks.
+  2. Mengumpulkan daftar FAQ spesifik (menu, jam operasional, variasi ongkos kirim) berdasarkan catatan pengalaman staf senior.
+  3. Mengonfigurasi sistem respons otomatis terintegrasi lembar pencatatan pesanan di minggu pertama.
+  4. Melakukan uji coba terkontrol selama minggu kedua dengan pemantauan harian terhadap tingkat akurasi 90% dan penurunan beban kerja 30%.
+* **Batas pembuktian**: Transkrip teks mencerminkan kemampuan persuasi konsultatif dan kecakapan rekayasa solusi yang adaptif. Namun, kinerja operasional riil tetap bergantung pada keandalan infrastruktur API pesan, variasi bahasa percakapan pelanggan yang tidak terduga, dan konsistensi staf dalam memeriksa antrean pesanan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100 |
+| Sesi 2a | 18% | 100 |
+| Sesi 2b | 18% | 100 |
+| Sesi 3a | 18% | 100 |
+| Sesi 3b | 18% | BT |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS**: **Belum dihitung** (menunggu nilai makalah pra-UTS serta penyelesaian Sesi 3b).
