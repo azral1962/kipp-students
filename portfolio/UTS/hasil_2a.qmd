@@ -1,1 +1,268 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
 
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Aquilla Arizqy |
+| NIM | 18225017 |
+| Kelas dan tanggal | K-01, 15/10/2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 (Persahabatan dan Profesionalitas) |
+| Nama dan ID target | Ali (K2-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks (Berbasis sesi AI) |
+| Kasus nyata/fiktif | Nyata |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief Kasus:**
+Tenggat tugas kelompok tinggal 48 jam lagi. Rekan dekat (Ali) belum mengirim bagiannya dan merasa pembagian tugas tidak adil. Mahasiswa mengajak percakapan untuk menjaga hubungan persahabatan dan menyepakati tanggung jawab penyelesaian tugas.
+
+**Konteks & Tujuan:**
+Mahasiswa bertujuan untuk mengetahui alasan dibalik keraguan dan keterlambatan Ali, meredakan kecemasan/defensivitas Ali, menyelaraskan pembagian kerja secara adil dan realistis sesuai kapasitas Ali, serta memastikan tugas kelompok tuntas sebelum tenggat 48 jam tanpa merusak persahabatan.
+
+**Indikator Keberhasilan:**
+1. Ali merasa aman untuk mengungkapkan kendala teknis dan personalnya secara jujur.
+2. Menyepakati re-strukturisasi pembagian tugas yang realistis (descoping & pendampingan).
+3. Komitmen Ali untuk menyelesaikan bagian tugas yang telah disepakati tepat waktu di tengah kendala baru.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | **Strength:** Kepedulian tinggi pada persahabatan dan tanggung jawab tim. **Weakness:** Asumsi awal sebelum klarifikasi. **Opportunity:** Membangun kolaborasi tangguh. **Threat:** Tenggat waktu 48 jam. | U001 | Laporan Diri |
+| Attitude | Mengutamakan pendekatan langsung, terbuka, dan non-judgemental. | U001 | Terobservasi |
+| Knowledge | Memahami pentingnya klarifikasi fakta dan penyesuaian beban kerja. | U001 | Terobservasi |
+| Skill | Mampu melakukan re-scoping tugas, pemetaan solusi konkret, dan fleksibilitas jadwal. | U002, U003 | Terobservasi |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan | U001 | Laporan Diri |
+| Karakter, peran, kultur/ko-kultur | Rekan tim dan sahabat yang suportif serta berorientasi solusi. | U001-U003 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati bagian tugas Ali dan menjaga persahabatan | Mengatasi ketakutan gagal dan kebingungan petunjuk subtugas | Pertanyaan terbuka & penawaran bantuan konkret | Keterbukaan Ali dan kesepakatan ulang |
+| Attention | Ali ragu dan defensif ("belum yakin bisa") | A: Memvalidasi perasaan ragu & tekanan tenggat waktu | Kalimat empati dan keterbukaan tanpa menghakimi | Ali merasa aman untuk bercerita |
+| Interest | Ali menyampaikan kendala analisis data & keluarga sakit | K: Menguraikan ulang instruksi dan membagi peran | Penawaran pengambilalihan bagian berat (olah data) | Ali tertarik pada pembagian tugas baru |
+| Desire | Ali khawatir merusak nilai tim & kehabisan waktu | K & S: Menyediakan draf awal & tugas grafik yang ringan | Skenario waktu fleksibel dan pendampingan | Ali menyatakan yakin dan lega |
+| Action | Menyepakati penyerahan grafik visual sebelum jam 20.00 | S: Memfokuskan tugas pada pembuatan grafik singkat | Re-scoping darurat saat kendala rumah sakit muncul | Ali menyelesaikan tugas tepat waktu |
+
+# C) Skrip Percakapan
+
+**[Tahap A & B: Identifikasi dan Penentuan Kasus]**
+
+**U001:** 1. Contoh: K-01, 15/10/2026, Teks - Sesi AI  
+2. Nyata  
+3. Saya ingin mengetahui apakah Ali merasa pembagian tugas nya tidak adil karttena kenapa dan menjelaskan bahwa pembagian tugas nya telah dibagi secara adil dan membuat ali dapat menyelesaikan bagian yang belum ia kerjakan serta mungkin beberapa masalah yang dia alami sehingga aku dapat membantu nya  
+4. mungkin ali merasa sedang cape dsb. oleh karena itu agar pasti aku menanyakan kepada ali agar jawaban ku pasti dan tidak hanya asumsi belaka, untuk pendekatan, aku akan mendatangi nya secara langsung, karena menurutku pendekatan secara langsung lebih baik daripada lewat chat atau peranmtara dan aku akan menanyakan nya dengan santai kepada ali, tetapi dengan niat yg serius
+
+**AI001:** Terima kasih atas penjelasan tujuan dan rencana pendekatan awal Anda yang sangat baik—menghindari asumsi dengan bertanya langsung, menjaga hubungan persahabatan, serta siap mendengarkan dan membantu kendala Ali!
+
+---
+
+### **Tahap C: Simulasi Percakapan (Kasus 2a)**
+
+Skenario dimulai: Anda mendatangi Ali secara langsung dalam suasana santai namun serius untuk membicarakan tugas kelompok yang tenggatnya tinggal 48 jam lagi.
+
+**Ali (K2-01) menyapa Anda dengan nada sedikit ragu dan tertahan:**
+
+> **Ali:** *“Terima kasih, tetapi saya belum yakin bisa melakukannya.”*
+
+---
+
+**Giliran Anda (U001):**
+Bagaimana Anda membalas perkataan Ali tersebut untuk memvalidasi perasaannya, menggali penyebab keraguannya, serta mendiskusikan bagian tugasnya?
+
+**[Tahap C: Simulasi Awal - Memvalidasi dan Menggali Kendala]**
+
+**U002:** "Nggak apa-apa banget, Li, terima kasih ya udah jujur dari awal. Wajar kok kalau merasa ragu, apalagi sisa waktu kita tinggal 48 jam lagi dan tekanannya lumayan kerasa.
+Boleh cerita sedikit nggak, apa yang bikin kamu merasa belum yakin? Apakah ada bagian dari materi/tugas ini yang terasa membingungkan, atau ada kendala di kapasitas waktu kamu saat ini?
+Tujuan aku ngobrol sekarang bukan buat nambah beban kamu, tapi buat nyari cara bareng-bareng. Coba kita bedah pembagian tugasnya ya—bagian mana yang menurut kamu paling nyaman buat dikerjakan, dan mana yang sekiranya bisa aku atau tim bantu rangkap?"
+
+**AI002:** Sikap Anda yang sangat empati, memvalidasi beban Ali, dan menawarkan bantuan secara terbuka membuat Ali merasa lebih aman (*rasa aman & kepercayaan meningkat*). Defensivitas Ali mulai berkurang dan ia bersedia menceritakan kendala sebenarnya yang sedang dialaminya.
+
+**Ali (K2-01) menghela napas lega, lalu menjawab:**
+
+> **Ali:** *“Makasih banyak ya udah mau ngertiin, bro. Sebenarnya bukan aku gak mau ngerjain, tapi bagian analisis data yang dikasih ke aku itu petunjuknya kurang jelas. Aku bingung harus mulai dari rumus mana dan takut nanti kalau asal buat, hasilnya malah salah dan ngerusak nilai kelompok kita. Selain itu, minggu ini aku juga lagi ada kendala waktu karena harus dampingi keluarga yang sakit.”*
+
+---
+
+### **Langkah Simulasi berikutnya (Tahap C - Giliran U002):**
+
+Sekarang Anda sudah mengetahui penyebab utama keraguan Ali:
+1. **Hambatan K/S:** Kebingungan teknis pada subtugas analisis data (petunjuk kurang jelas).
+2. **Hambatan Sikap/A:** Takut gagal/salah dan dianggap tidak berguna (*takut merusak nilai tim*).
+3. **Kendal Waktu:** Harus mendampingi keluarga.
+
+Bagaimana kalimat tanggapan Anda (U002) untuk merespons keterbukaan Ali ini? Berikan solusi konkret, bantuan subtugas, serta penyesuaian jadwal yang jelas dan realistis tanpa menghakimi Ali.
+
+**[Tahap C: Simulasi Awal - Solusi Konkret & Re-Scoping]**
+
+**U003:** "Terima kasih banyak udah mau cerita terbuka ya, Li. Pertama-tama, semoga anggota keluarga yang lagi sakit cepat sembuh dan diberikan kelancaran. Urusan keluarga jelas prioritas utama, jadi kamu enggak perlu merasa bersalah sama sekali.
+Soal takut bikin salah dan ngerusak nilai kelompok, tenang aja, ini tanggung jawab kita bersama. Nggak ada yang bakal nyalahin kamu. Soal kendala analisis data dan keterbatasan waktu ini, gimana kalau kita atur strategi seperti ini:
+1. Penyederhanaan & Bantuan Subtugas (K/S): Bagian olah data dan rumus yang membingungkan biar aku yang ambil alih atau bantu kerjakan draf dasarnya malam ini. Kamu nggak perlu pusing dari nol.
+2. Fokus Tugas yang Ringan & Spesifik (A/S): Kamu cukup bantu di bagian yang lebih ringan dan cepat, misalnya merapikan format laporan, membuat grafik visual dari hasil olah datanya nanti, atau menyusun kesimpulan singkat.
+3. Penyesuaian Jadwal (Kendal Waktu): Fokus aja dulu dampingi keluarga hari ini. Aku bakal kirim draf olah datanya besok pagi. Kamu bisa sentuh bagianmu kapan pun kamu ada waktu senggang besok sebelum jam 8 malam, lalu kita review bareng sebentar secara online.
+Menurutmu dengan pembagian dan jadwal seperti ini, apakah terasa lebih aman dan realistis buat kondisi kamu sekarang?"
+
+**AI003:** Sikap Anda yang sangat berempati, mendahulukan prioritas keluarga Ali, memvalidasi kekhawatirannya, serta menawarkan bantuan teknis konkret (*penyederhanaan subtugas, pendampingan draf olah data, dan fleksibilitas waktu*) berhasil secara efektif mengatasi seluruh hambatan Ali. Ali merasa sangat dihargai dan dibantu.
+
+**Ali (K2-01) tersenyum lega dan menjawab dengan mantap:**
+
+> **Ali:** *“Jujur ini ngebantu banget, bro! Makasih banyak ya udah mau ambil alih bagian rumus yang bikin pusing itu. Kalau cuma bikin grafik visual dan merapikan format laporan besok malam setelah draf olah data dari kamu siap, aku yakin banget bisa selesaikan tepat waktu sebelum jam 8 malam. Nanti besok malam langsung aku kabari begitu selesai aku rapikan.”*
+
+---
+
+### **Tahap D: Evaluasi Sementara (Sebelum Pengungkapan Profil Internal)**
+
+Mari kita cermati perkembangannya:
+* **Tujuan Awal:** Mengetahui alasan Ali, menjelaskan/menyesuaikan pembagian tugas agar adil, serta membantu kendala Ali agar bagian tugas selesai sebelum tenggat 48 jam.
+* **Evaluasi Fasilitator:** Anda berhasil membangun rasa aman (*Attitude*), menyelesaikan kebingungan petunjuk analisis data dengan pembagian peran konkret (*Knowledge*), serta menyesuaikan jadwal yang realistis sesuai kapasitas waktu Ali (*Skill*).
+
+---
+
+### **Tahap E: Uji Re-Apply / Uji Ulang**
+
+Sekarang mari kita uji ketahanan rencana ini dalam situasi kendala baru (*Uji Ulang*):
+
+**Skenario Uji Ulang:**
+Keesokan harinya jam 17.00 WIB (3 jam sebelum janji kirim jam 20.00), Ali mengirimkan pesan singkat kepada Anda:
+
+> **Ali:** *“Bro, maaf banget mau kabarin, rumah sakit tempat keluargaku dirawat agak ramai sore ini jadi aku baru bisa pegang laptop jam 7 malam nanti. Aku agak khawatir waktu 1 jam buat bikin grafik dan ngerapikan format laporan kurang maksimal kalau sendirian. Ada saran gak ya?”*
+
+---
+
+**Giliran Anda (U003):**
+Tuliskan kalimat jawaban Anda kepada Ali untuk merespons kendala baru ini, dengan tetap menjaga persahabatan, memberikan bantuan konkret tanpa membebankan Ali, dan memastikan tugas kelompok tetap rampung sebelum tenggat!
+
+**[Tahap E: Uji Ulang - Penyesuaian Darurat]**
+
+**U004:** "Santai aja, Li! Keadaan di rumah sakit jauh lebih penting, fokus aja dulu dampingi keluarga di sana. Kamu udah sempat kabarin dari awal aja itu udah membantu banget buat koordinasi tim.
+Soal laporan, jangan bikin pikiran kamu makin berat. Kita selesaikan bareng dengan skenario ini:
+Bagi Tugas Singkat, Saat kamu pegang laptop jam 19.00 nanti, kamu fokus bikin grafik visualnya saja dari draf angka yang sudah aku kirim. Bagian itu simpel dan enggak butuh waktu lama.
+Aku Ambil Alih Formatting, untuk Bagian merapikan format laporan, tata letak, dan penyelarasan akhir biar aku yang selesaikan sekalian dari sekarang.
+Penyatuan Akhir Jam 20.00: Jam 19.45 kamu tinggal tempel grafiknya ke dokumen utama yang formatnya sudah siap. Jam 20.00 kita bisa submit tepat waktu tanpa kamu harus terburu-buru.
+Jadi kamu cuma butuh sekitar 20–30 menit aja nanti jam 7 malam. Aman ya, Bro? Fokus ke keluarga dulu sekarang!"
+
+**AI004:** Luar biasa! Respons yang sangat tenang, responsif, dan memberikan solusi yang makin memperjelas batas beban kerja Ali di tengah kondisi darurat keluarga. Ali merasa sangat terbantu dan terlindungi.
+
+**Ali (K2-01) membalas dengan rasa syukur:**
+
+> **Ali:** *“Siap, bro! Makasih banyak atas pengertiannya. Solusi ini bikin aku tenang banget. Jam 19.00 nanti aku langsung kerjakan grafiknya dan jam 19.45 langsung aku tempel ke dokumen utama. Terima kasih banyak udah jadi rekan tim dan sahabat yang luar biasa!”*
+
+---
+
+### **Tahap F: Refleksi dan Lesson Learned Mahasiswa**
+
+Sebelum saya menyusun dan menyerahkan berkas laporan lengkap **hasil_2a_18225017.qmd**, mohon jawab 3 pertanyaan refleksi singkat berikut untuk melengkapi Seksi D laporan:
+
+1. **Perubahan ASK & SWOT Diri/Ali:**
+   Bagaimana Anda melihat perubahan status Ali dari awal (*ragu, takut dianggap tidak berguna, bingung teknis*) hingga akhir (*yakin, komunikatif, dan mampu menyelesaikan tugas tepat waktu*)?
+2. **Keseimbangan Persahabatan & Profesionalitas:**
+   Bagaimana strategi Anda dalam menjaga hubungan baik (persahabatan & kepedulian) tanpa mengorbankan tanggung jawab penyelesaian tugas kelompok?
+3. **Pesan Personal & Kualitas Relasi:**
+   Pesan atau tindakan apa dalam percakapan tadi yang menurut Anda paling membantu membangun rasa percaya dan rasa dihargai pada Ali?
+
+**[Tahap F: Jawaban Refleksi Mahasiswa]**
+
+**U005:** 1. Perubahan ASK & SWOT Diri/Ali
+- Perubahan Status Ali:
+  - Attitude (A): Berubah dari sikap defensif dan cemas (takut salah dan dianggap merusak nilai) menjadi lebih percaya diri, kooperatif, dan proaktif dalam berkomunikasi.
+  - Skill (S): Dari rasa tidak mampu mengolah data menjadi fokus pada eksekusi tugas visual (membuat grafik) yang lebih sesuai dengan kapasitasnya di bawah kondisi darurat.
+  - Knowledge (K): Memahami kerangka pembagian kerja yang adil dan sadar bahwa meminta bantuan teknis/koordinasi secara terbuka adalah tindakan profesional, bukan tanda kelemahan.
+- SWOT Shift: Hambatan berupa Threat/Weakness (kendala keluarga dan kebuntuan analisis data) berhasil diubah menjadi Opportunity untuk membangun kerja sama tim yang tangguh (resilient collaboration).
+2. Keseimbangan Persahabatan & Profesionalitas
+- Strategi Descoping dan Adaptasi Lini Masa: Profesionalitas tidak selalu berarti menuntut komitmen awal tanpa kompromi, melainkan beradaptasi secara fleksibel tanpa menurunkan kualitas target (deadline jam 20.00 WIB tetap tercapai).
+- Bagi Tugas Berbasis Realitas: Mengatur ulang beban kerja (descoping) di mana porsi berat (rumus & formatting) diambil alih oleh rekan tim, sementara Ali tetap diberikan porsi kontribusi nyata (pembuatan grafik). Hal ini menjaga kepedulian terhadap kondisi pribadi Ali sekaligus menjamin tanggung jawab laporan kelompok tetap tuntas.
+3. Pesan Personal & Kualitas Relasi
+- Tindakan Kunci yang Membangun Rasa Percaya:
+  1. Empati Tanpa Penghakiman: Memvalidasi kondisi keluarga yang sakit sebagai prioritas utama dan mengapresiasi keaktifan Ali memberi kabar ("Kamu udah sempat kabarin aja itu udah membantu banget...").
+  2. Menghilangkan Beban Moral: Menegaskan bahwa tugas kelompok adalah tanggung jawab bersama, sehingga Ali merasa dilindungi dan dihargai sebagai anggota tim, bukan sekadar pelaksana tugas.
+- Dampak Relasi: Pendekatan yang suportif membuat Ali merasa aman (psychological safety), yang pada akhirnya mendorong kepemilikan tanggung jawab (ownership) dan menjaga persahabatan tetap utuh setelah proyek selesai.
+
+**[Tahap G: Konfirmasi Final]**
+
+**AI005:** Melakukan konfirmasi seluruh data identitas, transkrip, dan refleksi sebelum penerbitan dokumen laporan akhir `.qmd`.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+[Tujuan tercapai secara penuh. Mahasiswa berhasil menyelesaikan konflik tugas kelompok dengan tetap menjaga kepedulian dan relasi persahabatan.]
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Cenderung defensif, cemas akan kendala keluarga dan takut dianggap beban tim. | Menjadi proaktif, terbuka tentang kapasitas waktu, dan memiliki kontribusi nyata pada tugas. | U002-U005 | Laporan Diri & Refleksi |
+| Attitude | Ragu, takut gagal, dan khawatir merusak nilai kelompok. | Percaya diri, kooperatif, dan merasa dihargai sebagai anggota tim. | U003, U004 | Demonstrasi Simulasi |
+| Knowledge | Bingung instruksi rumus analisis data dan takut salah. | Memahami batas porsi kerja (grafik visual) dan menyadari komunikasi terbuka adalah sikap profesional. | U003, U005 | Evaluasi Diri |
+| Skill | Terhambat dalam pengerjaan teknis olah data. | Mampu menyelesaikan tugas visual sederhana (grafik) secara tepat waktu (20–30 menit). | U004 | Demonstrasi Uji Ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 - AI002 | Attention: Cemas & ragu ("belum yakin bisa") | "Nggak apa-apa banget, Li... Wajar kok kalau merasa ragu... Coba kita bedah pembagian tugasnya" | Menghela napas lega, terbuka menceritakan kebingungan rumus data & kendala keluarga sakit. | Defensivitas A menurun, K & S terpetakan akurat | Menyiapkan solusi re-scoping beban kerja |
+| U003 - AI003 | Interest & Desire: Takut merusak nilai tim | "Urusan keluarga jelas prioritas utama... Bagian olah data biar aku yang ambil alih... Kamu cukup bantu grafik visual" | Tersenyum lega, menyetujui jadwal dan pembagian tugas baru dengan mantap. | A & K membaik pesat; rasa aman dan kepemilikan tugas terbentuk | Menyiapkan skenario uji ulang kendala waktu darurat |
+| U004 - AI004 | Action: Kendala waktu darurat jam 17.00 | "Santai aja, Li... Kamu fokus bikin grafik visualnya saja... Formatting biar aku yang selesaikan sekalian" | Membalas dengan penuh rasa syukur, berkomitmen menyelesaikan jam 19.00–19.45. | S & Action tercapai penuh; komitmen penyelesaian tugas tuntas tepat waktu. | Beralih ke tahap refleksi |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002, U003, U004 | "Urusan keluarga jelas prioritas utama...", "Kamu udah sempat kabarin aja itu udah membantu banget..." | Ali berubah dari tertutup/defensif menjadi sangat terbuka, komunikatif, dan berkomitmen tinggi. | Rendah → Sangat Tinggi; Ali merasa dilindungi dan dihargai sebagai sahabat & rekan tim. | Menghilangkan kecemasan A dan ketakutan gagal Ali tanpa mengorbankan kualitas & tenggat laporan. |
+
+## Uji ulang dan pembelajaran
+
+Pada uji ulang (U004), mahasiswa dengan sigap merespons kabar darurat Ali di rumah sakit dengan memberikan re-scoping darurat (Ali fokus grafik 20-30 menit, mahasiswa mengambil alih formatting). Hal ini terbukti berhasil mempertahankan tenggat jam 20.00 WIB sekaligus menjaga kesehatan emosional dan kapasitas Ali.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U003, U005 | Mengarahkan percakapan dengan jelas untuk menyelesaikan tugas kelompok sekaligus menjaga persahabatan. |
+| Persepsi dan validasi profil/status | 4 | U002, U003 ("Urusan keluarga jelas prioritas utama...") | Memvalidasi kecemasan dan hambatan Ali (INFP) dengan penuh empati dan tanpa penghakiman. |
+| Pemilihan dan urutan repertoar | 4 | U002, U003, U004 | Menggunakan urutan validasi empati → eksplorasi hambatan → penawaran bantuan teknis → re-scoping fleksibel. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U004 ("Bagi Tugas Singkat... Penyatuan Akhir Jam 20.00") | Instruksi sangat jelas, membagi beban kerja secara realistis, dan memprioritaskan rasa aman Ali. |
+| Evaluasi dan adaptasi | 4 | U003 ke U004 | Menyesuaikan pembagian kerja secara instan saat Ali menghadapi kendala tambahan di rumah sakit. |
+| Refleksi dan lesson learned | 4 | U005 | Refleksi sangat komprehensif mengenai keseimbangan kepedulian, descoping, dan profesionalitas. |
+
+**Nilai Usulan AI Sesi 2a = (24 / 24) × 100 = 100.00** *(Memerlukan moderasi dosen)*.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa mempelajari bahwa profesionalitas tidak berarti menuntut kepatuhan kaku pada rencana awal, melainkan kemampuan beradaptasi dan melakukan descoping beban kerja berbasis realitas lawan bicara. Dengan memvalidasi kondisi kemanusiaan dan menghilangkan beban moral, rasa aman (*psychological safety*) terbentuk sehingga mendorong tim untuk tetap berkontribusi secara optimal.
+
+## Tindak lanjut dan batas bukti
+
+**Langkah Lanjutan:**
+1. Menerapkan pola pendekatan empati & re-scoping beban kerja saat memimpin atau bekerja dalam kelompok kuliah di masa mendatang.
+2. Membiasakan komunikasi proaktif dan transparan mengenai kapasitas diri dalam tim.
+
+**Batas Bukti:**
+Simulasi ini menguji perancangan pesan tertulis dan dinamika penyelesaian konflik dalam konteks percakapan simulasi. Penerapan dalam situasi nyata bergantung pada fleksibilitas dinamika kelompok dan kondisi eksternal yang dihadapi.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100.00 *(Usulan AI)* |
+| Sesi 2a | 18% | 100.00 *(Usulan AI)* |
+| Sesi 2b | 18% | Belum dilaksanakan |
+| Sesi 3a | 18% | Belum dilaksanakan |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | |
+
+**Nilai Akhir UTS:** **Belum dihitung** (Menunggu nilai makalah dosen serta penyelesaian Sesi 2b, 3a, dan 3b).
