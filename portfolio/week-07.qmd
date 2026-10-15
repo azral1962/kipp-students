@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "17/20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -18,8 +18,60 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 - Interest pitch dengan evidence atau demonstration.
 - Response, state assessment, hidden concern, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Attention evidence dan solution hypothesis
 
-{{< include ../includes/evidence-template.md >}}
+Berdasarkan hasil observasi terpisah pada 20 peserta reguler di sesi Minggu 6, ditemukan bahwa 13 dari 20 proses verifikasi memakan waktu lebih dari 3 menit murni karena petugas harus mencari NIM secara manual di tiga tab *spreadsheet* yang berbeda, serta terdapat 14 pertanyaan berulang di helpdesk mengenai status aktivasi token. Koordinator Helpdesk & Registrasi telah mengakui bahwa pencarian multi-tab dan ketiadaan cek status mandiri adalah masalah operasional yang nyata.
+
+**Solution hypothesis:** Antarmuka pencarian satu pintu (*single-search lookup view*) untuk petugas meja layanan yang dikombinasikan dengan halaman cek status mandiri berbasis NIM (hanya menampilkan status *Aktif/Belum Aktif* tanpa membuka data pribadi) dapat memangkas waktu verifikasi dan mengurangi antrean pertanyaan di meja helpdesk tanpa mengubah database utama.
+
+| Problem | Mechanism | Expected benefit | Value bagi target |
+|---|---|---|---|
+| Pencarian data di 3 tab berbeda | Satu kolom pencarian terpadu (`VLOOKUP`/`QUERY` view) | Petugas melihat status keaktifan & token dalam satu layar | Waktu verifikasi per anggota turun di bawah 30 detik |
+| Pertanyaan berulang soal status token | Halaman cek status mandiri (*read-only* via input NIM) | Anggota memeriksa status aktivasi sebelum mengantre | Beban antrean komplain di meja helpdesk berkurang |
+
+## Pitch dan demonstration
+
+> “Dari observasi 20 peserta reguler kemarin, waktu tunggu terlama terjadi saat petugas berpindah-pindah di tiga tab dan menjawab pertanyaan status token. Prototipe ini tidak mengubah database utama Anda: petugas cukup mengetik NIM di satu kotak pencarian ini untuk melihat seluruh status sekaligus, dan peserta bisa mengecek status aktifnya sendiri lewat tautan *read-only* sebelum ke meja. Mari kita uji di satu meja layanan selama sesi pagi besok; keberhasilannya kita ukur dari durasi verifikasi rata-rata dan jumlah antrean tanya token.”
+
+Saya mendemonstrasikan prototipe pencarian satu layar selama 60 detik dengan memasukkan dua contoh NIM dummy. Koordinator mencoba mengetik satu NIM secara langsung dan merespons: *"Pencarian satu layarnya sangat membantu petugas kami, tapi kalau halaman cek mandiri dibuka untuk umum, bagaimana kalau ada orang iseng yang memasukkan NIM temannya satu per satu untuk mengintip status keaktifan dan kode tokennya?"*
+
+## Hidden concern dan adaptation
+
+Awalnya saya menduga keberatan utama (*concern*) target adalah kesulitan teknis petugas dalam mempelajari tampilan baru. Respons target menunjukkan bahwa **hidden concern** sebenarnya adalah **privasi data anggota dan risiko penyalahgunaan kode token** jika halaman cek mandiri hanya mengandalkan NIM yang mudah ditebak.
+
+Saya tidak mempertahankan desain awal halaman cek mandiri tersebut dan langsung melakukan adaptasi mekanisme:
+
+1. **Perubahan Mekanisme Keamanan:** Halaman cek mandiri publik **tidak lagi menampilkan kode token** maupun detail pribadi; halaman tersebut hanya memerlukan kombinasi **NIM + 4 digit terakhir nomor telepon terdaftar** dan hanya memunculkan indikator status umum (*"Terdaftar – Silakan cek email resmi"* atau *"Data memerlukan verifikasi meja bantuan"*).
+2. **Pembatasan Akses (*Permission*):** Tampilan pencarian lengkap beserta tombol kirim ulang token dikunci khusus untuk akun Google petugas meja layanan (*restricted viewer/operator*), bukan tautan terbuka.
+3. **Penyesuaian Klaim:** Sasaran uji coba dipersempit dari *"menghilangkan seluruh antrean helpdesk"* menjadi *"menguji apakah tampilan pencarian satu layar mempercepat kerja petugas meja layanan tanpa celah privasi"*.
+
+Target menunjukkan **signal Interest** yang kuat dengan mencoba kombinasi input NIM + 4 digit nomor telepon pada prototipe revisi dan mendiskusikan penempatan satu petugas untuk uji coba sesi pagi, meskipun keputusan pemakaian penuh untuk seluruh meja baru akan ditentukan setelah evaluasi sesi pagi.
+
+## Evidence, AI, dan feedback
+
+- **Prototipe V1 dan V2:** Tangkapan layar perubahan antarmuka dari V1 (input NIM saja) menjadi V2 (verifikasi 2 parameter NIM + 4 digit nomor HP tanpa menampilkan token di layar publik).
+- **Pengaturan Akses:** Dokumentasi pengaturan *sheet protection* dan pembatasan akses email petugas.
+- **Catatan Observasi:** Pertanyaan klarifikasi *"Bagian mana dari alur ini yang paling berisiko bagi tim Anda?"* berhasil memunculkan *hidden concern* terkait privasi sebelum uji coba dilakukan.
+- **Pemanfaatan AI:** AI digunakan untuk membantu merumuskan formula `QUERY` yang efisien dan menyusun daftar kemungkinan skenario penyalahgunaan form publik. Keputusan pembatasan akses dan kebijakan privasi tetap ditentukan bersama Koordinator.
+- **Next practice:** Selalu menyertakan analisis risiko privasi dan batasan hak akses (*access control*) sejak demonstrasi pertama ketika solusi melibatkan data pengguna.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Mengenali tanggung jawab Koordinator terhadap keamanan data anggota |
+| Objective & State | 3 | Membedakan perpindahan state dari Attention menuju Interest melalui diskusi teknis prototipe |
+| Repertoire, Language & AI | 3 | Menggunakan demo interaktif 60 detik, pertanyaan terbuka, dan bantuan formula terarah |
+| Response & Adaptation | 4 | Mengubah mekanisme halaman cek mandiri dengan 2 faktor input untuk menjawab isu privasi |
+| Agreement, Action & Relationship | 4 | Target setuju meninjau prototipe V2 dan menjadwalkan uji terbatas di 1 meja layanan |
+
+**Total: 17/20 — Kompeten.**
+
+::: assessor-only
+### Assessment dosen
+
+**Skor:** — / 20\
+**Evidence yang mendukung:** —\
+**Prioritas perbaikan:** —\
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

@@ -1,9 +1,8 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2a"
-subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2: Persahabatan dan Profesionalitas"
+author: "Fakhri Athallah Dwi Andeo"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +10,174 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Fakhri Athallah Dwi Andeo |
+| NIM | 18225029 |
+| Kelas dan tanggal | K-01; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2: Persahabatan dan Profesionalitas |
+| Nama dan ID target | Dimas (K2-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Skenario tugas kelompok akademik fiktif terstandardisasi |
+| Kelengkapan transkrip | Lengkap (seluruh rangkaian identifikasi, negosiasi, uji ulang, evaluasi, hingga refleksi) |
+| Nama laporan menurut paket | hasil_2a_18225029.qmd |
+| Konfirmasi identitas/ringkasan | Terkonfirmasi pada sesi UTS |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief Kasus 2 menetapkan situasi mendesak di mana tenggat pengumpulan tugas besar kelompok tersisa 48 jam lagi. Dimas (rekan satu kelompok sekaligus teman dekat) belum mengirimkan bagian pekerjaannya dan merasa pembagian tugas tidak adil. 
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan tindakan:
+1. Membuka komunikasi dua arah tanpa menghakimi guna menjaga hubungan persahabatan dan mereduksi rasa tertekan/defensif rekan kerja.
+2. Memvalidasi keluhan terkait persepsi ketidakadilan pembagian tugas dan mengurai hambatan dependensi teknis.
+3. Menata ulang antarmuka (*interface*) kerja dan batasan modul agar Dimas memperoleh otonomi kerja mandiri yang jelas tanpa saling menunggu.
+4. Menyepakati linimasa pengumpulan parsial sebelum tenggat 48 jam berakhir secara realistis.
+
+Indikator keberhasilan:
+- Dimas secara terbuka menguraikan kendala teknis spesifik yang menghambatnya.
+- Terciptanya kesepakatan restrukturisasi batas tugas (*scope*) dengan dependensi input-output yang terdokumentasi rapi.
+- Tercapainya komitmen waktu penyerahan draf modul pertama dalam 24 jam ke depan.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: pemahaman menyeluruh terhadap arsitektur tugas kelompok. Keterbatasan: kecenderungan ingin menyelesaikan masalah secara cepat sehingga berisiko terkesan mendesak. Peluang: relasi pertemanan yang sudah ada. Ancaman: friksi personal jika rekan merasa disalahkan atas keterlambatan. | Refleksi diri | Terkonfirmasi |
+| Attitude | Menjunjung tinggi tanggung jawab bersama dan profesionalitas tim, dengan tetap mengedepankan empati terhadap beban rekan. | U001, U002 | Terkonfirmasi |
+| Knowledge | Menguasai spesifikasi teknis proyek, namun awalnya belum mengetahui secara mendalam hambatan spesifik yang dialami Dimas. | U001 | Awal sementara |
+| Skill | Mampu menguraikan modul sistem, melakukan restrukturisasi antarmuka kerja, dan mempraktikkan komunikasi asertif yang suportif. | U003, U004 | Teruji dalam simulasi |
+| Preferensi/MBTI jika dilaporkan | INTJ/INTP (logis, terstruktur, menghargai sistem kerja yang efisien dan independen). | Laporan diri | Hipotesis kerja |
+| Karakter, peran, kultur/ko-kultur | Koordinator integrasi teknis kelompok; terbiasa dengan kultur kolaborasi yang mengedepankan logika fungsional dan keterbukaan masalah. | Peran tim | Faktual |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Membangun kesepakatan teknis dengan Dimas agar modulnya selesai tepat waktu tanpa merusak persahabatan. | Mengidentifikasi persepsi ketidakadilan (A), ketidakjelasan dependensi (K), dan kebutuhan ruang mandiri (S). | Pendekatan empati non-judgmental, klarifikasi matriks tugas, dan isolasi modul kerja (*modular decoupling*). | Dimas bersedia mengirimkan progres modul. |
+| Attention | Tertutup dan defensif; merasa disudutkan oleh tenggat 48 jam. | Menurunkan persepsi ancaman (*Threat*) dengan menegaskan kepentingan pertemanan di awal percakapan. | Sapaan santai personal dan pertanyaan eksplorasi beban kerja. | Dimas merespons dan mengutarakan pandangannya. |
+| Interest | Menganggap sistem pembagian tugas kelompok timpang dan merugikan dirinya. | Mendengarkan aktif (*active listening*) dan membedah struktur pembagian tugas secara objektif bersama-sama. | Permintaan masukan jujur mengenai bagian mana yang dirasa berat. | Dimas memaparkan ketidakjelasan batas modulnya. |
+| Desire | Menginginkan otonomi kerja penuh tanpa terganggu oleh keterlambatan atau dependensi dari anggota tim lain. | Mengonfirmasi restrukturisasi kontrak antarmuka (*interface contract/mock data*). | Penawaran pembuatan dummy data/stub antarmuka bersama. | Dimas menyatakan format tersebut masuk akal. |
+| Action | Menahan pengiriman draf pekerjaan. | Menyepakati tenggat bertahap (checkpoint 24 jam) dan saluran pembaruan progres yang santai. | Jadwal serah terima modul dan kanal komunikasi pembaruan ringkas. | Dimas berkomitmen mengirimkan draf modul sesuai jadwal baru. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Mahasiswa - Pembuka & Validasi Relasional
+Hai Dimas, santai sejenak ya. Saya perhatikan waktu kita sisa 48 jam menuju deadline tugas besar, tapi saya menghubungi kamu bukan buat mendesak atau menuntut. Sebagai teman satu tim, saya ingin mengecek kabarmu dulu. Apakah ada bagian dari pembagian tugas kemarin yang dirasa kurang pas atau ada kendala teknis yang bikin pengerjaannya terhambat?
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### AI001 - Dimas (K2-04) - Pengungkapan Awal & Skeptisisme
+Dimas menghela napas, nada bicaranya agak dingin namun defensivitasnya mulai melunak:
+"Jujur saja, pembagian kemarin itu tidak adil. Saya diberi bagian modul pemrosesan data analitis yang dependensinya tidak jelas. Saya harus menunggu output skema database dari anak lain yang sampai sekarang belum beres, tapi kalau proyek ini telat, seolah-olah saya yang jadi penyebabnya karena belum submit kode. Buat apa saya kerja keras kalau dependensi sistemnya saja berantakan?"
 
-### U001 - Mahasiswa - [Tahap]
+### U002 - Mahasiswa - Klarifikasi Masalah & Pengakuan Beban
+Kamu benar sekali, Dimas. Itu kritik yang sangat valid. Tidak adil kalau kamu dituntut menyelesaikan algoritma analitis sementara skema input yang kamu butuhkan belum dikunci oleh anggota tim lain. Saya minta maaf karena integrasi awal kita kurang memperhatikan dependensi ini. Wajar sekali kamu merasa terhambat kalau posisinya seperti itu.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### AI002 - Dimas (K2-04) - Penurunan Defensivitas & Penjelasan Kebutuhan
+Raut muka Dimas terlihat lebih tenang mendengar pengakuan tersebut:
+"Syukurlah kalau kamu paham. Masalahnya saya tidak bisa kerja kalau tiap sebentar format datanya berubah-ubah. Saya butuh ruang kerja yang mandiri. Kalau memang mau modul ini selesai, saya butuh kepastian bentuk interface input-nya sekarang juga, biar saya tidak perlu menunggu modul lain selesai dulu."
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U003 - Mahasiswa - Solusi Teknis & Kontrak Antarmuka (Decoupling)
+Bagaimana kalau solusinya begini:
+1. Dalam 1 jam ke depan, saya dan kamu tetapkan satu kontrak JSON/data schema yang baku untuk input dan output modulmu.
+2. Saya akan buatkan data dummy (mock data) sesuai schema itu sekarang juga, jadi kamu bisa langsung fokus koding dan testing modul analitismu secara 100% mandiri di environment lokalmu tanpa perlu menunggu modul lain beres.
+3. Untuk porsi tugas yang terlalu berat, sub-modul visualisasi laporannya biar saya atau rekan lain yang ambil alih, jadi kamu cukup fokus pada *core logic* algoritmanya saja.
+Apakah solusi ini memberikan ruang kerja mandiri yang kamu butuhkan?
 
-[Tempel pesan AI persis seperti sumber.]
+### AI003 - Dimas (K2-04) - Penerimaan & Kesepakatan
+Dimas mengangguk setuju, sikap skeptisnya berganti menjadi fokus pemecahan masalah:
+"Nah, kalau pakai mock data dan interface yang dikunci dari awal, itu masuk akal dan rasional. Saya tidak perlu pusing memikirkan keterlambatan modul lain. Kalau sub-modul visualisasi diambil alih, beban saya jadi proporsional. Saya bisa selesaikan core logic analitisnya dalam 24 jam ke depan, besok jam 20.00 saya push ke branch saya."
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U004 - Mahasiswa - Konfirmasi Jadwal & Dukungan Berkelanjutan
+Kesepakatan yang mantap, Dimas. Besok jam 20.00 kita review bareng hasil push kodinganmu ya. Kalau di tengah pengerjaan malam ini ada struktur data yang perlu disesuaikan, kabari saja di grup atau chat pribadi saya langsung, nanti saya bantu sinkronkan. Terima kasih banyak atas masukannya yang bikin pembagian tugas kita jauh lebih rapi.
+
+### AI004 - Fasilitator - Uji Ulang (Kendala Teknis Baru)
+Keesokan harinya pukul 15.00 (5 jam sebelum checkpoint yang disepakati), Dimas mengirim pesan singkat:
+"Fakhri, mock data yang kamu kirim kemarin ternyata ada inkonsistensi tipe data di field timestamp dan null-handling pada array transaksi. Modul saya jadi crash saat stress test. Kalau ini belum jelas standarnya, pengerjaan saya bakal molor melewati jam 20.00."
+
+### U005 - Mahasiswa - Respons Cepat Uji Ulang
+Terima kasih infonya, Dimas. Bagus kamu temukan inkonsistensi ini lebih awal sebelum final build. Standar perbaikannya langsung saya tetapkan sekarang:
+1. Field timestamp kita kunci format baku ISO-8601 (UTC).
+2. Field array transaksi wajib mengembalikan array kosong `[]` jika tidak ada transaksi, bukan `null`.
+File mock data versi revisi sudah saya update di repo 5 menit yang lalu. Untuk kompensasi waktu debugging barusan, kamu tidak perlu terburu-buru mengejar jam 20.00; draf kode bisa kamu push maksimal jam 22.00 malam ini agar kamu tetap punya waktu istirahat yang cukup.
+
+### AI005 - Dimas (K2-04) - Resolusi Final & Komitmen
+"Sip, konfirmasinya cepat dan jelas. Format ISO-8601 dan empty array sudah saya terapkan di skrip parsing saya. Jam 21.30 draf kode final sudah siap di-push. Masalah selesai."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Memandang keterlambatan Dimas sebagai ancaman (*Threat*) kegagalan deadline tim; Dimas memandang pembagian kerja sebagai eksploitasi tidak adil. | Diubah menjadi peluang (*Opportunity*) perbaikan arsitektur modular tim melalui isolasi kontrak dependensi data (*mocking*). | U002, U003, U005 | Terbukti dari hilangnya resistensi dan terciptanya kerja sama konkret |
+| Attitude | Dimas bersikap dingin, skeptis terhadap janji tim, dan defensif. Komunikator cemas akan tenggat 48 jam. | Terbentuk sikap saling menghargai otonomi profesional, transparansi teknis, dan komunikasi terbuka yang bersahabat. | U001, U004, AI003 | Perubahan sikap nyata dari nada percakapan target |
+| Knowledge | Dimas dan tim terhambat oleh ketidakjelasan dependensi skema data antar-modul. | Tercipta kejelasan parameter (*interface schema*, tipe data timestamp, dan penanganan null). | U003, U005 | Dokumentasi spesifikasi teknis disepakati bersama |
+| Skill | Terjebak dalam kebuntuan koordinasi kerja linear yang saling memblokir (*blocking dependency*). | Mendemonstrasikan keterampilan de-eskalasi konflik, pemisahan dependensi sistem (*decoupling*), serta manajemen krisis waktu. | U003, U005 | Eksekusi nyata dalam memecahkan kendala uji ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| E1 (U001 / AI001) | Dimas defensif karena merasa akan disalahkan atas keterlambatan (A-Skeptis). | Membuka percakapan dengan nada peduli, menanyakan kabar, dan meminta umpan balik tanpa tuduhan. | Dimas meluapkan unek-unek mengenai dependensi yang berantakan dan rasa ketidakadilan. | Rasa aman psikologis target meningkat; hambatan A mulai terbuka. | Tidak membela diri, melainkan memfokuskan perhatian pada substansi keluhan target. |
+| E2 (U002, U003 / AI002, AI003) | Dimas membutuhkan kepastian otonomi dan kejelasan antarmuka (K-Dependensi, S-Otonomi). | Memvalidasi kebenaran keluhan target, menawarkan mock data untuk kerja mandiri, dan meredistribusi porsi tugas visualisasi. | Dimas langsung menyetujui, menyebut pendekatan tersebut rasional, dan memberi komitmen waktu 24 jam. | Hambatan K dan S teratasi melalui solusi teknis konkret; kesepakatan Action tercapai. | Menyusun kontrak input-output independen agar tidak ada ketergantungan antar-anggota. |
+| E3 (U005 / AI004, AI005) | Kendala baru pada uji ulang: bug inkonsistensi tipe data pada mock data. | Merespons secara presisi tanpa menyalahkan, menetapkan standar teknis seketika, dan memperpanjang batas waktu secara fleksibel. | Dimas puas, menerapkan perbaikan, dan memajukan estimasi penyelesaian ke jam 21.30. | Kematangan integrasi teknis dan kepercayaan relasional teruji di bawah tekanan waktu. | Memberikan kelonggaran tenggat 2 jam untuk menjaga kualitas kerja dan ketenangan rekan. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U001 | Memisahkan urgensi tugas dari nilai pertemanan ("mengecek kabarmu dulu, bukan menuntut"). | Dimas melunakkan kekakuan dan bersedia menceritakan akar masalahnya secara jujur. | Rasa aman meningkat dari Rendah ke Sedang. | Menghilangkan kecurigaan bahwa komunikasi hanya bertujuan mencari kambing hitam. |
+| U002 | Mengakui kelemahan koordinasi tim secara jujur ("Kamu benar sekali... saya minta maaf"). | Dimas berhenti menggunakan nada sinis dan mulai memaparkan kebutuhan operasionalnya. | Kepercayaan meningkat ke tingkat Tinggi. | Validasi atas persepsi keadilan mengembalikan motivasi kerja target. |
+| U005 | Memberikan toleransi waktu istirahat dan penyesuaian deadline yang manusiawi. | Dimas berkomitmen menyelesaikan lebih cepat dari batas toleransi baru (jam 21.30). | Hubungan persahabatan dan respek profesional terjaga utuh. | Bukti bahwa kepedulian tulus memicu tanggung jawab mandiri yang lebih tinggi. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Pada tahap uji ulang, simulator memunculkan kendala teknis realistis: kegagalan parsing pada mock data akibat perbedaan tipe data *timestamp* dan nilai *null*. Pembelajaran utama yang diperoleh adalah bahwa kesepakatan konseptual awal belum menjamin kelancaran teknis tanpa adanya spesifikasi detail. Penanganan mahasiswa yang tanggap, tidak defensif, dan segera memperbarui berkas acuan dalam hitungan menit membuktikan bahwa kombinasi pemecahan masalah teknis yang lugas dengan dukungan relasional yang suportif mampu mencegah eskalasi konflik di masa-masa kritis.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U003, U004 | Menyeimbangkan tenggat krisis 48 jam dengan pemulihan relasi persahabatan secara konsisten. |
+| Persepsi dan validasi profil/status | 4 | U002, U003 | Mengenali secara akurat kebutuhan profil analitis akan kejelasan antarmuka dan pembagian beban yang adil. |
+| Pemilihan dan urutan repertoar | 4 | U001 -> U002 -> U003 -> U005 | Bergerak teratur dari penenangan emosi, pengakuan fakta, perancangan solusi struktural, hingga asistensi teknis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U001, U003, U005 | Komunikasi lugas, solutif, menghormati otonomi rekan, serta menunjukkan kepedulian nyata tanpa kepalsuan. |
+| Evaluasi dan adaptasi | 4 | U005 | Menyesuaikan batas waktu dan menyelesaikan ambiguitas tipe data secara instan saat uji ulang terjadi. |
+| Refleksi dan lesson learned | 4 | Refleksi akhir | Sintesis mendalam mengenai pemisahan relasi persahabatan dan profesionalitas dalam manajemen proyek. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** 100 (Jumlah skor: 24 / 24 × 100). Usulan skor AI memerlukan moderasi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Awalnya ada kekhawatiran bahwa membicarakan keterlambatan tugas kepada teman dekat akan merusak suasana pertemanan atau memicu pertengkaran. Namun terbukti bahwa bersikap transparan, tidak menghakimi, dan berfokus pada perbaikan sistem justru diapresiasi oleh rekan kerja.
+- **Stimulus efektif/tidak efektif:** Stimulus yang tidak efektif adalah menyodorkan aturan kelompok atau menuntut komitmen tanpa mengecek akar masalah. Stimulus yang sangat efektif adalah pengakuan jujur terhadap kendala yang dialami rekan dan penyediaan solusi isolasi kerja (*mock data/interface decoupling*).
+- **Pertumbuhan PASK/ASK diri:** Persepsi saya berkembang dalam melihat konflik bukan sebagai ancaman kegagalan melainkan indikasi perlunya perbaikan arsitektur koordinasi. Sikap saya menjadi lebih sabar mendengar keluhan, dan keterampilan negosiasi teknis saya semakin terasah.
+- **Relasi:** Mempertahankan rasa percaya membutuhkan tindakan nyata (seperti langsung memperbaiki data dan meringankan beban tugas), bukan sekadar kata-kata motivasi kosong.
+- **Pelajaran untuk situasi berikutnya:** Dalam setiap proyek kolaboratif, selalu tetapkan kontrak antarmuka (*interface contract*) di awal agar setiap anggota memiliki ruang kerja mandiri yang independen dari keterlambatan anggota lain.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Integrasi modul analitis dan visualisasi | Mahasiswa & Dimas | H-24 sebelum deadline | Git repository / Pull Request | Seluruh unit test lolos tanpa error integrasi | Terjadwal |
+| Final review dan kompilasi laporan tugas besar | Seluruh tim | H-6 sebelum deadline | Google Docs / Quarto workspace | Dokumen laporan lengkap siap submit | Terjadwal |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+*Batas bukti:* Interaksi berlangsung melalui platform simulasi teks. Aspek bahasa tubuh, intonasi suara nyata, dan dinamika pertemuan tatap muka belum teramati dalam sesi ini.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+## Bobot dan nilai akhir UTS
 
-{{< include "../../includes/uts-penilaian.md" >}}
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Belum Dinilai |
+| Sesi 2a | 18% | Belum Dinilai |
+| Sesi 2b | 18% | Belum dilaksanakan |
+| Sesi 3a | 18% | Belum dilaksanakan |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**. Nilai akhir ditulis **Belum dihitung** sampai seluruh sesi dan makalah dinilai secara lengkap.

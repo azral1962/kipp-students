@@ -1,9 +1,8 @@
 ---
-title: "Laporan UTS KIPP - Sesi 1"
-subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1: Memimpin Diri dan Terus Belajar"
+author: "Fakhri Athallah Dwi Andeo"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +10,169 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
-|---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+|------------------------------------|------------------------------------|
+| Nama mahasiswa | Fakhri Athallah Dwi Andeo |
+| NIM | 18225029 |
+| Kelas dan tanggal | K-01; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1: Memimpin Diri dan Terus Belajar |
+| Nama dan ID target | Diri mahasiswa; pembanding Dimas (K1-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Konteks nyata pengembangan diri mahasiswa; skenario tokoh pembanding fiktif |
+| Kelengkapan transkrip | Lengkap (seluruh rangkaian identifikasi, dialog diri, pembanding, uji ulang, hingga refleksi) |
+| Nama laporan menurut paket | hasil_1_18225029.qmd |
+| Konfirmasi identitas/ringkasan | Terkonfirmasi pada sesi UTS |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief Kasus 1 berfokus pada memilih satu kemampuan yang ingin dikembangkan guna mendukung perkuliahan, kerja, dan kehidupan nyata, serta memeriksa mekanisme memimpin diri (*self-leadership*) saat berhadapan dengan hambatan belajar. Kemampuan yang dipilih adalah **komunikasi publik (*public speaking*) dan penyampaian gagasan teknis**.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan tindakan: 1. Mengidentifikasi pemicu internal respon reaktif (*panik, blank, dan kekhawatiran penilaian negatif*). 2. Membangun dialog internal yang rasional dan memfasilitasi transisi dari mode reaktif menuju mode responsif-apresiatif. 3. Menguji kelenturan komunikasi saat berhadapan dengan rekan bertipe analitis-kritis (Dimas, K1-04) yang menuntut kejelasan metrik dan efisiensi waktu. 4. Menetapkan parameter latihan mandiri yang terukur dan realistis.
+
+Indikator keberhasilan: - Mahasiswa mampu merumuskan pesan penenang diri berbasis data dan reframing kognitif. - Mahasiswa mampu menyajikan rancangan eksperimen latihan yang terikat batasan waktu (*time-boxed*), memiliki indikator terukur, serta menghargai otonomi rekan pembanding. - Tercapainya kesepakatan uji coba terukur tanpa manipulasi relasional.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
-|---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|------------------|------------------|------------------|------------------|
+| SWOT subjektif | Kekuatan: penguasaan materi teknis dan analitis. Keterbatasan: rentan panik dan tertekan oleh persepsi audiens. Peluang: forum presentasi akademik dan organisasi. Ancaman: sindrom imposter dan kecemasan performa. | U001, U002 | Laporan diri aktual |
+| Attitude | Menghargai kompetensi dan presisi; memiliki keinginan kuat berkembang meski sempat terhambat rasa malu. | U001, U003 | Laporan diri |
+| Knowledge | Memahami materi yang akan dipresentasikan, namun minim pengetahuan mengenai teknik regulasi fisiologis dan manajemen tempo vokal. | U002 | Terkonfirmasi |
+| Skill | Mampu menyusun slide dan struktur logis; keterampilan artikulasi spontan di bawah tekanan masih terbatas. | U001, U004 | Terkonfirmasi |
+| Preferensi/MBTI jika dilaporkan | INTJ/INTP (kecenderungan Introversion-Thinking yang memproses mendalam secara internal sebelum berucap). | Refleksi diri | Hipotesis kerja |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa Sistem dan Teknologi Informasi; terbiasa dengan lingkungan teknis yang mengutamakan ketepatan fungsional dibanding ekspresi emosional. | Identitas | Faktual |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
-|---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+|---------------|---------------|---------------|---------------|---------------|
+| Target | Membangun keselarasan latihan bersama Dimas (K1-04) tanpa membuang waktu. | Diagnosis kebutuhan target akan ukuran terukur dan otonomi. | Pendekatan berbasis data, batasan waktu ketat, dan rubrik evaluasi objektif. | Dimas bersedia mencoba simulasi singkat 10 menit. |
+| Attention | Rendah terhadap latihan publik; fokus hanya pada kebenaran substansi teknis. | Mengaitkan artikulasi dengan efisiensi transfer informasi teknis. | Pertanyaan pengait dampak teknis. | Dimas merespons tanpa penolakan instan. |
+| Interest | Skeptis terhadap konsep 'latihan agar tidak malu'. | Menyodorkan parameter objektif (*filler words*, durasi, kejelasan poin). | Penawaran matriks metrik evaluasi. | Dimas menanyakan format teknis latihan. |
+| Desire | Menolak komitmen jangka panjang yang tidak terbukti dampaknya. | Menghargai otonomi dan menawarkan *pilot test* berisiko rendah. | Penawaran eksperimen berbatas waktu 10 menit. | Dimas menyetujui batasan waktu yang diajukan. |
+| Action | Enggan terlibat tanpa agenda konkret. | Menyepakati peran evaluator timbal balik dengan instrumen tertulis. | Kesepakatan jadwal dan pembagian peran simulasi. | Penjadwalan sesi uji coba mandiri. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Mahasiswa - Identifikasi & Tujuan Diri
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+Kemampuan yang ingin saya kembangkan adalah public speaking dan presentasi gagasan teknis. Hambatan utama yang sering muncul adalah rasa panik, kebingungan memilih kata yang tepat secara spontan, dan rasa gugup berlebihan sesaat sebelum berbicara di depan umum.
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 - Fasilitator - Eksplorasi Hambatan Diri
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+Catatan identifikasi awal Anda sudah dicatat. Kemampuan sasaran adalah public speaking dengan kendala panik, pemilihan kata, dan gugup. Ketika rasa panik dan gugup itu muncul sesaat sebelum Anda berbicara, apa pikiran otomatis yang kerap muncul di kepala Anda, dan kalimat apa yang ingin Anda katakan kepada diri sendiri untuk mengendalikannya?
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U002 - Mahasiswa - Dialog Diri & Reframing
 
-[Tempel pesan AI persis seperti sumber.]
+Pikiran otomatis yang sering muncul adalah: "Bagaimana kalau saya salah bicara, lupa alur materi, dan audiens menganggap saya tidak kompeten?" Pesan penenang yang ingin saya katakan kepada diri sendiri adalah: "Rasa gugup ini wajar karena tubuh sedang bersiap. Audiens hadir untuk menyerap solusi dan informasi yang saya bawa, bukan untuk menghakimi individu saya. Fokus pada satu poin demi satu poin secara tenang, ini pasti akan berlalu dengan hasil yang baik."
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### AI002 - Fasilitator - Pembuka Tokoh Pembanding (Dimas / K1-04)
+
+Sekarang kita masuk ke simulasi tokoh pembanding. Di hadapan Anda ada Dimas (K1-04), rekan Anda yang analitis dan skeptis terhadap latihan yang tidak memiliki ukuran terukur. Dimas menatap Anda dengan nada datar: "Apa bukti pendekatan ini lebih baik? Buat apa buang waktu latihan public speaking kalau pada akhirnya kita cuma butuh tahu konten teknisnya? Kalau mau latihan, harus jelas ukurannya dan jangan buang waktu saya."
+
+### U003 - Mahasiswa - Respons Awal
+
+Saya memahami pandanganmu, Dimas. Namun, konten teknis yang solid akan kehilangan nilainya jika audiens atau penguji salah menangkap kesimpulan akibat penyampaian yang terburu-buru atau tidak terstruktur. Latihan ini bukan sekadar mengejar penampilan, melainkan memastikan pesan teknis tersampaikan secara presisi dengan energi yang efisien.
+
+### AI003 - Dimas (K1-04) - Keberatan Terkait Metrik & Efisiensi
+
+Dimas melipat tangan dan menanggapi: "Masuk akal secara teori, tapi eksekusinya bagaimana? Saya tidak mau sesi latihan yang cuma berisi saling memuji atau basa-basi emosional. Kalau mau simulasi bareng, berapa lama alokasi waktunya, apa metrik yang dinilai, dan bagaimana kita tahu ada peningkatan nyata?"
+
+### U004 - Mahasiswa - Usulan Eksperimen Terukur & Menghargai Otonomi
+
+Mari kita buat eksperimen berbatas waktu (time-boxed) selama 10 menit saja agar tidak mengganggu fokus kerjamu: 1. 3 menit: Saya presentasi satu sub-modul teknis. 2. 2 menit: Kamu mengevaluasi berdasarkan 3 metrik objektif: jumlah filler words (e.g., 'umm', 'anu'), kesesuaian durasi terhadap target waktu, dan kejelasan poin utama (skala 1-5). 3. 5 menit berikutnya: Kita bertukar peran, kamu yang presentasi dan saya yang mencatat metrik untukmu. Dengan cara ini, kita mendapatkan data kuantitatif performa berbicara tanpa membuang waktu lebih dari 10 menit. Bagaimana menurutmu?
+
+### AI004 - Dimas (K1-04) - Penerimaan & Kesepakatan
+
+Dimas mengangguk pelan setelah melihat pembagian waktu dan metrik yang jelas: "Bagus. Format 10 menit dengan 3 metrik kuantitatif itu rasional dan adil. Saya setuju coba satu putaran besok jam 13.00 di lab. Kalau metriknya terbukti membantu mereduksi waktu presentasi kita yang bertele-tele, kita bisa jadwalkan sesi kedua."
+
+### AI005 - Fasilitator - Uji Ulang (Kendala Baru)
+
+Keesokan harinya jam 12.45, Dimas mengirim pesan singkat: "Modul kodingan saya sedang ada bug kritis yang harus push sebelum sore. Saya hanya punya waktu maksimal 5 menit, bukan 10 menit. Apakah kita tunda saja, atau kamu bisa adaptasikan format latihannya sekarang?"
+
+### U005 - Mahasiswa - Adaptasi Uji Ulang
+
+Tetap jalan dengan format ringkas 5 menit, Dimas. Kita pangkas menjadi: - 2 menit: Saya presentasi inti solusi bug/arsitektur modulmu. - 1 menit: Kamu beri skor cepat pada 2 metrik: kejelasan alur logika dan ketepatan waktu. - 2 menit sisanya langsung kamu pakai untuk kembali menyelesaikan kodingan. Waktumu tetap aman, dan kita tetap dapat satu data pengujian.
+
+### AI006 - Dimas (K1-04) - Konfirmasi Tindakan
+
+"Sepakat. Itu sangat efisien. Mulai sekarang jam 12.50, hitung mundur 2 menit jalan."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---------------|---------------|---------------|---------------|---------------|
+| Kesimpulan SWOT | Memandang gugup sebagai ancaman (*Threat*) kegagalan performa. | Memandang gugup sebagai respon alami yang dapat dikelola dengan pembatasan waktu dan metrik objektif (*Opportunity*). | U002, U004, U005 | Demonstrasi reframing dan eksekusi terukur |
+| Attitude | Defensif dan cemas terhadap pandangan audiens; ragu menghadapi kritik. | Asertif, tenang, adaptif terhadap kendala waktu, serta menghargai otonomi rekan kerja. | U003, U005 | Terlihat dari respon tidak memaksakan kehendak |
+| Knowledge | Fokus sempit pada 'penghindaran rasa malu'. | Memahami parameter kuantitatif komunikasi (*filler words*, retensi audiens, pembagian slot waktu). | U004 | Penerapan konsep metrik komunikasi |
+| Skill | Terjebak dalam monolog kepanikan internal. | Mendemonstrasikan keterampilan negosiasi ringkas, penetapan parameter latihan, dan fleksibilitas saat situasi mendesak. | U004, U005 | Teruji dalam simulasi dan uji ulang |
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
-|---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+## Evaluasi stimulus–respons dan diagnosis profil
 
-## Evaluasi stimulus-respons dan diagnosis profil
-
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|------------|------------|------------|------------|------------|------------|
+| E1 (U003 / AI002) | Dimas skeptis terhadap esensi latihan komunikasi (A-Skeptis, K-Rasional). | Menjelaskan relasi kausal antara artikulasi verbal dan ketepatan adopsi pesan teknis. | Dimas menantang bentuk format dan parameter keberhasilan. | Membuka dimensi Knowledge target tanpa memicu defensivitas. | Menghindari argumen emosional, beralih ke perancangan skema terukur. |
+| E2 (U004 / AI003) | Dimas membutuhkan kontrol otonomi dan kejelasan durasi. | Menawarkan eksperimen 10 menit dengan 3 metrik objektif dan pembagian peran setara. | Dimas menerima usulan dan menyepakati waktu uji coba. | Hambatan A dan S teratasi melalui kepastian batasan. | Menetapkan parameter kuantitatif konkrit. |
+| E3 (U005 / AI005) | Dimas mengalami kendala waktu mendadak (bug kritis). | Memangkas durasi menjadi 5 menit fokus tinggi tanpa membatalkan agenda. | Dimas langsung menyetujui dan memulai sesi. | Kesiapan adaptasi (*Action*) tercapai di bawah tekanan waktu. | Reduksi parameter menjadi dua metrik paling krusial. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
-|---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---------------|---------------|---------------|---------------|---------------|
+| U004 | Menawarkan timbal balik di mana mahasiswa juga mengevaluasi kebutuhan Dimas secara adil. | Dimas melunakkan nada bicara dan menyebut tawaran tersebut 'adil'. | Kepercayaan meningkat dari tingkat Rendah ke Sedang. | Menunjukkan kepedulian fungsional tanpa basa-basi manipulatif. |
+| U005 | Menghormati beban kerja kritis rekan ("Waktumu tetap aman"). | Dimas langsung menyepakati tanpa penolakan lanjutan. | Rasa aman berada pada tingkat Tinggi; otonomi dihargai penuh. | Menguatkan relasi kemitraan profesional jangka panjang. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Pada tahap uji ulang, Dimas menghadirkan kendala keterbatasan waktu ekstrem (5 menit akibat bug mendadak). Mahasiswa tidak memaksakan rencana awal 10 menit atau membatalkan sesi secara reaktif, melainkan melakukan restrukturisasi parameter latihan secara proporsional. Indikator perbaikan tampak pada kemampuan memprioritaskan metrik paling vital dalam batasan konteks nyata.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
-|---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|------------------|------------------|------------------|------------------|
+| Tujuan dan konteks | 4 | U001, U004, U005 | Tujuan dirumuskan spesifik, kontekstual, dan dipertahankan secara realistis. |
+| Persepsi dan validasi profil/status | 4 | U003, U004 | Mengidentifikasi secara tepat kebutuhan profil analitis akan metrik dan batas waktu. |
+| Pemilihan dan urutan repertoar | 4 | U002 -\> U003 -\> U004 | Urutan bergerak dari penataan dialog diri, klarifikasi nilai, hingga proposal eksperimen kuantitatif. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U004, U005 | Kalimat ringkas, lugas, konsisten menghargai beban kerja target, dan tidak bertele-tele. |
+| Evaluasi dan adaptasi | 4 | U005 | Adaptasi instan saat target menghadapi kendala waktu mendadak tanpa merusak sasaran inti. |
+| Refleksi dan lesson learned | 4 | Refleksi akhir | Mampu menguraikan perubahan kognitif diri dan memisahkan fakta dari asumsi emosional. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** 100 (Jumlah skor: 24 / 24 × 100). Usulan skor AI memerlukan moderasi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Awalnya saya mengira rasa gugup harus dihilangkan sepenuhnya sebelum bisa berbicara baik. Faktanya, gugup adalah energi fisiologis alami yang cukup diarahkan dengan struktur materi yang jelas dan parameter terukur. Terhadap rekan yang analitis, dorongan emosional tidak efektif; mereka memerlukan kejelasan parameter dan kepastian alokasi waktu.
+- **Stimulus efektif/tidak efektif:** Stimulus yang tidak efektif adalah alasan klise seperti "agar tidak malu". Stimulus yang sangat efektif adalah penawaran eksperimen berbatas waktu (*time-boxed*) dengan instrumen evaluasi kuantitatif.
+- **Pertumbuhan PASK/ASK diri:** Persepsi saya bergeser dari fokus pada ancaman evaluasi audiens menjadi fokus pada nilai kebermanfaatan pesan. Sikap saya menjadi lebih tenang dan fleksibel dalam menegosiasikan batasan teknis.
+- **Relasi:** Penghormatan terhadap beban kerja rekan dan kesediaan membagi peran setara terbukti membangun kepercayaan profesional yang kokoh.
+- **Pelajaran untuk situasi berikutnya:** Saat menghadapi situasi komunikasi di bawah tekanan, terapkan strategi *pause-refocus*, tentukan tujuan minimal, dan gunakan metrik objektif untuk mengukur kemajuan.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+|------------|------------|------------|------------|------------|------------|
+| Latihan presentasi mandiri 3 menit | Mahasiswa | Setiap Selasa & Kamis | Perekam suara / video smartphone | Pengurangan filler words \< 3 per menit | Rencana berjalan |
+| Simulasi peer-review teknis | Mahasiswa & rekan studi | 1 minggu sebelum presentasi proyek | Rubrik evaluasi ringkas | Umpan balik ketepatan durasi | Terjadwal |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+*Batas bukti:* Interaksi dilakukan melalui simulasi berbasis teks; performa prosodi vokal, kontak mata, dan dinamika gestur tubuh nyata memerlukan pengujian langsung di ruang kelas.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+## Bobot dan nilai akhir UTS
 
-{{< include "../../includes/uts-penilaian.md" >}}
+| Komponen                      |    Bobot | Nilai komponen               |
+|-------------------------------|---------:|------------------------------|
+| Makalah pra-UTS (`paper.qmd`) |      10% | Nilai dosen pada skala 0–100 |
+| Sesi 1                        |      18% | Belum Dinilai |
+| Sesi 2a                       |      18% | Belum dilaksanakan           |
+| Sesi 2b                       |      18% | Belum dilaksanakan           |
+| Sesi 3a                       |      18% | Belum dilaksanakan           |
+| Sesi 3b                       |      18% | Belum dilaksanakan           |
+| **Total**                     | **100%** | **Belum dihitung**           |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**. Nilai akhir ditulis **Belum dihitung** sampai seluruh sesi dan makalah dinilai secara lengkap.
