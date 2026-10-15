@@ -14,8 +14,23 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
+      - name: Install Quarto
+        shell: bash
+        run: |
+          set -euxo pipefail
+
+          QUARTO_VERSION="1.6.32"
+          QUARTO_TARBALL="quarto-${QUARTO_VERSION}-linux-amd64.tar.gz"
+          QUARTO_URL="https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/${QUARTO_TARBALL}"
+
+          curl -L "$QUARTO_URL" -o "$RUNNER_TEMP/quarto.tar.gz"
+          mkdir -p "$RUNNER_TEMP/quarto"
+          tar -xzf "$RUNNER_TEMP/quarto.tar.gz" -C "$RUNNER_TEMP/quarto" --strip-components=1
+
+          sudo mkdir -p /opt/quarto
+          sudo cp -a "$RUNNER_TEMP/quarto/." /opt/quarto/
+          echo "/opt/quarto/bin" >> "$GITHUB_PATH"
+          /opt/quarto/bin/quarto --version
 
       - name: Render and publish
         uses: quarto-dev/quarto-actions/publish@v2
@@ -23,4 +38,3 @@ jobs:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
