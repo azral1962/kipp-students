@@ -78,7 +78,7 @@ Kelasmu masih **K01** dan modalitasnya **teks**? Untuk tanggal, kita pakai **15 
 
 **U001 — Konfirmasi tanggal dan jenis kasus**
 
-pake 10 okt aja, bebas deh nyata atau simulasi
+10 Oktober 2026
 
 **AI002 — Kasus ini diperlakukan sebagai **simulasi**. Identitas penugasan tetap Michelle Nataneilla, NIM 18225071, kelas K01, dengan modalitas teks.
 
@@ -427,4 +427,4 @@ Mahasiswa ingin menerapkan metode **validasi + definition of done**: mengakui pe
 3. Jadwalkan pemeriksaan progres yang realistis dan sepakati tindakan jika konfirmasi terlambat, agar pekerjaan tidak tertahan atau berjalan dengan asumsi yang keliru.
 4. Setelah tugas selesai, evaluasi apakah beban kerja benar-benar seimbang dan apakah setiap anggota menyelesaikan bagian yang disepakati.
 
-Batas bukti: seluruh interaksi dalam laporan ini adalah simulasi dengan AI. Respons Fajar merupakan respons karakter yang diperankan, bukan data tentang individu nyata. Checklist, *quick sync*, tenggat, dan pembagian tugas hanya berupa kesepakatan dalam simulasi; pelaksanaannya belum diamati. Teks juga tidak memberikan bukti prosodi atau bahasa tubuh, dan perubahan relasi jangka panjang belum dapat disimpulkan. Tanggal laporan menggunakan 10 Oktober 2026 sesuai pilihan mahasiswa; percakapan pembukaan sempat menyebut tanggal berbeda dan koreksinya dipertahankan di transkrip.
+Batas bukti: seluruh interaksi dalam laporan ini adalah simulasi dengan AI. Respons Fajar merupakan respons karakter yang diperankan, bukan data tentang individu nyata. Checklist, *quick sync*, tenggat, dan pembagian tugas hanya berupa kesepakatan dalam simulasi; pelaksanaannya belum diamati. Teks juga tidak memberikan bukti prosodi atau bahasa tubuh, dan perubahan relasi jangka panjang belum dapat disimpulkan.
