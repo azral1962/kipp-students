@@ -427,4 +427,20 @@ Mahasiswa ingin menerapkan metode **validasi + definition of done**: mengakui pe
 3. Jadwalkan pemeriksaan progres yang realistis dan sepakati tindakan jika konfirmasi terlambat, agar pekerjaan tidak tertahan atau berjalan dengan asumsi yang keliru.
 4. Setelah tugas selesai, evaluasi apakah beban kerja benar-benar seimbang dan apakah setiap anggota menyelesaikan bagian yang disepakati.
 
-Batas bukti: seluruh interaksi dalam laporan ini adalah simulasi dengan AI. Respons Fajar merupakan respons karakter yang diperankan, bukan data tentang individu nyata. Checklist, *quick sync*, tenggat, dan pembagian tugas hanya berupa kesepakatan dalam simulasi; pelaksanaannya belum diamati. Teks juga tidak memberikan bukti prosodi atau bahasa tubuh, dan perubahan relasi jangka panjang belum dapat disimpulkan.
+Batas bukti: seluruh interaksi dalam laporan ini adalah simulasi dengan AI. Respons Fajar merupakan respons karakter yang diperankan, bukan data tentang individu nyata. Checklist, *quick sync*, tenggat, dan pembagian tugas hanya berupa kesepakatan dalam simulasi; pelaksanaannya belum diamati. 
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan semua nilai komponen pada skala 0–100.
+
+Nilai akhir UTS **belum dihitung**. Nilai komponen dan nilai asesor dibiarkan kosong sampai diisi berdasarkan penilaian yang sah.
