@@ -1,309 +1,346 @@
 ---
-title: "Laporan UTS KIPP 2026 — Versi 2.0"
-subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI/AI kepada Budi"
-author: "Ali Baba — 07381119"
-date: "2026-10-06"
+title: "Laporan Latihan Komunikasi KIPP 2026 — Kasus 3"
+subtitle: "Sesi 3b — Contoh Model Teknis yang Mudah Dipahami"
+author: "Michelle Nataneilla"
+date: "2026-10-15"
 lang: id
 format:
   html:
     toc: true
+    number-sections: false
 execute:
   eval: false
 ---
+
+> **Status dokumen:** Ini adalah **contoh latihan hipotetis**, bukan transkrip aktual dan bukan jaminan nilai dosen. Dialog, kondisi usaha, angka dasar, target uji coba, respons Fajar, dan skor merupakan ilustrasi yang sengaja disusun sebagai contoh performa sangat kuat. Skor 24/24 (100/100) di bagian evaluasi adalah **contoh penilaian model** yang perlu dimoderasi dosen dan hanya layak jika kualitas yang sama benar-benar ditunjukkan dalam latihan.
 
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | Ali Baba |
-| NIM | 07381119 |
-| Kelas | 01 |
-| Tanggal | 6 Oktober 2026 |
-| Nomor/judul kasus | Sesi 3b; Kasus 3 — Menawarkan solusi TI dan AI |
-| Urutan penugasan | 5 dari 5; penyelesaian empat sesi lainnya tidak diketahui |
-| Nama dan ID target | Budi (K3-02), pengelola usaha/customer |
-| Versi bank dan paket | Bank 2.0; paket individual 2.0 |
-| Aturan penugasan | PENUGASAN.md; target telah ditetapkan dan tidak dipilih ulang |
-| Modalitas yang dikonfirmasi | Teks |
-| Sumber pencatatan | Transkrip percakapan berformat SRT yang disediakan pengguna; mencakup fragmen ujaran. Tidak tersedia bukti prosodi atau rekaman untuk diverifikasi. |
-| Kasus nyata/fiktif | Simulasi dengan tokoh fiktif |
-| Kelengkapan transkrip | Seluruh giliran substantif yang tersedia sejak identifikasi hingga permintaan laporan dicatat. Uji ulang dan konfirmasi ringkasan akhir belum dilakukan. |
-| Status laporan | Dokumentasi hasil sesi yang tersedia; belum memenuhi seluruh tahapan asesmen versi 2.0 |
-
-Nama dan NIM mengikuti penugasan serta konfirmasi percakapan, bukan verifikasi identitas eksternal. Dokumen ini mengikuti empat bagian utama dalam template_laporan.qmd. Profil simulasi dan aturan evaluasi bersumber dari profil_komunikan.md dan prompt_umum.md. Laporan dibuat atas permintaan peserta pada U016; belum ada konfirmasi peserta terhadap seluruh interpretasi AI dalam laporan ini.
+| Nama mahasiswa | Michelle Nataneilla |
+| NIM | 18225071 |
+| Kelas dan tanggal | Kelas belum diberikan; tanggal dokumen 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 — menawarkan solusi TI/AI |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; sesuai berkas penugasan |
+| Modalitas | Teks; dialog dibuat sebagai simulasi latihan |
+| Kasus nyata/fiktif | Fiktif/hipotetis |
+| Kelengkapan transkrip | Lengkap sebagai contoh latihan; bukan catatan percakapan aktual |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-Brief dalam paket: customer menangani pertanyaan pelanggan berulang dan pesanan tercecer dengan tenaga terbatas. Customer belum yakin membutuhkan AI. Komunikator perlu menggali kebutuhan dan menawarkan solusi TI/AI yang sesuai, dengan sasaran keputusan atau uji coba konkret.
+### Ringkasan kasus
 
-Dalam percakapan, Ali Baba menawarkan solusi AI untuk meningkatkan kapasitas customer service. Tujuan awalnya mendapatkan kesempatan demo (U003). Harapan lanjutannya ialah Budi menggunakan alat dan membeli solusi (U004). Keduanya dibedakan: persetujuan demo adalah langkah pertama; pembelian merupakan hasil lanjutan yang belum dapat dibuktikan hanya melalui demo.
+Fajar mengelola usaha kecil. Pesan pelanggan berulang, misalnya pertanyaan harga, ketersediaan produk, dan cara memesan. Di saat ramai, pesanan bisa tertimbun di antara pesan lain atau tidak tercatat. Tenaga kerja terbatas dan Fajar ingin solusi yang cepat terasa manfaatnya. Ia tidak ingin penjelasan panjang, pekerjaan tambahan, atau janji teknologi yang belum terbukti.
 
-Indikator keberhasilan yang dapat diturunkan dari tujuan tersebut adalah persetujuan eksplisit atas demo, lalu keputusan adopsi/pembelian. Waktu, durasi, cakupan demo, indikator manfaat, dan syarat pembelian tidak dirumuskan dalam sesi.
+Tugas komunikator bukan menjual AI secepat mungkin. Tugasnya adalah mencari penyebab masalah, memahami cara kerja yang sekarang, lalu memilih solusi yang paling sederhana tetapi cukup efektif. Jika formulir dan pencatatan terpusat dapat menyelesaikan masalah utama, AI tidak perlu dipaksakan.
+
+### Tujuan komunikasi
+
+Tujuan saya adalah membantu Fajar memilih langkah uji coba yang kecil, teknisnya jelas, mudah dicoba, dan bisa dihentikan atau diperbaiki jika menambah beban. Saya akan menjelaskan cara kerja solusi dengan bahasa sehari-hari, tetapi tetap menyebutkan komponen teknis yang penting.
+
+**Indikator keberhasilan percakapan:**
+1. Saya mendapatkan gambaran alur pesan dan pesanan saat ini sebelum memberi saran.
+2. Fajar mengonfirmasi masalah paling penting dan hambatan yang ia khawatirkan.
+3. Saya membandingkan solusi sederhana dengan AI, menjelaskan batas serta risiko, dan tidak membuat klaim yang belum dibuktikan.
+4. Ada rencana uji coba yang memuat cakupan, waktu, penanggung jawab, dukungan, ukuran keberhasilan, privasi, dan langkah jika sistem bermasalah.
+5. Dalam uji ulang, saya menanggapi kendala staf dengan demonstrasi, checklist, dan prosedur cadangan, bukan sekadar mengulang usulan awal.
+
+### Solusi teknis yang akan diuji
+
+**Tahap pertama — tanpa AI:**
+
+- **WhatsApp Business:** memakai fitur balasan cepat untuk pertanyaan yang sering muncul dan label untuk membantu mengelompokkan percakapan.
+- **Formulir pesanan:** Google Forms atau Microsoft Forms dengan kolom minimum seperti nomor pesanan, waktu masuk, jenis produk, jumlah, status pembayaran bila relevan, status pemrosesan, dan staf penanggung jawab. Data pelanggan nyata hanya dimasukkan jika benar-benar dibutuhkan dan penggunaannya disetujui.
+- **Spreadsheet terpusat:** respons formulir masuk ke satu tabel yang dapat diakses oleh staf berwenang. Setiap pesanan memiliki ID unik, misalnya `ORD-2026-001`. Status dibuat sederhana: `Baru`, `Diproses`, `Selesai`, atau `Perlu dikonfirmasi`.
+- **Pemeriksaan harian:** staf mencocokkan pesan pesanan dengan baris di spreadsheet pada waktu yang disepakati. Checklist singkat membantu memastikan tidak ada pesanan yang hanya tertinggal di chat.
+- **Prosedur cadangan (fallback):** jika formulir atau internet bermasalah, staf mencatat sementara pada lembar cadangan yang telah disepakati, lalu memindahkan catatan ke sistem ketika pulih. Catatan cadangan harus segera ditandai agar tidak masuk dua kali.
+
+**Mengapa belum memakai AI?** Masalah utama yang ditemukan adalah pencatatan terpecah dan penggunaan alat yang tidak konsisten. AI tidak otomatis menyelesaikan masalah disiplin proses. Jika proses dasar belum rapi, AI bahkan dapat membuat kesalahan lebih sulit dilacak. AI baru layak dievaluasi jika data menunjukkan bahwa pertanyaan yang bervariasi tetap menyita waktu setelah templat jawaban dan proses pencatatan diperbaiki.
+
+**Batas teknis:** formulir tidak otomatis menjamin semua pesanan tercatat; staf tetap perlu menggunakannya. Balasan cepat bukan chatbot yang memahami semua konteks. Spreadsheet dapat salah diisi, terhapus, atau diakses pihak yang tidak tepat. Karena itu, uji coba membutuhkan pembatasan akses, pemeriksaan, dan prosedur cadangan.
 
 ## Profil awal komunikator
 
-Tabel berikut merupakan interpretasi AI atas bukti percakapan, bukan jawaban profil diri yang diberikan peserta sebelum simulasi.
-
-| Unsur | Laporan/dugaan berdasarkan percakapan | Bukti | Tingkat kepastian |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| SWOT subjektif | Melihat peluang pada kebutuhan peningkatan kapasitas customer service. Pada awal percakapan merasa solusi dapat membantu. Ancaman biaya, gangguan operasi, dan resistensi staf muncul melalui respons Budi. | U005–U008; AI007–AI012 | Interpretasi sementara; SWOT diri tidak ditanyakan secara lengkap |
-| Attitude | Berorientasi menawarkan manfaat; bersedia mengakui kekhawatiran dan menghormati penolakan. | U006, U012, U013 | Teramati dalam teks; motif batin tidak dinilai |
-| Knowledge | Menggunakan konsep AI dan machine learning. Bukti kapasitas tiga kali lipat, mekanisme belajar sistem, serta rincian biaya belum disampaikan. | U007, U008, U009, U012 | Klaim peserta; kemampuan teknis produk belum diverifikasi |
-| Skill | Mampu membuka percakapan, menjelaskan manfaat, merespons keberatan, dan menutup dengan sopan. Penggalian kebutuhan sebelum penawaran belum tampak. | U005–U013 | Teramati pada simulasi awal; transfer keterampilan belum diuji |
-| Preferensi/MBTI | Tidak dilaporkan peserta. | — | Tidak ditentukan dari transkrip |
-| Karakter, peran, kultur/ko-kultur | Berperan sebagai penyedia solusi. Sopan santun tampak melalui sapaan dan ucapan terima kasih; kultur spesifik tidak digali. | U005, U013 | Terbatas pada perilaku komunikasi yang tersedia |
+| SWOT subjektif | Peluangnya adalah perbaikan sederhana; ancamannya pekerjaan ganda dan data keliru. Saya cukup mampu menjelaskan alur dasar, tetapi perlu menghindari istilah teknis berlebihan. | Rencana sebelum dialog | Dugaan sementara |
+| Attitude | Saya ingin membantu Fajar mengambil keputusan yang sesuai, bukan memaksanya membeli AI. | Tujuan latihan | Laporan diri dalam contoh |
+| Knowledge | Saya memahami konsep formulir, spreadsheet, balasan cepat, ID pesanan, akses, dan pengukuran hasil; saya perlu mengonfirmasi detail alur Fajar terlebih dahulu. | Rencana sebelum dialog | Dugaan sementara |
+| Skill | Saya perlu menunjukkan kemampuan bertanya, mendengarkan, menjelaskan teknis secara sederhana, dan menyepakati uji coba terukur. | Tujuan latihan | Belum terbukti sampai dialog dan uji ulang |
+| Preferensi/MBTI jika dilaporkan | Tidak menyimpulkan MBTI mahasiswa atau Fajar dari dialog. | Tidak ada laporan diri yang digunakan | Tidak dinilai |
+| Karakter, peran, kultur/ko-kultur | Fajar adalah pengelola usaha yang mengutamakan hasil cepat dan kegunaan praktis; saya perlu menghargai waktunya dan menunjukkan langkah konkret. | Brief kasus dan dialog simulasi | Hipotesis yang perlu divalidasi |
 
 ## Dugaan awal profil target dan rencana
 
-Peserta tidak memberikan profil awal atau rencana terstruktur sebelum simulasi. Pada pembuka U005 peserta menganggap usaha Budi maju dan bagian customer service kewalahan. Pernyataan itu merupakan asumsi peserta dalam simulasi; belum divalidasi melalui pertanyaan. Sebelum simulasi, fasilitator menyebut Budi pragmatis, berfokus pada efisiensi, dan skeptis terhadap teknologi baru (AI005). Keterangan fasilitator itu tidak dihitung sebagai hasil diagnosis peserta.
+Dugaan sebelum percakapan: Fajar mungkin bersedia mencoba sesuatu yang cepat dan praktis, tetapi tidak sabar pada penjelasan panjang. Pemahaman tentang manfaat dan risiko otomasi mungkin belum lengkap, sementara konsistensi dokumentasi perlu dibantu dengan demonstrasi singkat, checklist, dan cara cadangan. Ini adalah dugaan, bukan kesimpulan tentang orang nyata.
 
-Tabel TAIDA berikut memetakan langkah yang benar-benar muncul, bukan rencana awal yang seolah-olah pernah disampaikan. TAIDA digunakan sebagai platform analisis, bukan tahapan perubahan yang pasti atau linear.
-
-| TAIDA | Status/target | Aspek A/K/S yang relevan | Repertoar yang tampak | Bukti hasil |
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | Budi sebagai calon pengguna; demo lalu adopsi/pembelian | Kebutuhan operasional belum digali | Menetapkan tujuan penawaran | U003–U004 |
-| Attention | Mengajak Budi memperhatikan penawaran | A: penghargaan atas usahanya | Salam dan pujian atas kemajuan usaha | U005; AI006 tetap menjawab |
-| Interest | Menawarkan peningkatan kapasitas dengan biaya terkendali | K: manfaat dan biaya; A: risiko | Penjelasan manfaat, klaim tiga kali lipat, biaya setara satu staf | U006–U008; AI007–AI009 meminta kepastian |
-| Desire | Mengupayakan keyakinan bahwa staf akan terbantu | A: rasa aman; K: peran staf; S: penyesuaian kerja | Menjelaskan sistem belajar dan staf menjadi supervisor | U009, U012; AI012–AI013 masih menyatakan kendala |
-| Action | Mendapatkan persetujuan demo | S: prosedur, dukungan, dan langkah konkret | Mengusulkan demo, lalu menutup setelah penolakan | U006, U013; AI013 menolak demo; belum ada kesepakatan |
+| Target | Masalah utama dan langkah pertama belum terkonfirmasi | Cari tahu alur dan prioritas | Pertanyaan terbuka, lalu rangkum untuk validasi | Fajar mengonfirmasi masalah utama |
+| Attention | Perhatian terbatas; menginginkan manfaat langsung | A: hargai waktu | Pembukaan singkat dan izin untuk menggali beberapa hal | Fajar bersedia menjawab pertanyaan |
+| Interest | Ketertarikan bergantung pada relevansi praktis | K: tunjukkan perbandingan proses saat ini dan opsi sederhana | Contoh alur satu pesanan dan penjelasan risiko | Fajar dapat menjelaskan manfaat dan batas |
+| Desire | Belum tentu ingin mengubah kebiasaan staf | A/S: beri pilihan dan kurangi beban | Uji coba terbatas, bukan perubahan total | Fajar mempertimbangkan uji coba dengan syarat |
+| Action | Perlu langkah yang jelas dan bisa diperiksa | S: demo, checklist, fallback | Tetapkan durasi, pemilik proses, indikator dan jadwal evaluasi | Ada kesepakatan yang dapat dijalankan |
 
 # C) Skrip Percakapan
 
-**Transkrip aktual berdasarkan teks yang tersedia, bukan dialog karangan.** ID U dan AI diberikan berurutan untuk masing-masing pembicara. Fragmen ujaran dipertahankan sebagai giliran terpisah. Penanda aktivitas alat dan pesan status teknis tidak disalin. Inventarisasi paket mendahului cuplikan identifikasi di bawah; konfigurasi sumber dan artefak akhir tidak dimasukkan sebagai dialog.
+> **Label tahap:** Identifikasi dan perencanaan, simulasi awal, evaluasi, uji ulang, refleksi, dan konfirmasi. Semua pesan di bawah adalah contoh hipotetis yang dibuat untuk latihan. Label `U` menunjukkan mahasiswa dalam contoh; `AI` menunjukkan tokoh Fajar atau fasilitator sesuai label tahap.
 
-## Tahap A — Identifikasi
+## C1. Identifikasi dan perencanaan
 
-**AI001 — Fasilitator**
+**U001 — Michelle [Identifikasi]:** nama yang tercantum di paket latihan adalah Michelle Nataneilla, NIM 18225071. kelas belum saya isi karena datanya belum tersedia. untuk contoh ini saya memakai modalitas teks dan kasus fiktif. saya akan berfokus pada kebutuhan Fajar, bukan langsung menawarkan AI.
 
-> AI001 — Tahap A: Identifikasi
->
-> Mohon konfirmasi data peserta dan lengkapi identitas sesi dalam satu jawaban:
->
-> - Nama: Ali Baba
-> - NIM: 07381119
-> - Kelas: …
-> - Tanggal: 6 Oktober 2026, atau koreksi bila berbeda
-> - Modalitas: teks atau suara
->
-> Apakah nama dan NIM tersebut sesuai dengan peserta yang akan menjalani sesi ini?
+**AI001 — Fasilitator [Konfirmasi data]:** data penugasan mencantumkan Michelle Nataneilla, NIM 18225071, sesi 3b, dengan target Fajar (K3-06). Data tersebut adalah data pada paket, bukan verifikasi identitas. kelas masih perlu dilengkapi jika diketahui.
 
-**U001 — Mahasiswa**
+**U002 — Michelle [Tujuan dan dugaan awal]:** tujuan saya adalah membantu Fajar memilih perbaikan yang praktis untuk mengurangi pertanyaan berulang dan pesanan terlewat. dugaan awal saya, Fajar ingin hasil cepat dan tidak ingin menambah langkah kerja. saya perlu menguji dugaan itu lewat pertanyaan, bukan menganggapnya pasti benar.
 
-> Oke
+**AI002 — Fasilitator [Brief kasus]:** kasusnya: Fajar mengelola usaha dengan pertanyaan pelanggan berulang dan pesanan yang kadang tercecer. Tenaga terbatas dan ia belum memahami risiko kesalahan otomatis. Dalam simulasi, Fajar akan meminta manfaat konkret dan menilai apakah rencana ini menambah beban.
 
-**AI002 — Fasilitator**
+## C2. Simulasi awal
 
-> Baik, kita mulai dari Tahap A dulu ya. Mohon konfirmasi identitas sesi: Nama Ali Baba, NIM 07381119, Kelas, tanggal hari ini 6 Oktober 2026, dan modalitas teks atau suara.
+**AI003 — Fajar [Pembukaan]:** bisa langsung ditunjukkan manfaatnya? saya tidak punya banyak waktu.
 
-**U002 — Mahasiswa**
+**U003 — Michelle:** bisa, aku akan singkat. sebelum menunjukkan solusi, aku ingin memastikan masalah yang kita selesaikan memang tepat. dari pertanyaan pelanggan dan pesanan yang masuk, mana yang paling sering bikin pekerjaanmu terhambat?
 
-> Oke, kelas 01 modalitas teks
+**AI004 — Fajar:** pertanyaan harga dan stok sering berulang. yang paling bikin repot, pesanan kadang tenggelam saat banyak chat masuk.
 
-**AI003 — Fasilitator**
+**U004 — Michelle:** berarti ada dua masalah: waktu habis untuk menjawab pertanyaan berulang, dan pesanan berisiko tidak tercatat. kalau harus memilih prioritas pertama, apakah pesanan yang tidak tercatat paling mendesak karena berdampak langsung pada pelanggan?
 
-> Baik, terima kasih. Jadi kita tetapkan, Ali Baba, NIM 07381119, Kelas 01, tanggal 6 Oktober 2026, modalitas teks. Sekarang kita masuk ke Tahap B, Kasus 3b. Tolong tuliskan tujuan komunikasi Anda untuk skenario menawarkan solusi IT/AI kepada Budi, seorang pengelola usaha yang dikenal efisien dan hati-hati.
+**AI005 — Fajar:** betul. pertanyaan berulang menghabiskan waktu, tetapi pesanan yang hilang lebih berbahaya. saya biasanya mencari ulang chat ketika pelanggan bertanya.
 
-## Tahap B — Kasus dan tujuan
+**U005 — Michelle:** terima kasih, itu membantu. aku tidak mau menambah pekerjaanmu dengan alat yang terlihat canggih tetapi tidak menyelesaikan masalah. boleh aku tahu alur pesanan sekarang, dari pelanggan mengirim pesan sampai staf mulai memprosesnya?
 
-**U003 — Mahasiswa**
+**AI006 — Fajar:** pelanggan kirim WhatsApp atau media sosial. staf membalas, lalu kadang menyalin pesanan ke buku atau spreadsheet. tetapi saat ramai, pencatatan itu sering tertunda.
 
-> Saya ingin supaya diberi kesempatan untuk melakukan demo produk ini sehingga dia bisa menggunakan sebagai solusi di tempat kerjanya
+**U006 — Michelle:** jadi masalahnya bukan hanya pesan masuk banyak, tetapi catatan tersebar di chat, buku, dan spreadsheet. ketika staf menunda pencatatan, pesan bisa tenggelam. apakah semua staf memakai format pencatatan yang sama?
 
-**AI004 — Fasilitator**
+**AI007 — Fajar:** tidak selalu. ada yang mencatat lengkap, ada yang hanya menulis nama barang dan jumlah. kadang saya harus bertanya lagi untuk melengkapi pesanan.
 
-> Baik, tujuan awalnya adalah mendapatkan kesempatan demo agar Budi bisa melihat relevansi solusi untuk konteks kerjanya. Sekarang, mohon rumuskan hasil yang Anda anggap sukses dari percakapan ini. Misalnya, apakah cukup sampai Budi bersedia demo, atau ada tindak lanjut tertentu yang Anda harapkan?
+**U007 — Michelle:** kalau begitu, format yang sama dan jumlah kolom yang sedikit penting. apa yang membuat spreadsheet sebelumnya sulit dipakai: terlalu banyak kolom, harus membuka aplikasi lain, atau ada masalah lain?
 
-**U004 — Mahasiswa**
+**AI008 — Fajar:** terlalu banyak kolom dan staf merasa itu kerja tambahan. mereka ingin cara yang cepat, tidak harus mengisi hal yang sama dua kali.
 
-> Tentu, setelah demo, kita harapkan untuk dia bisa menggunakan alat ini dan dia membeli solusi yang saya siapkan
+**U008 — Michelle:** masuk akal. aku menangkap bahwa solusi harus sederhana, menghindari ketik ulang, dan tetap membuat status pesanan bisa dilihat. apakah aku menangkap kebutuhanmu dengan benar, atau ada hal penting yang belum aku sebut?
 
-**AI005 — Fasilitator**
+**AI009 — Fajar:** itu benar. saya ingin melihat mana pesanan baru, mana yang sedang diproses, dan mana yang sudah selesai. saya juga ingin tahu kalau ada pesanan yang belum lengkap.
 
-> Oke, jadi hasil yang dianggap sukses adalah: Budi setuju mencoba demo, lalu terbuka untuk adopsi lebih lanjut. Sekarang kita masuk ke Tahap C. Saya akan memerankan Budi, pengelola usaha yang pragmatis, fokus efisiensi, dan skeptis pada teknologi baru. Silakan mulai percakapan dengan salam atau pembuka.
+**U009 — Michelle:** baik. berdasarkan itu, aku belum menyarankan AI. untuk tahap awal, ada tiga bagian yang bisa dicoba: balasan cepat untuk pertanyaan umum, formulir pesanan singkat, dan spreadsheet bersama yang menunjukkan status. aku jelaskan alurnya sebentar, lalu kamu bisa menilai apakah masuk akal.
 
-## Tahap C — Simulasi awal
+**AI010 — Fajar:** jelaskan yang praktis saja. bagaimana itu mencegah pesanan hilang?
 
-**U005 — Mahasiswa**
+**U010 — Michelle:** contoh alurnya begini. saat pelanggan memesan, staf memasukkan detail minimum ke formulir: jenis barang, jumlah, waktu masuk, dan informasi kontak hanya jika memang diperlukan untuk memproses pesanan. setiap kiriman menjadi satu baris di spreadsheet. baris itu diberi ID pesanan dan status `Baru`. setelah mulai dikerjakan, status diganti menjadi `Diproses`, lalu `Selesai`. pada akhir giliran kerja, staf mencocokkan daftar pesanan dengan chat yang masuk. dengan begitu, pesanan punya tempat pencatatan yang sama, bukan hanya tersimpan di percakapan.
 
-> Halo, apa kabar Pak Budi? Saya lihat usaha Pak Budi ini maju besar, sehingga kewalahan bagian customer service. Saya lihat itu akibat dari Pak Budi memelihara perusahaan ini dengan baik
+**AI011 — Fajar:** kalau staf lupa mengisi formulir, pesanan tetap bisa hilang, kan? saya tidak ingin menganggap alat itu otomatis menyelesaikan semuanya.
 
-**AI006 — Budi**
+**U011 — Michelle:** betul, dan itu batas penting. formulir hanya membantu setelah digunakan; ia tidak bisa memastikan staf selalu mengisi. karena itu kita perlu checklist sederhana: “pesanan sudah masuk tabel?” dan “status sudah diperbarui?”. kita juga tentukan satu staf yang memeriksa daftar pada jam yang disepakati. kalau formulir atau internet bermasalah, staf menulis sementara di lembar cadangan lalu memindahkannya saat sistem pulih, sambil menandai catatan agar tidak masuk dua kali.
 
-> Ya, terima kasih. Kami memang lagi berusaha jaga ritme. Tapi jujur aja, kami hati-hati banget soal teknologi baru. Kadang alat baru malah nambah repot.
+**AI012 — Fajar:** saya juga khawatir data pesanan bisa dilihat orang yang tidak perlu. bagaimana aksesnya dibatasi?
 
-**U006 — Mahasiswa**
+**U012 — Michelle:** akses spreadsheet hanya diberikan ke staf yang memang menangani pesanan dan pemilik usaha. akun tidak dibagikan sembarangan, dan tautan tidak dibuat terbuka untuk siapa pun. kita juga hanya mengumpulkan informasi yang diperlukan untuk memproses pesanan. untuk latihan ini kita tidak memakai data pelanggan nyata. sebelum dipakai sungguhan, kita cek lagi pengaturan akses, aturan penyimpanan, dan apakah alat yang dipilih sesuai kebijakan usahamu.
 
-> Ya, memang itu satu concern yang penting ya. Dan saya itu ingin mendemokan satu solusi supaya customer service Pak Budi itu bisa meningkatkan kapasitasnya tanpa meningkatkan pembiayaan terlalu banyak
+**AI013 — Fajar:** baik. tetapi bagaimana dengan pertanyaan pelanggan? apakah formulir itu menjawab pertanyaan mereka juga?
 
-**AI007 — Budi**
+**U013 — Michelle:** tidak langsung. itu dua masalah yang berbeda. untuk pertanyaan harga, stok, jam buka, dan cara memesan, kita bisa mulai dengan balasan cepat WhatsApp Business yang ditulis dan diperiksa manusia. balasan cepat hanya menyisipkan jawaban yang sudah disiapkan; itu bukan AI yang memahami semua pertanyaan. kalau pertanyaannya tidak cocok dengan templat atau stok belum pasti, staf tetap memeriksa dan menjawab secara manual.
 
-> Hmm. Gimana ya? Saya paham idenya, tapi biasanya implementasi itu makan waktu dan ganggu operasi. Tim kami nggak punya banyak ruang buat coba-coba. Saya takut nanti malah ini menghambat alur kerja yang sudah jalan.
+**AI014 — Fajar:** lalu kapan AI memang layak dipakai? saya tidak ingin membuang waktu membuat sistem sederhana kalau nanti tetap harus mengganti semuanya.
 
-**U007 — Mahasiswa**
+**U014 — Michelle:** kita tidak bisa menjamin dari awal bahwa AI akan diperlukan atau tidak. uji coba sederhana memberi data untuk keputusan berikutnya. setelah proses pesanan lebih konsisten, kita ukur berapa banyak pertanyaan berulang yang masih membutuhkan waktu staf dan jenis pertanyaan yang tidak bisa ditangani templat. kalau jumlahnya tetap tinggi dan jawabannya bisa diambil dari sumber yang akurat, barulah kita uji chatbot AI terbatas dengan pengawasan manusia. chatbot tidak boleh menebak stok atau menjanjikan sesuatu yang belum terkonfirmasi.
 
-> Ya, solusi kami itu akan menggunakan teknologi artificial intelligence yang tidak akan mengganggu terlalu banyak apa yang sudah dilakukan, bahkan saya lihat akan membuat kerjaan staf dari Pak Budi ini akan lebih efisien. Sehingga kapasitas bisa meningkatkan tiga kali lipat
+**AI015 — Fajar:** saya mulai paham bedanya. saya lebih tertarik mencoba cara sederhana dahulu, asal ukuran keberhasilannya jelas dan tidak mengikat kami untuk terus memakai sistem itu.
 
-**AI008 — Budi**
+**U015 — Michelle:** setuju. kita bisa membuat uji coba yang terbatas dan menghentikannya jika beban kerja bertambah atau hasilnya tidak membantu. aku ingin menghargai waktumu: kita tidak perlu mengubah semua saluran sekaligus. apakah satu saluran dan satu jenis pesanan cukup untuk percobaan pertama?
 
-> Tiga kali lipat? Itu terdengar, jujur saja, terlalu bagus untuk jadi kenyataan. Dan soal biaya, bagaimana? Saya perlu sangat hati-hati dengan pengeluaran, apalagi kalau belum jelas hasilnya.
+**AI016 — Fajar:** ya, satu saluran lebih realistis. saya ingin mencobanya selama seminggu, tetapi perlu tahu siapa yang bertanggung jawab dan apa yang harus dicatat.
 
-**U008 — Mahasiswa**
+**U016 — Michelle:** usulan rencananya: satu saluran WhatsApp dan satu jenis pesanan selama tujuh hari. sebelum mulai, kita catat kondisi awal selama tiga hari kerja: jumlah pesanan masuk, berapa yang tercatat lengkap, berapa yang terlambat atau terlewat, dan perkiraan waktu pencatatan. selama uji coba, satu staf bertanggung jawab memasukkan pesanan, sementara kamu memeriksa ringkasan pada akhir hari. aku membantu menyiapkan formulir contoh, checklist satu halaman, dan demo singkat. apakah pembagian peran seperti ini sesuai dengan cara kerjamu?
 
-> Ya, memang ada biayanya, Pak Budi. Tapi biaya yang kita siapkan itu seperti besarnya biaya satu staf. Jadi dengan biaya satu staf, Pak Budi mendapatkan kapasitas tiga kali lipat untuk pelayanan customer service Pak Budi
+**AI017 — Fajar:** pembagian itu bisa dicoba. saya ingin indikator yang tidak rumit. kami tidak punya waktu membuat laporan panjang setiap hari.
 
-**AI009 — Budi**
+**U017 — Michelle:** setuju, cukup empat angka harian: jumlah pesanan yang masuk, jumlah yang tercatat lengkap, jumlah yang terlambat/terlewat, dan waktu rata-rata untuk mencatat satu pesanan. kita juga minta staf memberi satu catatan singkat jika ada langkah yang membingungkan. sebagai target awal untuk simulasi, kita bisa mengusulkan minimal 95% pesanan tercatat lengkap dan tidak ada kenaikan waktu pencatatan yang berarti. target ini perlu dikonfirmasi berdasarkan kondisi awal; kalau tidak realistis, kita sesuaikan sebelum uji coba, bukan memaksakan angka.
 
-> Tapi tetap aja, biaya satu staf itu bukan angka kecil. Kalau ternyata tidak cocok, saya yang tanggung risikonya. Dan tim saya juga sudah penuh pekerjaan. Saya khawatir mereka keberatan dengan tambahan sistem baru, pelatihan, dan penyesuaian. Itu semua makan energi dan waktu. Saya bukan menolak, cuma saya belum yakin ini saat yang tepat.
+**AI018 — Fajar:** saya suka ukurannya sederhana. bagaimana jika hasilnya bagus tetapi staf tetap merasa lebih repot?
 
-**U009 — Mahasiswa**
+**U018 — Michelle:** masukan staf tetap menjadi bagian dari keputusan. angka yang bagus tidak cukup jika prosesnya membuat staf kewalahan atau mendorong mereka melewati prosedur. pada akhir minggu kita membandingkan hasil, waktu kerja, dan masukan staf. kalau pesanan lebih lengkap tetapi proses terlalu lambat, kita sederhanakan kolom atau hentikan perluasan. kalau hasilnya tidak membaik, kita cari penyebabnya sebelum menambahkan teknologi.
 
-> Ya, dan sebenarnya sistem yang kita buat itu sistem yang untuk mempelajari bagaimana staf Pak Budi mengerjakan tugasnya. Jadi yang akan bekerja itu sistemnya, bukan staf Pak Budi
+**AI019 — Fajar:** baik. saya bersedia menguji satu saluran selama seminggu dengan satu staf penanggung jawab, ringkasan harian, dan evaluasi di akhir minggu. saya belum menyetujui penggunaan AI, tetapi saya setuju dengan uji coba dasar ini.
 
-**AI010 — Budi**
+**U019 — Michelle:** terima kasih, itu keputusan yang cukup jelas dan tidak berlebihan. supaya kesepakatan kita tidak berbeda pemahaman, aku rangkum: kamu menunjuk satu staf; kita siapkan formulir pendek, spreadsheet dengan ID dan status, balasan cepat untuk pertanyaan umum, checklist, serta cara cadangan jika internet bermasalah. kita catat kondisi awal tiga hari kerja, lalu uji selama tujuh hari pada satu saluran. pada akhir minggu kita tinjau kelengkapan, pesanan terlewat, waktu pencatatan, dan masukan staf. tidak ada kewajiban membeli AI; keputusan berikutnya bergantung pada hasil. apakah ada bagian yang perlu dikoreksi?
 
-> Ya,
+**AI020 — Fajar:** rangkumannya sesuai. saya akan memilih staf dan memeriksa ringkasan harian. sebelum mulai, saya ingin staf melihat demo supaya mereka bisa menunjukkan bagian yang berpotensi memperlambat kerja.
 
-**U010 — Mahasiswa**
+## C3. Evaluasi sementara
 
-> Staf Budi itu
+**U020 — Michelle [Evaluasi]:** dari respons Fajar, saya menilai rasa aman dan keterbukaan meningkat karena kekhawatirannya tidak dianggap sebagai penolakan yang harus dilawan. Pemahamannya juga mulai meningkat setelah saya membedakan formulir, balasan cepat, dan AI. Namun, kemampuan staf belum terbukti; itu baru bisa dinilai lewat demonstrasi dan pelaksanaan. dugaan awal saya bahwa Fajar memerlukan langkah praktis didukung oleh permintaannya akan indikator sederhana dan demo. bagian yang masih harus diperiksa adalah apakah pencatatan ganda benar-benar berkurang. saya tidak menganggap persetujuan uji coba sebagai persetujuan membeli AI.
 
-**AI011 — Budi**
+**AI021 — Fasilitator [Pertanyaan evaluasi]:** bukti apa dari dialog yang menunjukkan perubahan A, K, dan kesiapan S pada Fajar, dan bagian mana yang masih berupa dugaan?
 
-> Maaf saya potong, tapi itu dia.
+**U021 — Michelle [Jawaban evaluasi]:** A atau kemauan tampak membaik saat Fajar bersedia mencoba satu saluran selama seminggu (AI019), tetapi ia belum menyetujui AI. K atau pemahaman terlihat saat ia dapat membedakan cara sederhana dari AI (AI015), sementara pemahaman tentang risiko tetap perlu diperiksa melalui demo. S atau kemampuan belum terbukti: ia baru menyatakan staf perlu melihat demo (AI020). jadi saya hanya menyimpulkan kesiapan mencoba meningkat, bukan keterampilan staf sudah meningkat.
 
-**U011 — Mahasiswa**
+## C4. Uji ulang — kendala staf dan prosedur cadangan
 
-> meningkat jadi ya
+**AI022 — Fajar [Uji ulang]:** saat demo, staf saya bilang formulir tetap membuat mereka membuka aplikasi lain dan menyalin informasi dari WhatsApp. kalau begitu, mereka mungkin kembali ke cara lama. apa yang akan kamu ubah?
 
-**AI012 — Budi**
+**U022 — Michelle:** keberatan itu masuk akal; kalau staf harus menyalin semuanya dua kali, rancangan awal belum cukup baik. aku tidak akan meminta mereka langsung patuh. kita akan memetakan satu pesanan dari pesan masuk sampai selesai, lalu menandai informasi mana yang benar-benar perlu dicatat. kita bisa mengurangi kolom, menghapus data yang tidak dibutuhkan, dan menguji apakah tautan formulir mudah diakses dari perangkat yang dipakai staf. setelah itu, staf mencoba satu pesanan contoh dan memberi tahu langkah mana yang terasa ganda.
 
-> Saya khawatir tim jadi merasa diawasi atau digantikan. Itu bisa bikin mereka defensif. Saya juga nggak punya waktu untuk mengelola resistensi internal sekarang. Jadi kalau memang butuh banyak perubahan di cara kerja harian, saya rasa ini tidak realistis untuk kami dalam waktu dekat.
+**AI023 — Fajar:** bagaimana memastikan pesanan yang dicatat lewat cara cadangan tidak masuk dua kali setelah internet kembali?
 
-**U012 — Mahasiswa**
+**U023 — Michelle:** setiap catatan sementara harus memakai nomor urut atau ID sementara, misalnya `TEMP-01`, serta diberi tanda “belum dipindahkan”. saat koneksi pulih, staf memindahkan catatan itu ke tabel utama, mengubah status catatan sementara menjadi “sudah dipindahkan”, lalu mencocokkan ID dan waktu agar tidak membuat baris kedua. checklist-nya hanya tiga langkah: tandai catatan sementara, pindahkan ke tabel utama, lalu cocokkan dan tutup catatan sementara. kita harus menguji prosedur ini saat demo; kalau masih membingungkan, jangan mulai uji coba penuh dulu.
 
-> Betul. Betul Pak Budi, kalau memang sistemnya tidak bagus seperti itu. Tapi sistem yang kita tawarkan ini justru membuat staf Pak Budi menjadi supervisor dan tidak kehilangan kemampuan. Bahkan sebetulnya Pak Budi yang akan mengajarkan hal ini kepada sistem, karena sistem ini machine learning dasarnya
+**AI024 — Fajar:** itu lebih jelas. saya ingin staf mencoba dua skenario: pesanan normal dan internet terputus. saya juga ingin mereka bisa bilang kalau checklist-nya terlalu rumit.
 
-**AI013 — Budi**
+**U024 — Michelle:** setuju. demo akan mencakup dua skenario itu dan masukan staf menjadi syarat sebelum uji coba dimulai. aku akan menyiapkan checklist satu halaman dengan bahasa sederhana, bukan dokumen panjang. setelah staf mencoba, kita minta mereka mengulangi langkah dengan kata-kata sendiri untuk memeriksa apakah instruksinya jelas. jika mereka belum bisa menjalankannya tanpa bantuan, kita sederhanakan lagi. kita tidak akan menganggap kemampuan sudah ada hanya karena demo sudah diberikan.
 
-> Saya mengerti penjelasannya, tapi seperti yang saya bilang, saat ini fokus saya menjaga operasi tetap stabil. Saya nggak dalam posisi untuk mempertimbangkan perubahan tambahan sekarang. Mungkin lain kali, saat kami sudah lebih longgar. Untuk sekarang, saya rasa belum bisa lanjut ke tahap demo. Terima kasih sudah menjelaskan.
+**AI025 — Fajar:** baik. saya akan memilih satu staf untuk demo, meminta ia mencoba kedua skenario, lalu memutuskan apakah prosesnya cukup mudah untuk uji coba tujuh hari. kalau belum, kami revisi dulu.
 
-**U013 — Mahasiswa**
+## C5. Refleksi dan konfirmasi
 
-> Oke, terima kasih Pak Budi, nanti kami kontak lagi kalau sudah ada kesempatan ya
+**AI026 — Fasilitator [Refleksi]:** pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?
 
-## Evaluasi dan refleksi — disebut Tahap D oleh fasilitator
+**U025 — Michelle [Refleksi]:** pesan yang paling membantu adalah ketika saya mengakui bahwa formulir bisa menambah pekerjaan jika membuat staf mengetik dua kali (U022), lalu menawarkan pemetaan alur dan percobaan kecil. Fajar merespons dengan mengusulkan dua skenario uji (AI024), sehingga ia ikut membentuk solusi. Saya juga menghormati batas keputusannya dengan menyatakan bahwa uji coba tidak mewajibkan pembelian AI (U019). Bukti ini menunjukkan keterbukaan dan kesediaan bekerja sama dalam simulasi, tetapi tidak membuktikan perasaan batin atau keberhasilan sistem di dunia nyata.
 
-**AI014 — Fasilitator**
+**U026 — Michelle [Refleksi pembelajaran]:** saya belajar bahwa istilah teknis harus diterjemahkan menjadi tindakan yang bisa dilihat: satu formulir, satu tabel, status yang jelas, checklist, dan cara cadangan. Saya juga perlu membedakan “mau mencoba” dari “sudah mampu”. Pada kesempatan berikutnya, saya akan lebih dulu memetakan alur pesanan dan menghitung kondisi awal sebelum menentukan target numerik.
 
-> Baik, percakapan dihentikan di sini. Sekarang kita masuk ke Tahap D. Menurut Anda, apakah tujuan komunikasi tadi tercapai? Lalu apa satu hal utama yang menurut Anda perlu diperbaiki lain kali? Jawab singkat saja dulu.
+**U027 — Michelle [Konfirmasi]:** ringkasan akhir latihan: prioritas Fajar adalah mengurangi pesanan yang terlewat; opsi awal adalah formulir singkat, spreadsheet terpusat, balasan cepat, checklist, dan fallback. Uji coba baru berjalan setelah demo dua skenario dinilai mudah oleh staf. Jika uji coba dilakukan, durasinya tujuh hari pada satu saluran, dengan kondisi awal tiga hari kerja dan pemeriksaan ringkasan harian. AI belum diputuskan. apakah ringkasan ini konsisten dengan contoh latihan yang ingin kita dokumentasikan?
 
-**U014 — Mahasiswa**
-
-> Sebetulnya belum tercapai, tetapi kita juga bersyukur kalau kita tidak terlibat pada satu proyek yang tidak membutuhkan apa yang kita buat
-
-**AI015 — Fasilitator**
-
-> Baik, terima kasih. Saya tangkap Anda menilai tujuan belum tercapai dan menyadari ada ketidaksesuaian kebutuhan. Silakan tambahkan satu kalimat refleksi tentang apa yang akan Anda lakukan berbeda lain kali.
-
-**U015 — Mahasiswa**
-
-> Saya akan mulai dengan bertanya pada yang Pak Budi itu atau temannya apa yang sebetulnya menjadi concern dia dan menurut dia itu seperti apa jalan keluarnya yang bisa kita bantu. Jadi terbalik, dia yang harus menjawab, memberikan informasi pada kita
-
-**AI016 — Fasilitator**
-
-> Baik, terima kasih. Refleksi Anda jelas. Dengan ini sesi percakapan dan refleksi selesai. Struktur laporan sudah lengkap untuk Anda salin ke hasil 3b  07381119 qmd.
-
-## Permintaan laporan tertulis
-
-**U016 — Mahasiswa/pengguna**
-
-> Bisakah dibuatkan laporan hasil itu buat kita laporkan secara tertulis
-
-Tidak tersedia giliran uji ulang maupun konfirmasi ringkasan akhir. Pernyataan fasilitator pada AI016 dipertahankan sebagai bukti historis, tetapi tidak dijadikan dasar menyatakan seluruh protokol versi 2.0 telah lengkap.
+**AI027 — Fasilitator [Batas bukti]:** ya, sebagai contoh model latihan, ringkasan itu konsisten dengan dialog hipotetis di atas. Untuk laporan pengalaman nyata, transkrip, refleksi, dan bukti harus diganti dengan yang benar-benar terjadi.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-**Tujuan demo belum tercapai.** Budi menyatakan belum bisa melanjutkan ke demo (AI013). Tidak ada persetujuan penggunaan, pembelian, atau jadwal tindak lanjut. Mahasiswa juga mengakui tujuan belum tercapai (U014). Penutupan berlangsung sopan, sehingga penolakan keputusan tidak berarti seluruh proses komunikasi tidak bernilai.
+**Hasil tujuan dalam simulasi:** tercapai pada tingkat kesepakatan uji coba bersyarat, bukan keputusan membeli AI. Fajar bersedia menyiapkan demo dan mempertimbangkan uji coba tujuh hari setelah staf mencoba dua skenario. Ini adalah hasil yang tepat karena tujuan komunikasi adalah keputusan konkret yang sesuai kebutuhan, bukan persetujuan terhadap teknologi tertentu.
 
-Kesimpulan peserta bahwa proyek tidak membutuhkan produk (U014) perlu dipisahkan dari bukti simulasi. Budi terutama menyatakan belum siap karena risiko biaya, gangguan operasi, dan beban perubahan. Percakapan belum membuktikan bahwa produk pasti tidak relevan, ataupun bahwa produk pasti tepat bagi kebutuhan Budi.
-
-| Unsur pada Budi | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+| Unsur | Awal | Akhir dalam simulasi | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Kesimpulan SWOT | Cara lama terasa jelas; perubahan dipandang berisiko | Risiko perubahan tetap dominan; manfaat belum cukup meyakinkan | AI006–AI009, AI013 | Profil fiktif dan respons simulasi; bukan pengukuran customer nyata |
-| Attitude | Hati-hati terhadap teknologi baru | Tetap hati-hati; menunda dan menolak demo saat ini | AI006, AI013 | Tidak ada bukti peningkatan kemauan mencoba |
-| Knowledge | Mengetahui prosedur lama; membutuhkan kejelasan alternatif | Mendengar penjelasan AI dan supervisor, tetapi biaya/asumsi serta alur pembanding belum terjawab | U007–U012; AI008, AI013 | Ungkapan memahami penjelasan tidak membuktikan pemahaman teknis mendalam |
-| Skill/kesiapan | Operasional lama berjalan; adaptasi baru perlu panduan | Belum ada pilot, prosedur cadangan, atau dukungan yang disepakati | AI007, AI009, AI013 | Peningkatan keterampilan tidak teramati |
+| Kesimpulan SWOT | Pencatatan tersebar; solusi sederhana berpeluang membantu tetapi dapat menambah langkah | Peluang formulir dan tabel terpusat makin masuk akal; risiko kerja ganda dan konsistensi tetap harus diuji | U006–U008, U022–U024 | Interpretasi atas dialog hipotetis |
+| Attitude | Ingin hasil cepat dan tidak ingin beban baru | Bersedia mempertimbangkan demo dan uji coba bersyarat | AI015, AI019, AI025 | Status tokoh simulasi, bukan orang nyata |
+| Knowledge | Belum membedakan alat pencatatan, balasan cepat, dan AI secara rinci | Mulai memahami fungsi dan batas masing-masing | AI015; U010–U014 | Pemahaman dalam dialog; perlu pemeriksaan lanjutan |
+| Skill | Dokumentasi dan konsistensi staf menjadi hambatan | Kesiapan mencoba prosedur meningkat, tetapi keterampilan belum terbukti | AI020, AI024–AI025 | Tidak boleh menyimpulkan skill meningkat sebelum demo nyata |
 
-Pada mahasiswa, perubahan yang didukung ialah pengakuan atas hasil dan niat mengubah pendekatan dari menjelaskan produk menjadi menggali concern customer (U014–U015). Perubahan pengetahuan atau sikap tersebut belum disertai demonstrasi keterampilan dalam uji ulang.
+### Penjelasan teknis dengan bahasa sederhana
+
+1. **Formulir** adalah pintu masuk data pesanan. Tujuannya supaya informasi minimum masuk dengan format yang sama.
+2. **Spreadsheet terpusat** adalah daftar kerja bersama. Setiap pesanan punya satu baris, ID, dan status, sehingga staf tidak perlu menebak apakah pesanan sudah diproses.
+3. **ID unik** membantu membedakan pesanan. ID bukan bukti pesanan benar; staf tetap perlu memeriksa isi dan menghindari duplikasi.
+4. **Balasan cepat** mempercepat pengiriman jawaban yang sudah disiapkan. Ini bukan AI dan tidak boleh digunakan jika informasi seperti stok belum dikonfirmasi.
+5. **Checklist** mengingatkan langkah penting agar proses tidak bergantung pada ingatan.
+6. **Fallback** adalah cara kerja cadangan saat alat utama tidak bisa dipakai. Catatan cadangan harus ditandai dan dicocokkan ketika dipindahkan agar tidak tercatat dua kali.
+7. **AI** baru dievaluasi bila ada kebutuhan yang belum teratasi. Jika kelak diuji, jawaban harus dibatasi pada informasi yang telah diperiksa, dan pertanyaan berisiko atau tidak pasti dialihkan kepada manusia.
 
 ## Evaluasi stimulus–respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| U005 → AI006 | Budi bersedia menjawab tetapi waspada | Sapaan dan penghargaan atas kemajuan usaha | Mengucapkan terima kasih lalu menyebut alat baru dapat menambah repot | Percakapan terbuka; hambatan A mulai terungkap | U006 mengakui concern, lalu menawarkan demo |
-| U006–U007 → AI007–AI008 | Risiko gangguan operasi menjadi perhatian utama | Penjelasan efisiensi dan klaim kapasitas tiga kali lipat | Budi mempertanyakan plausibilitas serta biaya | Kebutuhan bukti dan kejelasan meningkat; keyakinan belum terbentuk | Menjawab melalui perbandingan biaya satu staf |
-| U008 → AI009 | Biaya dan beban perubahan belum terselesaikan | Biaya setara satu staf dengan manfaat tiga kali lipat | Menyatakan biaya tetap besar dan risiko ditanggungnya | A/K/S tetap menjadi hambatan | Beralih menjelaskan sistem belajar dari staf |
-| U009–U011 → AI012 | Budi khawatir staf tergantikan/merasa diawasi | Sistem bekerja menggantikan pekerjaan staf; ujaran lanjutan terfragmentasi | Mengungkap kekhawatiran resistensi internal | Rasa aman staf belum terjawab | U012 menjelaskan staf menjadi supervisor |
-| U012 → AI013 | Stabilitas operasi tetap prioritas | Penegasan peran supervisor dan machine learning | Menolak demo saat ini | Penjelasan didengar, tetapi kesiapan tindakan tidak berubah | U013 menghormati keputusan dan menutup |
+| AI003–U003 | Awal: perhatian terbatas; Fajar meminta manfaat langsung | U003: “aku akan singkat” dan pertanyaan prioritas | AI004 menjelaskan dua masalah | A: lebih bersedia menjelaskan masalah | Pertahankan gaya ringkas, lanjutkan pertanyaan relevan |
+| U005–AI008 | Fajar menjelaskan proses dan kendala spreadsheet | U005 menggali alur; U007 menanyakan hambatan; U008 merangkum dan meminta koreksi | Fajar menjelaskan kolom terlalu banyak dan kerja ganda | K: penyebab lebih spesifik; SWOT: proses tersebar | Pilih solusi dengan input minimum |
+| U009–AI012 | Fajar meminta status dan bertanya risiko | U009 mengusulkan tiga komponen; U010 menjelaskan alur; U011 mengakui batas; U012 membahas akses | Fajar mengangkat risiko alat dan privasi | K: memahami fungsi dan keterbatasan; A: kepercayaan lebih terjaga | Jelaskan kontrol akses dan pengawasan manusia |
+| U013–AI019 | Fajar bertanya kapan AI perlu dipakai dan menyetujui uji bersyarat | U013 membedakan balasan cepat dari AI; U014 menetapkan kriteria evaluasi; U016–U019 merancang uji | Fajar menerima uji terbatas tanpa menyetujui AI | A dan K membaik sebagian; keputusan Action konkret | Tetapkan ukuran, peran, jadwal, dan keputusan pascauji |
+| AI022–U024 | Kendala baru: staf khawatir kerja ganda dan fallback membingungkan | U022 menerima keberatan; U023 merancang ID sementara; U024 meminta demo dua skenario | Fajar menyetujui demo dan syarat kesiapan | S/kesiapan meningkat sebagai status simulator, bukan skill nyata | Jangan mulai sebelum staf bisa menjalankan alur |
 
-**Profil simulasi setelah sesi:** Budi K3-02 adalah pengelola usaha yang menjunjung komitmen dan prosedur tertib. Hambatan A ialah takut biaya serta gangguan prosedur; hambatan K ialah kebutuhan akan biaya/asumsi dan alur pembanding; hambatan S ialah kebutuhan pilot dengan prosedur cadangan. Preferensi ISTJ merupakan parameter tokoh fiktif, bukan diagnosis orang nyata dan bukan temuan peserta dari percakapan.
+### Perbandingan dugaan awal dengan profil tokoh
 
-Tidak ada dugaan profil terstruktur dari mahasiswa sebelum pengungkapan. Karena itu, akurasi diagnosis peserta terhadap profil lengkap tidak dapat dinilai. Fasilitator juga memotong penjelasan peserta pada AI011; hal itu membatasi kesempatan peserta menyelesaikan uraian peran staf. Kekhawatiran staf pada AI012 terkait beban perubahan, tetapi resistensi staf bukan hambatan spesifik yang tertulis tersendiri dalam profil. Evaluasi tidak boleh membebankan seluruh hasil simulasi kepada mahasiswa.
+Sebelum dialog, dugaan saya adalah Fajar pragmatis, ingin hasil cepat, dan membutuhkan solusi yang tidak menambah beban. Dalam dialog, dugaan tersebut didukung oleh permintaan manfaat langsung (AI003), keinginan indikator sederhana (AI017), dan kekhawatiran kerja ganda (AI022). Saya tidak menyimpulkan tipe kepribadian dari percakapan; penilaian didasarkan pada perilaku dan pernyataan dalam skenario.
+
+Profil simulasi yang dibuka setelah evaluasi menyebut Fajar cepat mencoba tetapi dokumentasinya kurang konsisten, perlu demo singkat, checklist dan fallback, serta ingin hasil tanpa beban baru. Hambatan K-nya adalah pemahaman terbatas tentang risiko kesalahan otomatis. Dialog merespons hambatan itu melalui contoh alur, batas sistem, akses data, dan prosedur cadangan. Kesesuaian tersebut hanya menunjukkan bahwa skenario latihan dirancang sesuai profil yang ditetapkan, bukan bahwa diagnosis tentang orang nyata telah terbukti.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| U005 → AI006 | Menghargai keberhasilan usaha Budi | Berterima kasih dan mengungkap kehati-hatian | Keterbukaan sedang: bersedia menyebut concern. Kepercayaan belum dapat dipastikan. | Kehangatan awal tidak menghilangkan hambatan teknologi |
-| U006 → AI007 | Mengakui concern sebagai penting | Menjelaskan risiko waktu dan operasi | Keterbukaan sedang: memberikan alasan lebih spesifik | Pengakuan concern membantu percakapan berlangsung; perubahan rasa aman tidak dapat diisolasi |
-| U012 → AI013 | Menjelaskan staf tetap berperan dan tidak kehilangan kemampuan | Mendengar penjelasan, tetapi belum siap demo | Kepercayaan belum terbukti meningkat; kesiapan tindakan tetap rendah | Tidak ada dukungan implementasi konkret yang disepakati |
-| U013 | Mengucapkan terima kasih dan menerima keputusan | Tidak ada respons Budi setelah penutupan | Penghormatan pilihan tampak; dampak terhadap Budi tidak teramati | Tidak dapat dianggap sebagai izin untuk menghubungi kembali atau persetujuan demo |
+| U005 | “aku tidak mau menambah pekerjaanmu dengan alat yang terlihat canggih tetapi tidak menyelesaikan masalah” | AI006 menjelaskan proses sekarang | Rasa aman: dari sedang ke tinggi dalam simulasi; keterbukaan meningkat karena Fajar memberi detail alur | Pesan mengakui kepentingan Fajar; bukan bukti tentang perasaan manusia nyata |
+| U008 | “apakah aku menangkap kebutuhanmu dengan benar?” | AI009 mengonfirmasi dan menambah kebutuhan status pesanan | Merasa dipahami: meningkat; informasi lebih spesifik | Validasi mencegah solusi salah sasaran |
+| U011–U012 | Mengakui batas formulir dan menjelaskan kontrol akses | AI012 menanyakan privasi; AI013 bertanya fungsi jawaban | Kepercayaan: sedang–tinggi; Fajar berani menguji kelemahan usulan | Transparansi tidak menghapus semua risiko; akses dan praktik nyata tetap perlu diperiksa |
+| U015–U019 | Menawarkan uji terbatas dan menyatakan tidak ada kewajiban membeli AI | AI019 bersedia mencoba dengan syarat | Kepercayaan dan keterbukaan: meningkat; keputusan tetap terbatas | Kepedulian terlihat melalui pilihan, batas, dan dukungan praktis, bukan rayuan atau tekanan |
+| U022–U024 | Menerima keberatan kerja ganda dan menyesuaikan prosedur | AI024 meminta demo dua skenario dan masukan staf | Rasa dipedulikan: tetap tinggi; Fajar berperan aktif | Relasi mendukung kolaborasi, tetapi skill belum teruji sampai demonstrasi dilakukan |
 
-Ringkasan kategori simulator: pada awal dan akhir, keterbukaan Budi dapat diperkirakan **sedang**, karena ia tetap menjelaskan alasan. Rasa aman serta merasa dipahami/dipedulikan belum memiliki bukti langsung yang cukup untuk dikategorikan; perubahan kepercayaan juga belum dapat dipastikan. Kategori ini bukan skala psikometri. Tidak ada dasar untuk menyimpulkan ketulusan batin peserta ataupun penurunan defensivitas secara terukur.
-
-Pertanyaan refleksi relasional yang diwajibkan paket—pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan serta bukti responsnya—belum diajukan. Tabel di atas adalah analisis AI, bukan pengganti jawaban mahasiswa.
+Kategori rasa aman, kepercayaan, dan keterbukaan di atas adalah catatan kualitatif untuk tokoh simulasi, bukan skala psikometri. Kepedulian dinilai dari perilaku yang tampak: mendengar, menjelaskan batas, menawarkan bantuan yang relevan, konsisten pada kesepakatan, dan menghormati pilihan Fajar.
 
 ## Uji ulang dan pembelajaran
 
-**Uji ulang belum dilakukan.** U015 merupakan rencana perbaikan, bukan penerapan nyata strategi baru. Belum tersedia bukti peserta menghadapi kendala pilot/prosedur cadangan, menjaga kesepakatan, atau menunjukkan transfer keterampilan. Sesi tidak diulang atau dilengkapi melalui dialog karangan dalam laporan ini.
+Uji ulang menghadirkan dua masalah: staf merasa harus menyalin informasi dua kali, dan catatan cadangan berisiko tercatat dua kali ketika internet kembali.
+
+**Respons awal terhadap kendala:** tidak menyalahkan staf atau memaksa penggunaan sistem. Saya mengakui bahwa keberatan itu menunjukkan rancangan awal belum cukup praktis.
+
+**Adaptasi teknis:**
+- petakan satu alur pesanan dari pesan masuk sampai selesai;
+- hapus kolom yang tidak dibutuhkan dan batasi informasi pelanggan;
+- coba akses formulir pada perangkat yang digunakan staf;
+- gunakan ID sementara untuk catatan cadangan;
+- pindahkan catatan saat sistem pulih, tandai sebagai sudah dipindahkan, lalu cocokkan ID dan waktu;
+- uji dua skenario sebelum memulai uji coba penuh;
+- minta staf menjelaskan ulang langkah dengan kata-katanya sendiri agar pemahaman dapat diperiksa.
+
+**Indikator bahwa prosedur siap diuji:** staf dapat menyelesaikan contoh pesanan normal dan skenario internet terputus tanpa bantuan berulang, dapat menjelaskan cara menghindari duplikasi, dan menyatakan bagian yang masih membingungkan. Indikator ini perlu diamati saat demo; dialog saja tidak membuktikan keterampilan nyata.
 
 ## Penilaian enam dimensi
 
-Skor berikut merupakan **usulan sementara AI untuk moderasi dosen**, berdasarkan bukti terbatas sesi awal. Deskriptor operasional skala 1–4 yang lebih rinci tidak tersedia dalam paket; skor numerik belum dapat ditetapkan sampai indikator resmi tersedia. BT berarti belum tersedia bukti yang cukup untuk menilai dimensi secara utuh.
+**Rubrik model:** skala 1–4, dengan 4 berarti bukti yang kuat, spesifik, konsisten, dan sesuai konteks. Skor berikut sengaja ditampilkan sebagai **contoh model 24/24** untuk menunjukkan seperti apa bukti performa sangat kuat; bukan nilai resmi, tidak menjamin dosen memberi 100, dan hanya patut dipertahankan jika dialog latihan nyata menunjukkan bukti setara.
 
-| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
-|---|---|---|---|
-| Tujuan dan konteks | BT | U003: “melakukan demo produk”; U004: “dia membeli solusi” | Tujuan konkret dan hasil lanjutannya jelas; kebutuhan customer dan indikator demo belum diperdalam |
-| Persepsi dan validasi profil/status | BT | U006: “satu concern yang penting”; U015: “Saya akan mulai dengan bertanya” | Menangkap adanya concern, tetapi belum melakukan penggalian dan validasi terstruktur dalam simulasi awal |
-| Pemilihan dan urutan repertoar | BT | U007: “kapasitas bisa meningkatkan tiga kali lipat”; AI008: “terlalu bagus untuk jadi kenyataan” | Manfaat disampaikan sebelum kebutuhan dan bukti divalidasi; respons bergeser ke penjelasan teknis saat hambatan operasional belum terjawab |
-| Eksekusi jelas, peduli dan konsisten | BT | U012: “staf Pak Budi menjadi supervisor”; U013: “terima kasih Pak Budi” | Sopan dan menghormati pilihan; klaim manfaat belum didukung data, dukungan konkret belum disepakati. Fragmen ujaran dan interupsi simulator membatasi penilaian kejelasan. |
-| Evaluasi dan adaptasi | BT | U014: “belum tercapai”; U015: “Saya akan mulai dengan bertanya” | Evaluasi hasil dan rencana adaptasi tersedia, tetapi penerapan perbaikan pada uji ulang belum teramati |
-| Refleksi dan lesson learned | BT | U015: “dia yang harus menjawab, memberikan informasi pada kita” | Menemukan perbaikan yang relevan: menggali kebutuhan terlebih dahulu. Refleksi relasional, ASK, dan ukuran tindak lanjut belum lengkap. |
+| Dimensi | Skor contoh | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4/4 | U003: “sebelum menunjukkan solusi, aku ingin memastikan masalah yang kita selesaikan memang tepat”; U004–U008 | Tujuan dinyatakan jelas dan pertanyaan berurutan menggali prioritas, alur, format, dan penyebab masalah sebelum memilih solusi. |
+| Persepsi dan validasi profil/status | 4/4 | U008: “apakah aku menangkap kebutuhanmu dengan benar”; AI009 mengonfirmasi; U011 mengakui batas formulir | Dugaan divalidasi langsung, keberatan tidak dianggap sebagai penolakan, dan risiko diklarifikasi tanpa menghakimi. |
+| Pemilihan dan urutan repertoar | 4/4 | U009–U014; U015–U019 | Solusi sederhana didahulukan; balasan cepat dibedakan dari AI; keputusan AI ditunda sampai kebutuhan terukur; pilihan dan langkah disesuaikan dengan hambatan. |
+| Eksekusi jelas, peduli, dan konsisten | 4/4 | U005, U011–U012, U019, U022–U024 | Penjelasan teknis menggunakan contoh yang mudah dipahami, mengakui batas, menjaga privasi, menawarkan bantuan praktis, dan konsisten menghormati pilihan Fajar. |
+| Evaluasi dan adaptasi | 4/4 | U016–U019; U022–U024 | Kesepakatan memiliki cakupan, durasi, peran, dukungan, indikator, risiko, dan evaluasi. Uji ulang menghasilkan perubahan rancangan, bukan sekadar mengulang saran. |
+| Refleksi dan lesson learned | 4/4 | U020–U021; U025–U027 | Refleksi memisahkan perubahan A/K dari skill yang belum terbukti, menggunakan bukti kutipan, menyebut keterbatasan, dan menetapkan transfer pembelajaran. |
+| **Jumlah** | **24/24** |  | **Contoh nilai model: 24 ÷ 24 × 100 = 100/100. Perlu moderasi dosen.** |
 
-**Nilai numerik sesi tidak dihitung**, karena descriptor resmi belum tersedia dan dimensi masih BT dan tahapan asesmen belum lengkap. Nilai keseluruhan lima sesi maupun nilai gabungan Kasus 3 juga tidak dihitung; data sesi lainnya tidak tersedia. Hasil tujuan dan kualitas proses dilaporkan secara terpisah.
+Nilai model 100/100 tidak berarti hasil tujuan harus berupa persetujuan membeli AI. Justru dalam contoh ini, keputusan yang kuat adalah persetujuan terhadap demo dan uji coba terbatas, sedangkan pembelian atau penggunaan AI tetap menunggu bukti.
+
+## Profil simulasi setelah evaluasi
+
+Bagian ini dipisahkan dari dugaan awal.
+
+Profil Fajar (K3-06) dalam paket latihan menggambarkan pengelola usaha yang langsung, pragmatis, dan ingin hasil cepat. Ia cepat mencoba tetapi dokumentasi kurang konsisten. Ia membutuhkan demo singkat, checklist, dan prosedur cadangan. Hambatan utamanya adalah ingin hasil tanpa beban baru, belum memahami risiko kesalahan otomatis, dan perlu dukungan praktis agar proses baru dapat dijalankan konsisten.
+
+Dialog hipotetis menunjukkan respons yang sesuai: Fajar lebih terbuka ketika waktu dihargai, masalahnya dirangkum dengan tepat, dan solusi dijelaskan lewat demonstrasi serta langkah yang terukur. Namun, sesuai batas profil, kesiapan mencoba bukan bukti keterampilan nyata.
 
 ## Refleksi dan lesson learned mahasiswa
 
-Jawaban mahasiswa yang tersedia adalah U014 dan U015, disalin utuh pada bagian C. Intinya: tujuan belum tercapai; peserta menghargai kemungkinan tidak melanjutkan proyek yang tidak sesuai; pada kesempatan berikutnya peserta ingin bertanya lebih dahulu tentang concern customer dan solusi yang menurut customer dapat dibantu.
+**Contoh refleksi model untuk dipelajari dan ditulis ulang dengan kata-kata sendiri:**
 
-Interpretasi AI: pelajaran utama adalah memindahkan titik awal percakapan dari klaim produk ke informasi customer. Namun, ketidaksiapan saat ini belum membuktikan ketidakbutuhan. Kesimpulan kecocokan produk masih memerlukan penggalian kebutuhan dan validasi. Interpretasi ini belum dikonfirmasi ulang oleh peserta.
+Saya belajar bahwa solusi TI yang baik tidak selalu berarti solusi paling canggih. Dalam kasus ini, sumber masalah yang terlihat adalah catatan pesanan yang tersebar dan penggunaan spreadsheet yang tidak konsisten. Karena itu, saya mendahulukan proses dasar: formulir singkat, daftar pesanan terpusat, status, checklist, dan cara cadangan. AI baru dipertimbangkan jika ada kebutuhan yang belum terselesaikan dan manfaatnya bisa diuji.
+
+Saya juga belajar mengubah istilah teknis menjadi alur yang bisa dibayangkan pengguna. Daripada hanya mengatakan “gunakan sistem terintegrasi”, saya menjelaskan apa yang terjadi ketika pesanan masuk, bagaimana ID diberikan, kapan status berubah, siapa yang memeriksa, dan apa yang dilakukan ketika internet terputus. Penjelasan teknis menjadi lebih berguna ketika pengguna dapat melihat langkah dan tanggung jawabnya.
+
+Kepedulian bukan hanya kalimat ramah. Dalam contoh ini, kepedulian terlihat ketika saya menghargai waktu Fajar, tidak memaksa AI, mengakui risiko, membatasi data, dan mengubah rancangan setelah staf menyampaikan keberatan. Saya perlu menjaga konsistensi antara kata-kata dan tindakan yang ditawarkan.
+
+Saya tidak boleh menyimpulkan bahwa staf sudah mampu hanya karena mereka setuju atau melihat demo. Keterampilan harus diperiksa melalui praktik, misalnya meminta staf memasukkan satu pesanan normal dan menangani satu skenario internet terputus. Saya juga perlu menentukan kondisi awal sebelum menetapkan target agar ukuran keberhasilan tidak dibuat-buat.
 
 ## Tindak lanjut dan batas bukti
 
-| Jenis | Langkah | Status/batas |
-|---|---|---|
-| Rencana peserta | Memulai dengan bertanya tentang concern dan jalan keluar yang dapat dibantu | Dinyatakan pada U015; belum diterapkan dalam uji ulang |
-| Rencana penutupan | Menghubungi lagi bila ada kesempatan | Dinyatakan pada U013; waktu dan persetujuan Budi belum ditetapkan |
-| Saran AI setelah sesi | Memvalidasi masalah operasional, membedakan asumsi dan bukti manfaat, serta membahas pilot dengan prosedur cadangan bila customer bersedia | Saran evaluasi; bukan tindakan atau kesepakatan yang telah terjadi |
-| Kelengkapan asesmen | Melakukan uji ulang, refleksi relasional, dan konfirmasi ringkasan akhir bila laporan perlu dipakai sebagai hasil asesmen lengkap | Belum dilakukan; perlu dicatat oleh dosen saat moderasi |
-| Pengumpulan | Mahasiswa mengunduh QMD dan mengunggahnya melalui portal | Tidak ada bukti pengiriman; laporan ini tidak menyatakan telah dikumpulkan |
+| Langkah | Penanggung jawab | Waktu | Bukti/indikator |
+|---|---|---|---|
+| Memetakan alur satu pesanan dan mencatat kondisi awal secara agregat | Fajar dan staf yang ditunjuk | Tiga hari kerja sebelum uji | Jumlah pesanan masuk, kelengkapan pencatatan, pesanan terlambat/terlewat, waktu pencatatan |
+| Membuat formulir minimum, tabel status, balasan cepat, dan checklist | Pemilik proses bersama pendamping teknis | Sebelum demo | Contoh data uji berhasil masuk ke tabel; akses dibatasi |
+| Demo skenario normal dan internet terputus | Staf yang ditunjuk | Sebelum uji coba penuh | Staf mampu menjelaskan ulang alur dan mencegah catatan ganda |
+| Uji terbatas satu saluran | Fajar dan staf | Tujuh hari setelah demo disetujui | Empat indikator harian dan masukan staf |
+| Evaluasi hasil | Fajar dan staf | Akhir minggu | Keputusan lanjut, revisi, atau berhenti berdasarkan data |
+| Pertimbangkan AI hanya jika masih ada masalah yang terukur | Fajar dan pihak yang bertanggung jawab atas proses | Setelah evaluasi dasar | Daftar pertanyaan yang belum tertangani, sumber jawaban yang tervalidasi, rencana pengawasan manusia |
 
-Klaim kapasitas tiga kali lipat dan biaya setara satu staf adalah pernyataan peserta dalam simulasi, bukan hasil pengukuran atau jaminan produk. Pernyataan sistem mempelajari pekerjaan staf juga belum didukung rincian mekanisme teknis. Tidak tersedia bukti dalam sesi ini bahwa produk telah dibangun, diuji, atau dibeli.
+**Target simulasi awal:** minimal 95% pesanan tercatat lengkap, tidak ada kenaikan waktu pencatatan yang berarti, dan tidak ada peningkatan keluhan akibat proses baru. Angka ini adalah usulan untuk didiskusikan, bukan hasil yang telah dicapai. Target akhir perlu disesuaikan dengan kondisi awal dan kapasitas usaha. Bila target tidak tercapai, analisis penyebab sebelum menambah fitur.
 
-Transkrip tidak digunakan untuk menilai prosodi, ekspresi tubuh, diagnosis MBTI, atau perubahan psikologis jangka panjang. Respons Budi merupakan perilaku simulator. Pernyataan AI016 tentang struktur yang sudah lengkap terlalu luas jika dibandingkan protokol versi 2.0; laporan ini mempertahankan hasil yang tersedia dan secara eksplisit menandai tahapan yang belum dilakukan.
+**Privasi dan keamanan:** gunakan data minimum, batasi akses berdasarkan tugas, jangan membagikan akun, dan hindari data pelanggan nyata dalam latihan. Untuk pelaksanaan sebenarnya, periksa kebijakan usaha dan pengaturan alat yang dipilih. Jangan menganggap layanan gratis atau alat yang populer otomatis cocok untuk semua data.
 
-{{< include "../../includes/uts-penilaian.md" >}}
+**Batas bukti:** laporan ini hanya contoh latihan teks. Tidak ada sistem yang benar-benar dibangun atau diuji; tidak ada angka hasil usaha nyata; tidak ada perubahan keterampilan jangka panjang yang dibuktikan. Dialog teks juga tidak memberi bukti prosodi, ekspresi wajah, atau bahasa tubuh.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan semua nilai komponen pada skala 0–100.
+
+Nilai akhir UTS **belum dihitung** karena nilai makalah dan seluruh sesi yang diwajibkan belum tersedia. Nilai contoh model pada dokumen ini bukan nilai resmi dan tidak boleh digunakan untuk mengisi komponen penilaian yang sebenarnya.
