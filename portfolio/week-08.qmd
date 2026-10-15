@@ -39,7 +39,7 @@ Paket terdiri atas satu makalah pra-UTS dan lima laporan dengan urutan **1, 2a, 
 | 3a | [Menawarkan solusi TI/AI: Dimas](UTS/hasil_3a.qmd) | Dimas, K3-04 (INTJ) | 4 pasangan U/AI; guardrails & pilot project 7 hari akurasi >95% disepakati |
 | 3b | [Menawarkan solusi TI/AI: Budi](UTS/hasil_3b.qmd) | Budi, K3-02 (ISTJ) | 4 pasangan U/AI; supporting layer, One-Click Switch, & rekap jam 08.00 disepakati |
 
-**Lokasi berkas.** Halaman ini disimpan sebagai `portfolio/week-08.qmd`. Enam berkas jawaban berada di `portfolio/UTS/`. Tautan menggunakan nama singkat yang diminta dalam pengumuman mata kuliah, yaitu `paper.qmd`, `hasil_1_18225017.qmd`, `hasil_2a_18225017.qmd`, `hasil_2b_18225017.qmd`, `hasil_3a_18225017.qmd`, dan `hasil_3b_18225017.qmd`.
+**Lokasi berkas.** Halaman ini disimpan sebagai `portfolio/week-08.qmd`. Enam berkas jawaban berada di `portfolio/UTS/`. Tautan menggunakan nama singkat yang diminta dalam pengumuman mata kuliah, yaitu `paper.qmd`, `hasil_1.qmd`, `hasil_2a.qmd`, `hasil_2b.qmd`, `hasil_3a.qmd`, dan `hasil_3b.qmd`.
 
 Paket individual juga mencantumkan nama laporan dengan akhiran NIM. Penamaan pada pengumpulan khusus paket mengikuti `PENUGASAN.md`; pemetaan sesi, identitas, dan sasaran tetap sama.
 
@@ -77,7 +77,7 @@ Seluruh pesan yang tersedia pada masing-masing naskah sumber dicantumkan dalam l
 
 ### Tujuan dan keadaan awal
 
-Dalam [laporan sesi 1](UTS/hasil_1_18225017.qmd), tujuan pada **U002** adalah meningkatkan konsistensi dan manajemen fokus belajar saat menghadapi materi teoretis yang abstrak agar tidak prokrastinasi menjelang tenggat. Sasaran utama adalah diri sendiri; Fajar K1-06 menjadi pembanding untuk menguji penyesuaian pesan.
+Dalam [laporan sesi 1](UTS/hasil_1.qmd), tujuan pada **U002** adalah meningkatkan konsistensi dan manajemen fokus belajar saat menghadapi materi teoretis yang abstrak agar tidak prokrastinasi menjelang tenggat. Sasaran utama adalah diri sendiri; Fajar K1-06 menjadi pembanding untuk menguji penyesuaian pesan.
 
 Pada **U003**, pesan diri menekankan ketenangan, penentuan prioritas, dan pengerjaan bagian penting secara bertahap lewat metode *active recall* dan *time-boxing* (Pomodoro 25 menit). Pesan tersebut memberikan arah bertindak secara terstruktur.
 
@@ -100,7 +100,7 @@ Pelajaran utama: pesan reflektif perlu diimbangi dengan tindakan nyata, seperti 
 
 ### Sesi 2a — Ali: beban kerja dan dukungan emosional
 
-Pada [sesi 2a](UTS/hasil_2a_18225017.qmd), tenggat tugas kelompok tinggal 48 jam. Pertanyaan terbuka dan validasi emosi pada **U002** membantu Ali (INFP) menjelaskan pada **AI002** bahwa ia merasa kewalahan dan takut hasil kerjanya tidak maksimal.
+Pada [sesi 2a](UTS/hasil_2a.qmd), tenggat tugas kelompok tinggal 48 jam. Pertanyaan terbuka dan validasi emosi pada **U002** membantu Ali (INFP) menjelaskan pada **AI002** bahwa ia merasa kewalahan dan takut hasil kerjanya tidak maksimal.
 
 **U003** mengarahkan Ali untuk mengambil bagian naratif yang paling nyaman. **AI003** menunjukkan rasa aman emosional yang meningkat pesat. **U004–AI004** menghasilkan persetujuan penyerahan draf naratif pada pukul 20.00 WIB.
 
@@ -108,7 +108,7 @@ Hasil yang dicapai adalah terbukanya hambatan Ali dan terciptanya rasa aman emos
 
 ### Sesi 2b — Fajar: efisiensi porsi kerja dan kepastian kriteria
 
-Pada [sesi 2b](UTS/hasil_2b_18225017.qmd), **U002** menawarkan dua pilihan solusi cepat (Opsi A vs Opsi B - Bagi 50%) kepada Fajar (ESTP). **AI002** menunjukkan Fajar langsung menyetujui Opsi B namun menanyakan kriteria "selesai" yang tegas.
+Pada [sesi 2b](UTS/hasil_2b.qmd), **U002** menawarkan dua pilihan solusi cepat (Opsi A vs Opsi B - Bagi 50%) kepada Fajar (ESTP). **AI002** menunjukkan Fajar langsung menyetujui Opsi B namun menanyakan kriteria "selesai" yang tegas.
 
 **U003** memberikan 3 kriteria *checklist* tegas (Data 3 variabel, Narasi 1 paragraf, Format mentah bersih). **AI003** menyetujui penuh ("Deal!"). Pada uji ulang (**U004**), mahasiswa mengambil alih variabel ke-3 yang bermasalah sehingga Fajar tuntas menyerahkan berkas pada jam 22.00 WIB.
 
@@ -128,13 +128,13 @@ Pada [sesi 2b](UTS/hasil_2b_18225017.qmd), **U002** menawarkan dua pilihan solus
 
 ### Sesi 3a — Dimas: analisis bisnis dan guardrails
 
-Dalam [sesi 3a](UTS/hasil_3a_18225017.qmd), **U002** menyajikan analisis komparatif Manual vs Otomatisasi (*hidden cost*). **AI002** mengonfirmasi 75% pertanyaannya berulang namun mengkhawatirkan akurasi jawaban AI (merusak citra bisnis).
+Dalam [sesi 3a](UTS/hasil_3a.qmd), **U002** menyajikan analisis komparatif Manual vs Otomatisasi (*hidden cost*). **AI002** mengonfirmasi 75% pertanyaannya berulang namun mengkhawatirkan akurasi jawaban AI (merusak citra bisnis).
 
 **U003** memberikan penjelasan 3 lapis *guardrails* (Strict Knowledge Base & Human-in-the-Loop) serta tawaran *pilot project* 7 hari (>95% akurasi). **AI003** menerima tawaran. Pada uji ulang (**U004**), mahasiswa merancang *Smart Auto-Routing* & *Pre-Input Form* untuk menangani pesan kustom di luar jam kerja.
 
 ### Sesi 3b — Budi: supporting layer dan fallback plan
 
-Dalam [sesi 3b](UTS/hasil_3b_18225017.qmd), **U002** memvalidasi keberhasilan SOP lama Budi (ISTJ) dan memposisikan sistem sebagai *supporting layer* (filter awal jam offline). **AI002** meminta kepastian prosedur cadangan (*fallback plan*).
+Dalam [sesi 3b](UTS/hasil_3b.qmd), **U002** memvalidasi keberhasilan SOP lama Budi (ISTJ) dan memposisikan sistem sebagai *supporting layer* (filter awal jam offline). **AI002** meminta kepastian prosedur cadangan (*fallback plan*).
 
 **U003** memaparkan rincian rekap harian jam 08.00 pagi dan tombol darurat *One-Click Switch* (*Zero Data Loss*). **AI003** menyetujui uji coba 7 hari. Pada uji ulang (**U004**), mahasiswa menambahkan *Smart Buffer* (10-15s) dan *Direct Chat Link* untuk mengatasi kendala balon pesan terpisah.
 
