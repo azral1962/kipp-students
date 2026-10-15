@@ -33,11 +33,11 @@ Paket terdiri atas satu makalah pra-UTS dan lima laporan dengan urutan **1, 2a, 
 | Tahap | Berkas jawaban | Sasaran | Status bukti |
 |---|---|---|---|
 | Pra-UTS | [Makalah MBTI dan PASK](UTS/paper.qmd) | Empat pertanyaan kajian | Pembahasan konseptual, tabel penerapan, dan referensi |
-| 1 | [Memimpin diri dan terus belajar](UTS/hasil_1_18225017.qmd) | Diri mahasiswa; Fajar, K1-06, sebagai pembanding | 5 pasangan U/AI; strategi belajar active recall & time-boxing dirumuskan |
-| 2a | [Persahabatan dan profesionalitas: Ali](UTS/hasil_2a_18225017.qmd) | Ali, K2-05 (INFP) | 4 pasangan U/AI; validasi emosi dan sinkronisasi draf jam 20.00 disepakati |
-| 2b | [Persahabatan dan profesionalitas: Fajar](UTS/hasil_2b_18225017.qmd) | Fajar, K2-06 (ESTP) | 4 pasangan U/AI; Opsi B (50%) & 3 kriteria selesai tuntas jam 22.00 disepakati |
-| 3a | [Menawarkan solusi TI/AI: Dimas](UTS/hasil_3a_18225017.qmd) | Dimas, K3-04 (INTJ) | 4 pasangan U/AI; guardrails & pilot project 7 hari akurasi >95% disepakati |
-| 3b | [Menawarkan solusi TI/AI: Budi](UTS/hasil_3b_18225017.qmd) | Budi, K3-02 (ISTJ) | 4 pasangan U/AI; supporting layer, One-Click Switch, & rekap jam 08.00 disepakati |
+| 1 | [Memimpin diri dan terus belajar](UTS/hasil_1.qmd) | Diri mahasiswa; Fajar, K1-06, sebagai pembanding | 5 pasangan U/AI; strategi belajar active recall & time-boxing dirumuskan |
+| 2a | [Persahabatan dan profesionalitas: Ali](UTS/hasil_2a.qmd) | Ali, K2-05 (INFP) | 4 pasangan U/AI; validasi emosi dan sinkronisasi draf jam 20.00 disepakati |
+| 2b | [Persahabatan dan profesionalitas: Fajar](UTS/hasil_2b.qmd) | Fajar, K2-06 (ESTP) | 4 pasangan U/AI; Opsi B (50%) & 3 kriteria selesai tuntas jam 22.00 disepakati |
+| 3a | [Menawarkan solusi TI/AI: Dimas](UTS/hasil_3a.qmd) | Dimas, K3-04 (INTJ) | 4 pasangan U/AI; guardrails & pilot project 7 hari akurasi >95% disepakati |
+| 3b | [Menawarkan solusi TI/AI: Budi](UTS/hasil_3b.qmd) | Budi, K3-02 (ISTJ) | 4 pasangan U/AI; supporting layer, One-Click Switch, & rekap jam 08.00 disepakati |
 
 **Lokasi berkas.** Halaman ini disimpan sebagai `portfolio/week-08.qmd`. Enam berkas jawaban berada di `portfolio/UTS/`. Tautan menggunakan nama singkat yang diminta dalam pengumuman mata kuliah, yaitu `paper.qmd`, `hasil_1_18225017.qmd`, `hasil_2a_18225017.qmd`, `hasil_2b_18225017.qmd`, `hasil_3a_18225017.qmd`, dan `hasil_3b_18225017.qmd`.
 
