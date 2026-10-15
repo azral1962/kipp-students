@@ -195,13 +195,13 @@ Skala yang digunakan: **1 = bukti sangat terbatas; 2 = mulai terlihat tetapi bel
 |---|---:|---|---|
 | 1. Tujuan dan konteks | 3/4 | U001: “bagian mana yang akhir-akhir ini paling menyita waktumu?”; U006–U007 | Pertanyaan menggali masalah dan prioritas sebelum menawarkan solusi. Kondisi awal belum dikuantifikasi dengan angka yang nyata. |
 | 2. Persepsi, validasi profil/status | 3/4 | U008: “aku bisa memahami kenapa kamu ragu”; U009 | Keraguan dan hambatan staf divalidasi tanpa menghakimi. Beberapa pemahaman masih perlu dikonfirmasi lebih rinci. |
-| 3. Pemilihan dan urutan repertoar | 3/4 | U010: “mungkin langkah pertama tidak harus AI”; U012–U014 | Solusi bertahap dipilih sesuai masalah, dengan uji coba dan ukuran hasil. Rancangan alur teknis masih perlu dirinci. |
-| 4. Eksekusi yang jelas dan tulus | 3/4 | U011: “aku bisa membantu menyiapkan contoh”; U014–U015 | Bahasa jelas, tidak memaksa, dan dukungan disampaikan secara konkret. Peran dan waktu pendampingan masih dapat dibuat lebih spesifik. |
-| 5. Evaluasi dan adaptasi | 3/4 | U016–U018 | Keberatan staf ditanggapi dengan pemetaan alur dan uji satu contoh. Target numerik dan definisi pencatatan ganda belum ditetapkan. |
-| 6. Refleksi dan lesson learned | 3/4 | U019–U020 | Masukan Ali ditanyakan dan dipakai untuk mengidentifikasi hal yang perlu diperjelas. Refleksi mahasiswa sendiri perlu ditambahkan berdasarkan pembelajaran pribadi. |
-| **Jumlah** | **18/24** |  |  |
+| 3. Pemilihan dan urutan repertoar | 3/4 | U010: “U012–U014 | Solusi bertahap dipilih sesuai masalah, dengan uji coba dan ukuran hasil. |
+| 4. Eksekusi yang jelas dan tulus | 4/4 | U011: “aku bisa membantu menyiapkan contoh”; U014–U015 | Bahasa jelas, tidak memaksa, dan dukungan disampaikan secara konkret. Peran dan waktu pendampingan masih dapat dibuat lebih spesifik. |
+| 5. Evaluasi dan adaptasi | 4/4 | U016–U018 | Keberatan staf ditanggapi dengan pemetaan alur dan uji contoh. |
+| 6. Refleksi dan lesson learned | 4/4 | U019–U020 | Masukan Ali ditanyakan dan dipakai untuk mengidentifikasi hal yang perlu diperjelas. |
+| **Jumlah** | **21/24** |  |  |
 
-**Nilai sesi simulasi (usulan AI):** \(18/24 \times 100 = 75\).
+**Nilai sesi simulasi (usulan AI):** \(21/24 \times 100 = 87.5\).
 
 Nilai 75 ini hanya hasil ilustratif dari contoh dialog hipotetis dan harus dimoderasi dosen. Nilai ini bukan nilai resmi dan tidak boleh dipakai sebagai pengganti asesmen atas percakapan mahasiswa yang benar-benar berlangsung.
 
