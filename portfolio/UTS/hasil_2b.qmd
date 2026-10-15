@@ -68,7 +68,7 @@ Sebelum berdialog, mahasiswa menduga Fajar mungkin merasa terbebani atau menilai
 
 Oke, kita mulai **Sesi 2b · Kasus 2: Persahabatan dan Profesionalitas**. Kali ini tokohnya **Fajar (K2-06)**, sesuai paket tugas Sesi 2b, jadi bukan Budi dari sesi sebelumnya. Kita mulai dari awal dan nggak membawa kepercayaan dari sesi 2a.
 
-Gue bakal mencatat percakapan aktual dengan ID berurutan (`U001`, `AI001`, dst.) sampai laporan `hasil_2b_18225071.qmd` selesai dikonfirmasi.
+aku bakal mencatat percakapan aktual dengan ID berurutan (`U001`, `AI001`, dst.) sampai laporan `hasil_2b_18225071.qmd` selesai dikonfirmasi.
 
 ### Tahap A — Identifikasi
 
@@ -104,7 +104,7 @@ manfaat yang pengen aku bahas itu supaya kita bisa nemuin solusi yang adil buat 
 
 **AI004 — Fajar**
 
-**Fajar:** “Oke, kalau memang mau cari solusi yang adil, masalahnya pembagian tugas dari awal itu nggak seimbang. Ada bagian yang jauh lebih berat dari yang lain, tapi tenggatnya sama. Gue nggak mau akhirnya harus ngerjain lebih banyak cuma karena yang lain kebagian lebih ringan.”
+**Fajar:** “Oke, kalau memang mau cari solusi yang adil, masalahnya pembagian tugas dari awal itu nggak seimbang. Ada bagian yang jauh lebih berat dari yang lain, tapi tenggatnya sama. aku nggak mau akhirnya harus ngerjain lebih banyak cuma karena yang lain kebagian lebih ringan.”
 
 **U004 — Respons mahasiswa**
 
@@ -112,7 +112,7 @@ ohh, paham, Jar. berarti kamu ngerasa beban tugasnya nggak sebanding sama anggot
 
 **AI005 — Fajar**
 
-**Fajar:** “Gue kebagian analisis data sama nyusun hasilnya, sementara ada yang cuma kebagian bikin pendahuluan. Analisisnya makan waktu, apalagi datanya belum rapi. Gue bukannya nggak mau ngerjain, tapi kalau pembagiannya kayak gini, rasanya nggak adil aja.”
+**Fajar:** “aku kebagian analisis data sama nyusun hasilnya, sementara ada yang cuma kebagian bikin pendahuluan. Analisisnya makan waktu, apalagi datanya belum rapi. aku bukannya nggak mau ngerjain, tapi kalau pembagiannya kayak gini, rasanya nggak adil aja.”
 
 **U005 — Respons mahasiswa**
 
@@ -120,7 +120,7 @@ ohh, pantes kamu ngerasa keberatan, Jar, soalnya analisis data sama nyusun hasil
 
 **AI006 — Fajar**
 
-**Fajar:** “Boleh aja dicek lagi, tapi gue nggak mau kita malah habisin waktu buat rapat panjang. Gue masih harus ngerjain analisisnya, dan kalau pembagiannya baru berubah sekarang, gue juga perlu tahu siapa yang bakal bantu dan apa yang sebenarnya bisa mereka ambil alih.”
+**Fajar:** “Boleh aja dicek lagi, tapi aku nggak mau kita malah habisin waktu buat rapat panjang. aku masih harus ngerjain analisisnya, dan kalau pembagiannya baru berubah sekarang, aku juga perlu tahu siapa yang bakal bantu dan apa yang sebenarnya bisa mereka ambil alih.”
 
 **U006 — Respons mahasiswa**
 
@@ -128,7 +128,7 @@ iya, Jar, nggak perlu rapat lama-lama kok. kita bisa langsung list tugas yang be
 
 **AI007 — Fajar**
 
-**Fajar:** “Nah, kalau langsung dibikin jelas kayak gitu, gue setuju. Tapi gue nggak bisa asal nyerahin sebagian analisis ke anggota lain kalau mereka belum tentu paham datanya. Gue butuh orang yang bisa bantu bagian yang spesifik, bukan malah bikin gue harus ngecek ulang semuanya dari awal.”
+**Fajar:** “Nah, kalau langsung dibikin jelas kayak gitu, aku setuju. Tapi aku nggak bisa asal nyerahin sebagian analisis ke anggota lain kalau mereka belum tentu paham datanya. aku butuh orang yang bisa bantu bagian yang spesifik, bukan malah bikin aku harus ngecek ulang semuanya dari awal.”
 
 **U007 — Respons mahasiswa**
 
@@ -136,7 +136,7 @@ kalau gitu, kita cari tahu dulu anggota mana yang cukup paham datanya, Jar. bagi
 
 **AI008 — Fajar**
 
-**Fajar:** “Oke, itu lebih masuk akal. Gue bisa kasih instruksi buat bagian yang mau dialihin, tapi gue tetap butuh kepastian siapa yang ambil dan kapan hasilnya dikirim. Gue nggak mau udah bagi tugas, ternyata ujung-ujungnya gue yang harus beresin semuanya lagi.”
+**Fajar:** “Oke, itu lebih masuk akal. aku bisa kasih instruksi buat bagian yang mau dialihin, tapi aku tetap butuh kepastian siapa yang ambil dan kapan hasilnya dikirim. aku nggak mau udah bagi tugas, ternyata ujung-ujungnya aku yang harus beresin semuanya lagi.”
 
 **U008 — Respons mahasiswa**
 
@@ -144,15 +144,15 @@ kita tulis aja pembagian tugasnya di grup, Jar, lengkap sama nama penanggung jaw
 
 **AI009 — Fajar**
 
-**Fajar:** “Kalau semua ditulis di grup dan masing-masing konfirmasi, gue lebih tenang sih. Tapi gue masih agak kesel karena dari awal pembagiannya udah nggak seimbang. Gue takut kalau sekarang gue langsung setuju, kesannya masalahnya udah selesai, padahal gue masih ngerasa keberatan.”
+**Fajar:** “Kalau semua ditulis di grup dan masing-masing konfirmasi, aku lebih tenang sih. Tapi aku masih agak kesel karena dari awal pembagiannya udah nggak seimbang. aku takut kalau sekarang aku langsung setuju, kesannya masalahnya udah selesai, padahal aku masih ngerasa keberatan.”
 
 **U009 — Respons mahasiswa**
 
-iya, Jar, gue paham kalau kamu masih kesel karena dari awal bebannya udah nggak seimbang. kita beresin tugas yang paling mendesak dulu bukan berarti keberatan kamu diabaikan. setelah deadline ini, kita tetap perlu evaluasi pembagian tugasnya supaya masalah yang sama nggak keulang lagi.
+iya, Jar, aku paham kalau kamu masih kesel karena dari awal bebannya udah nggak seimbang. kita beresin tugas yang paling mendesak dulu bukan berarti keberatan kamu diabaikan. setelah deadline ini, kita tetap perlu evaluasi pembagian tugasnya supaya masalah yang sama nggak keulang lagi.
 
 **AI010 — Fajar**
 
-**Fajar:** “Oke, gue hargai kalau lo nggak nganggep masalah ini selesai begitu aja. Gue bisa lanjut ngerjain bagian gue sambil kita atur ulang pembagiannya. Tapi gue mau evaluasinya beneran dilakukan, bukan cuma jadi omongan setelah tugas dikumpulin.”
+**Fajar:** “Oke, aku hargai kalau lo nggak nganggep masalah ini selesai begitu aja. aku bisa lanjut ngerjain bagian aku sambil kita atur ulang pembagiannya. Tapi aku mau evaluasinya beneran dilakukan, bukan cuma jadi omongan setelah tugas dikumpulin.”
 
 **U010 — Respons mahasiswa**
 
@@ -165,7 +165,7 @@ menurut kamu gimana kalo kita mulai *breakdown* ulang poin-poin tugasnya dr seka
 
 **AI011 — Fajar**
 
-**Fajar:** “Oke, gue setuju. Kita mulai dari breakdown sekarang aja, biar jelas mana yang harus gue kerjain dan mana yang bisa diambil anggota lain. Tapi tolong pastiin checklist-nya simpel dan setiap orang tahu batas tanggung jawabnya. Gue nggak mau waktunya habis buat nyusun rencana, tapi pengerjaannya malah telat.”
+**Fajar:** “Oke, aku setuju. Kita mulai dari breakdown sekarang aja, biar jelas mana yang harus aku kerjain dan mana yang bisa diambil anggota lain. Tapi tolong pastiin checklist-nya simpel dan setiap orang tahu batas tanggung jawabnya. aku nggak mau waktunya habis buat nyusun rencana, tapi pengerjaannya malah telat.”
 
 **U011 — Respons mahasiswa**
 
@@ -175,13 +175,13 @@ makasih ya jar udah mau diajak diskusi bareng dan fleksibel bgt. jujur aku senen
 
 **AI012 — Fajar, penutupan simulasi awal**
 
-**Fajar:** “Oke, sip. Kita bikin checklist-nya sekarang, terus masing-masing konfirmasi tugas yang diambil dan deadline-nya. Besok malam kita cek progres sebentar. Gue masih berharap pembagian tugas ke depannya bisa lebih adil, tapi untuk sekarang gue setuju kita jalanin rencana ini dulu. Makasih juga udah mau dengerin keberatan gue.”
+**Fajar:** “Oke, sip. Kita bikin checklist-nya sekarang, terus masing-masing konfirmasi tugas yang diambil dan deadline-nya. Besok malam kita cek progres sebentar. aku masih berharap pembagian tugas ke depannya bisa lebih adil, tapi untuk sekarang aku setuju kita jalanin rencana ini dulu. Makasih juga udah mau dengerin keberatan aku.”
 
 ## Evaluasi sementara
 
 **AI013 — Penanda akhir simulasi dan pertanyaan evaluasi sementara**
 
-Simulasi percakapan awal selesai. Sebelum kita lanjut ke pengujian ulang, gue mau tahu penilaianmu sendiri dulu, tanpa melihat profil lengkap Fajar.
+Simulasi percakapan awal selesai. Sebelum kita lanjut ke pengujian ulang, aku mau tahu penilaianmu sendiri dulu, tanpa melihat profil lengkap Fajar.
 
 Menurutmu, seberapa berhasil percakapan tadi mencapai tujuanmu? Apa bukti dari respons Fajar yang menunjukkan bahwa dia mulai percaya, merasa dipahami, atau bersedia bertindak? Adakah hal yang menurutmu masih belum benar-benar terselesaikan?
 
@@ -192,21 +192,21 @@ menurut aku, percakapan tadi udah cukup berhasil mencapai tujuan.
 buktinya bisa kelihatan dari respons fajar di akhir:
 
 1. **dia bersedia bertindak dan komit:** fajar langsung setuju buat bikin *checklist* sekarang, konfirmasi tugas + *deadline*, dan sepakat buat *sync* cek progres besok malam.
-2. **merasa dipahami dan mulai percaya:** dia menyampaikan *"makasih juga udah mau dengerin keberatan gue"*. ini nandain kalau dia ngerasa keberatannya gak diabaikan dan pendekatan yang dingin/solutif tadi bikin dia mau kooperatif.
+2. **merasa dipahami dan mulai percaya:** dia menyampaikan *"makasih juga udah mau dengerin keberatan aku"*. ini nandain kalau dia ngerasa keberatannya gak diabaikan dan pendekatan yang dingin/solutif tadi bikin dia mau kooperatif.
 
-hal yang masih belum benar-benar terselesaikan: masalah *core* dari fajar sendiri, yaitu rasa kekhawatiran dia soal keadilan pembagian tugas untuk ke depannya (*"gue masih berharap pembagian tugas ke depannya bisa lebih adil"*). jadi kesepakatan ini sifatnya masih solusi jangka pendek/sementara buat tugas yang sekarang, dan kepercayaan dia secara penuh baru bisa beneran terbangun kalau eksekusi rencana ini dan pembagian tugas berikutnya beneran terbukti adil.
+hal yang masih belum benar-benar terselesaikan: masalah *core* dari fajar sendiri, yaitu rasa kekhawatiran dia soal keadilan pembagian tugas untuk ke depannya (*"aku masih berharap pembagian tugas ke depannya bisa lebih adil"*). jadi kesepakatan ini sifatnya masih solusi jangka pendek/sementara buat tugas yang sekarang, dan kepercayaan dia secara penuh baru bisa beneran terbangun kalau eksekusi rencana ini dan pembagian tugas berikutnya beneran terbukti adil.
 
 **AI014 — Umpan balik fasilitator dan pertanyaan**
 
-Menurut gue, penilaianmu sudah membedakan dua hal penting: **kesediaan Fajar untuk bekerja sama belum berarti masalah keadilannya sudah selesai.** Kamu juga pakai bukti dari ucapan Fajar, bukan sekadar menganggap percakapan berhasil karena dia akhirnya setuju.
+Menurut aku, penilaianmu sudah membedakan dua hal penting: **kesediaan Fajar untuk bekerja sama belum berarti masalah keadilannya sudah selesai.** Kamu juga pakai bukti dari ucapan Fajar, bukan sekadar menganggap percakapan berhasil karena dia akhirnya setuju.
 
 **Pertanyaan 2:** Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?
 
 **U013 — Evaluasi pesan yang membantu/menghambat**
 
-menurut aku, pesan yang **paling membantu** itu waktu kita langsung nawarin langkah konkret yang melibatkan dia (bikin *checklist* bareng & *quick sync*) plus nge-validasi keberatan dia tanpa defensif. buktinya kelihatan pas fajar bilang *"makasih juga udah mau dengerin keberatan gue"* dan dia langsung mau eksekusi bikin *checklist*-nya saat itu juga. itu nandain kalau dia ngerasa suaranya didengerin dan dihargai.
+menurut aku, pesan yang **paling membantu** itu waktu kita langsung nawarin langkah konkret yang melibatkan dia (bikin *checklist* bareng & *quick sync*) plus nge-validasi keberatan dia tanpa defensif. buktinya kelihatan pas fajar bilang *"makasih juga udah mau dengerin keberatan aku"* dan dia langsung mau eksekusi bikin *checklist*-nya saat itu juga. itu nandain kalau dia ngerasa suaranya didengerin dan dihargai.
 
-sebaliknya, hal yang **bisa menghambat** itu kalau respons kita terlalu fokus ke *rencana/prosedur* aja tapi lupa ngakuin emosi atau keresahan dia di awal. buktinya fajar sempet bilang *"gue nggak mau waktunya habis buat nyusun rencana..."* dan di akhir masih nyelipin *"gue masih berharap pembagian tugas ke depannya bisa lebih adil"*. ini nunjukin kalau kita cuma nawarin solusi teknis tanpa dibarengi komitmen empati yang jelas, dia bakal tetep ragu dan ngerasa masalah utamanya (keadilan) cuma digeser, bukan diselesaiin.
+sebaliknya, hal yang **bisa menghambat** itu kalau respons kita terlalu fokus ke *rencana/prosedur* aja tapi lupa ngakuin emosi atau keresahan dia di awal. buktinya fajar sempet bilang *"aku nggak mau waktunya habis buat nyusun rencana..."* dan di akhir masih nyelipin *"aku masih berharap pembagian tugas ke depannya bisa lebih adil"*. ini nunjukin kalau kita cuma nawarin solusi teknis tanpa dibarengi komitmen empati yang jelas, dia bakal tetep ragu dan ngerasa masalah utamanya (keadilan) cuma digeser, bukan diselesaiin.
 
 ## Pengujian ulang
 
@@ -216,7 +216,7 @@ Oke, evaluasi sementaramu sudah tercatat. Kamu juga berhasil mengidentifikasi ba
 
 Sekarang kita lanjut ke **pengujian ulang**. Kali ini, Fajar tetap membawa kesepakatan dan kepercayaan yang sudah terbentuk dari percakapan tadi, tetapi muncul kendala baru: dia membutuhkan langkah singkat yang jelas dan konfirmasi hasil supaya yakin pembagian tugas benar-benar berjalan.
 
-**Fajar:** “Gue udah coba mulai ngerjain bagian gue. Tapi checklist di grup masih belum jelas buat beberapa tugas. Gue bingung, yang dimaksud ‘analisis selesai’ itu sampai tahap mana? Gue nggak mau salah ngerjain terus ujung-ujungnya harus revisi lagi.”
+**Fajar:** “aku udah coba mulai ngerjain bagian aku. Tapi checklist di grup masih belum jelas buat beberapa tugas. aku bingung, yang dimaksud ‘analisis selesai’ itu sampai tahap mana? aku nggak mau salah ngerjain terus ujung-ujungnya harus revisi lagi.”
 
 **U014 — Respons mahasiswa**
 
@@ -231,7 +231,7 @@ menurut kamu gitu udah cukup jelas belum? kalo ada bagian yang masih abu-abu, ta
 
 **AI016 — Fajar**
 
-**Fajar:** “Nah, kalau batasannya sampai kesimpulan utama sama tabel pendukung, gue lebih ngerti. Gue bisa kirim draft dulu buat dikonfirmasi. Tapi gue perlu tahu juga, kira-kira lo bisa cek secepat apa setelah gue kirim? Soalnya kalau gue harus nunggu konfirmasi terlalu lama, bagian berikutnya bisa ikut ketunda.”
+**Fajar:** “Nah, kalau batasannya sampai kesimpulan utama sama tabel pendukung, aku lebih ngerti. aku bisa kirim draft dulu buat dikonfirmasi. Tapi aku perlu tahu juga, kira-kira lo bisa cek secepat apa setelah aku kirim? Soalnya kalau aku harus nunggu konfirmasi terlalu lama, bagian berikutnya bisa ikut ketunda.”
 
 **U015 — Respons mahasiswa**
 
@@ -244,7 +244,7 @@ gimana, aman ya cara ini? kabarin aja kalo udah mulai ngerjain draft-nya!
 
 **AI017 — Fajar, penutupan pengujian ulang**
 
-**Fajar:** “Oke, aman. Batas satu jam masih masuk akal, dan gue suka ada opsi buat lanjut kalau lo belum sempat bales. Gue bakal mulai bikin draft kesimpulannya sama tabel pendukung sekarang. Nanti gue kirim buat lo cek, terus gue lanjut ke bagian berikutnya sesuai patokan tadi.”
+**Fajar:** “Oke, aman. Batas satu jam masih masuk akal, dan aku suka ada opsi buat lanjut kalau lo belum sempat bales. aku bakal mulai bikin draft kesimpulannya sama tabel pendukung sekarang. Nanti aku kirim buat lo cek, terus aku lanjut ke bagian berikutnya sesuai patokan tadi.”
 
 ## Refleksi akhir
 
