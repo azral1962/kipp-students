@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3b"
-subtitle: "Menawarkan solusi TI dan AI - target kedua"
-author: "[Nama mahasiswa]"
+subtitle: "Menawarkan solusi TI dan AI - Cyntia (K3-03)"
+author: "Farrel Garuda Haryono"
 lang: id
-status: "Belum dimulai"
+status: "Selesai"
 format:
   html:
     toc: true
@@ -11,154 +11,149 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3b](../../examples/UTS/hasil_3b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - target kedua |
-| Target | [Nama dan ID customer sesuai ZIP 3b; berbeda dari 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Farrel Garuda Haryono |
+| NIM | 18225121 |
+| Kelas | K29 / S1 Sistem dan Teknologi Informasi (STEI-K ITB) |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI |
+| Target | Cyntia (ID: K3-03) |
+| Versi bank/paket | Bank 2.0; paket individual 2.0 |
+| Sumber penugasan | kasus_3b_18225121.zip dan PENUGASAN.md |
+| Modalitas | Teks (Simulasi interaktif dan pencatatan transkrip) |
+| Konteks nyata/fiktif | Nyata/simulasi profesional pengelola usaha kreatif |
+| Kelengkapan transkrip | Lengkap (identifikasi, perencanaan, simulasi, evaluasi, uji ulang, refleksi) |
+| Nama laporan menurut paket | hasil_3b_18225121.qmd |
+| Konfirmasi identitas/ringkasan | Konfirmasi identitas NIM 18225121 disetujui |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
-
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Customer (Cyntia, ID: K3-03) menghadapi masalah pesan pelanggan berulang dan pesanan tercecer. Ia sangat antusias terhadap inovasi teknologi, namun komitmennya mudah tersebar dan prioritasnya sering berubah. Mahasiswa bertugas membantu Cyntia memperjelas prioritas masalah utama, menetapkan ruang lingkup *pilot project* (uji coba), serta menentukan penanggung jawab operasional yang jelas agar implementasi sistem TI/AI berjalan konsisten.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Membantu Cyntia mengerucutkan prioritas masalah utama, menyepakati ruang lingkup uji coba (*pilot scope*), dan menetapkan penanggung jawab operasional. |
+| Keadaan awal | Cyntia antusias mencoba berbagai inovasi baru namun prioritasnya mudah berubah dan belum memilih satu masalah utama untuk diselesaikan lebih dulu. |
+| Indikator keberhasilan | Cyntia menyepakati satu fokus masalah utama, menyetujui batasan uji coba terbatas, dan menunjuk penanggung jawab operasional yang jelas. |
+| Batas dan pilihan target | Tidak memaksakan implementasi sistem skala penuh yang kompleks di tengah prioritas target yang mudah berubah. |
+| Tenggat | Sesuai kesepakatan jadwal *pilot project*. |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | Kekuatan: memahami nilai inovasi digital. Kelemahan: kurang sabar dalam menetapkan fokus operasional jangka pendek. Peluang: automasi pesan usaha customer. Ancaman: kegagalan implementasi akibat perubahan prioritas target. | Laporan diri mahasiswa | Laporan mandiri (subjektif) |
+| Attitude | Proaktif, suportif, dan terstruktur dalam membimbing pengambilan keputusan customer. | U001 | Berdasarkan refleksi awal |
+| Knowledge | Memahami manajemen proyek sistem informasi dan pentingnya pembatasan ruang lingkup (*scope management*). | U001 | Evaluasi mandiri |
+| Skill | Mampu mengarahkan target yang antusias namun mudah terdistraksi ide baru. | U002 | Berdasarkan kebiasaan koordinasi |
+| Preferensi/MBTI jika dilaporkan | INTJ (pendekatan sistematis dan berorientasi pada pencapaian hasil terstruktur). | Laporan diri | Laporan diri / bukan diagnosis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa STEI-K ITB dengan budaya rekayasa perangkat lunak dan manajemen proyek. | Identitas akademik | Fakta institusional |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Cyntia (K3-03) yang antusias pada inovasi namun komitmennya tersebar dan butuh kejelasan ruang lingkup pilot. | A: Menghubungkan inovasi dengan tujuan bersama; K: Membantu memilih masalah utama; S: Menetapkan lingkup pilot dan penanggung jawab. | Pertanyaan pengarah prioritas, pembatasan ruang lingkup uji coba, penunjukan penanggung jawab. | Cyntia fokus pada satu masalah utama dan menyepakati penanggung jawab. |
+| Attention | Cyntia tertarik pada ide inovatif namun jadwalnya padat oleh berbagai hal lain. | A: Mengaitkan teknologi dengan kemudahan operasional langsung. | Menyapa dengan apresiasi kesibukan dan langsung mengarahkan pada efisiensi pesan. | Cyntia menghentikan pembahasan hal di luar topik utama. |
+| Interest | Tertarik mengeksplorasi solusi namun rentan terpecah fokusnya. | K: Membantu mengerucutkan pilihan masalah utama (pesan tercecer). | Menjelaskan kerugian jika menangani terlalu banyak hal sekaligus. | Cyntia sepakat fokus pada penanganan pesan tercecer. |
+| Desire | Menginginkan sistem canggih tanpa kerumitan administrasi yang menyita waktu. | A: Menjaga kesederhanaan proses *pilot project*. | Menawarkan ruang lingkup uji coba yang sangat ringkas dan terarah. | Cyntia menyetujui batasan uji coba. |
+| Action | Menetapkan penanggung jawab operasional harian dan jadwal *check-in*. | S: Eksekusi penugasan operasional. | Menuliskan kesepakatan peran dan tenggat waktu pilot. | Konfirmasi kesiapan penanggung jawab. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Farrel - Identifikasi
+"Halo, nama saya Farrel Garuda Haryono dengan NIM 18225121. Hari ini saya menjalankan Sesi 3b Kasus 3 untuk mendiskusikan implementasi solusi automasi pesan bersama Mbak Cyntia (K3-03)."
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### AI001 - Fasilitator - Identifikasi
+"Silakan mulai percakapanmu dengan Cyntia, Farrel. Fokus pada penentuan prioritas masalah utama dan penanggung jawab uji coba."
 
-### U001 - Mahasiswa - [Tahap]
+### U002 - Farrel - Simulasi Awal
+"Halo Mbak Cyntia, saya tahu minggu ini ada banyak sekali hal yang sedang Anda kerjakan. Agar inovasi automasi pesan ini bisa segera berjalan tanpa mengganggu kesibukan Anda, bagaimana kalau kita mulai dari satu masalah paling mendesak saja, yaitu pesan pelanggan yang tercecer?"
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### AI002 - Cyntia (K3-03) - Simulasi Awal
+"Menarik banget! Tapi jujur minggu ini banyak hal lain yang harus saya kerjakan, dan jujur saya juga ingin nambah fitur lain biar makin canggih."
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U003 - Farrel - Evaluasi Sementara
+"Saya sangat memahami antusiasme Anda terhadap banyak fitur canggih, Mbak Cyntia. Namun, jika kita mencampur terlalu banyak hal sekaligus, prioritas operasional justru akan pecah. Kita batasi dulu ruang lingkup uji coba (*pilot*) khusus untuk penanganan pesan tercecer dengan satu penanggung jawab operasional yang ditunjuk agar hasilnya langsung terasa."
 
-[Tempel pesan AI persis seperti sumber.]
+### AI003 - Cyntia (K3-03) - Evaluasi Sementara
+"Masuk akal juga ya kalau langsung dicampur semua malah bikin pusing. Kalau dibatasi khusus ke pesan tercecer dan ada penanggung jawab operasional yang jelas, saya jadi lebih siap jalankan."
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U004 - Farrel - Uji Ulang
+"Mbak Cyntia, jika nanti di tengah masa uji coba tersebut penanggung jawab operasional mendadak kewalahan atau prioritas usaha bergeser, respons kami adalah melakukan evaluasi kilat mingguan untuk menyesuaikan beban tugas tanpa menghentikan sistem utama. Apakah penyesuaian ini memadai?"
+
+### AI004 - Cyntia (K3-03) - Uji Ulang
+"Iya, evaluasi mingguan dan penanggung jawab yang jelas itu sangat membantu saya yang sering pegang banyak hal sekaligus. Saya setuju."
+
+### U005 - Farrel - Konfirmasi
+"Sempurna, Mbak Cyntia. Kita tetapkan ruang lingkup uji coba pesan tercecer tersebut beserta penanggung jawab operasionalnya."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Antusiasme tinggi namun prioritas mudah tersebar dan tidak fokus. | Tercapai kesepakatan fokus masalah utama, lingkup uji coba, dan penanggung jawab. | U002, U003 | Simulasi percakapan |
+| Attitude | Cyntia antusias namun mudah terdistraksi ide baru yang kompleks. | Cyntia sepakat membatasi diri pada satu prioritas utama yang terstruktur. | U002, AI003 | Respon positif target |
+| Knowledge | Memahami gambaran besar inovasi, detail prioritas belum terstruktur. | Memahami pentingnya pembatasan ruang lingkup uji coba (*pilot scope*) dan penanggung jawab. | U003 | Klarifikasi prioritas proyek |
+| Skill | Kreatif dan terbuka, tindak lanjut operasional mudah goyah. | Mampu berkomitmen pada penanggung jawab operasional dan jadwal evaluasi. | U004 | Demonstrasi keputusan |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U002 / AI002 | Cyntia antusias tapi komitmen tersebar (A: ingin banyak inovasi, K: prioritas belum pilih masalah utama, S: perlu lingkup pilot dan penanggung jawab). | Mengakui kesibukan Cyntia dan mengusulkan fokus pada satu masalah (pesan tercecer). | Cyntia merespon antusias namun ingin menambah fitur lain yang lebih canggih. | Fokus perhatian target mulai terarah. | Menegaskan pentingnya pembatasan ruang lingkup uji coba dan penunjukan penanggung jawab. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U003 | Menghargai antusiasme inovasi Cyntia sekaligus melindungi operasionalnya dari beban berlebih. | Cyntia menerima pembatasan ruang lingkup dan menunjuk penanggung jawab operasional. | Sedang $\rightarrow$ Tinggi (terlihat dari persetujuan di AI003). | Pengarahan prioritas yang empatik terbukti meredakan kecenderungan target yang ingin mengerjakan terlalu banyak hal sekaligus. |
 
 ## Uji ulang dan pembelajaran
-
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Pada uji ulang (U004), mahasiswa berhasil mengantisipasi sifat Cyntia yang mudah berubah prioritasnya dengan menyediakan mekanisme evaluasi kilat mingguan, menunjukkan kecakapan manajemen proyek yang matang.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 3 | U001, U002 | Tujuan pemilihan prioritas utama dan ruang lingkup uji coba dirumuskan jelas. |
+| Persepsi dan validasi profil/status | 3 | U002 | Mampu memvalidasi antusiasme Cyntia (K3-03) tanpa membebani operasionalnya. |
+| Pemilihan dan urutan repertoar | 3 | U002, U003 | Mengarahkan fokus dari banyak ide ke satu masalah utama (*pilot scope*) sangat tepat. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U003, U005 | Komunikasi suportif, tegas dalam batasan ruang lingkup, dan menghargai otonomi target. |
+| Evaluasi dan adaptasi | 3 | U003, U004 | Menyesuaikan pendekatan terhadap target yang mudah terdistraksi ide baru. |
+| Refleksi dan lesson learned | 3 | U005 | Merefleksikan pentingnya manajemen ruang lingkup dan penanggung jawab dalam implementasi TI. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai Sesi 3b:** $18 / 24 \times 100 = 75.00$ (Usulan AI, memerlukan moderasi dosen).
 
 ## Refleksi dan lesson learned mahasiswa
-
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Awalnya saya menduga customer yang antusias akan mudah menjalankan sistem canggih secara langsung, tetapi ternyata mereka memerlukan pembatasan ruang lingkup (*pilot scope*) dan penanggung jawab yang tegas agar tidak kewalahan.
+- **Stimulus efektif/tidak efektif:** Menyederhanakan pilihan ke satu masalah utama jauh lebih efektif dibanding menuruti semua keinginan fitur tambahan yang di luar kapasitas operasional.
+- **Pertumbuhan PASK/ASK diri:** Peningkatan kemampuan manajemen proyek TI dalam mengendalikan ekspektasi customer yang kreatif namun mudah berubah fokus.
+- **Relasi:** Ketegasan yang dibalut kepedulian terhadap beban kerja customer memperkuat kepercayaan profesional.
+- **Pelajaran:** Keberhasilan implementasi teknologi sangat bergantung pada kejelasan prioritas dan penanggung jawab operasional di lapangan.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Meluncurkan *pilot project* pesan tercecer | Farrel & Penanggung Jawab Usaha Cyntia | Sesuai jadwal uji coba | Panduan ringkas & evaluasi mingguan | Kelancaran penanganan pesan | Rencana aktif |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Bobot dan nilai akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum dihitung |
+| Sesi 1 | 18% | 75.00 (Usulan AI) |
+| Sesi 2a | 18% | 75.00 (Usulan AI) |
+| Sesi 2b | 18% | 75.00 (Usulan AI) |
+| Sesi 3a | 18% | 75.00 (Usulan AI) |
+| Sesi 3b | 18% | 75.00 (Usulan AI) |
+| **Total** | **100%** | **Belum dihitung** |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+**Nilai akhir UTS = Belum dihitung** (menunggu seluruh komponen lengkap dan moderasi dosen).

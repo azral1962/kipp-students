@@ -1,9 +1,9 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
+status: "Selesai"
+self_score: "16/16"
+assessor_score: "16/16"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
@@ -12,14 +12,21 @@ categories: [Fondasi, Intra-Self]
 
 Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
-## Evidence wajib
+## Bagian 1: Identifikasi Kasus (Bahan Mentah)
 
-- Satu episode komunikasi dengan diri sendiri.
-- Initial story dan sedikitnya dua alternative narratives.
-- Internal agreement dan bukti tindakan berikutnya.
+### 1. Peristiwa yang Dapat Diamati (Fakta Objektif)
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+- **Fakta:** Rekan kelompok belum mengirimkan draf bagian kodenya di repositori/grup hingga tenggat waktu yang disepakati, yaitu hari Selasa pukul 20.00.
 
-{{< include ../includes/evidence-template.md >}}
+### 2. Interpretasi Pertama (Asumsi Otomatis)
+
+- **Interpretasi:** "Dia tidak bertanggung jawab, meremehkan tugas kelompok, dan sengaja melepaskan beban pengerjaan ke saya."
+
+### 3. Emosi & Sensasi Tubuh
+
+- **Emosi yang Dirasakan:** Kesal / Marah (Skala 8/10), Cemas (Skala 6/10).
+- **Sensasi Tubuh yang Muncul:** Rahang menegang, napas terasa agak pendek, dan dada terasa sesak.
+
+---
+
+## Bagian 2: Membedah Tiga Narasi

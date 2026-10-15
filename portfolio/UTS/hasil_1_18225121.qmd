@@ -1,0 +1,165 @@
+---
+title: "Laporan UTS KIPP - Sesi 1"
+subtitle: "Memimpin diri dan terus belajar"
+author: "Farrel Garuda Haryono"
+lang: id
+status: "Selesai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Farrel Garuda Haryono |
+| NIM | 18225121 |
+| Kelas | K29 / S1 Sistem dan Teknologi Informasi (STEI-K ITB) |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
+| Target | Diri mahasiswa (Farrel Garuda Haryono); tokoh pembanding Budi (ID: K1-02) |
+| Versi bank/paket | Bank 2.0; paket individual 2.0 |
+| Sumber penugasan | kasus_1_18225121.zip dan PENUGASAN.md |
+| Modalitas | Teks (Simulasi interaktif dan refleksi mandiri) |
+| Konteks nyata/fiktif | Nyata (pengembangan diri mahasiswa dalam manajemen tugas akademik dan kuliah) |
+| Kelengkapan transkrip | Lengkap (mencakup dialog identifikasi, perencanaan, simulasi, uji ulang, dan refleksi) |
+| Nama laporan menurut paket | hasil_1_18225121.qmd |
+| Konfirmasi identitas/ringkasan | Konfirmasi identitas NIM 18225121 disetujui |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Kasus 1 berfokus pada kemampuan memimpin diri sendiri (*self-leadership*) dalam menghadapi hambatan belajar atau pengembangan kemampuan baru di perkuliahan Sistem dan Teknologi Informasi. Target utama adalah diri mahasiswa sendiri (Farrel), sedangkan Budi (K1-02) bertindak sebagai tokoh pembanding yang memiliki kecenderungan resistensi terhadap perubahan metode kerja dan ketergantungan pada prosedur lama.
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Mengatasi hambatan penundaan (*procrastination*) dan kurangnya struktur waktu dalam pengerjaan tugas pemrograman/proyek, serta membangun kedisiplinan berbasis prosedur operasional yang jelas. |
+| Keadaan awal | Mahasiswa sering merasa kewalahan menghadapi beban tugas yang datang bersamaan (tugas pemrograman, laporan ERP, dan kuis) tanpa jadwal prioritas yang terstruktur. |
+| Indikator keberhasilan | Terbentuknya jadwal harian terstruktur, berkurangnya waktu penundaan tugas, serta kemampuan menjelaskan alasan perubahan metode kepada rekan/pembanding. |
+| Batas dan pilihan target | Tidak memaksakan perubahan drastis sekaligus; bertahap melalui pemecahan sub-tugas (*micro-tasking*). |
+| Tenggat | 1 minggu ke depan (evaluasi berkala). |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | Kekuatan: motivasi tinggi memahami AI dan Sistem Informasi. Kelemahan: manajemen waktu dan distraksi tugas paralel. Peluang: pemanfaatan tools manajemen tugas. Ancaman: kelelahan mental (*burnout*). | Laporan diri mahasiswa | Laporan mandiri (subjektif) |
+| Attitude | Menghargai efisiensi tetapi sering merasa cemas saat tenggat berdekatan. | U001 | Berdasarkan refleksi awal |
+| Knowledge | Memahami konsep dasar manajemen waktu tetapi kurang konsisten dalam eksekusi operasional. | U001 | Berdasarkan evaluasi mandiri |
+| Skill | Mampu menyusun kode dan laporan, namun lemah dalam penjadwalan jangka menengah. | U003 | Berdasarkan kebiasaan pengerjaan tugas |
+| Preferensi/MBTI jika dilaporkan | INTJ (berdasarkan preferensi analitis dan kemandirian terstruktur). | Laporan diri | Laporan diri / bukan diagnosis klinis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa STEI-K ITB dengan budaya akademik berbasis teknik dan keteknikan sistem. | Identitas akademik | Fakta institusional |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Memahami hambatan diri dan menyusun metode kerja yang lebih terstruktur. | A: Membuka diri terhadap evaluasi; K: Mempelajari teknik time-boxing; S: Latihan konsistensi harian. | Pertanyaan reflektif, pembuatan jadwal tertulis, simulasi dialog dengan pembanding Budi. | Catatan jurnal harian dan perbandingan respons sebelum/sesudah perbaikan. |
+| Attention | Belum fokus pada prioritas utama akibat banyaknya distraksi tugas kecil. | A: Menyadarkan pentingnya fokus tunggal. | Menyajikan fakta beban tugas secara terbuka. | Pengakuan adanya masalah pengelolaan waktu. |
+| Interest | Mulai tertarik memperbaiki alur kerja setelah melihat ketidakefisienan cara lama. | K: Menjelaskan perbandingan cara manual vs terstruktur. | Memberikan analogi dan contoh nyata pembagian waktu. | Pemahaman terhadap keuntungan metode baru. |
+| Desire | Menunjukkan keinginan kuat menghindari penundaan tugas. | A: Membangun komitmen personal. | Menyusun kontrak waktu pengerjaan tugas harian. | Komitmen tertulis pada jadwal. |
+| Action | Menjalankan uji coba metode *time-boxing* selama 3 hari berturut-turut. | S: Eksekusi langkah kecil. | Penjadwalan blok waktu spesifik di kalender digital. | Laporan penyelesaian sub-tugas tepat waktu. |
+
+# C) Skrip Percakapan
+
+### U001 - Farrel - Identifikasi
+"Halo, nama saya Farrel Garuda Haryono dengan NIM 18225121, mahasiswa program studi Sistem dan Teknologi Informasi STEI-K ITB. Hari ini saya ingin mengevaluasi tantangan saya dalam memimpin diri sendiri, khususnya mengatasi penundaan dalam pengerjaan tugas pemrograman dan laporan kuliah."
+
+### AI001 - Fasilitator - Identifikasi
+"Halo Farrel. Selamat datang di Sesi 1. Mari kita identifikasi bersama hambatan utama yang kamu hadapi dalam manajemen waktu dan bagaimana kamu merencanakan perubahannya."
+
+### U002 - Farrel - Rencana
+"Hambatan utama saya adalah sering menunda tugas besar karena merasa kewalahan dengan banyaknya detail yang harus dikerjakan sekaligus, sehingga kedisiplinan waktu saya terganggu."
+
+### AI002 - Fasilitator - Rencana
+"Bagaimana tanggapan rekanmu, Budi (K1-02), yang cenderung mempertahankan cara lama dan menganggap perubahan prosedur sebagai ancaman terhadap standar kerja?"
+
+### U003 - Farrel - Simulasi Awal
+"Saya memahami kekhawatiran Budi bahwa perubahan prosedur bisa menurunkan standar jika tidak dilakukan hati-hati. Namun, cara lama kita membuat banyak tugas menumpuk di akhir. Bagaimana kalau kita coba uji coba metode terstruktur ini dalam skala kecil dulu pada satu modul tugas?"
+
+### AI003 - Budi (K1-02) - Simulasi Awal
+"Cara sekarang sebenarnya sudah jelas dan operasional kita berjalan. Mengapa harus diubah lagi? Nanti justru menambah kerumitan dan risiko standar kerja kita turun."
+
+### U004 - Farrel - Evaluasi Sementara
+"Saya menghargai kekhawatiran Budi terhadap risiko penurunan standar. Oleh karena itu, kita tidak mengubah seluruh sistem sekaligus, melainkan menetapkan tolok ukur dan prosedur pemeriksaan yang jelas di setiap tahap kecil."
+
+### AI004 - Budi (K1-02) - Evaluasi Sementara
+"Jika ada tolok ukur tertulis dan prosedur pemeriksaan yang jelas seperti itu, saya bisa menerimanya asalkan standar kualitas kita tetap terjaga."
+
+### U005 - Farrel - Uji Ulang
+"Bayangkan minggu depan kita menghadapi tenggat tugas besar yang sama dengan beban ganda. Respons saya adalah langsung memecah tugas menjadi sub-modul dengan tenggat harian yang terikat pada kalender, serta melakukan evaluasi singkat bersama tim setiap sore."
+
+### AI005 - Fasilitator - Refleksi
+"Bagus, Farrel. Apa pelajaran utama yang kamu dapatkan dari dialog ini terkait kepemimpinan diri dan interaksi dengan rekan yang skeptis?"
+
+### U006 - Farrel - Konfirmasi
+"Pelajaran utamanya adalah perubahan tidak boleh dipaksakan secara radikal, melainkan harus diiringi dengan penghormatan pada standar yang sudah ada, penjelasan alasan yang logis, serta penyediaan tolok ukur dan prosedur yang jelas."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Kewalahan oleh tugas paralel, ragu memulai. | Memiliki metode pemecahan tugas (*micro-tasking*) dan prosedur terstruktur. | U002, U004 | Laporan diri dan simulasi dialog |
+| Attitude | Cemas dan defensif terhadap tenggat. | Lebih tenang, menghargai prosedur, dan terbuka pada evaluasi bertahap. | U003, U006 | Observasi respons dialog |
+| Knowledge | Mengetahui manajemen waktu secara teoretis. | Memahami pentingnya tolok ukur operasional dan pembagian sub-tugas. | U004 | Pemahaman konsep terapan |
+| Skill | Lemah dalam konsistensi harian. | Menunjukkan rencana eksekusi *time-boxing* dan evaluasi sore hari. | U005 | Demonstrasi uji ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U003 / AI003 | Budi skeptis terhadap perubahan (A: takut standar turun, K: belum tahu alasan). | Menghargai kekhawatiran Budi dan menawarkan uji coba skala kecil. | Budi awalnya menolak ("Mengapa harus diubah?"). | Memicu keterbukaan Budi setelah alasan operasional dijelaskan. | Menambahkan penekanan pada tolok ukur dan prosedur pemeriksaan. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U003 | Menghargai standar kerja Budi dan tidak memaksakan perubahan radikal. | Budi melunak dan menerima uji coba bersyarat tolok ukur. | Rendah $\rightarrow$ Sedang/Tinggi (dibuktikan dengan persetujuan uji coba). | Membuktikan bahwa kepedulian terhadap standar rekan kerja membangun kepercayaan fungsional. |
+
+## Uji ulang dan pembelajaran
+Pada uji ulang (U005), mahasiswa merespons potensi kendala penumpukan tugas dengan tindakan konkret berupa pemecahan sub-tugas dan evaluasi harian, bukan sekadar niat verbal. Hal ini menunjukkan peningkatan kesiapan operasional (*Skill*).
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U001, U002 | Tujuan manajemen diri dirumuskan jelas dengan konteks akademik nyata. |
+| Persepsi dan validasi profil/status | 3 | U003 | Mampu memvalidasi kekhawatiran Budi terhadap standar kerja. |
+| Pemilihan dan urutan repertoar | 3 | U003, U004 | Menggunakan pendekatan bertahap dan penekanan pada tolok ukur. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U003, U006 | Penyampaian jelas, menghargai otonomi dan kekhawatiran rekan. |
+| Evaluasi dan adaptasi | 3 | U004, U005 | Menyesuaikan pendekatan berdasarkan respons skeptis target. |
+| Refleksi dan lesson learned | 3 | U006 | Merefleksikan pentingnya prosedur operasional yang jelas. |
+
+**Nilai Sesi 1:** $18 / 24 \times 100 = 75.00$ (Usulan AI, memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+- **Dugaan yang dikoreksi:** Awalnya saya mengira perubahan metode kerja bisa langsung diterapkan dengan niat baik saja; ternyata rekan yang menjunjung standar (seperti Budi) memerlukan bukti tolok ukur dan prosedur yang jelas.
+- **Stimulus efektif/tidak efektif:** Menghargai kekhawatiran dan menawarkan uji coba skala kecil sangat efektif menurunkan resistensi.
+- **Pertumbuhan PASK/ASK diri:** Peningkatan nyata pada pemahaman pentingnya struktur waktu dan prosedur pemeriksaan berkala.
+- **Relasi:** Mendengar dan menghargai pandangan rekan kerja sebelum menyusun solusi memperkuat kepercayaan kolektif.
+- **Pelajaran:** Kepemimpinan diri dimulai dari kedisiplinan operasional yang dapat diukur dan dikomunikasikan secara transparan.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Menyusun jadwal *time-boxing* harian | Farrel (18225121) | Minggu 1–2 | Kalender digital & alarm | Selesainya sub-tugas tepat waktu | Rencana aktif |
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum dihitung |
+| Sesi 1 | 18% | 75.00 (Usulan AI) |
+| Sesi 2a | 18% | Belum dihitung |
+| Sesi 2b | 18% | Belum dihitung |
+| Sesi 3a | 18% | Belum dihitung |
+| Sesi 3b | 18% | Belum dihitung |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = Belum dihitung** (menunggu seluruh komponen lengkap dan moderasi dosen).

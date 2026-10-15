@@ -89,6 +89,14 @@ website:
         - portfolio/week-06.qmd
         - portfolio/week-07.qmd
         - portfolio/week-08.qmd
+        - section: "Portofolio UTS"
+          contents:
+            - portfolio/UTS/paper.qmd
+            - portfolio/UTS/hasil_1_18225121.qmd
+            - portfolio/UTS/hasil_2a_18225121.qmd
+            - portfolio/UTS/hasil_2b_18225121.qmd
+            - portfolio/UTS/hasil_3a_18225121.qmd
+            - portfolio/UTS/hasil_3b_18225121.qmd
         - portfolio/week-09.qmd
         - portfolio/week-10.qmd
         - portfolio/week-11.qmd

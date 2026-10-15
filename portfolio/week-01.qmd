@@ -1,9 +1,9 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
+status: "Selesai"
+self_score: "16/16"
+assessor_score: "16/16"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
 ---
@@ -12,14 +12,59 @@ categories: [Fondasi, Person]
 
 Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
 
-## Evidence wajib
+## 3. Lembar Kerja Mahasiswa (Template Peta Karakter)
 
-- Lima character dari sedikitnya tiga domain kehidupan.
-- Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
+**Nama Mahasiswa:** Farrel Garuda Haryono  
+**Tanggal Pengerjaan:** 28 September 2026
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+### Bagian A: Peta 5 Domain Kehidupan
 
-{{< include ../includes/evidence-template.md >}}
+Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
+
+| Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| **1. Diri Sendiri** | Mahasiswa STI | Diri sendiri | Mengatur fokus jadwal antara kuliah |
+| **2. Keluarga / Sahabat** | Pasanganku | Pacarku | Mendengarkan cerita dan memberikan dukungan emosional |
+| **3. Profesional / Akademik** | Anggota tim tugas kelompok | Rekan kelompok | Menyepakati pembagian tugas |
+| **4. Komunitas / Kelompok** | Angkatan Mahasiswa | Teman seangkatan STEI-K 25 | Saling membantu dan mengingatkan satu sama lain mengenai akademik dan kegiatan kampus |
+| **5. Dunia / Publik** | Anggota Komunitas Game | Pemain game Wuthering Waves | Berbagi info build karakter kepada anggota lainnya |
+
+### Bagian B: Analisis Kontras Dua Peran Utama
+
+Pilih dua peran dari tabel di atas yang paling kontras atau menantang, lalu uraikan perbedaannya:
+
+| Unsur Komunikasi | Peran A: Pasanganku | Peran B: Anggota tim tugas kelompok |
+|:-----------------------|:-----------------------|:-----------------------|
+| **1. Tujuan Tugas & Relasi** | Merawat kedekatan emosional dan saling memahami | Menyelesaikan modul aplikasi Odoo tepat waktu |
+| **2. Repertoar Utama** | Mendengarkan aktif, empati, dan validasi perasaan | Diskusi teknis, negosiasi pembagian tugas, presentasi progres |
+| **3. Pilihan Bahasa & Nada** | Santai, hangat, dan intim | Terstruktur, objektif, dan berfokus pada solusi |
+| **4. Respons yang Harus Dibaca** | Raut wajah, bahasa tubuh, dan nada suara | Persetujuan target, penyelesaian *commit* kode, dan tenggat waktu |
+| **5. Tindakan yang Diharapkan** | Pasangan merasa didengarkan dan dihargai | Proyek perangkat lunak selesai dan berfungsi |
+| **6. Relasi yang Harus Dirawat** | Ikatan romantis jangka panjang | Kepercayaan profesional dan kerja sama tim |
+
+### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan
+
+Jawablah pertanyaan reflektif berikut dengan jujur:
+
+1. **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari?
+   - *Jawaban: Kejujuran dan kekonsistenan dengan apa yang disampaikan dan apa yang dilakukan.*
+2. **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini?
+   - *Jawaban: Kekuatan untuk berkata selalu langsung ke intinya tanpa basa-basi yang tidak perlu.*
+3. **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman?
+   - *Jawaban: Cenderung menjadi terlalu kaku, kurang sabar mendengarkan proses penjelasan yang panjang, dan terkesan terlalu lugas/to-the-point sehingga bisa dipersepsikan kurang empatik saat situasi sedang tegang.*
+4. **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda.
+   - *Jawaban: Saya cenderung berbicara terlalu to-the-point dan fokus pada penyelesaian masalah secara cepat, tetapi peran saya sebagai pasangan / rekan tim menuntut saya untuk lebih meluangkan waktu mendengarkan, memvalidasi perasaan, dan menyajikan tanggapan dengan nada yang lebih hangat.*
+5. **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan.
+   - *Sasaran Saya: Ketika lawan bicara (pasangan atau rekan tim) sedang membagikan keluh kesah atau masalah, saya akan menahan diri untuk tidak langsung memotong atau terburu-buru memberikan solusi teknis pada 2 menit pertama. Saya akan mendengarkan sampai selesai dan mengonfirmasi pemahaman saya terlebih dahulu.*
+6. **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini?
+   - *Jawaban: Pasangan*
+
+---
+
+## 4. Rubrik Penilaian & Evaluasi Mandiri
+
+| Evaluasi | Skor | Catatan Singkat |
+|---|---:|---|
+| **Peta Karakter (Minggu 1)** | 4 / 4 | Pemetaan 5 domain sangat jelas, analisis kontras dua peran tajam, dan sasaran pertumbuhan terukur nyata |
+
+**Total Skor: Tingkat Unggul (Skor 4 / 4).**

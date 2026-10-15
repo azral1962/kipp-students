@@ -1,0 +1,159 @@
+---
+title: "Laporan UTS KIPP - Sesi 2b"
+subtitle: "Persahabatan dan profesionalitas - Cyntia (K2-03)"
+author: "Farrel Garuda Haryono"
+lang: id
+status: "Selesai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Farrel Garuda Haryono |
+| NIM | 18225121 |
+| Kelas | K29 / S1 Sistem dan Teknologi Informasi (STEI-K ITB) |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b: Persahabatan dan profesionalitas |
+| Target | Cyntia (ID: K2-03) |
+| Versi bank/paket | Bank 2.0; paket individual 2.0 |
+| Sumber penugasan | kasus_2b_18225121.zip dan PENUGASAN.md |
+| Modalitas | Teks (Simulasi interaktif dan pencatatan transkrip) |
+| Konteks nyata/fiktif | Nyata/simulasi profesional kelompok kuliah |
+| Kelengkapan transkrip | Lengkap (identifikasi, perencanaan, simulasi, evaluasi, uji ulang, refleksi) |
+| Nama laporan menurut paket | hasil_2b_18225121.qmd |
+| Konfirmasi identitas/ringkasan | Konfirmasi identitas NIM 18225121 disetujui |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Tenggat tugas kelompok 48 jam lagi. Rekan dekat (Cyntia, ID: K2-03) antusias namun komitmennya tersebar di banyak hal, sehingga bagian tugasnya belum dikirim dan ia merasa ide-idenya kurang diakui. Mahasiswa mengajak percakapan untuk mengakui kontribusi spesifik Cyntia, menyusun prioritas tugas, serta memastikan komitmen penyelesaian tepat waktu.
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Mengakui kontribusi kreatif Cyntia, membantu menyusun prioritas, dan menyepakati tenggat pengiriman sub-tugas. |
+| Keadaan awal | Cyntia sibuk dengan banyak hal lain, bagian tugasnya belum terkirim, dan ia merasa ide kreatifnya kurang mendapat pengakuan. |
+| Indikator keberhasilan | Cyntia merasa dihargai, bersedia menyusun prioritas tugas fokus, dan menyepakati jadwal check-in singkat. |
+| Batas dan pilihan target | Tidak memberikan pujian kosong tanpa tindak lanjut atau membebani dengan aturan birokratis yang kaku. |
+| Tenggat | 48 jam sebelum pengumpulan tugas kelompok. |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | Kekuatan: terbuka pada ide kreatif rekan. Kelemahan: kurang tegas dalam penjadwalan jangka pendek. Peluang: menyatukan kreativitas dan kedisiplinan tim. Ancaman: keterlambatan tugas akibat distraksi eksternal. | Laporan diri mahasiswa | Laporan mandiri (subjektif) |
+| Attitude | Menghargai inovasi dan kreativitas teman dalam kerja kelompok. | U001 | Berdasarkan refleksi awal |
+| Knowledge | Mengetahui pentingnya pengakuan kontribusi namun belum konsisten memberikan *milestone* ringkas. | U001 | Berdasarkan evaluasi mandiri |
+| Skill | Mampu membangun antusiasme tetapi perlu latihan menjaga tindak lanjut konkret. | U002 | Berdasarkan kebiasaan koordinasi |
+| Preferensi/MBTI jika dilaporkan | INTJ / ENFP (pendekatan terstruktur yang menghargai gagasan intuitif). | Laporan diri | Laporan diri / bukan diagnosis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa STEI-K ITB dengan budaya kolaborasi kreatif berbasis proyek. | Identitas akademik | Fakta institusional |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Cyntia (K2-03) yang antusias namun terdistraksi banyak kegiatan dan butuh pengakuan ide. | A: Memberikan pengakuan spesifik; K: Memperjelas prioritas; S: Menyediakan tugas fokus dan *check-in*. | Apresiasi ide kreatif, pemetaan prioritas tugas, penawaran *milestone* singkat. | Cyntia fokus kembali dan berkomitmen menyelesaikan bagiannya. |
+| Attention | Cyntia teralihkan oleh berbagai hal lain di luar tugas utama. | A: Menarik perhatian lewat apresiasi tulus. | Memulai percakapan dengan mengakui ide kreatifnya. | Cyntia antusias merespons. |
+| Interest | Tertarik ketika pembicaraan tidak kaku dan menghubungkan ide dengan tujuan bersama. | K: Menghubungkan ide dengan fokus tugas. | Menjelaskan bagaimana bagiannya sangat penting bagi hasil akhir. | Cyntia menyimak rincian tugas. |
+| Desire | Menginginkan pengakuan atas perannya sekaligus bantuan menyusun prioritas. | A: Membantu menyusun urutan kerja. | Menawarkan pembagian sub-tugas yang lebih ringkas. | Cyntia menyetujui jadwal fokus. |
+| Action | Menyepakati tenggat waktu pengerjaan dan jadwal *check-in* singkat. | S: Eksekusi *milestone*. | Menetapkan pengingat waktu (*reminder*) harian. | Komitmen pengiriman bagian tugas. |
+
+# C) Skrip Percakapan
+
+### U001 - Farrel - Identifikasi
+"Halo, nama saya Farrel Garuda Haryono dengan NIM 18225121. Hari ini saya menjalankan Sesi 2b Kasus 2 untuk berdiskusi dengan Cyntia (K2-03) mengenai penyelesaian tugas kelompok."
+
+### AI001 - Fasilitator - Identifikasi
+"Silakan mulai percakapanmu dengan Cyntia, Farrel. Fokus pada pengakuan kontribusi dan penyusunan prioritas."
+
+### U002 - Farrel - Simulasi Awal
+"Cyntia, ide kreatif yang kamu sampaikan minggu lalu soal konsep awal benar-benar memperkaya arah tugas kita. Ngomong-ngomong, bagaimana progres bagian kamu untuk pengumpulan 48 jam ke depan?"
+
+### AI002 - Cyntia (K2-03) - Simulasi Awal
+"Wah, terima kasih ya sudah notice! Menarik banget sih, tapi jujur minggu ini aku lagi banyak banget hal lain yang dikerjakan sampai agak keteteran."
+
+### U003 - Farrel - Evaluasi Sementara
+"Aku paham kamu punya banyak kegiatan aktif, Cyntia. Supaya energi kreatifmu tidak habis terpecah, bagaimana kalau kita fokuskan bagianmu ke satu sub-tugas inti saja dan buat *check-in* singkat supaya lebih ringan?"
+
+### AI003 - Cyntia (K2-03) - Evaluasi Sementara
+"Ide bagus banget! Kalau dibikin fokus ke satu hal utama dan ada *check-in* singkat, aku jadi punya pegangan jelas dan tidak merasa kewalahan."
+
+### U004 - Farrel - Uji Ulang
+"Cyntia, jika nanti di tengah jalan mendadak ada tambahan ide kreatif lain yang menarik, bagaimana kalau kita tampung dulu di catatan khusus agar fokus utama tugas ini tetap selesai tepat waktu?"
+
+### AI004 - Cyntia (K2-03) - Uji Ulang
+"Setuju banget! Itu cara yang adil supaya aku bisa tetap eksplor ide tanpa mengorbankan tenggat utama kelompok kita."
+
+### U005 - Farrel - Konfirmasi
+"Sip, kalau begitu kita sepakati sub-tugas fokus tersebut beserta jadwal *check-in* singkat kita ya, Cyntia."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Potensi keterlambatan tugas karena komitmen target tersebar. | Tercapai kesepakatan tugas fokus dan komitmen tenggat waktu yang jelas. | U002, U003 | Simulasi percakapan |
+| Attitude | Cyntia antusias namun terdistraksi dan merasa kurang diakui. | Cyntia merasa dihargai dan termotivasi menyelesaikan tugas utama. | U002, AI003 | Respon positif target |
+| Knowledge | Gambaran besar ada, detail prioritas belum terstruktur. | Memahami pentingnya pembagian sub-tugas fokus dan *check-in*. | U003 | Klarifikasi prioritas |
+| Skill | Kreatif namun tindak lanjut operasional kurang konsisten. | Mampu menyusun *milestone* ringkas bersama rekan tim. | U004 | Demonstrasi repertoar |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 / AI002 | Cyntia antusias tapi komitmen tersebar (A: merasa ide kurang diakui, K: prioritas kurang, S: perlu tugas fokus). | Mengakui spesifik ide kreatif Cyntia dan menanyakan progres. | Cyntia merespons gembira dan mengakui keteteran waktunya. | Rasa aman dan keterbukaan meningkat setelah perannya diakui. | Menawarkan sub-tugas fokus dan *check-in* ringkas. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | Mengapresiasi kontribusi kreatif spesifik Cyntia tanpa pujian kosong. | Cyntia merasa dihargai dan terbuka mendiskusikan hambatan waktunya. | Sedang $\rightarrow$ Tinggi (terlihat dari antusiasme di AI003). | Pengakuan kontribusi spesifik terbukti membangun motivasi dan kerja sama. |
+
+## Uji ulang dan pembelajaran
+Pada uji ulang (U004), mahasiswa berhasil mengantisipasi sifat kreatif Cyntia yang mudah terdistraksi ide baru dengan menawarkan wadah catatan khusus, menunjukkan adaptasi yang sangat baik.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U001, U002 | Tujuan pengakuan ide dan penyusunan prioritas dirumuskan secara jelas. |
+| Persepsi dan validasi profil/status | 3 | U002 | Mampu memvalidasi antusiasme dan mengatasi distraksi waktu Cyntia (K2-03). |
+| Pemilihan dan urutan repertoar | 3 | U002, U003 | Mengawali dengan apresiasi ide dilanjutkan tawaran sub-tugas fokus sangat tepat. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U002, U004 | Komunikasi ramah, suportif, menghargai kreativitas dan memberi struktur. |
+| Evaluasi dan adaptasi | 3 | U003 | Menyesuaikan strategi komunikasi menghadapi target yang memiliki banyak minat. |
+| Refleksi dan lesson learned | 3 | U005 | Merefleksikan pentingnya menyatukan kreativitas dengan *milestone* operasional. |
+
+**Nilai Sesi 2b:** $18 / 24 \times 100 = 75.00$ (Usulan AI, memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+- **Dugaan yang dikoreksi:** Awalnya saya menduga keterlambatan tugas disebabkan oleh penurunan minat rekan, tetapi ternyata karena terlalu banyaknya ide dan kegiatan yang membuat fokusnya tersebar.
+- **Stimulus efektif/tidak efektif:** Pengakuan kontribusi spesifik jauh lebih efektif menarik perhatian dibanding teguran tenggat waktu yang kaku.
+- **Pertumbuhan PASK/ASK diri:** Peningkatan kemampuan mengelola rekan yang kreatif agar tetap memiliki disiplin eksekusi operasional.
+- **Relasi:** Apresiasi yang tulus memperkuat rasa percaya diri rekan sekaligus mempermudah tercapainya kesepakatan kerja.
+- **Pelajaran:** Kreativitas membutuhkan struktur pendukung berupa tugas fokus dan evaluasi berkala agar berdampak maksimal bagi tim.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Menerapkan sub-tugas fokus & *check-in* | Farrel & Cyntia | 48 jam ke depan | Jadwal *check-in* singkat | Pengumpulan bagian tugas tepat waktu | Rencana aktif |
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum dihitung |
+| Sesi 1 | 18% | 75.00 (Usulan AI) |
+| Sesi 2a | 18% | 75.00 (Usulan AI) |
+| Sesi 2b | 18% | 75.00 (Usulan AI) |
+| Sesi 3a | 18% | Belum dihitung |
+| Sesi 3b | 18% | Belum dihitung |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = Belum dihitung** (menunggu seluruh komponen lengkap dan moderasi dosen).

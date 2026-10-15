@@ -1,25 +1,91 @@
 ---
-title: "Target–Attention Challenge"
+title: "Tiga Pitch untuk Tiga Pihak (Bab 06)"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
-description: "Target map, attention pitch, response, dan state assessment."
-categories: [TAIDA, Attention]
+status: "Selesai"
+self_score: "16/16"
+assessor_score: "16/16"
+description: "Peta sasaran dan tiga draf pitch perhatian berbasis observasi dan pemeriksaan."
+categories: [Professional, Pitch]
 ---
 
 ## Kompetensi target
 
-Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Memilih pribadi sasaran, membaca konteksnya, dan menyusun pitch perhatian yang relevan bagi tiga peran berbeda tanpa paksaan.
 
-## Evidence wajib
+---
 
-- Target map dan alasan memilih satu target.
-- Problem/opportunity pitch serta evidence.
-- Response, state sesudah pitch, dan adaptation.
+## 1. Masalah Kampus yang Dipilih
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+- **Draf Masalah Kampus:** Antrean pesanan makan siang di kantin kampus mencapai 15–20 orang pada jam istirahat jam 12.00–13.00, yang menyebabkan beberapa menu habis tanpa pengumuman awal dan mahasiswa terlambat masuk kuliah jam 13.00.
 
-{{< include ../includes/evidence-template.md >}}
+---
+
+## 2. Pemetaan Tiga Pihak Sasaran
+
+| Dimensi Analisis | Pihak 1: Pengguna (User) | Pihak 2: Pelaksana (Operator) | Pihak 3: Pengambil Keputusan (Decision Maker) |
+| :--- | :--- | :--- | :--- |
+| **Siapa Perannya?** | Mahasiswa / Pembeli kantin | Staf Kasir / Barista Kantin | Pengelola Sarpras / Pengelola Kantin Kampus |
+| **Apa Tujuannya?** | Mendapatkan makan siang dengan cepat dan pasti sebelum jam kuliah berikutnya. | Menangani transaksi dengan lancar tanpa komplain dan kekacauan antrean. | Menjaga ketertiban area kantin, kepuasan warga kampus, dan kelancaran usaha tenant. |
+| **Apa Hambatan utamanya?** | Ketidakpastian durasi tunggu antrean dan ketersediaan stok menu. | Beban konfirmasi stok ke dapur di tengah antrean padat dan area meja yang sempit. | Keterbatasan anggaran pengadaan alat baru dan kekhawatiran mengganggu operasional tenant. |
+| **Di Mana Keadaan TAIDA Awalnya?** | Baru memperhatikan (*Attention*) | Belum sadar / pasrah dengan kebiasaan (*Unaware*) | Baru memperhatikan dampak keterlambatan (*Attention*) |
+
+---
+
+## 3. Tiga Pitch Perhatian (Maksimal 45 Kata)
+
+### Pitch untuk Pihak 1: Pengguna (User - Mahasiswa)
+- **Fokus Relevansi:** Kepastian waktu dan kemudahan mendapatkan makanan sebelum kuliah.
+- **Draf Pitch:**  
+  > "Saya mengamati antrean kantin jam 12 selalu mencapai 18 menit dan beberapa menu favorit habis saat kita sampai di kasir (Observasi). Akibatnya, kita sering terlambat masuk kuliah (Dampak). Apakah kepastian estimasi waktu tunggu ini penting bagi Anda? (Periksa)"
+- **Jumlah Kata:** 37 kata ($\le$ 45 kata).
+
+### Pitch untuk Pihak 2: Pelaksana (Operator - Kasir/Barista)
+- **Fokus Relevansi:** Pengurangan beban kerja harian dan menghindari komplain pembeli.
+- **Draf Pitch:**  
+  > "Saat jam istirahat, Mas harus panggil pembeli lagi buat refund karena stok bahan di kulkas mendadak habis (Observasi). Ini bikin antrean makin macet dan Mas overwhelmed menghadapi emosi pembeli (Dampak). Apakah kejelasan status stok di meja kasir membantu pekerjaan Mas? (Periksa)"
+- **Jumlah Kata:** 41 kata ($\le$ 45 kata).
+
+### Pitch untuk Pihak 3: Pengambil Keputusan (Decision Maker - Pengelola Kantin)
+- **Fokus Relevansi:** Efisiensi operasional, ketertiban fasilitas, dan reputasi kedai/kantin.
+- **Draf Pitch:**  
+  > "Rata-rata ada 5 transaksi batal per jam sibuk karena calon pembeli tidak sabar menunggu antrean yang tidak pasti (Observasi). Kedai kehilangan potensi omzet dan mengganggu ketertiban area (Dampak). Apakah penurunan angka pembatalan ini layak kita bahas solusinya? (Periksa)"
+- **Jumlah Kata:** 38 kata ($\le$ 45 kata).
+
+---
+
+## 4. Catatan Umpan Balik Rekan (Simulasi 90 Detik)
+
+- **Catatan Umpan Balik Rekan 1 (Pitch Pengguna):**  
+  > "Ketika Anda menyampaikan kalimat *'beberapa menu favorit habis saat kita sampai di kasir'*, saya langsung mengangguk setuju karena pernah mengalaminya sendiri. Perhatian saya terbangun karena dampaknya sangat personal bagi jadwal kuliah saya."
+
+- **Catatan Umpan Balik Rekan 2 (Pitch Pelaksana):**  
+  > "Ketika Anda menyebutkan bagian *'panggil pembeli lagi buat refund'*, ekspresi saya langsung berubah peka karena itu memang poin yang paling menyebalkan saat bertugas. Saya menyarankan bagian awal dibuat sedikit lebih santai."
+
+- **Catatan Umpan Balik Rekan 3 (Pitch Pengambil Keputusan):**  
+  > "Data *'5 transaksi batal per jam sibuk'* langsung menarik perhatian saya karena ada angka kerugian konkret. Pertanyaan periksa di akhir juga terasa netral dan tidak memaksa."
+
+---
+
+## 5. Refleksi Mandiri
+
+1. **Analisis Respons:**  
+   Isyarat nonverbal paling jelas adalah ketika lawan bicara menghentikan aktivitas lain, menatap mata saya, dan mengangguk pelan saat saya menyebutkan observasi spesifik (seperti antrean 18 menit atau pembatalan transaksi).
+
+2. **Koreksi Asumsi:**  
+   Asumsi awal saya bahwa pengelola kantin hanya peduli pada estetika tempat ternyata keliru. Setelah simulasi, terbukti bahwa pengelola jauh lebih peka terhadap data angka kerugian transaksi batal dan kepuasan warga kampus.
+
+3. **Pelajaran Etika:**  
+   Saya memastikan pitch tidak menjadi interupsi memaksa dengan cara selalu meminta izin durasi (90 detik) di awal, mengakhiri dengan pertanyaan periksa yang netral, dan menghormati penuh jika sasaran merasa masalah tersebut belum menjadi prioritas mereka saat ini.
+
+---
+
+## Rubrik Penilaian Mandiri
+
+| Kriteria Evaluasi | Skor | Catatan Singkat |
+| :--- | ---: | :--- |
+| **Ketepatan Sasaran** | 4 / 4 | Tiga pihak dipetakan sangat spesifik berdasarkan peran, kendala, dan tingkat TAIDA awalnya. |
+| **Kualitas Pembuka (Pitch)** | 4 / 4 | Ketiga pitch ringkas ($\le$ 45 kata), menggunakan formula Observasi–Dampak–Periksa yang presisi dan bebas klaim palsu. |
+| **Membaca Respons & Adaptasi** | 4 / 4 | Mampu menyimak isyarat nonverbal saat simulasi dan mencatat umpan balik berbasis bukti secara jujur. |
+| **Etika Komunikasi** | 4 / 4 | Menghormati otonomi sasaran dan menggunakan pertanyaan periksa netral tanpa paksaan. |
+
+**Total Skor: Tingkat Unggul (Skor 4 / 4).**

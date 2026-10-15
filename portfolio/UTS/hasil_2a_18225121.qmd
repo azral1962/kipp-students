@@ -1,0 +1,159 @@
+---
+title: "Laporan UTS KIPP - Sesi 2a"
+subtitle: "Persahabatan dan profesionalitas - Elsa (K2-05)"
+author: "Farrel Garuda Haryono"
+lang: id
+status: "Selesai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Farrel Garuda Haryono |
+| NIM | 18225121 |
+| Kelas | K29 / S1 Sistem dan Teknologi Informasi (STEI-K ITB) |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas |
+| Target | Elsa (ID: K2-05) |
+| Versi bank/paket | Bank 2.0; paket individual 2.0 |
+| Sumber penugasan | kasus_2a_18225121.zip dan PENUGASAN.md |
+| Modalitas | Teks (Simulasi interaktif dan pencatatan transkrip) |
+| Konteks nyata/fiktif | Nyata/simulasi profesional kelompok kuliah |
+| Kelengkapan transkrip | Lengkap (identifikasi, perencanaan, simulasi, evaluasi, uji ulang, refleksi) |
+| Nama laporan menurut paket | hasil_2a_18225121.qmd |
+| Konfirmasi identitas/ringkasan | Konfirmasi identitas NIM 18225121 disetujui |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Tenggat tugas kelompok tersisa 48 jam lagi. Rekan dekat (Elsa, K2-05) belum mengirimkan bagian tugasnya dan merasa pembagian tidak adil karena ia menanggung beban bantuan tambahan yang tidak terlihat. Mahasiswa mengajak percakapan untuk menjaga hubungan persahabatan sekaligus menyepakati pembagian tanggung jawab secara profesional.
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Memvalidasi beban kerja Elsa, meluruskan keadilan pembagian tugas, dan mencapai kesepakatan tenggat serta dukungan konkret. |
+| Keadaan awal | Elsa merasa terbebani dengan tugas tambahan dan terlambat mengirimkan bagiannya karena batas tanggung jawab belum jelas. |
+| Indikator keberhasilan | Elsa terbuka menjelaskan kendala, pembagian tugas divalidasi ulang secara adil, dan tercapai kesepakatan waktu pengiriman. |
+| Batas dan pilihan target | Tidak memaksa pengumpulan instan tanpa mendengarkan hambatan serta kebutuhan dukungannya. |
+| Tenggat | 48 jam sebelum pengumpulan tugas kelompok. |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | Kekuatan: empati tinggi pada rekan. Kelemahan: kurang cepat mendeteksi beban tersembunyi rekan tim. Peluang: memperbaiki keadilan tim. Ancaman: konflik interpersonal jelang tenggat. | Laporan diri mahasiswa | Laporan mandiri (subjektif) |
+| Attitude | Menjunjung tinggi kolaborasi dan keharmonisan pertemanan dalam tim. | U001 | Berdasarkan refleksi awal |
+| Knowledge | Mengetahui perlunya pembagian tugas yang adil namun belum memiliki instrumen komunikasi empati yang terstruktur. | U001 | Berdasarkan evaluasi mandiri |
+| Skill | Mampu mengajak diskusi terbuka namun kadang kurang sabar mendengarkan keluhan operasional. | U002 | Berdasarkan kebiasaan koordinasi |
+| Preferensi/MBTI jika dilaporkan | INTJ / ISFJ (kolaborasi analitis berbasis kepedulian). | Laporan diri | Laporan diri / bukan diagnosis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa STEI-K ITB dengan budaya kerja kelompok berbasis proyek sistem informasi. | Identitas akademik | Fakta institusional |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Elsa (K2-05) yang defensif dan merasa pembagian tugas kelompok tidak adil. | A: Membangun rasa aman; K: Menjelaskan ulang pembagian tugas; S: Menyediakan dukungan transisi. | Validasi perasaan, peninjauan ulang daftar tugas, penawaran bantuan konkret. | Elsa merespons terbuka dan bersedia membagi ulang tugas. |
+| Attention | Elsa merasa diabaikan dan terbebani pekerjaan tambahan. | A: Menunjukkan kepedulian tulus. | Menyapa dan menanyakan kendala secara empati. | Elsa menghentikan sikap tertutupnya. |
+| Interest | Mulai mendengarkan saat kontribusinya diakui secara spesifik. | K: Klarifikasi fakta beban kerja. | Menjelaskan bahwa kontribusinya sangat berharga bagi tim. | Elsa menjelaskan hambatan operasionalnya. |
+| Desire | Menginginkan pembagian beban yang adil dan transparan. | A: Menyetujui peninjauan ulang tugas. | Membuka ruang diskusi redistribusi tugas. | Kesepakatan jadwal dan sub-tugas baru. |
+| Action | Menyepakati tenggat waktu baru dan pembagian tugas yang diperbarui. | S: Eksekusi langkah bersama. | Menetapkan jadwal check-in berkala. | Pengiriman tugas sesuai tenggat baru. |
+
+# C) Skrip Percakapan
+
+### U001 - Farrel - Identifikasi
+"Halo, nama saya Farrel Garuda Haryono dengan NIM 18225121. Hari ini saya menjalankan Sesi 2a Kasus 2 untuk berdiskusi dengan Elsa (K2-05) terkait tugas kelompok yang mendekati tenggat."
+
+### AI001 - Fasilitator - Identifikasi
+"Silakan mulai percakapanmu dengan Elsa, Farrel. Ingat untuk menjaga hubungan persahabatan sekaligus profesionalitas."
+
+### U002 - Farrel - Simulasi Awal
+"Elsa, aku tahu tenggat tugas kita tinggal 48 jam lagi dan kamu merasa beban kerja kita kemarin kurang adil buat kamu. Aku ingin kita bahas dan benahi bersama ya."
+
+### AI002 - Elsa (K2-05) - Simulasi Awal
+"Aku khawatir kalau kita ubah sekarang malah bikin orang lain kesulitan, tapi jujur aku merasa menanggung banyak hal tambahan yang tidak terlihat dan tidak tercatat di pembagian awal."
+
+### U003 - Farrel - Evaluasi Sementara
+"Aku sangat memahami kekhawatiranmu, Elsa. Kontribusi tambahanmu itu sangat berarti, dan tidak boleh luput dari perhatian. Mari kita daftarkan ulang tugas kita secara transparan supaya bebannya benar-benar adil."
+
+### AI003 - Elsa (K2-05) - Evaluasi Sementara
+"Kalau tugasnya didaftar ulang dan dibagi lebih jelas, aku jadi jauh lebih lega. Aku siap lanjut kalau bagianku sudah disesuaikan."
+
+### U004 - Farrel - Uji Ulang
+"Elsa, jika nanti mendekati pengumpulan ada satu sub-tugas mendadak yang belum tuntas, bagaimana kalau kita sepakati mekanisme saling bantu pengerjaan tanpa merusak batas waktu individu?"
+
+### AI004 - Elsa (K2-05) - Uji Ulang
+"Boleh banget, asalkan komunikasinya jelas dari awal dan pembagiannya adil seperti ini, aku pasti dukung."
+
+### U005 - Farrel - Konfirmasi
+"Terima kasih atas kerja samanya, Elsa. Kita tetapkan pembagian baru ini sebagai acuan penyelesaian tugas kita."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Potensi konflik dan keterlambatan tugas kelompok. | Tercapai kesepakatan redistribusi tugas yang adil dan hubungan terjaga. | U002, U003 | Simulasi percakapan |
+| Attitude | Elsa merasa cemas dan terbebani secara tidak adil. | Elsa merasa dipahami dan lebih terbuka bekerja sama. | U002, AI003 | Respon positif target |
+| Knowledge | Batas tanggung jawab tugas tidak jelas. | Pemahaman bersama mengenai rincian tugas dan kontribusi tercapai. | U003 | Klarifikasi fakta |
+| Skill | Komunikasi awal kaku menghadapi keluhan rekan. | Kemampuan memvalidasi emosi dan menyusun redistribusi tugas meningkat. | U004 | Demonstrasi repertoar |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 / AI002 | Elsa merasa beban tidak adil (A: khawatir, K: batas belum jelas, S: perlu redistribusi). | Mengakui kontribusi Elsa dan menawarkan diskusi terbuka. | Elsa merespon dengan mengungkapkan beban tambahannya. | Sikap defensif Elsa menurun dan rasa aman meningkat. | Menyusun daftar tugas transparan bersama. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | Mengakui kelelahan Elsa dan menunjukkan empati tulus pada beban kerjanya. | Elsa terbuka dan bersedia melanjutkan tugas setelah divalidasi. | Rendah $\rightarrow$ Tinggi (terlihat dari keterbukaan Elsa di AI003). | Validasi emosional terbukti meredakan resistensi tanpa memaksa. |
+
+## Uji ulang dan pembelajaran
+Pada uji ulang (U004), mahasiswa berhasil mengantisipasi kendala lanjutan dengan menawarkan mekanisme saling bantu yang terstruktur, menunjukkan peningkatan keterampilan empati operasional.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U001, U002 | Tujuan menjaga hubungan dan keadilan tugas dirumuskan secara spesifik. |
+| Persepsi dan validasi profil/status | 3 | U002 | Mampu memvalidasi beban emosional dan operasional Elsa (K2-05). |
+| Pemilihan dan urutan repertoar | 3 | U002, U003 | Pemilihan validasi emosi diikuti tawaran daftar tugas transparan sangat tepat. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U002, U004 | Komunikasi ramah, menghargai otonomi dan memberikan dukungan nyata. |
+| Evaluasi dan adaptasi | 3 | U003 | Menyesuaikan pendekatan berdasarkan keluhan beban tersembunyi. |
+| Refleksi dan lesson learned | 3 | U005 | Menyimpulkan pentingnya keadilan proporsional dalam kerja kelompok. |
+
+**Nilai Sesi 2a:** $18 / 24 \times 100 = 75.00$ (Usulan AI, memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+- **Dugaan yang dikoreksi:** Awalnya saya menduga keterlambatan tugas semata-mata karena kemalasan rekan, tetapi ternyata disebabkan oleh beban bantuan tambahan yang tidak tercatat.
+- **Stimulus efektif/tidak efektif:** Validasi perasaan dan pengakuan kontribusi spesifik jauh lebih efektif dibanding menuntut penyelesaian instan.
+- **Pertumbuhan PASK/ASK diri:** Peningkatan kepekaan mendeteksi beban tersembunyi (*hidden workload*) dalam tim.
+- **Relasi:** Kepedulian tulus dan transparansi menjaga kepercayaan dan kolaborasi persahabatan.
+- **Pelajaran:** Profesionalitas dalam tim harus diiringi dengan empati terhadap kontribusi non-formal setiap anggota.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Menerapkan redistribusi tugas kelompok | Farrel & Elsa | 48 jam ke depan | Daftar tugas transparan | Pengumpulan tugas tepat waktu | Rencana aktif |
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum dihitung |
+| Sesi 1 | 18% | 75.00 (Usulan AI) |
+| Sesi 2a | 18% | 75.00 (Usulan AI) |
+| Sesi 2b | 18% | Belum dihitung |
+| Sesi 3a | 18% | Belum dihitung |
+| Sesi 3b | 18% | Belum dihitung |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = Belum dihitung** (menunggu seluruh komponen lengkap dan moderasi dosen).

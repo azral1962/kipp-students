@@ -1,0 +1,159 @@
+---
+title: "Laporan UTS KIPP - Sesi 3a"
+subtitle: "Menawarkan solusi TI dan AI - Dimas (K3-04)"
+author: "Farrel Garuda Haryono"
+lang: id
+status: "Selesai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Farrel Garuda Haryono |
+| NIM | 18225121 |
+| Kelas | K29 / S1 Sistem dan Teknologi Informasi (STEI-K ITB) |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI |
+| Target | Dimas (ID: K3-04) |
+| Versi bank/paket | Bank 2.0; paket individual 2.0 |
+| Sumber penugasan | kasus_3a_18225121.zip dan PENUGASAN.md |
+| Modalitas | Teks (Simulasi interaktif dan pencatatan transkrip) |
+| Konteks nyata/fiktif | Nyata/simulasi profesional pengelola usaha |
+| Kelengkapan transkrip | Lengkap (identifikasi, perencanaan, simulasi, evaluasi, uji ulang, refleksi) |
+| Nama laporan menurut paket | hasil_3a_18225121.qmd |
+| Konfirmasi identitas/ringkasan | Konfirmasi identitas NIM 18225121 disetujui |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+Customer (Dimas, ID: K3-04) menghadapi kendala pesan pelanggan berulang dan pesanan tercecer dengan tenaga operasional yang terbatas. Ia bersikap skeptis terhadap klaim efisiensi sistem AI dan membutuhkan bukti empiris serta kontrol manusia. Mahasiswa bertugas menggali kebutuhan dan menawarkan solusi TI/AI secara rasional tanpa klaim berlebihan, dengan sasaran keputusan uji coba konkret (*pilot test*).
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Mengatasi skeptisisme Dimas melalui penjelasan berbasis logika, bukti terukur, serta menawarkan uji coba (*pilot test*) terbatas dengan kontrol manusia. |
+| Keadaan awal | Dimas meragukan akurasi dan klaim manfaat sistem AI karena merasa mampu menilai sendiri serta khawatir terhadap keterbatasan waktu implementasi. |
+| Indikator keberhasilan | Dimas menghargai penjelasan logis, menerima asumsi batas sistem, dan menyetujui sesi demo/uji coba terbatas. |
+| Batas dan pilihan target | Tidak memaksakan penjualan sistem penuh atau memberikan janji muluk tanpa batasan operasional yang transparan. |
+| Tenggat | Sesuai kesepakatan jadwal demo/uji coba. |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | Kekuatan: pemahaman teknis solusi TI. Kelemahan: kecenderungan menyampaikan fitur teknis berlebihan (*feature dumping*). Peluang: membantu efisiensi operasional usaha customer. Ancaman: penolakan akibat klaim sistem yang terlalu muluk. | Laporan diri mahasiswa | Laporan mandiri (subjektif) |
+| Attitude | Objektif, analitis, dan menghargai nalar kritis profesional. | U001 | Berdasarkan refleksi awal |
+| Knowledge | Memahami arsitektur sistem informasi dan automasi pesan namun perlu latihan komunikasi berorientasi nilai bisnis. | U001 | Berdasarkan evaluasi mandiri |
+| Skill | Mampu menyusun argumen logis tetapi perlu menghindari penjelasan teknis yang rumit di awal. | U002 | Berdasarkan kebiasaan komunikasi |
+| Preferensi/MBTI jika dilaporkan | INTJ (pendekatan logis terstruktur berbasis data). | Laporan diri | Laporan diri / bukan diagnosis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa STEI-K ITB dengan budaya rekayasa sistem berbasis pembuktian empiris. | Identitas akademik | Fakta institusional |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Dimas (K3-04) yang skeptis terhadap klaim AI dan membutuhkan bukti akurasi serta kontrol manusia. | A: Menghargai pemikiran kritis; K: Menjelaskan batas dan logika sistem; S: Menawarkan uji coba terukur. | Pertanyaan berbasis bukti, penjelasan arsitektur sederhana, tawaran uji coba terbatas. | Dimas melonggarkan skeptisismenya dan menyetujui uji coba. |
+| Attention | Dimas menuntut bukti empiris atas efektivitas klaim automasi. | A: Mengakui validitas keraguannya. | Mengawali dengan pertanyaan berbasis bukti operasional. | Dimas menghentikan penolakan awalnya. |
+| Interest | Tertarik saat ditunjukkan data perbandingan dan batasan operasional yang jujur. | K: Memaparkan alur penanganan pesan dan batas akurasi. | Memberikan contoh simulasi penanganan pesan tercecer. | Dimas menanyakan rincian teknis operasional. |
+| Desire | Menginginkan sistem yang terukur dan tetap berada di bawah kontrol manusia (*human-in-the-loop*). | A: Menjamin adanya kontrol penuh di tangan staf. | Menawarkan skema validasi manual pada hasil automasi. | Dimas menerima konsep uji coba. |
+| Action | Menyepakati jadwal demo sistem terbatas (*pilot test*). | S: Eksekusi uji coba. | Menetapkan ruang lingkup data sampel untuk demo. | Kepastian tanggal dan durasi demo. |
+
+# C) Skrip Percakapan
+
+### U001 - Farrel - Identifikasi
+"Halo, nama saya Farrel Garuda Haryono dengan NIM 18225121. Hari ini saya menjalankan Sesi 3a Kasus 3 untuk menawarkan solusi efisiensi pesan pelanggan kepada Mas Dimas (K3-04)."
+
+### AI001 - Fasilitator - Identifikasi
+"Silakan mulai percakapanmu dengan Dimas, Farrel. Hadapi skeptisismenya dengan argumen logis dan bukti terukur."
+
+### U002 - Farrel - Simulasi Awal
+"Halo Mas Dimas, saya mengamati tantangan operasional usaha Anda dalam menangani pesan pelanggan yang sering berulang dan tercecer. Kami memiliki pendekatan automasi pesan untuk merampingkan proses tersebut tanpa menghilangkan kontrol staf."
+
+### AI002 - Dimas (K3-04) - Simulasi Awal
+"Apa bukti pendekatan ini benar-benar lebih baik? Kebanyakan sistem seperti ini terlalu banyak klaim muluk tapi akurasinya meragukan saat di lapangan."
+
+### U003 - Farrel - Evaluasi Sementara
+"Pertanyaan yang sangat tajam, Mas Dimas. Kami sepakat bahwa klaim tanpa bukti tidak berguna. Oleh karena itu, sistem kami menempatkan staf pada posisi pengendali utama (*human-in-the-loop*), di mana AI hanya menyusun draf balasan pesan berulang yang wajib divalidasi staf sebelum dikirim."
+
+### AI003 - Dimas (K3-04) - Evaluasi Sementara
+"Jika staf tetap memegang kendali penuh dan hanya bertindak sebagai validasi draf, itu masuk akal dan mengurangi risiko kesalahan. Bagaimana bentuk uji cobanya?"
+
+### U004 - Farrel - Uji Ulang
+"Mas Dimas, jika nanti pada tahap awal uji coba ditemukan variasi pesan pelanggan baru yang belum dikenali sistem, respons kami adalah langsung mengarahkan pesan tersebut ke penanganan manual staf sambil memperbarui basis aturan sistem. Apakah skema ini cukup terukur bagi Anda?"
+
+### AI004 - Dimas (K3-04) - Evaluasi Syn/Uji Ulang
+"Skema penanganan manual untuk kasus khusus itu sangat logis dan menunjukkan bahwa kalian realistis terhadap batas sistem. Saya bisa menyetujui uji coba terbatas."
+
+### U005 - Farrel - Konfirmasi
+"Terima kasih atas kepercayaan Anda, Mas Dimas. Kita jadwalkan sesi uji coba terbatas dengan sampel data pesan minggu depan."
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Skeptisisme tinggi terhadap klaim AI dan risiko operasional. | Tercapai kesepakatan uji coba terbatas dengan kontrol manusia (*human-in-the-loop*). | U002, U004 | Simulasi percakapan |
+| Attitude | Dimas sangat kritis dan meragukan akurasi klaim manfaat. | Dimas menghargai keterbukaan batas sistem dan bersedia mencoba. | U002, AI004 | Respon positif target |
+| Knowledge | Memahami masalah operasional, meragukan solusi teknologi. | Memahami mekanisme kontrol manusia dalam sistem automasi. | U003 | Klarifikasi logika teknis |
+| Skill | Analitis kuat, memerlukan evaluasi terukur. | Mampu mengevaluasi penawaran TI berdasarkan batasan operasional nyata. | U004 | Demonstrasi keputusan |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 / AI002 | Dimas skeptis terhadap klaim (A: meragukan akurasi, K: butuh data/batas, S: perlu kontrol manusia). | Menawarkan automasi pesan dengan penekanan kontrol staf. | Dimas menantang dengan pertanyaan "Apa bukti pendekatan ini lebih baik?". | Rasa hormat terhadap kompetensi teknis terbangun. | Menjelaskan konsep *human-in-the-loop* dan batasan operasional secara jujur. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U003 | Mengakui pentingnya kontrol penuh staf dan tidak menutupi batas kemampuan sistem. | Dimas melunak dan menyetujui rincian skema uji coba terbatas. | Rendah $\rightarrow$ Tinggi (terlihat dari persetujuan di AI004). | Keterbukaan mengenai batas teknologi terbukti meredakan keraguan customer analitis. |
+
+## Uji ulang dan pembelajaran
+Pada uji ulang (U004), mahasiswa berhasil meyakinkan target dengan menyiapkan mitigasi penanganan manual (*fallback mechanism*), menunjukkan kedewasaan dalam menawarkan solusi teknologi.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 | U001, U002 | Tujuan menawarkan solusi TI yang terukur dirumuskan secara spesifik. |
+| Persepsi dan validasi profil/status | 3 | U002 | Mampu memvalidasi skeptisisme Dimas (K3-04) terhadap klaim AI. |
+| Pemilihan dan urutan repertoar | 3 | U002, U003 | Menjawab tantangan bukti dengan konsep *human-in-the-loop* sangat tepat. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U003, U005 | Komunikasi profesional, logis, jujur pada batas sistem dan menghargai otonomi. |
+| Evaluasi dan adaptasi | 3 | U003 | Menyesuaikan penjelasan fitur teknis menjadi nilai kontrol operasional. |
+| Refleksi dan lesson learned | 3 | U005 | Merefleksikan pentingnya transparansi batas teknologi dalam penjualan produk TI. |
+
+**Nilai Sesi 3a:** $18 / 24 \times 100 = 75.00$ (Usulan AI, memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+- **Dugaan yang dikoreksi:** Awalnya saya mengira customer menolak AI karena biaya, tetapi ternyata karena skeptisisme terhadap akurasi dan kekhawatiran hilangnya kontrol operasional.
+- **Stimulus efektif/tidak efektif:** Menjamin kontrol penuh staf (*human-in-the-loop*) jauh lebih efektif dibanding memuji-muji kecanggihan fitur AI.
+- **Pertumbuhan PASK/ASK diri:** Peningkatan kemampuan menerjemahkan teknologi rumit menjadi solusi bisnis yang transparan dan dapat dikontrol.
+- **Relasi:** Kejujuran mengenai batasan sistem membangun kredibilitas profesional jangka panjang.
+- **Pelajaran:** Penjualan solusi TI/AI menuntut pemahaman mendalam terhadap kebutuhan kontrol operasional customer.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Menjadwalkan uji coba terbatas (*pilot test*) | Farrel & Dimas | Minggu depan | Sampel data pesan usaha | Evaluasi akurasi draf balasan staf | Rencana aktif |
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum dihitung |
+| Sesi 1 | 18% | 75.00 (Usulan AI) |
+| Sesi 2a | 18% | 75.00 (Usulan AI) |
+| Sesi 2b | 18% | 75.00 (Usulan AI) |
+| Sesi 3a | 18% | 75.00 (Usulan AI) |
+| Sesi 3b | 18% | Belum dihitung |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = Belum dihitung** (menunggu seluruh komponen lengkap dan moderasi dosen).

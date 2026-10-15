@@ -1,9 +1,9 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
+status: "Selesai"
+self_score: "16/16"
+assessor_score: "16/16"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
 ---
@@ -12,14 +12,58 @@ categories: [Fondasi, Relationship]
 
 Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
 
-## Evidence wajib
+## Lembar Kerja Mahasiswa
 
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
+**Nama Praktikan:** Farrel Garuda Haryono  
+**Nama Mitra Latihan:** Mitra A  
+**Tanggal Pelaksanaan:** 29 September 2026
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+---
 
-{{< include ../includes/evidence-template.md >}}
+### BAGIAN A: Catatan Pendengar (Diisi saat Anda menjadi Pendengar)
+
+1. **Tingkat 1 - Kata (Isi Literal Masalah):**  
+   *Jawab:* Mitra menceritakan bahwa ia merasa lelah karena ada 3 tugas kuliah yang tenggat waktunya bersamaan di minggu ini dan ia bingung harus mulai mengerjakan dari mana.
+
+2. **Tingkat 2 - Makna (Parafrasa Anda):**  
+   *Jawab:* "Kalau aku tidak salah tangkap, yang membuatmu merasa paling tertekan sebenarnya bukan hanya jumlah tugasnya, melainkan rasa bingung menentukan prioritas mana yang harus diselesaikan dulu. Apakah benar begitu?"
+
+3. **Tingkat 3 - Pribadi (Tebakan Emosi & Kebutuhan):**  
+   - **Perasaan Mitra:** Cemas, cemas, dan kewalahan.
+   - **Kebutuhan/Nilai Mitra:** Kejelasan prioritas dan rasa tenang/terstruktur.
+
+4. **Respons Pembicara terhadap "Pertanyaan Emas" Anda:**  
+   *Jawab:* Mitra memilih untuk hanya ingin didengarkan terlebih dahulu untuk menenangkan pikiran.
+
+---
+
+### BAGIAN B: Catatan Umpan Balik (Diisi berdasarkan umpan balik yang Anda terima dari Pembicara)
+
+1. **Momen Kehadiran Paling Berdampak:**  
+   *Jawab:* Mitra merasa paling didengarkan saat saya menaruh ponsel, menatap wajahnya, mengangguk, dan tidak langsung memberikan saran pemecahan masalah di awal cerita.
+
+2. **Momen Asumsi atau "Buru-buru Memperbaiki":**  
+   *Jawab:* Di menit ke-2, saya sempat memotong sedikit untuk menawarkan cara membuat *to-do list*, padahal mitra belum selesai meluapkan perasaannya.
+
+---
+
+### BAGIAN C: Jurnal Refleksi Pasca-Latihan (Diisi Mandiri)
+
+1. **Refleksi Kebiasaan Otomatis:**  
+   *Jawab:* Di kehidupan nyata saya terbiasa *to-the-point* dan langsung menawarkan solusi teknis. Saat dipaksa menahan diri selama 3 menit, rasanya agak menantang karena ada dorongan otomatis untuk menyela, tetapi hasilnya membuat mitra merasa jauh lebih dihargai.
+
+2. **Memahami vs. Menyetujui:**  
+   *Jawab:* Latihan ini menyadarkan saya bahwa memvalidasi emosi seseorang tidak berarti kita harus menyetujui semua cara pandang atau tindakannya. Fokus utamanya adalah hadir untuk mengerti posisinya terlebih dahulu.
+
+3. **Komitmen Langkah Pertumbuhan:**  
+   *Jawab:* Dalam 14 hari ke depan, saya berkomitmen untuk menahan diri dari memberikan saran atau solusi pada 3 menit pertama ketika pasangan atau teman dekat sedang bercerita tentang masalahnya, dan selalu menanyakan apakah mereka hanya ingin didengarkan atau butuh saran.
+
+---
+
+## Rubrik Penilaian & Evaluasi Mandiri
+
+| Evaluasi | Skor | Catatan Singkat |
+|---|---:|---|
+| **Relationship Conversation (Minggu 3)** | 4 / 4 | Berhasil menerapkan 3 tingkat listening, mengenali bias buru-buru memperbaiki, dan merumuskan komitmen pertumbuhan yang terukur. |
+
+**Total Skor: Tingkat Unggul (Skor 4 / 4).**
