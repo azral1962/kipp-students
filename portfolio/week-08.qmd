@@ -29,7 +29,7 @@ Makalah pra-UTS dan lima laporan kasus disusun berdasarkan instruksi UTS dan pak
 | Tahap | Dokumen | Sasaran | Status |
 |---|---|---|---|
 | Pra-UTS | [Makalah MBTI dan PASK](UTS/paper.qmd) | Empat pertanyaan kajian | Perlu diperiksa |
-| 1 | [Memimpin Diri dan Terus Belajar](UTS/hasil_1_18225071.qmd) | Diri sendiri dan pembanding sesuai paket | Perlu diperiksa |
+| 1 | [Memimpin Diri dan Terus Belajar](UTS/hasil_1.qmd) | Diri sendiri dan pembanding sesuai paket | Perlu diperiksa |
 | 2a | [Persahabatan dan Profesionalitas — Sesi 2a](UTS/hasil_2a.qmd) | Target sesuai ZIP 2a | Perlu diperiksa |
 | 2b | [Persahabatan dan Profesionalitas — Sesi 2b](UTS/hasil_2b.qmd) | Target sesuai ZIP 2b | Perlu diperiksa |
 | 3a | [Menawarkan Solusi TI/AI — Sesi 3a](UTS/hasil_3a.qmd) | Target sesuai ZIP 3a | Perlu diperiksa |
