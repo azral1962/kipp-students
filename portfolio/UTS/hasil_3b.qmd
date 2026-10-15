@@ -1,6 +1,6 @@
 ---
-title: "Laporan Latihan Komunikasi KIPP 2026 — Kasus 3"
-subtitle: "Sesi 3b — Contoh Model Teknis yang Mudah Dipahami"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3"
 author: "Michelle Nataneilla"
 date: "2026-10-15"
 lang: id
@@ -20,12 +20,12 @@ execute:
 |---|---|
 | Nama mahasiswa | Michelle Nataneilla |
 | NIM | 18225071 |
-| Kelas dan tanggal | Kelas belum diberikan; tanggal dokumen 15 Oktober 2026 |
+| Kelas dan tanggal | K01; tanggal dokumen 15 Oktober 2026 |
 | Nomor/judul kasus | Sesi 3b; Kasus 3 — menawarkan solusi TI/AI |
 | Nama dan ID target | Fajar (K3-06) |
 | Versi bank/aturan penugasan | Bank 2.0; paket 2.0; sesuai berkas penugasan |
 | Modalitas | Teks; dialog dibuat sebagai simulasi latihan |
-| Kasus nyata/fiktif | Fiktif/hipotetis |
+| Kasus nyata/fiktif | Fiktif |
 | Kelengkapan transkrip | Lengkap sebagai contoh latihan; bukan catatan percakapan aktual |
 
 # B) Kasus dan Tujuan
@@ -278,17 +278,17 @@ Uji ulang menghadirkan dua masalah: staf merasa harus menyalin informasi dua kal
 
 ## Penilaian enam dimensi
 
-**Rubrik model:** skala 1–4, dengan 4 berarti bukti yang kuat, spesifik, konsisten, dan sesuai konteks. Skor berikut sengaja ditampilkan sebagai **contoh model 24/24** untuk menunjukkan seperti apa bukti performa sangat kuat; bukan nilai resmi, tidak menjamin dosen memberi 100, dan hanya patut dipertahankan jika dialog latihan nyata menunjukkan bukti setara.
+**Penilaian enam dimensi:** kolom skor disediakan untuk diisi asesor. Skor dan jumlah tidak diisi pada dokumen ini.
 
-| Dimensi | Skor contoh | ID dan kutipan bukti | Alasan |
+| Dimensi | Skor asesor (1–4/BT) | ID dan kutipan bukti | Alasan |
 |---|---:|---|---|
-| Tujuan dan konteks | 4/4 | U003: “sebelum menunjukkan solusi, aku ingin memastikan masalah yang kita selesaikan memang tepat”; U004–U008 | Tujuan dinyatakan jelas dan pertanyaan berurutan menggali prioritas, alur, format, dan penyebab masalah sebelum memilih solusi. |
-| Persepsi dan validasi profil/status | 4/4 | U008: “apakah aku menangkap kebutuhanmu dengan benar”; AI009 mengonfirmasi; U011 mengakui batas formulir | Dugaan divalidasi langsung, keberatan tidak dianggap sebagai penolakan, dan risiko diklarifikasi tanpa menghakimi. |
-| Pemilihan dan urutan repertoar | 4/4 | U009–U014; U015–U019 | Solusi sederhana didahulukan; balasan cepat dibedakan dari AI; keputusan AI ditunda sampai kebutuhan terukur; pilihan dan langkah disesuaikan dengan hambatan. |
-| Eksekusi jelas, peduli, dan konsisten | 4/4 | U005, U011–U012, U019, U022–U024 | Penjelasan teknis menggunakan contoh yang mudah dipahami, mengakui batas, menjaga privasi, menawarkan bantuan praktis, dan konsisten menghormati pilihan Fajar. |
-| Evaluasi dan adaptasi | 4/4 | U016–U019; U022–U024 | Kesepakatan memiliki cakupan, durasi, peran, dukungan, indikator, risiko, dan evaluasi. Uji ulang menghasilkan perubahan rancangan, bukan sekadar mengulang saran. |
-| Refleksi dan lesson learned | 4/4 | U020–U021; U025–U027 | Refleksi memisahkan perubahan A/K dari skill yang belum terbukti, menggunakan bukti kutipan, menyebut keterbatasan, dan menetapkan transfer pembelajaran. |
-| **Jumlah** | **24/24** |  | **Contoh nilai model: 24 ÷ 24 × 100 = 100/100. Perlu moderasi dosen.** |
+| Tujuan dan konteks |  | U003: “sebelum menunjukkan solusi, aku ingin memastikan masalah yang kita selesaikan memang tepat”; U004–U008 | Tujuan dinyatakan jelas dan pertanyaan berurutan menggali prioritas, alur, format, dan penyebab masalah sebelum memilih solusi. |
+| Persepsi dan validasi profil/status |  | U008: “apakah aku menangkap kebutuhanmu dengan benar”; AI009 mengonfirmasi; U011 mengakui batas formulir | Dugaan divalidasi langsung, keberatan tidak dianggap sebagai penolakan, dan risiko diklarifikasi tanpa menghakimi. |
+| Pemilihan dan urutan repertoar |  | U009–U014; U015–U019 | Solusi sederhana didahulukan; balasan cepat dibedakan dari AI; keputusan AI ditunda sampai kebutuhan terukur; pilihan dan langkah disesuaikan dengan hambatan. |
+| Eksekusi jelas, peduli, dan konsisten |  | U005, U011–U012, U019, U022–U024 | Penjelasan teknis menggunakan contoh yang mudah dipahami, mengakui batas, menjaga privasi, menawarkan bantuan praktis, dan konsisten menghormati pilihan Fajar. |
+| Evaluasi dan adaptasi |  | U016–U019; U022–U024 | Kesepakatan memiliki cakupan, durasi, peran, dukungan, indikator, risiko, dan evaluasi. Uji ulang menghasilkan perubahan rancangan, bukan sekadar mengulang saran. |
+| Refleksi dan lesson learned |  | U020–U021; U025–U027 | Refleksi memisahkan perubahan A/K dari skill yang belum terbukti, menggunakan bukti kutipan, menyebut keterbatasan, dan menetapkan transfer pembelajaran. |
+| **Jumlah** |  |  |  |
 
 Nilai model 100/100 tidak berarti hasil tujuan harus berupa persetujuan membeli AI. Justru dalam contoh ini, keputusan yang kuat adalah persetujuan terhadap demo dan uji coba terbatas, sedangkan pembelian atau penggunaan AI tetap menunggu bukti.
 
@@ -343,4 +343,4 @@ Saya tidak boleh menyimpulkan bahwa staf sudah mampu hanya karena mereka setuju 
 
 **Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan semua nilai komponen pada skala 0–100.
 
-Nilai akhir UTS **belum dihitung** karena nilai makalah dan seluruh sesi yang diwajibkan belum tersedia. Nilai contoh model pada dokumen ini bukan nilai resmi dan tidak boleh digunakan untuk mengisi komponen penilaian yang sebenarnya.
+Nilai akhir UTS **belum dihitung**. Nilai komponen dan nilai asesor dibiarkan kosong sampai diisi berdasarkan penilaian yang sah.
