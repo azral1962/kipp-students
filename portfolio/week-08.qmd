@@ -82,7 +82,7 @@ AI dapat membantu proses refleksi, terutama untuk melihat apakah stimulus, respo
 
 | Tahap   | Template untuk diisi             | Target sesuai ZIP                       | Status        | Bukti/ID atau bagian yang masih kurang |
 | ------- | -------------------------------- | --------------------------------------- | ------------- | -------------------------------------- |
-| Pra-UTS | [paper.qmd](UTS/paper.qmd)       | Kajian empat pertanyaan MBTI/PASK       | Siap dinilai | Secara keseluruhan sudah lengkap                                  |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd)       | Kajian empat pertanyaan MBTI/PASK       | Siap dinilai | Secara keseluruhan sudah lengkap                                 |
 | 1       | [hasil_1.qmd](UTS/hasil_1.qmd)   | Diri; Budi (K1-02) sebagai pembanding   | Siap dinilai | Bagian yang masih kurang adalah transkrip asli pertanyaan AI dan jawaban secara berurutan, terutama konfirmasi identitas, pertanyaan lanjutan Tahap B, dialog lengkap simulasi Budi, serta pertanyaan sebelum evaluasi dan penutup. Beberapa jawaban dan refleksi sudah tercatat, tetapi belum semua pesan verbatim tersedia.                                  |
 | 2a      | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2]        | Siap dinilai | Secara keseluruhan sudah lengkap                                  |
 | 2b      | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Siap dinilai | Secara keseluruhan sudah lengkap                                  |
