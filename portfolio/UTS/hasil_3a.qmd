@@ -15,7 +15,7 @@ execute:
 |---|---|
 | Nama mahasiswa | Michelle Nataneilla |
 | NIM | 18225071 |
-| Kelas dan tanggal | STEI-K; 14 Oktober 2026 |
+| Kelas dan tanggal | K01; 14 Oktober 2026 |
 | Nomor/judul kasus | Sesi 3a; Kasus 3 (Menawarkan Solusi TI dan AI) |
 | Nama dan ID target | Ali (K3-01) |
 | Versi bank/aturan penugasan | Versi bank/aturan penugasan tidak dicantumkan pada jawaban |
