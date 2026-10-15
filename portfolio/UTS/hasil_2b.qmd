@@ -152,7 +152,7 @@ iya, Jar, aku paham kalau kamu masih kesel karena dari awal bebannya udah nggak 
 
 **AI010 — Fajar**
 
-**Fajar:** “Oke, aku hargai kalau lo nggak nganggep masalah ini selesai begitu aja. aku bisa lanjut ngerjain bagian aku sambil kita atur ulang pembagiannya. Tapi aku mau evaluasinya beneran dilakukan, bukan cuma jadi omongan setelah tugas dikumpulin.”
+**Fajar:** “Oke, aku hargai kalau kamu nggak nganggep masalah ini selesai begitu aja. aku bisa lanjut ngerjain bagian aku sambil kita atur ulang pembagiannya. Tapi aku mau evaluasinya beneran dilakukan, bukan cuma jadi omongan setelah tugas dikumpulin.”
 
 **U010 — Respons mahasiswa**
 
@@ -231,7 +231,7 @@ menurut kamu gitu udah cukup jelas belum? kalo ada bagian yang masih abu-abu, ta
 
 **AI016 — Fajar**
 
-**Fajar:** “Nah, kalau batasannya sampai kesimpulan utama sama tabel pendukung, aku lebih ngerti. aku bisa kirim draft dulu buat dikonfirmasi. Tapi aku perlu tahu juga, kira-kira lo bisa cek secepat apa setelah aku kirim? Soalnya kalau aku harus nunggu konfirmasi terlalu lama, bagian berikutnya bisa ikut ketunda.”
+**Fajar:** “Nah, kalau batasannya sampai kesimpulan utama sama tabel pendukung, aku lebih ngerti. aku bisa kirim draft dulu buat dikonfirmasi. Tapi aku perlu tahu juga, kira-kira kamu bisa cek secepat apa setelah aku kirim? Soalnya kalau aku harus nunggu konfirmasi terlalu lama, bagian berikutnya bisa ikut ketunda.”
 
 **U015 — Respons mahasiswa**
 
@@ -244,7 +244,7 @@ gimana, aman ya cara ini? kabarin aja kalo udah mulai ngerjain draft-nya!
 
 **AI017 — Fajar, penutupan pengujian ulang**
 
-**Fajar:** “Oke, aman. Batas satu jam masih masuk akal, dan aku suka ada opsi buat lanjut kalau lo belum sempat bales. aku bakal mulai bikin draft kesimpulannya sama tabel pendukung sekarang. Nanti aku kirim buat lo cek, terus aku lanjut ke bagian berikutnya sesuai patokan tadi.”
+**Fajar:** “Oke, aman. Batas satu jam masih masuk akal, dan aku suka ada opsi buat lanjut kalau kamu belum sempat bales. aku bakal mulai bikin draft kesimpulannya sama tabel pendukung sekarang. Nanti aku kirim buat kamu cek, terus aku lanjut ke bagian berikutnya sesuai patokan tadi.”
 
 ## Refleksi akhir
 
