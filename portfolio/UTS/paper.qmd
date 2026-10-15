@@ -1,5 +1,4 @@
 ---
-
 title: "Berbeda dalam Preferensi, Bertumbuh dalam Respons"
 subtitle: "Memahami Perbedaan Preferensi untuk Membangun Komunikasi yang Lebih Adaptif"
 author: "Michelle Nataneilla - 18225071"
@@ -10,7 +9,7 @@ html:
 toc: true
 toc-depth: 3
 number-sections: true
----------------------
+---
 
 ## Abstrak {.unnumbered}
 
