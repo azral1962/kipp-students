@@ -1,105 +1,88 @@
 ---
-
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Siap dinilai"
-self_score: "19/20"
+status: "Dalam Pengerjaan"
+self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
------------------------------
+---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Status Pengerjaan"}
+Makalah pra-UTS dan lima laporan kasus disusun berdasarkan instruksi UTS dan paket individual yang sesuai dengan NIM. Transkrip, evaluasi, dan refleksi setiap sesi dicantumkan dalam laporan masing-masing. Status penyelesaian dan penilaian akhir diperbarui setelah seluruh komponen diperiksa.
 :::
-
-## Performance card
-
-* **Person/target:** Teman yang menjadi target percakapan.
-* **Initial state:** Target sudah mengetahui adanya masalah, tetapi masih memiliki pertimbangan sebelum menerima pendekatan yang ditawarkan.
-* **Objective:** Membawa target dari Attention menuju Interest dengan menunjukkan relevance dari problem dan solution yang dibahas.
-* **Evidence:** Respons target selama percakapan dan perubahan respons setelah stimulus disesuaikan.
-* **Boundary:** Tidak memaksakan persetujuan dan tidak menganggap respons positif sebagai bukti bahwa masalah sudah selesai.
-
-## Decisive moment
-
-> **Mahasiswa:** Menyampaikan problem dan solution yang dianggap relevan dengan kondisi target.
-> **Target:** Memberikan respons yang menunjukkan adanya pertimbangan terhadap solution yang ditawarkan.
-> **Mahasiswa:** Mengakui pertimbangan tersebut dan menyesuaikan penjelasan agar lebih sesuai dengan kebutuhan target.
-
-Response target menunjukkan bahwa pendekatan awal belum sepenuhnya menjawab pertimbangannya. Mahasiswa kemudian tidak langsung mempertahankan pitch, tetapi menggunakan respons tersebut untuk menyesuaikan cara penyampaian dan memperjelas value yang relevan bagi target.
-
-## Observer feedback dan replay
-
-Observer memberikan feedback bahwa mahasiswa sudah mampu mempertahankan arah percakapan ketika target memberikan respons yang berbeda dari perkiraan awal. Mahasiswa juga tidak langsung menganggap keraguan target sebagai penolakan.
-
-Pada replay, mahasiswa menyadari bahwa beberapa bagian masih terlalu cepat dalam menjelaskan solution. Pendekatan kemudian diperbaiki dengan lebih memperhatikan respons target sebelum melanjutkan ke penjelasan berikutnya.
-
-Feedback tersebut membantu mahasiswa membedakan antara target yang sekadar mendengarkan dengan target yang benar-benar menunjukkan Interest.
-
-## Evidence package
-
-* Performance card digunakan untuk menentukan target, initial state, objective, evidence, dan boundary.
-* Transcript/performance digunakan untuk melihat stimulus, respons, dan adaptation selama percakapan.
-* Feedback digunakan untuk mengevaluasi cara mahasiswa membaca respons target.
-* Replay digunakan untuk melihat bagian yang masih dapat diperbaiki.
-* Tidak terdapat bukti fisik tambahan yang dapat dilampirkan untuk mendukung evaluasi secara lebih objektif.
-* AI digunakan sebagai bantuan refleksi untuk mengevaluasi hubungan antara stimulus, respons, dan adaptation. Namun, karena tidak terdapat artefak AI atau bukti fisik yang dapat diverifikasi, penggunaannya belum dapat dinilai secara maksimal.
-
-## Self-assessment
-
-| Dimensi                          | Skor | Evidence singkat                                                                                                      |
-| -------------------------------- | ---: | --------------------------------------------------------------------------------------------------------------------- |
-| Person & Character               |    4 | Mampu mengenali karakteristik, kebutuhan, dan kondisi target sebelum menentukan pendekatan                            |
-| Objective & State                |    4 | Initial state dan perubahan respons target dapat dibedakan selama performance                                         |
-| Repertoire, Language & AI        |    3 | Repertoire dan bahasa disesuaikan dengan target, tetapi belum memiliki bukti fisik/artefak AI yang dapat diverifikasi |
-| Response & Adaptation            |    4 | Mampu menggunakan respons target untuk menyesuaikan pendekatan                                                        |
-| Agreement, Action & Relationship |    4 | Percakapan tetap diarahkan pada kebutuhan target tanpa memaksakan persetujuan                                         |
-
-**Total: 19/20 — Kompeten.**
-
-## Reflection
-
-Performance ini menunjukkan bahwa keberhasilan komunikasi tidak hanya ditentukan oleh seberapa baik stimulus awal disiapkan, tetapi juga oleh kemampuan membaca respons target dan melakukan adaptation. Respons yang berbeda dari perkiraan tidak selalu berarti penolakan, sehingga perlu dilihat kembali apa yang menjadi pertimbangan target.
-
-Hal yang masih perlu diperbaiki adalah penggunaan evidence yang lebih lengkap. Proses performance sudah dapat direfleksikan melalui transcript dan feedback, tetapi belum didukung bukti fisik yang dapat digunakan untuk membandingkan improvement secara lebih objektif.
-
-AI dapat membantu proses refleksi, terutama untuk melihat apakah stimulus, respons, dan adaptation sudah saling berkaitan. Namun, tanpa artefak yang dapat diverifikasi, AI belum cukup untuk menjadi bukti utama performance.
 
 ## Identitas dan status paket
 
-| Elemen                      | Isi mahasiswa                       |
-| --------------------------- | ----------------------------------- |
-| Nama                        | Michelle Nataneilla                 |
-| NIM                         | 18225071                            |
-| Kelas                       | K01                          |
-| Periode/tanggal pelaksanaan | 8 Oktober2026 - 15 Oktober 2026    |
-| Versi bank/paket aktif      | 2.0 |
-| Modalitas                   | Teks    |
-| Status pengumpulan          | Sudah submit     |
+| Elemen | Isi mahasiswa |
+|---|---|
+| Nama | Michelle Nataneilla |
+| NIM | 18225071 |
+| Kelas | STEI-K |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026 |
+| Versi bank/paket aktif | Versi bank/paket sesuai `PENUGASAN.md` dalam ZIP masing-masing |
+| Modalitas | Teks |
+| Status pengumpulan | Belum dikonfirmasi |
 
 ## Makalah dan lima laporan
 
-| Tahap   | Template untuk diisi             | Target sesuai ZIP                       | Status        | Bukti/ID atau bagian yang masih kurang |
-| ------- | -------------------------------- | --------------------------------------- | ------------- | -------------------------------------- |
-| Pra-UTS | [paper.qmd](UTS/paper.qmd)       | Kajian empat pertanyaan MBTI/PASK       | Siap dinilai | Secara keseluruhan sudah lengkap                                 |
-| 1       | [hasil_1.qmd](UTS/hasil_1.qmd)   | Diri; Budi (K1-02) sebagai pembanding   | Siap dinilai | Bagian yang masih kurang adalah transkrip asli pertanyaan AI dan jawaban secara berurutan, terutama konfirmasi identitas, pertanyaan lanjutan Tahap B, dialog lengkap simulasi Budi, serta pertanyaan sebelum evaluasi dan penutup. Beberapa jawaban dan refleksi sudah tercatat, tetapi belum semua pesan verbatim tersedia.                                  |
-| 2a      | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2]        | Siap dinilai | Secara keseluruhan sudah lengkap                                  |
-| 2b      | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Siap dinilai | Secara keseluruhan sudah lengkap                                  |
-| 3a      | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3]        | Siap dinilai | Secara keseluruhan sudah lengkap                                  |
-| 3b      | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Siap dinilai | Secara keseluruhan sudah lengkap                                  |
+| Tahap | Dokumen | Sasaran | Status |
+|---|---|---|---|
+| Pra-UTS | [Makalah MBTI dan PASK](UTS/paper.qmd) | Empat pertanyaan kajian | Perlu diperiksa |
+| 1 | [Memimpin Diri dan Terus Belajar](UTS/hasil_1_18225071.qmd) | Diri sendiri dan pembanding sesuai paket | Perlu diperiksa |
+| 2a | [Persahabatan dan Profesionalitas — Sesi 2a](UTS/hasil_2a_18225071.qmd) | Target sesuai ZIP 2a | Perlu diperiksa |
+| 2b | [Persahabatan dan Profesionalitas — Sesi 2b](UTS/hasil_2b_18225071.qmd) | Target sesuai ZIP 2b | Perlu diperiksa |
+| 3a | [Menawarkan Solusi TI/AI — Sesi 3a](UTS/hasil_3a_18225071.qmd) | Target sesuai ZIP 3a | Perlu diperiksa |
+| 3b | [Menawarkan Solusi TI/AI — Sesi 3b](UTS/hasil_3b_18225071.qmd) | Target sesuai ZIP 3b | Perlu diperiksa |
+
+Nama berkas dan lokasi tautan di atas mengikuti struktur folder `UTS`. Pastikan semua file benar-benar sudah berada di folder tersebut dan nama berkasnya sesuai sebelum melakukan render atau pengumpulan.
 
 {{< include "../includes/uts-penilaian.md" >}}
 
+## Ringkasan lintas sesi
+
+### Pra-UTS: Makalah akademik
+
+Makalah membahas empat pertanyaan utama mengenai MBTI dan komunikasi, strategi komunikasi berdasarkan preferensi, pengenalan preferensi melalui percakapan, serta penggunaan stimulus, SWOT-like, dan PASK dalam pengembangan diri.
+
+### Sesi 1: Memimpin diri dan terus belajar
+
+Fokus sesi ini adalah memahami kondisi diri, mengenali hambatan dalam mencapai tujuan, serta menentukan langkah konkret untuk memperbaiki pengelolaan tugas dan prioritas. Evaluasi perlu didasarkan pada respons dan bukti yang tercantum dalam transkrip.
+
+### Sesi 2: Persahabatan dan profesionalitas
+
+Sesi 2a dan 2b membahas komunikasi dalam hubungan pertemanan ketika muncul kendala profesionalitas. Analisis mencakup cara memahami perspektif lawan bicara, memvalidasi kebutuhan, memilih pendekatan yang sesuai, dan mencapai kesepakatan yang realistis. Profil dan target setiap sesi harus mengikuti paket individual masing-masing.
+
+### Sesi 3: Menawarkan solusi TI dan AI
+
+Sesi 3a dan 3b berfokus pada pemahaman kebutuhan sebelum menawarkan solusi teknologi. Evaluasi perlu menunjukkan bagaimana mahasiswa menanggapi kekhawatiran komunikan, menjelaskan manfaat dan batasan solusi, menyesuaikan pendekatan berdasarkan respons, serta menentukan tindak lanjut yang sesuai.
+
+## Kriteria pemeriksaan laporan
+
+Setiap laporan diperiksa berdasarkan enam dimensi berikut.
+
+| Dimensi | Hal yang diperiksa |
+|---|---|
+| Tujuan dan konteks | Kejelasan tujuan, sasaran, batasan, dan indikator keberhasilan |
+| Persepsi dan validasi profil/status | Dugaan awal, pertanyaan validasi, dan koreksi berdasarkan jawaban |
+| Pemilihan dan urutan repertoar | Kesesuaian pertanyaan, contoh, analogi, dan stimulus dengan kebutuhan komunikan |
+| Eksekusi yang jelas dan konsisten | Kejelasan pesan, kepedulian, penghormatan terhadap pilihan, dan konsistensi tindakan |
+| Evaluasi dan adaptasi | Kemampuan menyesuaikan pendekatan berdasarkan respons dan menerapkannya pada uji ulang |
+| Refleksi dan *lesson learned* | Pembelajaran, perubahan pemahaman ASK, penerapan lanjutan, dan batas bukti |
+
 ## Rekap nilai komponen
 
-| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti  |
-| -------- | ----: | -------------------- | -------------- | ---------------------- | ------------- |
-| Makalah  |   10% | —                    | —              | —                      | Siap dinilai |
-| Sesi 1   |   18% | —                    | —              | —                      | Siap dinilai |
-| Sesi 2a  |   18% | —                    | —              | —                      | Siap dinilai |
-| Sesi 2b  |   18% | —                    | —              | —                      | Siap dinilai |
-| Sesi 3a  |   18% | —                    | —              | —                      | Siap dinilai |
-| Sesi 3b  |   18% | —                    | —              | —                      | Siap dinilai |
+| Komponen | Bobot | Self-assessment /100 | Usulan penilaian /100 | Nilai resmi dosen /100 | Status |
+|---|---:|---:|---:|---:|---|
+| Makalah | 10% | — | — | — | Belum dinilai |
+| Sesi 1 | 18% | — | — | — | Belum dinilai |
+| Sesi 2a | 18% | — | — | — | Belum dinilai |
+| Sesi 2b | 18% | — | — | — | Belum dinilai |
+| Sesi 3a | 18% | — | — | — | Belum dinilai |
+| Sesi 3b | 18% | — | — | — | Belum dinilai |
 
-**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+**Nilai akhir UTS resmi:** Belum dihitung. Nilai ini hanya diisi setelah seluruh komponen dinilai secara resmi. Jangan mengisi nilai asesor atau menganggap laporan yang sudah ditulis otomatis memperoleh nilai penuh.
+
+## Refleksi akhir
+
+Melalui rangkaian tugas ini, hal yang perlu diperhatikan bukan hanya keberhasilan mencapai kesepakatan, tetapi juga proses memahami komunikan, memvalidasi asumsi, memilih pendekatan yang sesuai, dan mengevaluasi hasilnya. Refleksi akhir akan dilengkapi berdasarkan pengalaman dan bukti dari seluruh sesi, termasuk hal yang sudah berjalan baik, bagian yang masih perlu diperbaiki, serta langkah konkret untuk menerapkan pembelajaran tersebut dalam komunikasi berikutnya.
