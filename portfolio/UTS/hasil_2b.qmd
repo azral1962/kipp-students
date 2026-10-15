@@ -1,206 +1,414 @@
 ---
-title: "Laporan UTS KIPP 2026 — Versi 2.0"
-subtitle: "Sesi 2b — Kasus 2"
-lang: id
-format:
-  html:
-    toc: true
-execute:
-  eval: false
+title: "Laporan Sesi 2b — Persahabatan dan Profesionalitas"
+author: "Michelle Nataneilla"
+date: "2026-10-10"
+format: html
 ---
 
-# A) Identitas
+# A) Identitas dan Konteks
 
-| Elemen | Keterangan |
-|---|---|
-| Nama mahasiswa | Michelle Nataneilla |
-| NIM | 18225071 |
-| Kelas dan tanggal | K01; 11 Oktober 2026 |
-| Nomor/judul kasus | Sesi 2b; Kasus 2 — Persahabatan dan Profesionalitas |
-| Nama dan ID target | Fajar (K2-06) |
-| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
-| Modalitas | Teks; transkrip dari percakapan tertulis di sesi ini |
-| Kasus nyata/fiktif | Fiktif |
-| Kelengkapan transkrip | Percakapan inti simulasi dan uji ulang terdokumentasi; bagian percakapan administratif tidak dimasukkan. |
+- **Nama sesuai penugasan:** Michelle Nataneilla
+- **NIM:** 18225071
+- **Kelas:** K01
+- **Sesi:** 2b
+- **Kasus:** 2 — Persahabatan dan Profesionalitas
+- **Komunikan:** Fajar, ID K2-06
+- **Tanggal yang dipilih:** 10 Oktober 2026
+- **Modalitas:** Teks
+- **Jenis kasus:** Fiktif
 
-# B) Kasus dan Tujuan
+Nama dan NIM diambil dari data penugasan, bukan verifikasi identitas independen. Seluruh tokoh dalam kasus ini diperlakukan sebagai tokoh simulasi.
 
-## Kasus dan tujuan tindakan
+## Ringkasan kasus
 
-Tenggat tugas kelompok tinggal 48 jam. Fajar, teman dekat satu kelompok, belum mengirim bagiannya dan merasa pembagian tugas tidak adil. Mahasiswa mengajak Fajar bicara untuk menjaga hubungan sekaligus menyepakati tanggung jawab. Tujuan yang dinyatakan mahasiswa (U003) adalah memahami lebih jelas mengapa Fajar merasa pembagian tidak adil, lalu mencari solusi realistis agar tugas selesai tepat waktu tanpa merenggangkan pertemanan. Respons akhir yang diharapkan adalah Fajar menjelaskan alasannya dan bersedia menyepakati langkah. Indikator keberhasilan proses meliputi pertanyaan yang menggali kendala, tidak menyalahkan, kesepakatan cakupan tugas, waktu, dukungan, dan cara memberi kabar. Penyelesaian tugas kelompok nyata tidak teramati karena seluruhnya berlangsung dalam simulasi.
+Tenggat tugas kelompok tinggal 48 jam. Fajar, teman dekat dalam kelompok, belum mengirim bagiannya karena merasa pembagian tugas tidak adil. Tujuan komunikator adalah memahami alasan dan kendala Fajar, mencari pembagian tanggung jawab yang lebih adil dan realistis, menjaga hubungan pertemanan, serta memastikan tugas tetap selesai tepat waktu.
 
-## Profil awal komunikator
+## Tujuan dan rencana awal mahasiswa
 
-| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
-|---|---|---|---|
-| SWOT subjektif | Mahasiswa tidak menyatakan SWOT dirinya secara eksplisit di awal. Indikasi awal: ingin memahami sebelum memberi solusi (kekuatan), dan menyadari perlu berhati-hati agar Fajar tidak merasa disalahkan (kesadaran risiko). | U003–U005 | Sementara; interpretasi AI |
-| Attitude | Ingin mendengarkan dulu, tidak menyalahkan, dan menjaga pertemanan. | U003, U004, U005 | Sementara; laporan diri |
-| Knowledge | Memahami bahwa keberatan perlu didengar lebih dulu, bahwa pembagian tugas perlu dicek bersama, dan bahwa solusi harus sesuai sisa waktu 48 jam. | U004, U005 | Sementara |
-| Skill | Merencanakan urutan: tanya kendala, cek pembagian, solusi realistis, tanggung jawab jelas. Kemampuan nyata baru terlihat di simulasi. | U005 | Sementara; rencana, bukan demonstrasi |
-| Preferensi/MBTI jika dilaporkan | Tidak ada preferensi atau MBTI mahasiswa yang dilaporkan pada sesi ini. | — | Tidak dinilai |
-| Karakter, peran, kultur/ko-kultur | Peran sebagai teman dekat satu kelompok kuliah. Norma budaya spesifik tidak dilaporkan. | AI003, U004 | Sementara |
+Mahasiswa menyatakan tujuan utamanya adalah mencari tahu alasan Fajar belum mengirim bagian tugas dan membantu mencari solusi agar tugas tetap selesai tepat waktu tanpa merusak hubungan pertemanan. Sebelum berbicara, mahasiswa memperkirakan Fajar mungkin merasa terbebani atau menilai pembagian tugas kurang adil. Rencana awalnya adalah mengajak Fajar berbicara baik-baik, menanyakan kendala yang dihadapi dan bagian yang dianggap tidak seimbang, lalu menentukan solusi bersama.
 
-## Dugaan awal profil target dan rencana
+# B) Ringkasan Proses dan Profil Komunikan
 
-Dugaan mahasiswa sebelum profil Fajar diungkap (U004): Fajar mungkin frustrasi karena merasa bebannya lebih berat dari anggota lain, dan takut harus menyelesaikan semuanya sendiri dengan tenggat 48 jam. Obrolan bisa sulit jika ia merasa keberatannya tidak didengar, sehingga mahasiswa perlu berhati-hati agar Fajar tidak merasa disalahkan. Fakta yang diberikan brief hanya bahwa Fajar belum mengirim dan merasa pembagian tidak adil; sisanya adalah dugaan yang perlu divalidasi lewat pertanyaan.
+## Jalannya percakapan
 
-Rencana awal (U005): mulai dengan menanyakan kendala dan bagian yang dirasa tidak adil tanpa membela diri atau menyalahkan anggota lain, lalu mengecek pembagian tugas bersama, kemudian mencari solusi realistis untuk sisa waktu dan memastikan tanggung jawab tiap orang jelas.
+Pada simulasi awal, Fajar meminta pembahasan langsung dan singkat. Mahasiswa menjelaskan manfaat diskusi, memvalidasi keberatan Fajar, menggali bagian yang dianggap berat, dan menawarkan pembagian ulang yang konkret. Percakapan berkembang dari pemeriksaan beban kerja ke penentuan bagian yang dapat dialihkan, pencatatan penanggung jawab dan tenggat di grup, serta evaluasi setelah tenggat.
 
-| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
-|---|---|---|---|---|
-| Target | Tugas selesai tepat waktu dan hubungan tetap baik; Fajar mau berdiskusi. | Memahami keberatan Fajar, lalu menyepakati langkah. | Pertanyaan terbuka tentang kendala. | Fajar menyebut alasan dan menyepakati langkah. |
-| Attention | Dugaan: Fajar frustrasi dan bisa defensif. | A: akui keberatan tanpa menyalahkan. | Membuka dengan pertanyaan, bukan pembelaan. | Fajar mau menjelaskan keberatannya. |
-| Interest | Dugaan: keberatan soal beban belum didengar. | K: bagian mana yang dirasa tidak adil. | Mengecek pembagian tugas bersama. | Fajar menyebut bagian tertentu. |
-| Desire | Dugaan: takut menyelesaikan semuanya sendiri. | A/K: beban dan hubungan perlu dijaga bersama. | Menawarkan solusi sesuai sisa waktu. | Fajar menerima pembagian yang lebih jelas. |
-| Action | Perlu langkah, waktu, dan penanggung jawab. | S: langkah realistis untuk 48 jam. | Kesepakatan tanggung jawab dan tenggat. | Fajar mengulang kesepakatan. Pelaksanaan nyata belum terbukti. |
+Fajar menyatakan masih kesal karena pembagian awal tidak seimbang dan meminta agar evaluasi benar-benar dilakukan. Mahasiswa mengakui bahwa penyelesaian tugas mendesak tidak berarti masalah keadilan diabaikan. Di akhir simulasi, Fajar bersedia membuat checklist, mengonfirmasi tugas dan tenggat, serta melakukan pemeriksaan progres keesokan malam. Namun, Fajar tetap berharap pembagian tugas ke depan lebih adil; kesepakatan jangka pendek belum membuktikan masalah strukturalnya selesai.
+
+Dalam pengujian ulang, Fajar bingung dengan arti “analisis selesai” dan khawatir harus merevisi pekerjaan. Mahasiswa memperjelas keluaran yang diharapkan, yaitu poin kesimpulan utama dan tabel data pendukung, lalu menjanjikan respons maksimal satu jam serta memberi opsi agar Fajar dapat melanjutkan jika respons terlambat. Fajar menerima cara tersebut dan bersedia mulai menyusun draft.
+
+## Profil komunikan setelah simulasi
+
+**Fajar — K2-06** adalah teman dekat dalam kelompok kuliah yang belum mengirim bagiannya karena merasa pembagian tugas tidak adil.
+
+- **Gaya komunikasi:** langsung dan pragmatis; tidak menyukai rapat panjang.
+- **Preferensi:** manfaat konkret, langkah singkat, hasil cepat terlihat, dan konfirmasi yang jelas.
+- **Hambatan A — kepercayaan/kemauan:** ingin keberatannya diakui dan tidak ingin dianggap harus menanggung beban lebih besar.
+- **Hambatan K — pemahaman:** definisi “selesai” dan batas pekerjaan perlu dibuat jelas.
+- **Hambatan S — kemampuan/dukungan:** membutuhkan langkah singkat serta konfirmasi hasil agar tidak ragu atau mengulang pekerjaan.
+- **Catatan profil:** Fajar bersedia mencoba solusi, tetapi konsistensi dokumentasi masih menjadi tantangan.
+
+## Kecocokan pendekatan
+
+Pendekatan mahasiswa cukup sesuai dengan kebutuhan Fajar: mahasiswa tidak memaksa rapat panjang, memberi ruang untuk menjelaskan ketidakadilan, lalu mengubah pembicaraan menjadi langkah operasional. Checklist, penanggung jawab, tenggat, definisi keluaran, dan batas waktu konfirmasi merespons hambatan K dan S. Meski demikian, keadilan pembagian tugas tetap perlu dibuktikan oleh kontribusi nyata semua anggota, bukan hanya oleh kesepakatan antara mahasiswa dan Fajar.
+
+## Status relasional berdasarkan bukti simulasi
+
+| Dimensi | Penilaian kualitatif | Bukti dan batas interpretasi |
+|---|---|---|
+| Kepercayaan | Sedang, mulai terbentuk | Fajar bersedia menjalankan rencana, tetapi mengatakan masih berharap pembagian tugas ke depan lebih adil. |
+| Pemahaman | Tinggi pada akhir simulasi | Fajar menyatakan, “makasih juga udah mau dengerin keberatan gue.” Ini bukti respons dalam simulasi, bukan pengukuran psikologis. |
+| Kesiapan bertindak | Tinggi pada akhir simulasi | Fajar setuju membuat checklist dan mulai menyusun draft setelah kriteria diperjelas. Pelaksanaan nyata setelah percakapan tidak diamati. |
 
 # C) Skrip Percakapan
 
-**Percakapan inti simulasi dan uji ulang.** ID **Uxxx** digunakan untuk Michelle (mahasiswa), sedangkan ID **AIxxx** digunakan untuk Fajar (target percakapan). Bagian ini hanya memuat dialog yang relevan antara mahasiswa dan Fajar, tanpa instruksi fasilitator atau percakapan administratif.
+**Catatan transkrip:** Pesan ditata ulang dalam urutan kronologis dan diberi ID terpisah untuk pesan AI (`AI001`, `AI002`, dst.) dan mahasiswa (`U001`, `U002`, dst.). Isi substantif dipertahankan dari percakapan yang tersedia. Label tahap merupakan penanda laporan. Tidak ada giliran yang ditambahkan sebagai percakapan seolah-olah benar-benar terjadi.
 
-## Tahap C — Simulasi awal
+## Identifikasi dan perencanaan
 
-**AI001 — Fajar:**  
-"Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."
+**AI001 — Pembukaan dan permintaan identifikasi**
 
-**U001 — Michelle:**  
-"aku paham kamu lagi dikejar waktu, jar. aku nggak mau bikin kamu makin terbebani, makanya aku pengen kita cari solusi biar tugasnya tetap selesai tepat waktu. boleh ceritain dulu bagian mana yang menurut kamu nggak adil atau paling bikin kamu keberatan?"
+Oke, kita mulai **Sesi 2b · Kasus 2: Persahabatan dan Profesionalitas**. Kali ini tokohnya **Fajar (K2-06)**, sesuai paket tugas Sesi 2b, jadi bukan Budi dari sesi sebelumnya. Kita mulai dari awal dan nggak membawa kepercayaan dari sesi 2a.
 
-**AI002 — Fajar:**  
-"Oke, makasih udah ngerti. Singkatnya, bagian yang kebagian ke saya kerasa lebih banyak dari yang lain, dan tiap rapat kelompok panjang tapi ujungnya nggak jelas siapa ngerjain apa. Jadi saya belum kirim. Kamu sendiri maunya gimana, langsung ke intinya aja?"
+Gue bakal mencatat percakapan aktual dengan ID berurutan (`U001`, `AI001`, dst.) sampai laporan `hasil_2b_18225071.qmd` selesai dikonfirmasi.
 
-**U002 — Michelle:**  
-"aku maunya kita cek dulu pembagian tugas yang sekarang, jar, biar kelihatan bagian mana yang bebannya nggak seimbang. habis itu kita tentuin siapa yang bisa bantu ngerjain bagian kamu dan batas waktunya, jadi kamu nggak harus nanggung semuanya sendiri. menurut kamu, bagian mana yang paling berat dan paling butuh bantuan sekarang?"
+### Tahap A — Identifikasi
 
-**AI003 — Fajar:**  
-"Yang paling berat itu bagian analisis sama rangkuman hasilnya. Saya udah ngerjain sebagian, tapi jujur saya nggak tahu 'selesai' itu standarnya kayak apa, jadi belum berani kirim. Catatan kerjanya juga masih berantakan, belum rapi di satu tempat. Kalau mau cek pembagian, bisa nggak yang singkat aja, jangan sampai jadi rapat panjang lagi? Kamu mau mulai dari mana?"
+Data penugasan mencantumkan nama **Michelle Nataneilla**, NIM **18225071**. Data ini belum dianggap sebagai identitas terverifikasi.
 
-**U003 — Michelle:**  
-"aku setuju kita bikin singkat aja, jar. kita mulai dari cek bagian analisis sama rangkuman hasil yang udah kamu kerjain, terus tentuin standar selesai yang jelas biar kamu tahu apa yang masih kurang. setelah itu, kita bagi tugas tambahan yang bisa diambil anggota lain dan kumpulin catatannya di satu tempat. boleh kamu tunjukin dulu hasil yang udah ada, biar kita bisa langsung tentuin apa yang perlu dibantu?"
+Kelasmu masih **K01** dan modalitasnya **teks**? Untuk tanggal, kita pakai **15 Oktober 2026**. Kasusnya mau diperlakukan sebagai pengalaman nyata atau simulasi?
 
-**AI004 — Fajar:**  
-"Boleh, makasih udah nurutin yang singkat. Ini gambaran yang udah ada: analisisnya baru kira-kira separuh, rangkumannya belum saya tulis sama sekali. Catatannya nyebar di chat pribadi sama beberapa file, belum ada satu tempat yang rapi. Saya bisa kerja cepet kalau jelas tinggal ngapain, tapi tiap ditanya 'udah selesai belum', saya sendiri nggak yakin jawabnya. Jadi menurut kamu, 'selesai' buat bagian saya itu ukurannya apa?"
+**U001 — Konfirmasi tanggal dan jenis kasus**
 
-**U004 — Michelle:**  
-"menurut aku, bagian kamu bisa dibilang selesai kalau analisisnya udah mencakup poin-poin utama dari data yang ada, rangkumannya udah merangkum hasil dan kesimpulan penting, terus semuanya bisa dipahami anggota lain. biar lebih jelas, kita kumpulin catatan kamu di satu tempat dulu, terus cek apa yang masih kurang. untuk rangkumannya, aku juga bisa minta anggota lain bantu bikin draft supaya bebannya lebih seimbang. gimana kalau kita sepakati target kecil dulu, misalnya analisisnya diberesin hari ini, lalu rangkumannya diselesaikan besok?"
+pake 10 okt aja, bebas deh nyata atau simulasi
 
-**AI005 — Fajar:**  
-"Nah, itu baru jelas. Kalau ukurannya begitu, saya jadi tahu apa yang kurang, nggak bingung lagi. Target kecilnya saya setuju, soalnya bisa dicoba langsung. Cuma 'hari ini' sama 'besok' itu jamnya kapan, dan siapa yang bantu draft rangkuman? Kalau nggak dipastiin, ujungnya molor lagi kayak kemarin. Menurut kamu, gimana cara kita tahu masing-masing udah beres tanpa harus rapat lagi?"
+**AI002 — Konfirmasi konteks dan penjelasan kasus**
 
-**U005 — Michelle:**  
-"aku setuju, jar. gimana kalau analisisnya kamu selesaikan hari ini jam 8 malam, terus besok jam 12 siang rangkumannya udah beres. untuk draft rangkuman, kita minta satu anggota lain bantu supaya bebannya lebih seimbang. biar nggak perlu rapat lagi, kita bikin checklist tugas di satu dokumen bersama, lengkap sama PIC dan deadline, terus masing-masing tinggal update progresnya di sana. kalau ada yang belum sesuai target, kita bisa langsung koordinasi lewat chat."
+Oke, kita pakai tanggal **10 Oktober 2026** dan kasus ini diperlakukan sebagai **simulasi**. Identitas penugasan tetap Michelle Nataneilla, NIM 18225071, kelas K01, dengan modalitas teks.
 
-**AI006 — Fajar:**  
-"Oke, jam 8 malam buat analisis sama jam 12 siang besok buat rangkuman, saya catat. Dokumen bersama juga masuk akal, jadi nggak perlu rapat lagi. Tapi saya jujur aja, update dokumen itu kelemahan saya. Sering kerjaannya udah jalan, catatannya nggak ketulis, terus yang lain kira belum ada progres. Kalau checklist-nya ribet, saya bakal skip lagi. Menurut kamu, gimana caranya update progres itu bisa ringan buat saya, dan kamu bisa tahu analisisnya udah beres jam 8 tanpa saya harus nulis panjang?"
+### Tahap B — Kasus dan Tujuan
 
-**U006 — Michelle:**  
-"kita bikin checklist sederhana di dokumen bersama, jadi kamu tinggal centang kalau udah selesai dan kasih tanda kalau masih ada yang kurang. jam 8 malam, kamu cukup kirim link atau update checklist-nya, jadi aku bisa cek langsung tanpa kamu harus nulis laporan panjang."
+Kasus 2b membahas persahabatan dan profesionalitas. Tenggat tugas kelompok tinggal **48 jam lagi**, tetapi teman dekatmu belum mengirim bagiannya karena merasa pembagian tugas tidak adil. Kamu perlu mengajaknya bicara agar masalahnya jelas, hubungan pertemanan tetap terjaga, dan ada kesepakatan tanggung jawab yang realistis.
 
-**AI007 — Fajar:**  
-"Nah, kalau cuma centang sama kirim link, itu saya sanggup. Nggak ribet, jadi kemungkinan saya skip lebih kecil. Makasih ya, kamu nggak nuntut laporan panjang. Tinggal satu yang masih bolong buat saya: yang bantu draft rangkuman itu siapa, dan kalau jam 8 analisisnya belum beres, kita ngapain? Kamu maunya gimana?"
+**Pertanyaan 1:** Apa tujuan utama yang ingin kamu capai dalam situasi ini? Sebelum bicara dengan Fajar, bagaimana kamu memperkirakan kondisi dan hambatan yang sedang dia hadapi, serta bagaimana rencana awalmu untuk mengajaknya berdiskusi?
 
-**U007 — Michelle:**  
-"aku usul kita minta anggota yang bagiannya lebih ringan buat bantu draft rangkuman, terus kita pastiin dulu dia sanggup. kalau jam 8 analisisnya belum beres, kamu tinggal tandain bagian yang masih kurang di dokumen, nanti kita lihat apakah perlu bantuan tambahan atau penyesuaian tugas. yang penting kita tahu kendalanya lebih awal, jadi nggak nunggu sampai deadline baru panik."
+**U002 — Tujuan dan rencana awal mahasiswa**
 
-**AI008 — Fajar:**  
-"Setuju. Dicek dulu apa yang bantu draft sanggup itu masuk akal, jadi nggak asal nunjuk. Soal nandain di dokumen kalau jam 8 belum beres juga saya bisa, dan lebih enak karena nggak perlu saya jelasin panjang. Jujur tadi saya agak defensif, tapi sekarang udah lebih lega. Biar nggak ada yang beda tangkap, bisa kamu rangkum singkat apa yang kita sepakati barusan?"
+tujuan utamaku mencari tahu alasan Fajar belum mengirim bagiannya dan membantu mencari solusi supaya tugas tetap selesai tepat waktu tanpa merusak hubungan pertemanan. sebelum ngobrol, aku memperkirakan Fajar mungkin merasa terbebani atau pembagian tugasnya kurang adil. aku bakal ngajak dia ngobrol baik-baik, nanya kendala yang dihadapi dan bagian mana yang menurutnya kurang seimbang, sebelum menentukan solusi bareng.
 
-**U008 — Michelle:**  
-"jadi kita sepakat kamu menyelesaikan analisis hari ini jam 8 malam, lalu rangkuman hasil ditargetkan selesai besok jam 12 siang. aku bakal tanya anggota yang bebannya lebih ringan apakah dia sanggup bantu draft rangkuman. semua catatan dan progres kita kumpulin di satu dokumen pakai checklist, jadi nggak perlu rapat atau laporan panjang. kalau jam 8 analisisnya belum selesai, kamu tinggal tandain bagian yang masih kurang di dokumen supaya kita bisa cari bantuan atau menyesuaikan tugas sebelum deadline."
+## Simulasi awal
 
-**AI009 — Fajar:**  
-"Pas, itu persis yang kita sepakati. Analisis jam 8 malam ini, rangkuman besok jam 12, checklist di satu dokumen, dan kalau analisisnya belum beres, saya tandain di dokumen. Oke, saya mulai dari analisisnya sekarang."
+**AI003 — Fajar, pembukaan**
 
-## Tahap E — Uji ulang
+**Fajar:** “Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.”
 
-**AI010 — Fajar:**  
-"Jam 8 udah lewat, sori. Analisisnya belum sepenuhnya beres. Kira-kira dua pertiga kelar, sisanya tinggal bagian kesimpulan data yang masih saya ragu. Satu lagi, anggota yang kita rencanain bantu draft rangkuman belum bales sama sekali, jadi saya nggak tahu rangkumannya jadi dikerjain siapa. Saya udah tandain bagian yang kurang di dokumen, sesuai kesepakatan. Terus sekarang gimana? Kasih langkah yang singkat aja ya."
+**U003 — Respons mahasiswa**
 
-**U009 — Michelle:**  
-"oke jar, makasih udah nandain bagian yang kurang. sekarang kita fokus ke dua hal dulu: kamu lanjutkan bagian kesimpulan data yang udah kamu pahami, sementara aku bantu cek bagian yang masih bikin kamu ragu. buat rangkuman, aku hubungi anggota lain yang bisa bantu dan kasih batas waktu buat konfirmasi. kalau nggak ada yang bisa, aku ambil draft awalnya supaya tugasnya tetap jalan."
+manfaat yang pengen aku bahas itu supaya kita bisa nemuin solusi yang adil buat kamu dan kelompok, Jar, tanpa bikin tugasnya makin terlambat. aku juga pengen denger langsung kendala kamu biar kita bisa cari jalan keluar yang sesuai.
 
-**AI011 — Fajar:**  
-"Oke, makasih ya, kamu nggak ngomel dan langsung kasih langkah. Itu bikin saya nggak makin panik. Pembagian dua hal itu jelas buat saya. Bagian yang saya ragu itu cara menarik kesimpulan dari datanya, belum tahu angka mana yang layak dijadiin poin utama. Kalau kamu bantu cek, saya kirim bagian itu ke dokumen malam ini juga. Tapi soal 'kasih batas waktu' ke anggota lain tadi, itu batasnya jam berapa? Kalau nggak ada jam pastinya, saya khawatir rangkumannya ikut molor."
+**AI004 — Fajar**
 
-**U010 — Michelle:**  
-"oke jar, kirim bagian kesimpulan datanya ke dokumen malam ini, nanti aku bantu cek angka mana yang paling relevan buat jadi poin utama. buat anggota yang bantu rangkuman, aku kasih waktu sampai jam 8.30 malam buat konfirmasi. kalau belum ada balasan, aku langsung ambil alih draft awalnya supaya rangkumannya tetap bisa selesai besok jam 12 siang."
+**Fajar:** “Oke, kalau memang mau cari solusi yang adil, masalahnya pembagian tugas dari awal itu nggak seimbang. Ada bagian yang jauh lebih berat dari yang lain, tapi tenggatnya sama. Gue nggak mau akhirnya harus ngerjain lebih banyak cuma karena yang lain kebagian lebih ringan.”
 
-**AI012 — Fajar:**  
-"Oke, jam 8.30 itu jelas, dan ada rencana cadangan kalau nggak ada yang bales. Itu bikin saya lebih tenang karena nggak perlu nebak-nebak lagi. Bagian kesimpulan data saya kirim ke dokumen malam ini, saya tandain yang paling bikin saya ragu biar kamu langsung lihat. Cuma satu, setelah kamu cek, saya taunya hasil ceknya gimana? Saya nggak mau udah ngirim terus bingung udah bener atau belum. Kamu mau kasih tahunya lewat apa?"
+**U004 — Respons mahasiswa**
 
-**U011 — Michelle:**  
-"aku bakal kasih komentar langsung di dokumen yang sama, jar, jadi kamu bisa lihat bagian mana yang udah oke dan mana yang perlu diperbaiki beserta alasannya. nanti aku kabarin lewat chat kalau udah selesai ngecek, jadi kamu tinggal buka dokumennya dan lanjut revisi tanpa perlu rapat lagi."
+ohh, paham, Jar. berarti kamu ngerasa beban tugasnya nggak sebanding sama anggota lain, ya. bagian mana yang menurut kamu paling berat, dan pembagian tugas anggota lain kayak gimana? biar kita bisa lihat lebih jelas bagian mana yang perlu disesuaikan.
 
-**AI013 — Fajar:**  
-"Oke, komentar di dokumen plus kabar lewat chat, itu jelas dan nggak perlu rapat. Saya bisa buka dokumennya, lihat mana yang perlu diperbaiki, lalu langsung revisi. Makasih ya, kamu tetap tenang walau jam 8 tadi molor. Saya mulai kirim bagian kesimpulannya sekarang."
+**AI005 — Fajar**
+
+**Fajar:** “Gue kebagian analisis data sama nyusun hasilnya, sementara ada yang cuma kebagian bikin pendahuluan. Analisisnya makan waktu, apalagi datanya belum rapi. Gue bukannya nggak mau ngerjain, tapi kalau pembagiannya kayak gini, rasanya nggak adil aja.”
+
+**U005 — Respons mahasiswa**
+
+ohh, pantes kamu ngerasa keberatan, Jar, soalnya analisis data sama nyusun hasilnya emang butuh waktu lebih. gimana kalau kita cek lagi tugas anggota lain, terus lihat apakah ada bagian yang bisa dialihin atau dibagi supaya bebannya lebih seimbang? tenggatnya juga tinggal 48 jam, jadi kita perlu cari pembagian yang realistis biar semuanya tetap selesai tepat waktu.
+
+**AI006 — Fajar**
+
+**Fajar:** “Boleh aja dicek lagi, tapi gue nggak mau kita malah habisin waktu buat rapat panjang. Gue masih harus ngerjain analisisnya, dan kalau pembagiannya baru berubah sekarang, gue juga perlu tahu siapa yang bakal bantu dan apa yang sebenarnya bisa mereka ambil alih.”
+
+**U006 — Respons mahasiswa**
+
+iya, Jar, nggak perlu rapat lama-lama kok. kita bisa langsung list tugas yang belum selesai, terus tentuin bagian mana yang bisa diambil anggota lain sesuai kemampuan mereka. sekalian tentuin siapa yang ngerjain dan batas waktunya, jadi kamu bisa fokus ke analisis data tanpa harus nunggu pembagian yang belum jelas.
+
+**AI007 — Fajar**
+
+**Fajar:** “Nah, kalau langsung dibikin jelas kayak gitu, gue setuju. Tapi gue nggak bisa asal nyerahin sebagian analisis ke anggota lain kalau mereka belum tentu paham datanya. Gue butuh orang yang bisa bantu bagian yang spesifik, bukan malah bikin gue harus ngecek ulang semuanya dari awal.”
+
+**U007 — Respons mahasiswa**
+
+kalau gitu, kita cari tahu dulu anggota mana yang cukup paham datanya, Jar. bagian yang bisa dipisah, kayak merapikan data atau bikin visualisasi grafik, bisa dialihin ke mereka dengan instruksi yang jelas. jadi kamu nggak perlu ngajarin dari awal atau ngecek ulang semuanya, dan kamu bisa fokus ke analisis sama hasilnya.
+
+**AI008 — Fajar**
+
+**Fajar:** “Oke, itu lebih masuk akal. Gue bisa kasih instruksi buat bagian yang mau dialihin, tapi gue tetap butuh kepastian siapa yang ambil dan kapan hasilnya dikirim. Gue nggak mau udah bagi tugas, ternyata ujung-ujungnya gue yang harus beresin semuanya lagi.”
+
+**U008 — Respons mahasiswa**
+
+kita tulis aja pembagian tugasnya di grup, Jar, lengkap sama nama penanggung jawab dan deadline tiap bagian. nanti anggota yang ambil tugas juga harus konfirmasi kalau mereka sanggup, jadi bukan kamu yang harus mastiin semuanya sendiri. kita bisa cek progres sekali sebelum deadline biar kalau ada kendala, masih ada waktu buat nyari solusi bareng.
+
+**AI009 — Fajar**
+
+**Fajar:** “Kalau semua ditulis di grup dan masing-masing konfirmasi, gue lebih tenang sih. Tapi gue masih agak kesel karena dari awal pembagiannya udah nggak seimbang. Gue takut kalau sekarang gue langsung setuju, kesannya masalahnya udah selesai, padahal gue masih ngerasa keberatan.”
+
+**U009 — Respons mahasiswa**
+
+iya, Jar, gue paham kalau kamu masih kesel karena dari awal bebannya udah nggak seimbang. kita beresin tugas yang paling mendesak dulu bukan berarti keberatan kamu diabaikan. setelah deadline ini, kita tetap perlu evaluasi pembagian tugasnya supaya masalah yang sama nggak keulang lagi.
+
+**AI010 — Fajar**
+
+**Fajar:** “Oke, gue hargai kalau lo nggak nganggep masalah ini selesai begitu aja. Gue bisa lanjut ngerjain bagian gue sambil kita atur ulang pembagiannya. Tapi gue mau evaluasinya beneran dilakukan, bukan cuma jadi omongan setelah tugas dikumpulin.”
+
+**U010 — Respons mahasiswa**
+
+oke setuju banget, jar. biar beneran konkret dan gak cuma jd omongan di akhir, gimana kalo kita sepakati dua hal ini:
+
+1. **atur ulang pembagian tugas sekarang:** kita luangin waktu 10-15 menit buat bedah ulang *scope* pengerjaan. kita bagi *breakdown* tugasnya pake *checklist* sama *deadline* kecil yg jelas buat masing-masing dari kita hari ini.
+2. **jadwalkan evaluasi rutin (mid-check & final):** kita sepakat buat ada *quick sync*—misalnya besok malam atau lusa—buat evaluasi progres dan liat apakah beban kerjanya udah seimbang atau belum, jd gak numpuk pas evaluasi akhir doang.
+
+menurut kamu gimana kalo kita mulai *breakdown* ulang poin-poin tugasnya dr sekarang?
+
+**AI011 — Fajar**
+
+**Fajar:** “Oke, gue setuju. Kita mulai dari breakdown sekarang aja, biar jelas mana yang harus gue kerjain dan mana yang bisa diambil anggota lain. Tapi tolong pastiin checklist-nya simpel dan setiap orang tahu batas tanggung jawabnya. Gue nggak mau waktunya habis buat nyusun rencana, tapi pengerjaannya malah telat.”
+
+**U011 — Respons mahasiswa**
+
+sip, siap jar. setuju banget biar gak makan waktu lama di perencanaan doang.
+gimana kalo kita langsung bikin tabel *checklist* simpel di grup/gdocs skrg, isi 3 hal aja: nama, bagian tugas, sama *deadline*-nya. abis itu kita lgsg fokus ngerjain bagian masing-masing.
+makasih ya jar udah mau diajak diskusi bareng dan fleksibel bgt. jujur aku seneng bgt kita bisa nemu jalan tengah yg pas gini. yuk lgsg kita *breakdown* biar cepet kelar juga tugasnya
+
+**AI012 — Fajar, penutupan simulasi awal**
+
+**Fajar:** “Oke, sip. Kita bikin checklist-nya sekarang, terus masing-masing konfirmasi tugas yang diambil dan deadline-nya. Besok malam kita cek progres sebentar. Gue masih berharap pembagian tugas ke depannya bisa lebih adil, tapi untuk sekarang gue setuju kita jalanin rencana ini dulu. Makasih juga udah mau dengerin keberatan gue.”
+
+## Evaluasi sementara
+
+**AI013 — Penanda akhir simulasi dan pertanyaan evaluasi sementara**
+
+Simulasi percakapan awal selesai. Sebelum kita lanjut ke pengujian ulang, gue mau tahu penilaianmu sendiri dulu, tanpa melihat profil lengkap Fajar.
+
+Menurutmu, seberapa berhasil percakapan tadi mencapai tujuanmu? Apa bukti dari respons Fajar yang menunjukkan bahwa dia mulai percaya, merasa dipahami, atau bersedia bertindak? Adakah hal yang menurutmu masih belum benar-benar terselesaikan?
+
+**U012 — Evaluasi hasil awal**
+
+menurut aku, percakapan tadi udah cukup berhasil mencapai tujuan.
+
+buktinya bisa kelihatan dari respons fajar di akhir:
+
+1. **dia bersedia bertindak dan komit:** fajar langsung setuju buat bikin *checklist* sekarang, konfirmasi tugas + *deadline*, dan sepakat buat *sync* cek progres besok malam.
+2. **merasa dipahami dan mulai percaya:** dia menyampaikan *"makasih juga udah mau dengerin keberatan gue"*. ini nandain kalau dia ngerasa keberatannya gak diabaikan dan pendekatan yang dingin/solutif tadi bikin dia mau kooperatif.
+
+hal yang masih belum benar-benar terselesaikan: masalah *core* dari fajar sendiri, yaitu rasa kekhawatiran dia soal keadilan pembagian tugas untuk ke depannya (*"gue masih berharap pembagian tugas ke depannya bisa lebih adil"*). jadi kesepakatan ini sifatnya masih solusi jangka pendek/sementara buat tugas yang sekarang, dan kepercayaan dia secara penuh baru bisa beneran terbangun kalau eksekusi rencana ini dan pembagian tugas berikutnya beneran terbukti adil.
+
+**AI014 — Umpan balik fasilitator dan pertanyaan**
+
+Menurut gue, penilaianmu sudah membedakan dua hal penting: **kesediaan Fajar untuk bekerja sama belum berarti masalah keadilannya sudah selesai.** Kamu juga pakai bukti dari ucapan Fajar, bukan sekadar menganggap percakapan berhasil karena dia akhirnya setuju.
+
+**Pertanyaan 2:** Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?
+
+**U013 — Evaluasi pesan yang membantu/menghambat**
+
+menurut aku, pesan yang **paling membantu** itu waktu kita langsung nawarin langkah konkret yang melibatkan dia (bikin *checklist* bareng & *quick sync*) plus nge-validasi keberatan dia tanpa defensif. buktinya kelihatan pas fajar bilang *"makasih juga udah mau dengerin keberatan gue"* dan dia langsung mau eksekusi bikin *checklist*-nya saat itu juga. itu nandain kalau dia ngerasa suaranya didengerin dan dihargai.
+
+sebaliknya, hal yang **bisa menghambat** itu kalau respons kita terlalu fokus ke *rencana/prosedur* aja tapi lupa ngakuin emosi atau keresahan dia di awal. buktinya fajar sempet bilang *"gue nggak mau waktunya habis buat nyusun rencana..."* dan di akhir masih nyelipin *"gue masih berharap pembagian tugas ke depannya bisa lebih adil"*. ini nunjukin kalau kita cuma nawarin solusi teknis tanpa dibarengi komitmen empati yang jelas, dia bakal tetep ragu dan ngerasa masalah utamanya (keadilan) cuma digeser, bukan diselesaiin.
+
+## Pengujian ulang
+
+**AI015 — Umpan balik evaluasi sementara dan transisi**
+
+Oke, evaluasi sementaramu sudah tercatat. Kamu juga berhasil mengidentifikasi bahwa solusi teknis perlu dibarengi pengakuan terhadap masalah keadilan yang dirasakan Fajar.
+
+Sekarang kita lanjut ke **pengujian ulang**. Kali ini, Fajar tetap membawa kesepakatan dan kepercayaan yang sudah terbentuk dari percakapan tadi, tetapi muncul kendala baru: dia membutuhkan langkah singkat yang jelas dan konfirmasi hasil supaya yakin pembagian tugas benar-benar berjalan.
+
+**Fajar:** “Gue udah coba mulai ngerjain bagian gue. Tapi checklist di grup masih belum jelas buat beberapa tugas. Gue bingung, yang dimaksud ‘analisis selesai’ itu sampai tahap mana? Gue nggak mau salah ngerjain terus ujung-ujungnya harus revisi lagi.”
+
+**U014 — Respons mahasiswa**
+
+paham banget, jar. maap ya kalo kriteria di *checklist*-nya masih rancu.
+
+biar gak bingung dan gak bolak-balik revisi, aku perjelas lgsg ya:
+
+1. **patokan 'analisis selesai':** cukup ampe dapet poin-poin kesimpulan utama + tabel data pendukungnya aja. gak perlu dibikin narasi rapi dulu.
+2. **konfirmasi cepet:** ntar kalo kamu udah kelar bikin *draft* poin-poinnya, kirim aja dulu coret-coretannya/screenshot-nya ke aku. biar aku langsung cek & konfirmasi, jd kamu gak perlu nunggu lama atau ragu buat lanjut.
+
+menurut kamu gitu udah cukup jelas belum? kalo ada bagian yang masih abu-abu, tanyain aja ya!
+
+**AI016 — Fajar**
+
+**Fajar:** “Nah, kalau batasannya sampai kesimpulan utama sama tabel pendukung, gue lebih ngerti. Gue bisa kirim draft dulu buat dikonfirmasi. Tapi gue perlu tahu juga, kira-kira lo bisa cek secepat apa setelah gue kirim? Soalnya kalau gue harus nunggu konfirmasi terlalu lama, bagian berikutnya bisa ikut ketunda.”
+
+**U015 — Respons mahasiswa**
+
+siaapp, paham banget jar soal waktu. biar ga nahan kerjaan kamu, aku taro komitmen waktu yang jelas ya:
+
+1. **maksimal respons 1 jam:** janji bakal lgsg cek dan bales secepatnya, maksimal 1 jam setelah draft kamu kirim di chat/grup.
+2. **izin asumsi buat lanjut:** kalo misal di atas 1 jam ternyata aku lagi ada urusan lain/belum sempat bales dan kamu butuh banget ngejar waktu, kamu bisa langsung lanjut ke tahap berikutnya dengan asumsi format draft-nya udah oke. jadi progres kamu gak bakal ketunda gara-gara nungguin aku.
+
+gimana, aman ya cara ini? kabarin aja kalo udah mulai ngerjain draft-nya!
+
+**AI017 — Fajar, penutupan pengujian ulang**
+
+**Fajar:** “Oke, aman. Batas satu jam masih masuk akal, dan gue suka ada opsi buat lanjut kalau lo belum sempat bales. Gue bakal mulai bikin draft kesimpulannya sama tabel pendukung sekarang. Nanti gue kirim buat lo cek, terus gue lanjut ke bagian berikutnya sesuai patokan tadi.”
+
+## Refleksi akhir
+
+**AI018 — Umpan balik pengujian ulang dan pertanyaan refleksi**
+
+Oke, refleksi sementara selesai. Strategimu sudah memperjelas kriteria hasil dan waktu konfirmasi, sehingga Fajar tidak perlu menebak-nebak batas pekerjaannya.
+
+**Pertanyaan 1:** Dari percakapan dengan Fajar tadi, strategi komunikasi apa yang paling efektif menurutmu, dan apa yang berbeda dari pendekatanmu saat simulasi awal?
+
+**U016 — Refleksi strategi efektif**
+
+menurut aku, **strategi komunikasi yang paling efektif** di pengujian ulang tadi itu kombinasi antara:
+
+1. **pemberian parameter/patokan yang ultra-spesifik:** dibanding cuma bilang *"semangat ngerjain ya"*, aku langsung nge-breakdown definisi *done* dari tugasnya (misal: *"cukup ampe poin-poin kesimpulan + tabel data"*). ini langsung ngilangin rasa cemas dan kebingungan fajar.
+2. **komitmen batas waktu yang terukur + *contingency plan*:** ngasih kepastian waktu (*"maksimal 1 jam"*) dan aturan jalan pintas (*"kalau lewat 1 jam, langsung lanjut aja"*). ini bikin fajar ngerasa punya kendali penuh atas waktunya tanpa perlu takut tertahan.
+
+**bedanya sama simulasi awal:**
+- **di simulasi awal:** aku lebih fokus ke **aspek empati & rekonsiliasi**—yaitu ngakuin keresahan fajar soal keadilan, ndengerin keberatannya, dan nyusun rencana besar/prosedur awal.
+- **di pengujian ulang:** aku udah bergeser ke **eksekusi teknis yang taktis & efisien**. karena kepercayaan dan kesepakatan dasar udah terbentuk dari awal, fajar cuma butuh *kejelasan operasional* yang instan biar dia gak ragu-ragu pas ngerjain.
+
+pendekatan ini terbukti efektif karena nyesuaiin sama kebutuhan fajar saat itu: gak bertele-tele, solutif, dan langsung to the point.
+
+**AI019 — Umpan balik refleksi dan pertanyaan SWOT/ASK**
+
+Setuju, pendekatanmu di pengujian ulang lebih terarah karena kamu menyesuaikan respons dengan kendala Fajar saat itu. Kamu nggak mengulang pembahasan soal keadilan dari awal, tetapi langsung memperjelas kriteria pekerjaan dan memberi kepastian waktu. Ini juga menunjukkan bahwa kamu mulai membedakan kebutuhan Fajar untuk **merasa didengar** dan kebutuhannya untuk **bisa langsung bertindak**.
+
+**Pertanyaan 2:** Kalau kamu menggunakan kerangka ASK atau SWOT untuk mengevaluasi percakapan ini, apa kekuatan dan kelemahan pendekatanmu, serta kebutuhan Fajar apa yang masih perlu kamu perhatikan?
+
+**U017 — Evaluasi SWOT dan kebutuhan Fajar**
+
+kalau dianalisis pake kerangka **SWOT**, ini evaluasi dari pendekatan aku tadi:
+
+### Analisis SWOT
+
+#### 1. Strengths (Kekuatan)
+- **Spesifik & actionable:** aku langsung ngasih batasan *output* yang jelas (definisi 'selesai') dan janji waktu yang terukur (*max* 1 jam), jadi fajar tau persis harus ngapain.
+- **Solutif & bebas hambatan (*contingency plan*):** nawarin izin buat fajar tetap lanjut kalau misal aku belum bales. ini bikin dia ngerasa punya kendali atas waktunya dan ga terhambat.
+- **Komunikasi adaptif:** bisa mbedain kapan harus pake pendekatan emosional/empati (di awal) dan kapan harus pake pendekatan operasional/teknis (pas pengujian ulang).
+
+#### 2. Weaknesses (Kelemahan)
+- **Risiko beban di diri sendiri:** janji komitmen *review* maksimal 1 jam itu cukup berisiko buat aku pribadi kalau misal pas hari-h ada agenda mendadak/jadwal kuliah padat.
+- **Solusi masih berfokus ke aku-Fajar:** pembagian tugas dan *review* ini masih terkesan antara aku sama Fajar aja, belum sepenuhnya ngelibatain atau ngatur kejelasan peran anggota kelompok yang lain secara kolektif.
+
+#### 3. Opportunities (Peluang)
+- **Membangun *trust* jangka panjang:** kalau janji 1 jam dan kesepakatan *checklist* ini beneran terbukti jalan lancar, Fajar bakal makin percaya penuh dan gak ragu lagi buat kerja bareng di tugas berikutnya.
+- **Model kerja tim yang lebih rapi:** skema *definition of done* + *quick review* ini bisa diterapkan ke seluruh anggota kelompok biar standar pengerjaan tugasnya seragam.
+
+#### 4. Threats (Ancaman)
+- **Potensi *miscommunication* saat asumsi lanjut:** kalau Fajar lanjut ke tahap berikutnya tanpa konfirmasi terus ternyata ada bagian awal yang salah, ada risiko dia kecewa lagi karena merasa buang-buang waktu.
+
+### Kebutuhan Fajar yang masih perlu diperhatikan
+1. **Bukti keadilan nyata (jangka panjang):** Fajar masih butuh melihat apakah anggota kelompok lain benar-benar mengerjakan bagiannya sesuai checklist.
+2. **Apresiasi atas inisiatifnya:** Fajar menghargai efisiensi dan kejelasan. Dia butuh umpan balik yang validatif saat draft dikirim agar usahanya dihargai.
+
+**AI020 — Umpan balik SWOT dan pertanyaan pelajaran**
+
+Evaluasimu sudah mencakup kekuatan, risiko, dan kebutuhan Fajar yang belum terpenuhi. Poin yang paling penting adalah kamu menyadari bahwa **solusi yang efisien belum tentu adil kalau tanggung jawab anggota lain belum dipastikan**. Kamu juga mengkritisi komitmen satu jam dari sisi kemampuanmu sendiri, bukan cuma dari sisi kenyamanan Fajar.
+
+**Pertanyaan 3:** Apa pelajaran paling penting yang kamu dapat dari simulasi ini tentang cara membangun kepercayaan dan menunjukkan kepedulian, dan apa satu tindakan konkret yang akan kamu terapkan saat menghadapi konflik serupa di kehidupan nyata?
+
+**U018 — Pelajaran dan tindakan konkret**
+
+pelajaran paling penting yang aku dapet dari simulasi ini itu **kepercayaan dan kepedulian gak cukup cuma lewat kata-kata manis atau emosional aja, tapi harus dibuktiin lewat kejelasan operasional yang adil.**
+
+ternyata, nunjukin kepedulian (*care*) itu bentuknya bisa beda-beda:
+- di awal, kepedulian itu berupa **mau dengerin & nge-validasi emosi** tanpa defensif.
+- tapi di tahap eksekusi, kepedulian itu bentuknya berubah jadi **mencegah dia kebingungan, ngehargai waktunya, dan ngasih batasan tugas (*definition of done*) yang jelas.**
+
+kalau kita cuma punya empati tapi gak punya langkah teknis yang jelas, orang bakal ngerasa solusinya cuma omdo. sebaliknya, kalau cuma ngasih solusi teknis tanpa ngakuin perasaannya, dia bakal ngerasa gak dihargai.
+
+### Satu tindakan konkret yang akan diterapkan
+
+saat ada konflik pembagian tugas/kerja kelompok di kehidupan nyata, aku bakal langsung terapin **metode "validasi + *definition of done* (DoD)"**: tiap ada teman yang merasa tugasnya nggak adil atau bingung, aku akan mengakui perasaannya dulu tanpa memotong, lalu mengajak membuat checklist terbuka bersama yang berisi nama, deskripsi output spesifik, dan deadline di Google Docs/grup yang bisa dilihat semua anggota. Dengan begitu, pembagian tugas tidak cuma jelas bagi dua orang, tetapi seluruh anggota kelompok juga punya batas tanggung jawab yang transparan.
+
+**AI021 — Umpan balik pelajaran dan pertanyaan perbaikan**
+
+Oke, refleksi pelajaran dan tindakan konkretnya sudah tercatat. Inti pembelajaranmu konsisten dari awal sampai pengujian ulang: empati perlu dibarengi langkah yang jelas, transparan, dan bisa dijalankan bersama.
+
+**Pertanyaan 4:** Setelah simulasi dan pengujian ulang ini, apakah ada bagian dari pendekatanmu yang ingin kamu perbaiki kalau menghadapi situasi serupa lagi? Kalau ada, bagian apa dan bagaimana kamu akan mengubahnya?
+
+**U019 — Refleksi perbaikan**
+
+ke depannya aku mau lebih memastikan pembagian tugas dan standar selesai tiap bagian udah jelas sejak awal, jadi nggak nunggu ada anggota yang keberatan dulu. aku juga mau lebih cepat melibatkan anggota lain buat cari solusi bersama, terutama kalau ada tugas yang bebannya lebih berat. selain itu, aku perlu memastikan orang yang diminta membantu memang sanggup dan punya deadline yang realistis, jadi nggak cuma bikin rencana tapi juga memastikan rencananya bisa dijalankan.
+
+## Konfirmasi laporan
+
+**AI022 — Pencocokan profil, rekap evaluasi, dan permintaan konfirmasi**
+
+Oke, refleksi perbaikanmu sudah tercatat. Kamu bukan cuma ingin memperjelas pembagian tugas, tetapi juga memastikan orang yang menerima tugas sanggup mengerjakannya dan kesepakatan itu benar-benar dijalankan.
+
+Sebelum menutup sesi 2b, profil Fajar dicocokkan dengan pendekatan yang dilakukan:
+
+- Fajar adalah teman dekat dalam kelompok kuliah yang belum mengirim bagiannya karena merasa pembagian tugas tidak adil.
+- Ia langsung dan pragmatis serta tidak suka rapat panjang.
+- Ia mengutamakan manfaat konkret, langkah singkat, dan konfirmasi hasil.
+- Hambatan A: perlu merasa keberatannya didengar.
+- Hambatan K: definisi “selesai” belum jelas.
+- Hambatan S: membutuhkan langkah singkat dan konfirmasi hasil.
+
+Pendekatan mahasiswa dinilai cukup sesuai dengan profil: memberi ruang untuk menjelaskan ketidakadilan, lalu beralih ke checklist, penanggung jawab, tenggat, kriteria hasil, dan waktu konfirmasi. Catatan pentingnya, keadilan tetap perlu dibuktikan melalui pelaksanaan semua anggota, bukan hanya kesepakatan awal.
+
+Rekap relasional yang diberikan adalah kepercayaan sedang, pemahaman tinggi, dan kesiapan bertindak tinggi pada akhir simulasi. Ini penilaian kualitatif atas respons karakter simulasi, bukan pengukuran psikologis.
+
+Mahasiswa diminta memastikan empat hal sebelum laporan dibuat: identitas, transkrip, evaluasi, serta profil dan refleksi.
+
+**U020 — Konfirmasi mahasiswa**
+
+Saya mengonfirmasi rekap laporan sesi 2b: identitas dikonfirmasi; transkrip dikonfirmasi; evaluasi dikonfirmasi; profil dan refleksi dikonfirmasi. Lanjutkan penyusunan hasil_2b_18225071.qmd berdasarkan percakapan aktual, jangan mengarang giliran yang tidak ada, dan tandai bagian yang perlu diperiksa.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
-## Hasil tujuan dan perubahan SWOT/ASK
+## Hasil terhadap tujuan
 
-Tujuan **tercapai sebagian pada level simulasi**. Bagian pertama tujuan, yaitu memahami alasan Fajar keberatan, terlihat dari penjelasan bahwa bebannya terasa lebih banyak, rapat kelompok panjang tetapi pembagian kerja tidak jelas, serta standar "selesai" yang belum jelas (AI002–AI004). Bagian kedua, yaitu mencari solusi yang realistis sambil menjaga hubungan, terlihat dari kesepakatan target waktu, checklist bersama, bantuan anggota lain, dan cara memberi kabar jika pekerjaan belum selesai (U004–U008). Pada uji ulang, ketika analisis belum selesai dan anggota yang diminta membantu belum membalas, mahasiswa menyesuaikan langkah dengan membagi pekerjaan dan membuat batas konfirmasi (AI010–U010). Yang belum terbukti adalah penyelesaian tugas secara nyata di luar simulasi.
+Tujuan tercapai pada tingkat percakapan simulasi: mahasiswa menggali alasan Fajar, mengakui keberatan tentang ketidakadilan, dan merumuskan langkah kerja yang lebih jelas. Fajar bersedia menjalankan checklist dan menerima definisi keluaran yang lebih spesifik saat pengujian ulang. Namun, tidak ada bukti bahwa anggota kelompok lain benar-benar menerima tugas, bahwa deadline dipenuhi, atau bahwa evaluasi keadilan dilakukan di dunia nyata. Hasil yang teramati adalah kesediaan bertindak dalam simulasi, bukan bukti penyelesaian tugas aktual atau pemulihan kepercayaan jangka panjang.
 
-| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
-|---|---|---|---|---|
-| Kesimpulan SWOT | Dugaan: Fajar merasa bebannya lebih berat dan tidak ingin proses menjadi rapat panjang lagi. | Fajar lebih terbuka dan mau mengikuti cara kerja yang singkat, tetapi masih membutuhkan kejelasan tentang standar selesai, waktu, bantuan, dan cara mengetahui hasil pengecekan. | AI002–AI013 | Laporan diri dan respons simulasi; bukan pengukuran psikologis. |
-| Attitude | Fajar datang dengan tuntutan agar langsung ke inti karena terburu-buru (AI001). | Fajar menyatakan lebih lega dan berterima kasih karena tidak dituntut laporan panjang (AI008), lalu tetap bekerja sama pada uji ulang (AI013). | AI001, AI008, AI013 | Terlihat dari teks percakapan; motif batin tidak dapat dipastikan. |
-| Knowledge | Fajar belum memiliki standar "selesai" yang jelas untuk bagiannya (AI003–AI004). | Fajar dapat mengulang kesepakatan mengenai target, checklist, dan tindakan jika pekerjaan belum selesai (AI009). | AI003–AI009 | Demonstrasi dalam simulasi; belum terbukti di situasi nyata. |
-| Skill | Fajar menyebut ia bisa bekerja cepat jika instruksinya jelas, tetapi dokumentasinya lemah (AI004, AI006). | Fajar mampu mengikuti mekanisme checklist dan menandai bagian yang kurang (AI007, AI010), lalu bersedia mengirim bagian kesimpulan untuk dicek (AI013). | AI004, AI006–AI007, AI010, AI013 | Bukti perilaku dalam simulasi tertulis. |
+## Evaluasi enam dimensi
 
-## Evaluasi stimulus–respons dan diagnosis profil
+Skor berikut merupakan **usulan penilaian AI untuk moderasi pengajar**, bukan nilai resmi. Skala setiap dimensi 1–4. Skor didasarkan pada bukti dalam transkrip.
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
-|---|---|---|---|---|---|
-| Pembukaan, AI001–AI002; U001 | Awal terburu-buru dan tertutup; setelah respons empatik menjadi lebih terbuka. | "aku paham kamu lagi dikejar waktu..." dan pertanyaan tentang bagian yang dirasa tidak adil. | Fajar kemudian menjelaskan beban tugas dan rapat yang tidak jelas (AI002). | A mulai terbuka; masalah utama mulai muncul. | Mahasiswa lanjut menggali bagian yang paling berat. |
-| Bagian terberat, U002–AI003 | Keterbukaan meningkat; Fajar menyebut bagian analisis dan rangkuman. | "bagian mana yang paling berat dan paling butuh bantuan sekarang?" | Fajar menjelaskan analisis, rangkuman, standar selesai yang tidak jelas, dan catatan yang berantakan. | Gap K dan S terungkap. | Mahasiswa menawarkan pengecekan singkat dan standar selesai yang jelas. |
-| Standar selesai, U003–AI004 | Fajar mulai memiliki gambaran kondisi pekerjaannya. | Mahasiswa menjelaskan ukuran selesai dan menawarkan bantuan untuk draft rangkuman. | Fajar menyebut analisis baru separuh, rangkuman belum ditulis, dan meminta waktu yang spesifik. | K menjadi lebih jelas, tetapi kebutuhan akan batas waktu masih ada. | Mahasiswa menetapkan target dan mekanisme pemantauan. |
-| Waktu dan dokumen, U004–AI006 | Fajar setuju tetapi mengakui kelemahan dokumentasi. | Target jam 8 malam, jam 12 siang, PIC, deadline, dan checklist. | Fajar mengatakan update dokumen adalah kelemahannya dan checklist yang ribet akan ia lewati. | S dan kebutuhan akan cara yang ringan terungkap. | Mahasiswa menyederhanakan update menjadi centang dan kirim link. |
-| Update ringan, U006–AI007 | Fajar menerima cara kerja sederhana. | Checklist sederhana, cukup centang dan kirim link. | Fajar mengatakan cara itu sanggup dilakukan, lalu menanyakan pembantu rangkuman dan rencana jika analisis belum selesai. | S membaik; kebutuhan akan kejelasan tanggung jawab tetap ada. | Mahasiswa memberi rencana bantuan dan rencana cadangan. |
-| Penutupan, U007–AI009 | Defensivitas turun; Fajar mengatakan lebih lega. | Mahasiswa menjelaskan bantuan anggota lain, tindakan jika analisis belum selesai, lalu merangkum kesepakatan. | Fajar menyetujui kesepakatan dan mulai mengerjakan analisis (AI008–AI009). | A dan K membaik dalam simulasi. | Dilanjutkan dengan uji ulang untuk melihat respons terhadap hambatan baru. |
-| Uji ulang, AI010–AI013; U009–U011 | Kepercayaan tetap terlihat walau target meleset. | Mahasiswa membagi dua langkah, menetapkan batas konfirmasi 8.30, rencana cadangan, serta cara memberi hasil pengecekan. | Fajar menerima langkah tersebut dan menyatakan akan mengirim bagian kesimpulannya (AI013). | S diterapkan pada kendala baru; Fajar tidak kembali menolak proses. | Adaptasi dilakukan tanpa mengulang pembicaraan dari awal. |
-
-**Perbandingan dugaan dan profil.** Dugaan awal yang benar-benar muncul dalam skrip adalah bahwa Fajar merasa bebannya lebih berat dan rapat kelompok tidak jelas (AI002). Dialog kemudian menunjukkan masalah tambahan yang sebelumnya belum disebut, yaitu standar "selesai" yang tidak jelas, catatan yang tersebar, dan kebutuhan akan cara update yang sederhana (AI003–AI006). Jadi profil Fajar tidak hanya berkaitan dengan pembagian beban, tetapi juga dengan kebutuhan terhadap instruksi dan pemantauan yang konkret.
-
-## Pengaruh pesan personal dan kualitas relasi
-
-| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
-|---|---|---|---|---|
-| U001; AI002 | "aku paham kamu lagi dikejar waktu..." dan tidak ingin menambah beban. | Fajar menjelaskan bahwa bebannya terasa lebih banyak dan rapat tidak jelas. | Keterbukaan meningkat dari pembukaan yang singkat menjadi penjelasan masalah. | A mulai terbuka; belum berarti kondisi psikologisnya dapat diukur. |
-| U002–U003; AI003–AI004 | Mahasiswa menawarkan pengecekan singkat dan solusi yang tidak membuat Fajar menanggung semuanya sendiri. | Fajar menjelaskan kondisi pekerjaannya secara rinci dan meminta standar "selesai" yang jelas. | Keterbukaan makin tinggi dalam konteks tugas. | Kebutuhan terhadap kejelasan dan dukungan menjadi lebih terlihat. |
-| U006; AI007 | Update dibuat ringan tanpa laporan panjang. | Fajar mengatakan ia sanggup melakukan checklist dan berterima kasih karena tidak dituntut laporan panjang. | Rasa nyaman dalam proses komunikasi terlihat dari kesediaan mengikuti mekanisme. | S lebih sesuai dengan cara kerja yang ia nyatakan. |
-| U007–U008; AI008–AI009 | Mahasiswa tidak menyalahkan ketika ada kemungkinan target belum tercapai dan merangkum kesepakatan. | Fajar mengakui sempat defensif tetapi merasa lebih lega, lalu menyatakan kesepakatan dan mulai bekerja. | Kepercayaan dalam simulasi terlihat lebih tinggi. | A dan K membaik berdasarkan respons tertulis. |
-| U009–U011; AI010–AI013 | Saat target meleset, mahasiswa tetap fokus pada langkah berikutnya dan memberi batas waktu serta cara pengecekan. | Fajar mengatakan tidak makin panik, menerima langkah, dan tetap melanjutkan pekerjaan. | Rasa aman dan keterbukaan bertahan pada uji ulang. | Adaptasi terlihat, tetapi tidak membuktikan perubahan jangka panjang. |
-
-Ungkapan kepedulian mahasiswa tetap singkat dan langsung diikuti bantuan praktis, seperti deadline, checklist, dan cara memberi kabar. Respons Fajar menunjukkan bahwa keramahan saja belum cukup; ia berulang kali meminta waktu yang pasti, siapa yang membantu, dan bagaimana hasil pengecekan akan diberitahukan (AI005, AI007, AI012). Karena itu, dalam simulasi ini kepedulian paling efektif ketika diterjemahkan menjadi kejelasan tindakan.
-
-## Uji ulang dan pembelajaran
-
-Pada uji ulang, analisis baru sekitar dua pertiga selesai, bagian kesimpulan data masih diragukan, dan anggota yang direncanakan membantu rangkuman belum membalas (AI010). Mahasiswa kemudian membagi langkah: Fajar melanjutkan bagian yang sudah dipahami, sementara mahasiswa membantu mengecek bagian yang diragukan dan mencari anggota lain untuk membantu rangkuman (U009). Setelah Fajar meminta batas waktu yang pasti, mahasiswa menetapkan konfirmasi sampai jam 8.30 dan rencana mengambil alih draft awal jika tidak ada respons (U010). Ketika Fajar menanyakan bagaimana mengetahui hasil pengecekan, mahasiswa menjelaskan bahwa komentar akan diberikan langsung di dokumen dan akan dikabarkan lewat chat (U011).
-
-Dibanding simulasi awal, pada uji ulang mahasiswa lebih cepat memberikan rencana cadangan dan cara monitoring. Namun, masih ada batas: kesediaan anggota lain belum terbukti, dan pelaksanaan di luar simulasi tidak teramati.
-
-## Penilaian enam dimensi
-
-| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+| Dimensi | Skor usulan | Bukti transkrip | Alasan dan batas |
 |---|---:|---|---|
-| Tujuan dan konteks | 4/4 | U001: "aku paham kamu lagi dikejar waktu..." dan "cari solusi biar tugasnya tetap selesai tepat waktu"; U008: rangkuman kesepakatan. | Respons mempertimbangkan tenggat, keberatan Fajar, dan hubungan pertemanan. |
-| Persepsi dan validasi profil/status | 4/4 | U001: pertanyaan tentang bagian yang tidak adil; U002: "bagian mana yang paling berat dan paling butuh bantuan sekarang?" | Mahasiswa tidak langsung menyimpulkan solusi; ia menggali masalah terlebih dahulu dan menyesuaikan respons dengan jawaban Fajar. |
-| Pemilihan dan urutan repertoar | 4/4 | U001–U003: menggali kendala; U004–U008: standar selesai, target, checklist, dan rencana cadangan. | Urutan bergerak dari memahami masalah ke solusi yang konkret dan monitoring. |
-| Eksekusi jelas, peduli dan konsisten | 3/4 | U001: tidak ingin menambah beban; U005: deadline spesifik; U006: checklist sederhana. | Bahasa jelas dan tidak menyalahkan. Skor tidak penuh karena ada bagian pembantu rangkuman yang baru dipastikan pada uji ulang. |
-| Evaluasi dan adaptasi | 4/4 | U009: membagi dua langkah; U010: batas konfirmasi 8.30; U011: komentar dokumen dan kabar chat. | Respons menyesuaikan hambatan baru dan memberi mekanisme tindak lanjut. |
-| Refleksi dan lesson learned | BT | Tidak ada giliran dialog tambahan setelah AI013 yang berisi refleksi mahasiswa. | Bagian refleksi dapat ditulis berdasarkan analisis laporan, tetapi tidak boleh diberi ID U yang tidak ada dalam skrip. |
+| 1. Tujuan dan konteks | 4/4 | U002 | Tujuan memadukan pemahaman kendala, penyelesaian tugas tepat waktu, dan pemeliharaan hubungan. Mahasiswa juga memperkirakan hambatan sebelum dialog. |
+| 2. Persepsi dan validasi | 4/4 | U004, U005, U009 | Mahasiswa memantulkan perasaan Fajar, menggali bukti ketimpangan, dan mengakui bahwa penyelesaian tugas mendesak tidak berarti keberatan selesai. |
+| 3. Pemilihan dan urutan repertoar | 4/4 | U003–U011, U014–U015 | Pendekatan berurutan dari penjelasan manfaat, pertanyaan terbuka, validasi, pembagian ulang, checklist, lalu kriteria keluaran dan waktu konfirmasi. |
+| 4. Eksekusi komunikasi | 3/4 | U008, U010–U011, U014–U015 | Usulan konkret mencakup pemilik tugas, tenggat, checklist, definisi selesai, dan batas respons. Belum ditetapkan nama anggota tertentu atau pembagian final yang dikonfirmasi seluruh kelompok; janji respons satu jam juga berisiko jika jadwal mahasiswa padat. |
+| 5. Evaluasi dan adaptasi | 3/4 | U012–U013, U014–U017 | Mahasiswa mengevaluasi bukti respons dan menyesuaikan pendekatan saat muncul ketidakjelasan kriteria. Namun, opsi untuk lanjut tanpa konfirmasi dapat menimbulkan risiko jika asumsi awal keliru, dan hasil pelaksanaan belum tersedia. |
+| 6. Refleksi dan pelajaran | 4/4 | U017–U019 | Refleksi mengidentifikasi kekuatan, kelemahan, peluang, ancaman, kebutuhan Fajar yang belum terpenuhi, tindakan konkret, dan perbaikan untuk konflik berikutnya. |
 
-**Catatan nilai:** penilaian di atas merupakan evaluasi berdasarkan skrip yang benar-benar tercantum. ID hanya menunjuk giliran percakapan yang ada; tidak ada U012, U013, U019, U022, AI014, AI016, AI019, AI022, dan seterusnya.
+**Total usulan: 22/24 (91,7%).** Total dihitung dari enam dimensi yang semuanya memiliki bukti. Nilai ini hanya usulan AI untuk moderasi pengajar.
 
-## Refleksi dan lesson learned mahasiswa
+## Ringkasan SWOT/ASK dan adaptasi
 
-Dari simulasi, pendekatan yang paling efektif adalah mendengarkan keberatan Fajar tanpa menyalahkan, lalu mengubah pembicaraan menjadi langkah yang konkret. Fajar beberapa kali menunjukkan bahwa ia membutuhkan instruksi singkat, waktu yang jelas, dan cara monitoring yang tidak merepotkan (AI004–AI007). Pada uji ulang, mahasiswa juga belajar bahwa ketika target meleset, fokus perlu segera dialihkan ke pembagian langkah berikutnya, batas konfirmasi, dan rencana cadangan (U009–U011).
+| Aspek | Temuan dari sesi | Batas bukti |
+|---|---|---|
+| SWOT — kekuatan | Mahasiswa mampu memvalidasi keberatan dan mengubah masalah menjadi langkah kerja konkret. | Berdasarkan dialog simulasi. |
+| SWOT — kelemahan | Solusi berpotensi terlalu bergantung pada mahasiswa sebagai pemeriksa, dan pembagian kolektif belum dituntaskan secara spesifik. | Belum diuji dalam kerja kelompok nyata. |
+| SWOT — peluang | Checklist, kriteria selesai, dan pemeriksaan progres dapat menjadi cara kerja transparan untuk seluruh anggota. | Penerapan masih berupa rencana. |
+| SWOT — ancaman | Melanjutkan tanpa konfirmasi bisa menghasilkan pengerjaan yang tidak sesuai; janji respons satu jam dapat membebani mahasiswa. | Risiko yang diidentifikasi dalam refleksi, belum terjadi sebagai dampak nyata. |
+| ASK — A (attitude/kemauan) | Fajar menunjukkan kemauan mencoba setelah keberatannya diakui dan solusi dibuat praktis. | Respons karakter simulasi, bukan pengukuran psikologis. |
+| ASK — K (knowledge/pemahaman) | Kriteria “analisis selesai” diperjelas menjadi poin kesimpulan utama dan tabel pendukung. | Belum ada draft nyata untuk menguji apakah kriteria tersebut cukup. |
+| ASK — S (skill/dukungan) | Mahasiswa menawarkan checklist, konfirmasi, dan opsi melanjutkan agar pekerjaan tidak tertahan. | Konsistensi dokumentasi dan pelaksanaan seluruh anggota belum diamati. |
 
-Hal yang masih perlu diperbaiki adalah memastikan bantuan anggota lain benar-benar terkonfirmasi dan tidak hanya diasumsikan tersedia. Selain itu, penetapan deadline sebaiknya juga mempertimbangkan apakah waktu tersebut realistis bagi orang yang mengerjakan. Karena percakapan ini berupa simulasi teks, perubahan perilaku jangka panjang belum dapat dibuktikan.
+## Pelajaran utama
 
-## Tindak lanjut dan batas bukti
+Pelajaran paling penting yang dirumuskan mahasiswa adalah bahwa kepercayaan dan kepedulian tidak cukup disampaikan lewat kata-kata; keduanya perlu dibuktikan melalui kejelasan operasional yang adil. Pada awal konflik, kepedulian diwujudkan dengan mendengarkan dan memvalidasi emosi tanpa defensif. Pada tahap eksekusi, kepedulian diwujudkan dengan mencegah kebingungan, menghargai waktu, dan menetapkan definisi pekerjaan selesai yang jelas.
 
-Yang sudah dilakukan dalam simulasi adalah menggali kendala, menyepakati target dan deadline, membuat checklist, menetapkan rencana cadangan, serta menentukan cara memberi hasil pengecekan (U001–U011). Yang masih berupa rencana dan belum terbukti terlaksana adalah memastikan anggota lain benar-benar membantu, menyelesaikan rangkuman, dan memastikan pembagian beban kelompok secara keseluruhan benar-benar adil.
+Mahasiswa berencana menerapkan metode **validasi + definition of done**: mengakui perasaan anggota lebih dulu, lalu membuat checklist transparan berisi nama penanggung jawab, keluaran spesifik, dan deadline. Mahasiswa juga ingin melibatkan seluruh anggota lebih awal, memastikan penanggung jawab sanggup mengerjakan bagian yang diambil, dan membuat tenggat yang realistis.
 
-Batas bukti: modalitas teks sehingga prosodi dan bahasa tubuh tidak dinilai; perilaku Fajar adalah simulasi dan bukan pengukuran psikologis; uji ulang juga merupakan bagian dari simulasi; perubahan jangka panjang dan pelaksanaan di kelompok nyata belum dibuktikan.
+## Tindakan lanjutan yang dapat diamati
 
+1. Pada awal tugas kelompok berikutnya, buat checklist bersama yang berisi penanggung jawab, keluaran yang terukur, dan deadline untuk setiap bagian.
+2. Minta setiap penanggung jawab mengonfirmasi bahwa ia sanggup mengerjakan bagian tersebut dan mengklarifikasi kriteria selesai.
+3. Tetapkan waktu pemeriksaan progres yang realistis, dengan cara melanjutkan yang disepakati bersama jika konfirmasi tertunda.
+4. Setelah tugas selesai, evaluasi apakah beban kerja benar-benar seimbang dan apakah setiap anggota menyelesaikan bagian yang disepakati.
+
+## Bagian yang perlu diperiksa
+
+- Tanggal 10 Oktober 2026 adalah tanggal yang dipilih untuk laporan, bukan tanggal yang diverifikasi secara independen.
+- Semua interaksi adalah simulasi; tidak ada bukti bahwa checklist atau *quick sync* benar-benar dilakukan di kelompok nyata.
+- Ucapan Fajar dan status relasional hanya bukti dalam simulasi, bukan pengukuran psikologis.
+- Penomoran ID dalam laporan disusun kronologis untuk konsistensi. Label giliran yang sempat digunakan selama simulasi tidak selalu dimulai dari awal sesi; isi pesan tetap berdasarkan percakapan yang tersedia.
+- Skor 22/24 merupakan usulan AI untuk moderasi pengajar, bukan nilai resmi atau prediksi nilai akhir mata kuliah.
+- Mahasiswa perlu mengunduh file ini dan mengunggahnya sendiri ke portal yang ditentukan.
