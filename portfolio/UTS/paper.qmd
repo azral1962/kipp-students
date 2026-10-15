@@ -5,10 +5,10 @@ author: "Michelle Nataneilla - 18225071"
 lang: id
 status: "Siap ditinjau"
 format:
-html:
-toc: true
-toc-depth: 3
-number-sections: true
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
 ---
 
 ## Abstrak {.unnumbered}
