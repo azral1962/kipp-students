@@ -18,7 +18,7 @@ Makalah pra-UTS dan lima laporan kasus disusun berdasarkan instruksi UTS dan pak
 |---|---|
 | Nama | Michelle Nataneilla |
 | NIM | 18225071 |
-| Kelas | STEI-K |
+| Kelas | K01 |
 | Periode/tanggal pelaksanaan | 15 Oktober 2026 |
 | Versi bank/paket aktif | Versi bank/paket sesuai `PENUGASAN.md` dalam ZIP masing-masing |
 | Modalitas | Teks |
@@ -30,10 +30,10 @@ Makalah pra-UTS dan lima laporan kasus disusun berdasarkan instruksi UTS dan pak
 |---|---|---|---|
 | Pra-UTS | [Makalah MBTI dan PASK](UTS/paper.qmd) | Empat pertanyaan kajian | Perlu diperiksa |
 | 1 | [Memimpin Diri dan Terus Belajar](UTS/hasil_1_18225071.qmd) | Diri sendiri dan pembanding sesuai paket | Perlu diperiksa |
-| 2a | [Persahabatan dan Profesionalitas — Sesi 2a](UTS/hasil_2a_18225071.qmd) | Target sesuai ZIP 2a | Perlu diperiksa |
-| 2b | [Persahabatan dan Profesionalitas — Sesi 2b](UTS/hasil_2b_18225071.qmd) | Target sesuai ZIP 2b | Perlu diperiksa |
-| 3a | [Menawarkan Solusi TI/AI — Sesi 3a](UTS/hasil_3a_18225071.qmd) | Target sesuai ZIP 3a | Perlu diperiksa |
-| 3b | [Menawarkan Solusi TI/AI — Sesi 3b](UTS/hasil_3b_18225071.qmd) | Target sesuai ZIP 3b | Perlu diperiksa |
+| 2a | [Persahabatan dan Profesionalitas — Sesi 2a](UTS/hasil_2a.qmd) | Target sesuai ZIP 2a | Perlu diperiksa |
+| 2b | [Persahabatan dan Profesionalitas — Sesi 2b](UTS/hasil_2b.qmd) | Target sesuai ZIP 2b | Perlu diperiksa |
+| 3a | [Menawarkan Solusi TI/AI — Sesi 3a](UTS/hasil_3a.qmd) | Target sesuai ZIP 3a | Perlu diperiksa |
+| 3b | [Menawarkan Solusi TI/AI — Sesi 3b](UTS/hasil_3b.qmd) | Target sesuai ZIP 3b | Perlu diperiksa |
 
 Nama berkas dan lokasi tautan di atas mengikuti struktur folder `UTS`. Pastikan semua file benar-benar sudah berada di folder tersebut dan nama berkasnya sesuai sebelum melakukan render atau pengumpulan.
 
