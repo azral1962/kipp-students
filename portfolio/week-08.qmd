@@ -1,46 +1,79 @@
-﻿---
+---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Dalam Pengerjaan"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Status Pengerjaan"}
+Makalah pra-UTS dan lima laporan kasus disusun berdasarkan instruksi UTS dan paket individual yang sesuai dengan NIM. Transkrip, evaluasi, dan refleksi setiap sesi dicantumkan dalam laporan masing-masing. Status penyelesaian dan penilaian akhir diperbarui setelah seluruh komponen diperiksa.
 :::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Michelle Nataneilla |
+| NIM | 18225071 |
+| Kelas | K01 |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026 |
+| Versi bank/paket aktif | Versi bank/paket sesuai `PENUGASAN.md` dalam ZIP masing-masing |
+| Modalitas | Teks |
+| Status pengumpulan | Belum dikonfirmasi |
 
 ## Makalah dan lima laporan
 
-| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
-|---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Tahap | Dokumen | Sasaran | Status |
+|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Empat pertanyaan kajian | Perlu diperiksa |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri sendiri dan pembanding sesuai paket | Perlu diperiksa |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Target sesuai ZIP 2a | Perlu diperiksa |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Target sesuai ZIP 2b | Perlu diperiksa |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Target sesuai ZIP 3a | Perlu diperiksa |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Target sesuai ZIP 3b | Perlu diperiksa |
+
+Nama berkas dan lokasi tautan di atas mengikuti struktur folder `UTS`. Pastikan semua file benar-benar sudah berada di folder tersebut dan nama berkasnya sesuai sebelum melakukan render atau pengumpulan.
 
 {{< include "../includes/uts-penilaian.md" >}}
 
+## Ringkasan lintas sesi
+
+### Pra-UTS: Makalah akademik
+
+Makalah membahas empat pertanyaan utama mengenai MBTI dan komunikasi, strategi komunikasi berdasarkan preferensi, pengenalan preferensi melalui percakapan, serta penggunaan stimulus, SWOT-like, dan PASK dalam pengembangan diri.
+
+### Sesi 1: Memimpin diri dan terus belajar
+
+Fokus sesi ini adalah memahami kondisi diri, mengenali hambatan dalam mencapai tujuan, serta menentukan langkah konkret untuk memperbaiki pengelolaan tugas dan prioritas. Evaluasi perlu didasarkan pada respons dan bukti yang tercantum dalam transkrip.
+
+### Sesi 2: Persahabatan dan profesionalitas
+
+Sesi 2a dan 2b membahas komunikasi dalam hubungan pertemanan ketika muncul kendala profesionalitas. Analisis mencakup cara memahami perspektif lawan bicara, memvalidasi kebutuhan, memilih pendekatan yang sesuai, dan mencapai kesepakatan yang realistis. Profil dan target setiap sesi harus mengikuti paket individual masing-masing.
+
+### Sesi 3: Menawarkan solusi TI dan AI
+
+Sesi 3a dan 3b berfokus pada pemahaman kebutuhan sebelum menawarkan solusi teknologi. Evaluasi perlu menunjukkan bagaimana mahasiswa menanggapi kekhawatiran komunikan, menjelaskan manfaat dan batasan solusi, menyesuaikan pendekatan berdasarkan respons, serta menentukan tindak lanjut yang sesuai.
+
+## Kriteria pemeriksaan laporan
+
+Setiap laporan diperiksa berdasarkan enam dimensi berikut.
+
+| Dimensi | Hal yang diperiksa |
+|---|---|
+| Tujuan dan konteks | Kejelasan tujuan, sasaran, batasan, dan indikator keberhasilan |
+| Persepsi dan validasi profil/status | Dugaan awal, pertanyaan validasi, dan koreksi berdasarkan jawaban |
+| Pemilihan dan urutan repertoar | Kesesuaian pertanyaan, contoh, analogi, dan stimulus dengan kebutuhan komunikan |
+| Eksekusi yang jelas dan konsisten | Kejelasan pesan, kepedulian, penghormatan terhadap pilihan, dan konsistensi tindakan |
+| Evaluasi dan adaptasi | Kemampuan menyesuaikan pendekatan berdasarkan respons dan menerapkannya pada uji ulang |
+| Refleksi dan *lesson learned* | Pembelajaran, perubahan pemahaman ASK, penerapan lanjutan, dan batas bukti |
+
 ## Rekap nilai komponen
 
-| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
-|---|---:|---|---|---|---|
+| Komponen | Bobot | Self-assessment /100 | Usulan penilaian /100 | Nilai resmi dosen /100 | Status |
+|---|---:|---:|---:|---:|---|
 | Makalah | 10% | — | — | — | Belum dinilai |
 | Sesi 1 | 18% | — | — | — | Belum dinilai |
 | Sesi 2a | 18% | — | — | — | Belum dinilai |
@@ -48,4 +81,8 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Sesi 3a | 18% | — | — | — | Belum dinilai |
 | Sesi 3b | 18% | — | — | — | Belum dinilai |
 
-**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+**Nilai akhir UTS resmi:** Belum dihitung. Nilai ini hanya diisi setelah seluruh komponen dinilai secara resmi. Jangan mengisi nilai asesor atau menganggap laporan yang sudah ditulis otomatis memperoleh nilai penuh.
+
+## Refleksi akhir
+
+Melalui rangkaian tugas ini, hal yang perlu diperhatikan bukan hanya keberhasilan mencapai kesepakatan, tetapi juga proses memahami komunikan, memvalidasi asumsi, memilih pendekatan yang sesuai, dan mengevaluasi hasilnya. Refleksi akhir akan dilengkapi berdasarkan pengalaman dan bukti dari seluruh sesi, termasuk hal yang sudah berjalan baik, bagian yang masih perlu diperbaiki, serta langkah konkret untuk menerapkan pembelajaran tersebut dalam komunikasi berikutnya.
