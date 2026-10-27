@@ -1,9 +1,8 @@
 ---
-title: "Laporan UTS KIPP - Sesi 3a"
-subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3: Menawarkan Solusi TI dan AI"
+author: "Fakhri Athallah Dwi Andeo"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +10,191 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3a](../../examples/UTS/hasil_3a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
-| Target | [Nama dan ID customer sesuai ZIP 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Fakhri Athallah Dwi Andeo |
+| NIM | 18225029 |
+| Kelas dan tanggal | K-01; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3: Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Skenario konsultasi solusi TI/AI pelanggan fiktif terstandardisasi |
+| Kelengkapan transkrip | Lengkap (seluruh rangkaian identifikasi, eksplorasi kebutuhan, demo solusi, uji ulang, evaluasi, hingga refleksi) |
+| Nama laporan menurut paket | hasil_3a_18225029.qmd |
+| Konfirmasi identitas/ringkasan | Terkonfirmasi pada sesi UTS |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief Kasus 3 menempatkan mahasiswa berhadapan dengan Fajar (K3-06), seorang pengelola usaha yang kewalahan menangani pertanyaan pelanggan yang berulang serta pesanan yang sering tercecer karena keterbatasan tenaga. Fajar berkarakter pragmatis, berorientasi hasil cepat, tidak sabar dengan penjelasan teori panjang, dan belum yakin apakah usahanya memerlukan AI.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan tindakan:
+1. Menghargai keterbatasan waktu Fajar dengan langsung menunjukkan manfaat praktis dan demo alur kerja singkat tanpa penjelasan teknis yang bertele-tele.
+2. Menggali masalah operasional utama (pertanyaan berulang dan pesanan tercecer) serta menawarkan solusi hibrida yang tepat guna (kombinasi automasi template/form terstruktur dan asisten AI terbatas) tanpa menambah beban kerja baru.
+3. Mengedukasi secara jujur mengenai risiko kesalahan otomatis (*false response/salah rekap*) beserta mekanisme *fallback* (pengambilalihan manual) dan *checklist* pemeriksaan singkat.
+4. Menyepakati uji coba terbatas (*pilot test*) dengan indikator keberhasilan dan batas pengaman yang jelas.
+
+Indikator keberhasilan:
+- Fajar melihat langsung nilai praktis dari simulasi/demo singkat yang disajikan.
+- Fajar memahami batas risiko automasi dan menyetujui penggunaan *checklist* serta prosedur *fallback*.
+- Tercapainya kesepakatan uji coba skala kecil selama 3 hari tanpa mengganggu operasional utama.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: memahami arsitektur sistem automasi dan AI secara mendalam. Keterbatasan: terkadang ingin menjelaskan cara kerja algoritma di balik layar yang tidak dibutuhkan pelanggan taktis. Peluang: masalah pelanggan sangat jelas dan dapat diatasi dengan solusi ringan. Ancaman: kehilangan atensi pelanggan jika terlalu banyak bicara konsep di awal. | Refleksi diri | Terkonfirmasi |
+| Attitude | Berorientasi pada solusi nyata bagi pengguna, jujur mengenai batasan teknologi, dan menghargai waktu lawan bicara. | U001, U003 | Terkonfirmasi |
+| Knowledge | Menguasai opsi solusi TI sederhana (auto-reply berbasis aturan & form pesanan) maupun AI, serta memahami risiko halusinasi/kesalahan sistem otomatis. | U002, U003 | Terkonfirmasi |
+| Skill | Mampu menyederhanakan bahasa teknis menjadi demonstrasi alur 3 langkah, menyusun checklist operasional 1 menit, dan merancang mekanisme fallback. | U002, U004, U005 | Teruji dalam simulasi |
+| Preferensi/MBTI jika dilaporkan | INTJ/INTP (analitis-strategis; melakukan adaptasi gaya bicara menjadi taktis, ringkas, dan to-the-point saat menghadapi profil ESTP). | Laporan diri | Hipotesis kerja |
+| Karakter, peran, kultur/ko-kultur | Konsultan solusi TI/AI mahasiswa yang mengutamakan kegunaan praktis (*usability*) dan keamanan operasional pelanggan. | Peran simulasi | Faktual |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menyepakati uji coba solusi penangkap pesanan dan penjawab otomatis bersama Fajar dengan pengaman risiko yang jelas. | Mengatasi ketidaksabaran dan kekhawatiran beban baru (A), memberi pemahaman risiko kesalahan otomatis (K), dan menyediakan demo, checklist, serta fallback (S). | Komunikasi ringkas, demo langsung di awal, transparansi risiko, dan paket uji coba 3 hari. | Fajar menyetujui uji coba terbatas beserta checklist dan fallback-nya. |
+| Attention | Tidak sabar, terburu-buru, dan langsung meminta bukti manfaat nyata. | Menghormati waktu Fajar dan langsung menampilkan simulasi hasil nyata dalam 30 detik pertama. | Kalimat pembuka ultra-ringkas dengan contoh perbandingan sebelum vs sesudah. | Fajar tertarik melihat alur dan menceritakan titik macet pesanannya. |
+| Interest | Ingin tahu apakah alat ini benar-benar memangkas waktu tanpa menambah pekerjaan admin baru. | Menjelaskan alur kerja praktis yang langsung memisahkan tanya-jawab umum dari pencatatan pesanan. | Simulasi 3 baris pesan pelanggan yang langsung terekap otomatis ke tabel pesanan. | Fajar menanyakan cara kerja praktis dan kemungkinannya salah catat. |
+| Desire | Cenderung ingin langsung pakai karena cepat, namun belum memperhitungkan risiko salah rekap otomatis. | Mengedukasi secara jujur batas akurasi sistem otomatis dan menawarkan tombol pengaman (*fallback*) ke mode manual. | Penjelasan risiko salah baca pesanan + solusi konfirmasi 1-klik dan checklist harian 1 menit. | Fajar menyadari pentingnya fallback dan menerima checklist ringkas. |
+| Action | Siap mencoba jika tidak mengganggu arus kas/pesanan harian. | Menyepakati uji coba terbatas pada 1 kategori produk selama 3 hari dengan pendampingan setup. | Kesepakatan jadwal setup 15 menit, indikator waktu respon, dan aturan fallback. | Fajar menyetujui pelaksanaan uji coba mulai besok. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### AI001 - Fajar (K3-06) - Pembuka
+Fajar menatap layar ponselnya yang terus berbunyi sambil berkata cepat:
+"Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu. Kalau cuma mau presentasi teori AI yang panjang lebar, maaf saya lagi sibuk urus pesanan."
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### U001 - Mahasiswa - Respons Langsung & Demo Manfaat Singkat
+Siap Pak Fajar, saya langsung ke intinya dalam 30 detik tanpa teori. Manfaat utamanya ada dua:
+1. Pertanyaan pelanggan yang diulang-ulang (stok, harga, ongkir) langsung dijawab otomatis dalam 3 detik tanpa Bapak perlu mengetik.
+2. Pesanan yang masuk via chat langsung terekap rapi ke satu tabel daftar pesanan, jadi tidak ada lagi orderan yang tenggelam atau tercecer di tumpukan chat.
+Ini contoh tampilannya di layar: pelanggan ketik *"Pesan Kopi Susu 2 botol ke Jl. Dago 10"*, sistem otomatis membalas rincian total bayar sekaligus memasukkan baris pesanan itu ke tabel rekap harian Bapak. Dari dua hal ini, mana yang paling sering bikin tim Bapak keteteran setiap hari?
 
-### U001 - Mahasiswa - [Tahap]
+### AI002 - Fajar (K3-06) - Pengungkapan Masalah & Hambatan A
+Fajar langsung menoleh ke layar contoh tersebut, nada bicaranya lebih antusias:
+"Nah, kalau langsung kasih lihat contoh begini enak. Jujur dua-duanya bikin pusing, terutama pas jam ramai siang hari. Admin saya cuma satu, sibuk balas tanya harga, eh pesanan yang sudah transfer malah ketumpuk chat baru sampai lupa dikirim. Tapi saya mau tanya: ini bakal nambah kerjaan baru buat admin saya gak? Saya mau hasil cepat, jangan sampai admin saya malah habis waktu buat ngurusin sistem yang ribet."
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### U002 - Mahasiswa - Klarifikasi Beban Kerja & Edukasi Risiko Otomatis (Hambatan K)
+Justru ini memangkas kerjaan admin Bapak, bukan menambah. Admin Bapak tidak perlu lagi menyalin alamat dan pesanan satu-satu dari chat ke buku/catatan karena 80% pertanyaan standar dan format pesanan sudah ditangkap sistem di depan.
+Namun, sebagai konsultan, saya wajib jujur ke Bapak soal satu risiko penting: sistem otomatis atau AI itu tidak 100% sempurna. Kalau ada pelanggan yang mengetik pesanannya dengan singkatan aneh atau mengubah pesanan di tengah jalan, sistem otomatis berisiko salah tangkap jumlah barang atau alamat jika dibiarkan jalan sendiri tanpa kontrol. Sebelum kita pasang, apakah Bapak sudah sempat memperhitungkan risiko kalau sistem otomatis salah membaca pesanan pelanggan?
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### AI003 - Fajar (K3-06) - Respons atas Risiko & Pengungkapan Hambatan S
+Fajar tampak berpikir sejenak, raut wajahnya menunjukkan ia baru menyadari celah tersebut:
+"Wah, benar juga ya. Selama ini saya pikir kalau sudah otomatis ya beres saja. Kalau sampai salah kirim barang karena sistem salah baca, saya yang rugi ongkir dan diprotes pelanggan. Tapi saya dan admin saya ini orang lapangan, kelemahan kami memang malas bikin dokumentasi atau baca buku panduan yang tebal. Kalau begitu gimana caranya biar tetap cepat dicoba, tapi aman dari salah kirim dan gak ribet?"
 
-[Tempel pesan AI persis seperti sumber.]
+### U003 - Mahasiswa - Solusi Praktis: Demo Singkat, Checklist 3 Poin, dan Fallback
+Supaya tetap lincah di lapangan tapi bebas dari risiko salah kirim, kita tidak pakai AI yang rumit dan mahal, melainkan kombinasi **Template Pesanan Otomatis + AI Penjawab FAQ dengan Pengaman (Fallback)**. Saya siapkan 3 alat bantu praktis untuk Bapak dan admin:
+1. **Demo Singkat (5 Menit):** Besok saya pandu langsung di HP admin Bapak selama 5 menit sampai bisa jalan.
+2. **Mekanisme Fallback (Pengaman Otomatis):** Jika pelanggan mengetik kalimat yang membingungkan atau di luar daftar menu, sistem **tidak akan menebak-nebak**, melainkan otomatis mengalihkan chat ke admin dengan tanda label merah *"Perlu Cek Admin"*, plus ada satu tombol **Matikan Otomatis** jika sewaktu-waktu Bapak ingin kembali ke manual 100%.
+3. **Checklist Harian 1 Menit (Hanya 3 Poin):** Admin tidak perlu menulis dokumentasi panjang, cukup centang 3 poin ini di kertas kasir setiap sore: (a) Cek chat berlabel merah, (b) Cocokkan jumlah mutasi pembayaran dengan baris tabel pesanan, (c) Klik tombol kirim status pesanan.
+Bagaimana Pak Fajar, apakah skema demo 5 menit, tombol fallback, dan checklist 3 poin ini cukup praktis buat tim Bapak?
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### AI004 - Fajar (K3-06) - Penerimaan & Kesepakatan Action
+Fajar tersenyum puas dan mengangguk mantap:
+"Nah, ini baru solusi orang lapangan! Ada pengaman label merahnya kalau chatnya aneh, ada tombol balik ke manual, dan checklist-nya cuma 3 poin. Saya suka karena cepat dan risikonya terukur. Ayo kita coba dulu. Gimana langkah pertama uji cobanya?"
+
+### U004 - Mahasiswa - Kesepakatan Parameter Uji Coba (Action)
+Kita mulai dengan eksperimen kecil 3 hari (Jumat–Minggu) agar langsung terasa di jam sibuk akhir pekan:
+- **Langkah Pertama & Waktu:** Besok pagi pukul 09.00 WIB (sebelum toko buka), saya datang/zoom 15 menit untuk pasang template dan demo 5 menit ke admin Bapak.
+- **Tanggung Jawab & Dukungan:** Saya yang siapkan seluruh pengaturan sistem dan lembar checklist 3 poin; admin Bapak cukup memantau chat berlabel merah. Jika ada kendala teknis, saya siaga membantu via WhatsApp.
+- **Indikator Keberhasilan:** Dalam 3 hari uji coba, waktu balas tanya-jawab turun ke bawah 10 detik, **nol pesanan tercecer**, dan tidak ada kesalahan kirim barang. Hari Senin pagi kita evaluasi 10 menit untuk memutuskan lanjut atau tidak.
+Apakah jadwal besok jam 09.00 pagi ini cocok untuk Bapak?
+
+### AI005 - Fajar (K3-06) - Konfirmasi Kesepakatan Awal
+"Cocok! Besok jam 09.00 pagi toko masih santai. Kita pasang dan langsung jajal buat orderan hari Jumat. Sampai ketemu besok pagi."
+
+### AI006 - Fasilitator - Uji Ulang (Kendala Operasional Baru)
+Pada hari Sabtu siang (hari ke-2 uji coba) saat pesanan sedang sangat ramai, Fajar mengirim pesan suara singkat kepada Anda:
+"Mas Fakhri, sistem rekapnya mantap, dari kemarin tidak ada pesanan yang kelewat! Tapi ini ada masalah mendadak di lapangan: admin utama saya tiba-tiba izin pulang cepat karena sakit, jadi sore ini digantikan adik saya yang belum ikut demo kemarin. Dia bingung pas ada pelanggan grosir yang minta diskon khusus di luar harga menu, dan dia takut salah pencet. Gimana ini biar sore ini tetap jalan cepat tanpa berantakan?"
+
+### U005 - Mahasiswa - Adaptasi Uji Ulang: Panduan Kilat & Aktivasi Fallback
+Terima kasih kabarnya Pak Fajar, semoga admin utamanya lekas pulih. Untuk sore ini, Bapak dan adik Bapak tidak perlu panik, kita langsung jalankan protokol praktis 2 menit:
+1. **Aktifkan Fallback Khusus Grosir:** Saya baru saja tambahkan kata kunci *"grosir"* dan *"diskon"* ke aturan fallback dari dashboard saya sekarang. Jadi setiap ada chat yang menyebut kata itu, bot otomatis berhenti membalas harga normal dan langsung memberi label merah untuk ditangani manual oleh Bapak/adik Bapak.
+2. **Demo Kilat 3 Langkah via Video 60 Detik:** Saya kirimkan sekarang video layar 60 detik ke WhatsApp adik Bapak yang hanya berisi 3 langkah: (1) Biarkan bot menjawab pesanan eceran biasa, (2) Buka hanya chat yang berlabel merah untuk negosiasi grosir, (3) Sebelum tutup toko, centang 3 poin di lembar checklist samping kasir.
+3. Jika adik Bapak masih merasa kewalahan di jam puncak pukul 16.00 nanti, dia cukup tekan satu tombol **Pause Bot** di pojok kanan atas, maka semua chat kembali ke WhatsApp biasa seperti semula.
+Apakah video 60 detik dan pengalihan otomatis chat grosir ini sudah masuk di HP adik Bapak?
+
+### AI007 - Fajar (K3-06) - Konfirmasi Resolusi Uji Ulang
+"Luar biasa cepat tanggap! Videonya cuma 1 menit, adik saya barusan nonton langsung paham, dan aturan kata kunci 'grosir' yang langsung masuk label merah itu sangat menyelamatkan sore ini. Kita tidak perlu matikan sistemnya, lanjut jalan terus sampai Minggu. Mantap!"
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Fajar memandang penjelasan TI/AI panjang sebagai buang waktu dan beban kerja baru (*Threat*), namun terlalu berani mencoba tanpa menghitung risiko kesalahan sistem (*Weakness*). | Fajar memandang solusi automasi terarah + pengaman fallback sebagai peluang efisiensi nyata (*Opportunity*) dengan risiko operasional yang terkendali. | U001, U003, AI004 | Terbukti dari persetujuan uji coba dan keberhasilan penanganan krisis uji ulang |
+| Attitude | Tidak sabar, pragmatis ekstrem, ingin hasil instan tanpa memikirkan prosedur pengendalian mutu. | Terbuka pada prosedur pengamanan (*checklist* dan *fallback*) setelah merasakan bahwa waktunya dihargai dan penjelasannya praktis. | AI001 -> AI003 -> AI004 | Perubahan sikap teramati dari penerimaan atas edukasi risiko |
+| Knowledge | Menguasai seluk-beluk operasional pesanan harian, tetapi belum memahami risiko kesalahan otomatis apabila pesan pelanggan tidak standar. | Memahami perbedaan antara fungsi yang bisa diautomasi penuh vs kondisi yang wajib dialihkan ke manusia (*human-in-the-loop/fallback*). | U002, AI003 | Pengakuan eksplisit target pada giliran AI003 |
+| Skill | Cepat mengeksekusi di lapangan, namun lemah dalam konsistensi dokumentasi dan panduan staf. | Mampu menjalankan uji coba terstruktur menggunakan *checklist* 3 poin dan mendelegasikan staf pengganti dengan panduan kilat 60 detik serta tombol fallback. | U003, U005, AI007 | Demonstrasi kesiapan operasional pada uji ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| E1 (AI001 / U001) | Fajar tidak punya banyak waktu dan langsung meminta bukti manfaat nyata (A-Pragmatis/ESTP). | Memangkas seluruh basa-basi teoritis dan langsung menyajikan 2 manfaat terukur beserta contoh simulasi layar dalam 30 detik. | Fajar langsung antusias dan membuka masalah utamanya (admin kewalahan di jam ramai dan pesanan tertumpuk). | Hambatan A (ketidaksabaran) teratasi; rasa percaya awal terbentuk. | Menyesuaikan tempo bicara menjadi cepat, visual, dan langsung pada hasil. |
+| E2 (AI002 / U002) | Fajar menolak beban baru bagi adminnya dan belum menyadari risiko salah rekap otomatis (K-Risiko belum dipahami). | Menegaskan pengurangan beban kerja 80%, lalu secara transparan mengedukasi risiko salah baca pada sistem otomatis. | Fajar menyadari potensi kerugian ongkir/komplain dan meminta cara agar tetap cepat tapi aman tanpa panduan tebal. | Hambatan K teredukasi dengan baik; target mulai meminta dukungan operasional (S). | Menghindari *overselling* AI; justru membuka batasan sistem untuk membangun kredibilitas. |
+| E3 (AI003 / U003, U004) | Fajar membutuhkan demo singkat, checklist ringkas, dan mekanisme fallback karena lemah di dokumentasi (S). | Menawarkan paket praktis: demo 5 menit, label merah fallback + tombol kembali manual, serta checklist kasir 3 poin dalam uji coba 3 hari. | Fajar sangat puas dan langsung menyepakati jadwal instalasi uji coba Jumat pagi pukul 09.00. | Hambatan S terjawab tuntas; syarat Action terpenuhi secara spesifik. | Merancang instrumen pengawasan yang hanya membutuhkan waktu 1 menit per hari. |
+| E4 (AI006 / U005, AI007) | Uji ulang: admin utama sakit saat jam ramai, digantikan staf baru yang bingung menghadapi pesanan grosir. | Menambahkan filter fallback kata kunci 'grosir' dari jarak jauh, mengirim video panduan 60 detik (3 langkah), dan mengingatkan tombol pause. | Staf pengganti langsung paham dalam 1 menit dan operasional toko tetap berjalan lancar tanpa mematikan sistem. | Ketahanan sistem dukungan (S) teruji nyata pada kondisi darurat lapangan. | Mengubah format pelatihan menjadi video mikro 60 detik yang sesuai untuk kondisi mendesak. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U001 | Menghormati waktu Fajar secara langsung ("langsung ke intinya dalam 30 detik tanpa teori"). | Fajar langsung melunak dari sikap terburu-buru menjadi bersedia menceritakan masalah internal tokonya. | Rasa dipahami dan keterbukaan meningkat dari Rendah ke Sedang. | Bagi profil taktis lapangan, menghargai waktu adalah bentuk kepedulian paling nyata. |
+| U002 | Kejujuran transparan mengingatkan risiko kerugian ongkir jika sistem salah baca pesanan. | Fajar berterima kasih secara implisit ("Wah, benar juga ya...") dan meminta saran pengamanan. | Kepercayaan meningkat ke tingkat Tinggi. | Transparansi mengenai batas teknologi meningkatkan kredibilitas konsultan jauh lebih kuat daripada janji manis. |
+| U005 | Mendoakan kesembuhan admin dan langsung mengambil alih pembaruan aturan kata kunci dari jarak jauh saat toko sedang ramai. | Fajar memuji kecepatan tanggap dan melanjutkan uji coba dengan penuh percaya diri. | Kepercayaan dan rasa aman bertahan pada tingkat Tinggi. | Bantuan praktis instan saat krisis membuktikan komitmen kemitraan yang tulus. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Pada tahap uji ulang, muncul skenario pergantian personel mendadak di tengah jam sibuk ditambah kasus khusus (negosiasi diskon grosir) yang berada di luar alur pesanan standar. Jika komunikator merespons dengan meminta staf baru membaca buku panduan atau membiarkan bot menjawab harga eceran, uji coba pasti gagal. Adaptasi komunikator dengan langsung menyuntikkan aturan *fallback* kata kunci *"grosir"* dan mengirimkan video panduan 60 detik berhasil menjaga keberlangsungan uji coba. Pembelajaran utamanya adalah bahwa solusi TI bagi pelaku usaha lapangan harus selalu dilengkapi jaring pengaman (*graceful degradation/fallback*) dan panduan mikro yang dapat dipelajari dalam hitungan detik.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U004, U005 | Fokus pada penyelesaian masalah pesanan tercecer dan tanya-jawab berulang dengan target uji coba yang realistis. |
+| Persepsi dan validasi profil/status | 4 | U001, U002, U003 | Mengenali secara cepat profil ESTP Fajar yang menuntut kecepatan, bukti visual/demo, serta alergi terhadap birokrasi/dokumentasi panjang. |
+| Pemilihan dan urutan repertoar | 4 | U001 -> U002 -> U003 -> U004 -> U005 | Urutan efektif: *hook* manfaat instan & demo -> edukasi risiko jujur -> solusi checklist/fallback -> kontrak pilot test -> dukungan krisis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U001, U002, U005 | Bahasa ringkas, bebas jargon rumit, jujur tentang batas sistem, dan sigap memberikan bantuan teknis konkret. |
+| Evaluasi dan adaptasi | 4 | U005 | Adaptasi cepat saat admin sakit dan muncul pesanan grosir dengan mengatur ulang filter fallback serta mengirim panduan video 1 menit. |
+| Refleksi dan lesson learned | 4 | Refleksi akhir | Mampu membedah strategi komunikasi konsultatif untuk pelanggan berorientasi aksi cepat dan memetakan batas bukti. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** 100 (Jumlah skor: 24 / 24 × 100). Usulan skor AI memerlukan moderasi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Awalnya saya mengira ketika menawarkan solusi TI/AI kepada pelaku usaha, kita harus memamerkan kecanggihan teknologi AI-nya agar mereka terkesan. Ternyata bagi pelanggan berprofil praktisi lapangan seperti Fajar (ESTP), penjelasan teknis justru menghambat; mereka membutuhkan **demo manfaat langsung di kalimat pertama**, kejujuran soal risiko kesalahan, serta jaminan bahwa alat tersebut tidak menambah beban administrasi.
+- **Stimulus efektif/tidak efektif:** Stimulus yang menghambat adalah penjelasan konseptual yang panjang atau menuntut mereka membuat dokumentasi rumit. Stimulus yang sangat efektif adalah simulasi konkret 30 detik, pengakuan jujur atas batas akurasi otomatis, penyediaan *checklist* 3 poin (1 menit), dan tombol *fallback* ke mode manual.
+- **Pertumbuhan PASK/ASK diri:** Persepsi saya berkembang bahwa tugas konsultan TI bukan memaksakan AI canggih untuk semua hal, melainkan merancang sistem sosio-teknis yang aman dan sesuai kapasitas pengguna. Keterampilan saya terasah dalam mengemas edukasi risiko dan panduan teknis menjadi instruksi ultra-ringkas.
+- **Relasi:** Rasa dipercaya dan dipedulikan dalam konteks bisnis dengan pelanggan pragmatis terbangun ketika kita menghargai waktunya, tidak menutupi risiko kerugian mereka, dan hadir memberikan bantuan teknis instan saat operasional mereka mengalami kendala.
+- **Pelajaran untuk situasi berikutnya:** Saat berhadapan dengan klien yang berorientasi aksi cepat, selalu siapkan *prototype/demo* singkat di awal, jangan pernah menjanjikan akurasi 100% tanpa *fallback*, dan buat SOP dalam bentuk *checklist* maksimal 3–5 poin.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Setup template pesanan, bot FAQ, dan demo 5 menit | Mahasiswa & Fajar/Admin | Jumat, Pukul 09.00 WIB | Panduan 1 lembar & lembar checklist kasir | Sistem aktif dalam 15 menit dan admin mampu mengoperasikan | Terlaksana dalam simulasi |
+| Evaluasi hasil uji coba 3 hari (Jumat–Minggu) | Mahasiswa & Fajar | Senin, Pukul 10.00 WIB | Rekap tabel pesanan & log chat berlabel merah | Waktu respon < 10 detik, 0 pesanan tercecer, 0 salah kirim | Terjadwal dalam rencana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+*Batas bukti:* Interaksi dilakukan melalui simulasi percakapan teks; antarmuka sistem yang didemonstrasikan bersifat simulatif dan pengujian ketahanan operasional jangka panjang di luar periode 3 hari belum diverifikasi secara empiris.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+## Bobot dan nilai akhir UTS
 
-{{< include "../../includes/uts-penilaian.md" >}}
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Belum Dinilai |
+| Sesi 2a | 18% | Belum Dinilai |
+| Sesi 2b | 18% | Belum Dinilai |
+| Sesi 3a | 18% | Belum Dinilai |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia lengkap.

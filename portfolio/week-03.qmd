@@ -1,25 +1,76 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
 ---
 
-## Kompetensi target
-
-Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
-
-## Evidence wajib
-
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-note title="Identitas Mahasiswa"}
+Nama: **Fakhri Athallah Dwi Andeo**  
+Fokus: Penerapan *active listening*, perumusan batasan (*boundary*), penyampaian permintaan (*request*), serta pemulihan hubungan (*repair*) dalam dinamika kerja sama rekan sebaya.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks dan relationship state
+
+Selama dua minggu pengerjaan proyek, rekan satu tim saya, “Izar”, memiliki kebiasaan mengirim pesan koordinasi teknis mendesak dan panggilan suara via Discord setelah pukul 23.00. Saya merasa tertekan dan cemas setiap mendengar notifikasi ponsel menjelang tidur, lalu merespons secara pasif-agresif dengan hanya membalas singkat atau mendiamkan pesan hingga siang keesokan harinya.
+
+**State sebelum percakapan:** Hubungan pertemanan dan profesionalitas kerja mulai merenggang. Muncul keengganan untuk membuka kanal obrolan proyek, dengan tingkat ketegangan subjektif berada pada angka 7/10.  
+**Objective:** Mengomunikasikan kebutuhan waktu istirahat secara asertif, menyepakati kanal komunikasi asinkron, dan menetapkan batas waktu interaksi langsung tanpa memutus ritme produktivitas Izar.
+
+---
+
+## Potongan transcript
+
+> **Fakhri:** “Zar, ada waktu sepuluh menit sebelum kelas? Aku mau ngomong alur koordinasi tugas kita beberapa hari terakhir.”  
+> **Izar:** “Boleh, ada bagian tugas yang bermasalah?”  
+> **Fakhri:** “Bukan soal kode atau fungsinya, melainkan jam komunikasinya. Tiga hari berturut-turut minggu ini kamu menghubungi dan mengajak sinkronisasi di atas jam 23.00. Kondisi itu membuatku sulit beristirahat karena merasa harus langsung merespons.”  
+> **Izar:** “Oh, maaf ya. Biasanya aku baru sempat fokus penuh malam hari setelah urusan lain beres, dan kalau ide tidak langsung kutulis atau dibahas, aku takut lupa paginya.”  
+> **Fakhri:** “Jadi kamu aktif di jam malam karena itu waktu fokusmu, dan pesan-pesan itu tujuannya mencatat progres agar tidak terlewat, bukan menuntut balasan instan malam itu juga?”  
+> **Izar:** “Betul persis. Aku tidak maksa kamu bangun dan balas detik itu juga kok.”  
+> **Fakhri:** “Baik, sekarang aku paham situasimu. Dari sisiku, aku membutuhkan batasan: ponselku masuk mode senyap mulai pukul 22.30. Kamu tetap boleh mengirim pembaruan atau catatan di repositori kapan pun kamu fokus, tetapi mari sepakati bahwa obrolan langsung dibatasi maksimal pukul 22.00, dan pesan malam hari baru akan kubalas mulai pukul 08.00 pagi. Bagaimana menurutmu?”  
+> **Izar:** “Sepakat. Nanti kalau ada catatan malam hari, aku taruh di *issue board* atau obrolan teks saja tanpa *mention* mendesak.”
+
+---
+
+## Analisis listening, boundary, dan repair
+
+- **Listening & Paraphrase:** Saya mengawali dialog dengan observasi konkret tanpa tuduhan moral (“tiga hari berturut-turut di atas jam 23.00”, bukan “kamu egois”). Parafrasa saya mengklarifikasi bahwa Izar adalah seorang *night owl* yang berfokus mendokumentasikan ide, bukan berniat mengganggu waktu tidur rekan.
+- **Boundary & Request:** Batasan (*boundary*) dinyatakan tegas: ponsel masuk mode senyap setelah pukul 22.30. Permintaan (*request*) dialihkan menjadi skema kerja asinkron yang adil Izar bebas bekerja di malam hari, namun respons interaktif baru diberikan pada pagi hari.
+- **Repair:** Pada akhir sesi, saya melakukan *repair* atas sikap pasif-agresif sebelumnya:  
+  > *“Aku juga minta maaf karena dua hari lalu sempat membalas sangat singkat dan terkesan dingin di grup. Seharusnya aku menyampaikan kebutuhan istirahatku lebih awal secara langsung.”*  
+  Izar menerima permintaan maaf tersebut dengan santai, mencairkan ketegangan yang sempat mengendap.
+
+---
+
+## Relationship outcome dan evidence
+
+- **Evidence konkret:** Ringkasan tertulis alur kerja yang disematkan (*pinned message*) pada grup koordinasi proyek mengenai aturan *quiet hours* (pukul 22.30–07.30).
+- **Hasil evaluasi relasi:** Ketegangan subjektif turun dari 7/10 menjadi 2/10. Tidak ada lagi rasa was-was saat membuka aplikasi pesan di malam hari.
+- **Tindak lanjut 7 hari:** Izar tetap membagikan pembaruan modul pada pukul 00.30 via teks, dan saya membalasnya secara runut pada pukul 08.15 pagi hari tanpa ada friksi atau perasaan bersalah.
+- **Etika dan privasi:** Dialog di atas menyangkut ranah interpersonal. Seluruh ringkasan refleksi ditulis langsung secara mandiri tanpa memasukkan transkrip mentah atau identitas personal ke platform AI pihak ketiga.
+
+---
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 3 | Mengakui perbedaan ritme kerja pribadi lawan bicara tanpa stereotip negatif |
+| **Objective & State** | 3 | Mengubah ketegangan (7/10) menjadi kejelasan batas kerja (2/10) secara terukur |
+| **Repertoire, Language & AI** | 3 | Menggunakan *observation*, *paraphrasing*, *boundary statement*, dan *repair* |
+| **Response & Adaptation** | 3 | Mengakomodasi kebutuhan dokumentasi malam Rendy lewat kesepakatan komunikasi asinkron |
+| **Agreement, Action & Relationship** | 4 | Batasan jam, kanal pencatatan alternatif, dan perbaikan sikap dinyatakan secara eksplisit |
+
+**Total: 16/20 — Kompeten.** (Belum mencapai skor sempurna 20 karena belum menganalisis skenario mitigasi darurat jika terdapat sistem *down* yang memang memerlukan penanganan mendesak di luar jam kerja normal).
+
+::: assessor-only
+### Assessment dosen
+
+**Skor:** — / 20\
+**Evidence yang mendukung:** —\
+**Prioritas perbaikan:** —\
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

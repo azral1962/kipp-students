@@ -1,9 +1,8 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2b"
-subtitle: "Persahabatan dan profesionalitas - target kedua"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2: Persahabatan dan Profesionalitas"
+author: "Fakhri Athallah Dwi Andeo"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +10,178 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2b](../../examples/UTS/hasil_2b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2b: Persahabatan dan profesionalitas - target kedua |
-| Target | [Nama dan ID target kedua sesuai ZIP 2b; berbeda dari 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Fakhri Athallah Dwi Andeo |
+| NIM | 18225029 |
+| Kelas dan tanggal | K-01; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2: Persahabatan dan Profesionalitas |
+| Nama dan ID target | Budi (K2-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Skenario tugas kelompok akademik fiktif terstandardisasi |
+| Kelengkapan transkrip | Lengkap (seluruh rangkaian identifikasi, negosiasi, uji ulang, evaluasi, hingga refleksi) |
+| Nama laporan menurut paket | hasil_2b_18225029.qmd |
+| Konfirmasi identitas/ringkasan | Terkonfirmasi pada sesi UTS |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief Kasus 2 menetapkan situasi mendesak di mana tenggat pengumpulan tugas kelompok tersisa 48 jam lagi. Budi (rekan satu kelompok sekaligus teman dekat) belum mengirimkan bagian pekerjaannya dan merasa pembagian tugas tidak adil serta tidak terukur dibanding prosedur kerja sebelumnya.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan tindakan:
+1. Menghargai komitmen dan ketertiban kerja Budi sambil menjaga relasi pertemanan tanpa menuntut cerita emosional berlebihan.
+2. Membandingkan bobot pekerjaan secara terukur antara metode lama dan pembagian saat ini untuk menjawab keraguan Budi.
+3. Menyusun panduan adaptasi, rincian pembagian tugas tertulis, dan tenggat pemeriksaan bertahap yang jelas.
+4. Menyepakati pengiriman bagian tugas sebelum tenggat 48 jam dengan beban kerja yang adil dan terdokumentasi.
+
+Indikator keberhasilan:
+- Budi mengutarakan keberatan spesifiknya terkait ketidakjelasan ukuran bobot kerja dan perubahan prosedur.
+- Tersusunnya tabel perbandingan beban kerja serta SOP/panduan langkah kerja tertulis yang disetujui bersama.
+- Budi menyepakati jadwal pengiriman bertahap yang tertulis secara eksplisit.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: mampu menyusun struktur tugas dan dokumentasi teknis secara rapi. Keterbatasan: terkadang langsung mengubah alur kerja tanpa sosialisasi prosedur bertahap. Peluang: Budi memiliki etos kerja operasional yang tertib bila panduan jelas. Ancaman: penolakan jika perubahan dirasa mendadak dan tidak terukur. | Refleksi diri | Terkonfirmasi |
+| Attitude | Menghormati ketertiban prosedur, menghargai tanggung jawab rekan, dan memegang janji secara konsisten. | U001, U003 | Terkonfirmasi |
+| Knowledge | Memahami alasan efisiensi alur kerja baru, namun perlu memetakan perbandingannya dengan prosedur lama yang dikuasai Budi. | U002 | Awal sementara |
+| Skill | Mampu menyusun matriks perbandingan beban kerja tertulis, merinci SOP langkah demi langkah, dan menetapkan checkpoint terukur. | U003, U005 | Teruji dalam simulasi |
+| Preferensi/MBTI jika dilaporkan | INTJ/INTP (analitis dan terstruktur; mampu beradaptasi dengan kebutuhan detail sekuensial rekan kerja). | Laporan diri | Hipotesis kerja |
+| Karakter, peran, kultur/ko-kultur | Rekan kelompok yang menjunjung kepastian jadwal, ketertiban dokumentasi, dan keadilan distribusi beban kerja. | Peran tim | Faktual |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menyepakati pembagian kerja dan tenggat tertulis dengan Budi agar tugas selesai dalam 48 jam. | Mengatasi keraguan atas ukuran pembagian (A), membandingkan bobot kerja lama vs baru (K), dan menyediakan panduan serta tenggat tertulis (S). | Pendekatan sopan dan terukur, tabel komparasi bobot tugas, dan checklist kerja tertulis. | Budi menerima rincian tugas tertulis dan mulai mengirim progres. |
+| Attention | Waspada dan bertahan pada cara lama; memandang perubahan sebagai ancaman ketertiban. | Mengapresiasi kedisiplinan Budi selama ini dan menghindari janji kosong. | Pembuka yang menghormati tanggung jawab dan menanyakan kendala ukuran kerja. | Budi bersedia menjelaskan letak ketidakadilan yang dirasakannya. |
+| Interest | Merasa pembagian saat ini tidak terukur dan belum dibandingkan bobotnya secara adil. | Menyajikan perbandingan faktual antara prosedur lama dan pembagian saat ini (jumlah halaman/sub-bagian dan estimasi jam kerja). | Pembuatan tabel rincian bobot tugas per anggota secara transparan. | Budi memeriksa perbandingan bobot dan memberi tanggapan objektif. |
+| Desire | Membutuhkan panduan adaptasi yang jelas serta rincian pembagian dan tenggat tertulis. | Menyusun panduan langkah demi langkah dan membagi ulang sub-tugas yang melampaui porsi wajar. | Penawaran dokumen checklist prosedur dan penyesuaian porsi kerja. | Budi menyetujui prosedur kerja yang sudah dirinci. |
+| Action | Menunda pengiriman tugas karena prosedur belum pasti. | Menetapkan jadwal pemeriksaan bertahap tertulis beserta penanggung jawabnya. | Kesepakatan jadwal serah terima tertulis pada H-24 dan H-12. | Budi menyepakati tenggat tertulis dan mulai mengeksekusi bagiannya. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Mahasiswa - Pembuka & Penghormatan Tanggung Jawab
+Halo Budi, mengingat tenggat tugas kelompok kita tinggal 48 jam lagi, saya ingin berdiskusi sebentar. Saya tahu kamu orang yang selalu tertib dan bertanggung jawab memegang komitmen kerja selama ini. Saat melihat bagian tugasmu belum masuk, saya menduga ada hal pada pembagian tugas atau alur kerja kali ini yang menurutmu kurang terukur. Boleh kita periksa bersama bagian mana yang terasa kurang tepat?
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### AI001 - Budi (K2-02) - Pembuka & Keberatan terhadap Perubahan
+Budi menjawab dengan nada serius dan terukur:
+"Cara sekarang sudah jelas. Mengapa harus berubah? Pada tugas-tugas sebelumnya, kita selalu membagi berdasarkan bab laporan yang urut dan porsinya sama rata. Sekarang tiba-tiba alurnya diubah per modul fungsional tanpa ada ukuran bobot yang jelas. Saya merasa pembagian kali ini tidak terukur, dan saya tidak suka bekerja dengan aturan yang berubah-ubah tanpa kepastian."
 
-### U001 - Mahasiswa - [Tahap]
+### U002 - Mahasiswa - Klarifikasi Fakta & Perbandingan Prosedur Lama vs Baru
+Terima kasih sudah menyampaikan langsung poin keberatannya, Budi. Saya menghargai ketelitianmu menjaga standar kerja kelompok kita. Benar bahwa cara lama membagi per bab terasa lebih pasti. Alasan kita beralih ke pembagian per modul kali ini adalah karena rubrik penilaian dosen menuntut integrasi tabel uji kasus di setiap modul. Namun, saya akui kesalahan kita karena belum membandingkan bobot pekerjaan baru ini secara tertulis dibanding cara lama. Mari kita lihat datanya: di bagian mana beban modulmu saat ini terasa lebih berat dibandingkan anggota lain?
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### AI002 - Budi (K2-02) - Pengungkapan Hambatan K & S
+Budi melihat catatannya dan menjawab lebih terbuka:
+"Kalau dibandingkan dengan cara lama, dulu satu orang rata-rata mengerjakan 4 halaman analisis. Di pembagian baru ini, bagian saya mencakup penyusunan prosedur pengujian sekaligus rekapitulasi tabel verifikasi yang totalnya hampir 9 tabel, sedangkan teman lain hanya mengerjakan 4 tabel. Selain bobotnya belum dibandingkan secara adil, format baru ini juga belum ada panduan urutannya. Saya butuh pembagian beban yang setara, panduan format yang pasti, dan tenggat tertulis yang jelas untuk tiap tahapannya."
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U003 - Mahasiswa - Solusi Perbandingan Terukur, Panduan, dan Tenggat Tertulis
+Poinmu sangat faktual dan adil, Budi. Sembilan tabel jelas tidak proporsional dibanding empat tabel milik anggota lain. Mari kita perbaiki dan tuliskan kesepakatannya secara resmi sekarang:
+1. Penyeimbangan Bobot Terukur: Dari 9 tabel verifikasi di bagianmu, 4 tabel bagian hilir saya ambil alih, sehingga porsi kerjamu menjadi tepat 5 tabel (setara dengan rata-rata jam kerja prosedur lama kita).
+2. Panduan Urutan Prosedur: Saya sudah menuliskan dokumen acuan 4 langkah baku pengisian tabel (mulai dari definisi input, langkah uji, hasil aktual, hingga status verifikasi) lengkap dengan 1 contoh tabel yang sudah terisi penuh sebagai acuan.
+3. Tenggat Tertulis Bertahap:
+   - Tahap 1 (Besok pukul 12.00 WIB): Pengiriman 2 tabel pertama untuk pemeriksaan kesesuaian format bersama saya.
+   - Tahap 2 (Besok pukul 21.00 WIB): Pengiriman 3 tabel sisanya yang sudah final.
+Semua poin ini saya catat di tabel pembagian kerja resmi kelompok kita. Apakah rincian bobot, panduan, dan jadwal tertulis ini sudah cukup jelas dan adil menurutmu?
 
-[Tempel pesan AI persis seperti sumber.]
+### AI003 - Budi (K2-02) - Penerimaan & Komitmen Kerja
+Budi membaca rincian tersebut dengan saksama lalu mengangguk:
+"Kalau bobotnya sudah dibandingkan secara terukur menjadi 5 tabel dan ada contoh acuan 4 langkah yang tertulis seperti ini, semuanya jadi jelas bagi saya. Pembagian dan tenggat tertulisnya juga masuk akal. Saya pegang jadwal ini: besok jam 12.00 siang saya kirim 2 tabel pertama, dan jam 21.00 malam selesai seluruhnya."
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U004 - Mahasiswa - Konfirmasi & Konsistensi Dukungan
+Terima kasih banyak atas komitmennya, Budi. Dokumen kesepakatan pembagian kerja dan contoh acuannya sudah saya unggah ke folder bersama kita. Besok tepat pukul 12.00 siang saya akan siap memeriksa 2 tabel pertamamu agar tidak ada keterlambatan antrean.
+
+### AI004 - Fasilitator - Uji Ulang (Kendala Baru Terkait Struktur Tertulis)
+Keesokan harinya pukul 11.30 WIB, muncul kendala baru: koordinator kelas mengumumkan bahwa dosen menambahkan satu kolom wajib baru pada tabel verifikasi, yaitu kolom 'Kode Referensi Kebutuhan (Req-ID)'. Budi menghubungi Anda:
+"Fakhri, ini ada pengumuman tambahan kolom Req-ID dari kelas. Di panduan tertulis kita kemarin kolom ini belum ada aturannya dan penomorannya belum dibagi siapa yang menyusun. Kalau aturannya berubah lagi di tengah jalan tanpa pedoman tertulis yang jelas, jadwal jam 12.00 dan jam 21.00 kita bisa kacau."
+
+### U005 - Mahasiswa - Adaptasi Uji Ulang dengan Kepastian Prosedur Tertulis
+Tenang Budi, kita pastikan prosedurnya tetap tertib dan tidak merusak jadwal kerjamu. Saya sudah siapkan pembaruan terukurnya:
+1. Daftar pemetaan kode `Req-ID` (`REQ-01` s.d. `REQ-15`) sudah saya buatkan daftar referensinya di halaman pertama dokumen bersama kita, jadi kamu tidak perlu menyusun kode baru dari nol—cukup menyalin kode yang sesuai ke kolom baru.
+2. Untuk 2 tabel tahap pertama yang tenggatnya jam 12.00 siang ini, kamu kirimkan saja sesuai format kemarin tanpa kolom `Req-ID` terlebih dahulu agar jadwalmu tidak terganggu.
+3. Penambahan kolom `Req-ID` pada kelima tabelmu cukup dimasukkan sekaligus pada pengiriman Tahap 2 malam nanti, dan tenggat tertulis Tahap 2 kita sesuaikan secara resmi dari pukul 21.00 menjadi pukul 22.00 WIB (tambahan 1 jam khusus untuk menyalin kode `Req-ID`).
+Revisi tenggat tertulis dan tabel referensi `Req-ID` sudah saya perbarui di dokumen kerja kita. Apakah langkah ini tetap menjaga keteraturan kerjamu?
+
+### AI005 - Budi (K2-02) - Konfirmasi Final Uji Ulang
+"Baik. Karena daftar kode Req-ID sudah disediakan tertulis dan jadwal jam 12.00 tidak perlu dibongkar ulang, prosedurnya tetap rapi. Dua tabel pertama saya kirim sekarang tepat jam 12.00, dan kelima tabel lengkap dengan kolom Req-ID saya serahkan maksimal jam 22.00 malam ini sesuai revisi tertulis."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Budi memandang perubahan alur pembagian kerja sebagai ancaman (*Threat*) terhadap ketertiban dan keadilan beban kerja. | Perubahan dipandang terkelola dan menjadi peluang (*Opportunity*) penyelesaian tepat waktu setelah bobot disetarakan serta prosedur ditulis secara baku. | U002, U003, AI003 | Terbukti dari kesediaan menerima format baru yang terstruktur |
+| Attitude | Hati-hati, kaku terhadap prosedur lama, dan menolak perubahan yang dianggap tidak terukur. | Kooperatif, menghargai transparansi perbandingan beban, dan memegang teguh komitmen jadwal tertulis. | AI001 -> AI003, AI005 | Perubahan sikap teramati melalui kesepakatan bertahap |
+| Knowledge | Menguasai prosedur lama (pembagian per bab), namun belum memahami alasan perubahan dan belum melihat perbandingan bobot antar-anggota. | Memahami rasionalitas rubrik baru, perbandingan kuantitatif jumlah tabel (5 vs 4 tabel), serta urutan 4 langkah pengisian. | U002, U003 | Klarifikasi fakta dan dokumen acuan tertulis |
+| Skill | Operasional baik pada cara lama, namun terhambat memulai cara baru karena ketiadaan panduan dan tenggat tertulis. | Mampu menjalankan prosedur baru secara tertib termasuk mengintegrasikan penambahan kolom `Req-ID` dengan panduan tertulis. | U003, U005, AI005 | Teruji pada kesepakatan awal dan adaptasi uji ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| E1 (U001 / AI001) | Budi menolak perubahan cara kerja dan merasa pembagian tidak terukur (A-Hati-hati/skeptis pada perubahan). | Mengapresiasi kedisiplinan Budi dan menanyakan bagian mana yang dirasa kurang terukur tanpa menyalahkan. | Budi mengungkapkan keberatannya bahwa cara lama per bab sudah jelas, sedangkan cara baru tidak terukur. | Rasa aman terjaga; hambatan A teridentifikasi secara spesifik. | Menghindari paksaan emosional; beralih ke perbandingan faktual dengan prosedur lama. |
+| E2 (U002, U003 / AI002, AI003) | Budi membutuhkan perbandingan bobot kerja (K) serta panduan dan tenggat tertulis (S). | Membandingkan jumlah tabel secara kuantitatif, memangkas beban Budi dari 9 menjadi 5 tabel, serta memberikan panduan 4 langkah dan jadwal 2 tahap tertulis. | Budi menerima pembagian baru dan berkomitmen penuh pada jadwal jam 12.00 dan 21.00. | Hambatan K dan S teratasi melalui kejelasan prosedur tertulis; syarat Action terpenuhi. | Mengunci kesepakatan dalam dokumen tertulis bersama. |
+| E3 (U005 / AI004, AI005) | Uji ulang: pengumuman kolom tambahan `Req-ID` mengancam keteraturan jadwal tertulis. | Menyediakan daftar referensi `Req-ID` siap pakai, menjaga jadwal Tahap 1 tetap utuh, dan merevisi tenggat Tahap 2 secara tertulis (+1 jam). | Budi tenang, mengirim Tahap 1 tepat waktu, dan menyanggupi Tahap 2 pukul 22.00. | Kepercayaan dan kesiapan operasional bertahan stabil di tengah perubahan eksternal. | Mengambil alih beban pembuatan kode referensi agar prosedur kerja target tetap sederhana. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U001 | Mengakui rekam jejak tanggung jawab dan ketertiban Budi tanpa menuntut curhat pribadi. | Budi langsung menjelaskan keberatan proseduralnya secara lugas tanpa kemarahan personal. | Rasa aman meningkat dari Rendah ke Sedang. | Penghormatan pada etos kerja membuka saluran komunikasi yang sehat bagi rekan yang berorientasi tugas. |
+| U003 | Mengambil alih 4 tabel berlebih dan menuliskan panduan kerja yang rapi. | Budi menyetujui rencana kerja tanpa keraguan lebih lanjut. | Kepercayaan meningkat ke tingkat Tinggi. | Kepedulian konkret lewat keadilan beban kerja dan kepastian aturan terbukti jauh lebih efektif daripada bujukan verbal. |
+| U004, U005 | Menepati janji pemeriksaan dan langsung menyediakan daftar `Req-ID` tertulis saat ada perubahan mendadak. | Budi tetap kooperatif dan mengeksekusi tugas tepat waktu pada pukul 12.00. | Kepercayaan dan keterbukaan bertahan pada tingkat Tinggi. | Konsistensi tindakan menjaga stabilitas relasi kelompok di bawah tekanan tenggat. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Pada tahap uji ulang, muncul intervensi eksternal berupa penambahan kolom wajib `Req-ID` yang berpotensi memicu resistensi Budi terhadap perubahan mendadak. Dibandingkan respons awal di mana perubahan prosedur belum disertai panduan, pada uji ulang ini komunikator langsung mengantisipasi kebutuhan profil Budi (ISTJ/tertib prosedur) dengan menyediakan tabel pemetaan `Req-ID` tertulis, melindungi tenggat terdekat (pukul 12.00) agar tidak berubah, dan memperbarui tenggat malam secara resmi. Perbandingan ini menunjukkan kemampuan adaptasi komunikator dalam mempertahankan kepastian struktur bagi lawan bicara.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U003, U005 | Tujuan penyelesaian tugas 48 jam dan keadilan pembagian kerja dijaga secara konsisten dan realistis. |
+| Persepsi dan validasi profil/status | 4 | U002, U003 | Mengenali secara presisi kebutuhan Budi akan perbandingan cara lama, ukuran beban kuantitatif, dan aturan tertulis. |
+| Pemilihan dan urutan repertoar | 4 | U001 -> U002 -> U003 -> U005 | Urutan logis dimulai dari validasi komitmen, klarifikasi komparasi bobot, penyusunan SOP tertulis, hingga mitigasi perubahan. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U004, U005 | Kepedulian diwujudkan melalui pembagian beban yang adil, penepatan janji waktu review, dan dokumen acuan yang rapi. |
+| Evaluasi dan adaptasi | 4 | U005 | Merespons kendala tambahan kolom baru pada uji ulang dengan cepat melalui panduan referensi tertulis tanpa merusak jadwal utama. |
+| Refleksi dan lesson learned | 4 | Refleksi akhir | Mampu membandingkan secara tajam perbedaan pendekatan terhadap profil INTJ (Sesi 2a) dan profil ISTJ (Sesi 2b). |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** 100 (Jumlah skor: 24 / 24 × 100). Usulan skor AI memerlukan moderasi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Sebelumnya saya menganggap semua rekan yang terlambat mengumpulkan tugas memiliki masalah yang sama. Dari perbandingan Sesi 2a (Dimas) dan Sesi 2b (Budi), saya menyadari bahwa meskipun skenario masalahnya identik, akar hambatannya berbeda: Dimas membutuhkan *otonomi ruang kerja dan kontrak antarmuka (interface)*, sedangkan Budi membutuhkan *perbandingan terukur dengan prosedur lama, panduan langkah kerja, serta tenggat tertulis*.
+- **Stimulus efektif/tidak efektif:** Stimulus yang menghambat bagi Budi adalah mengubah cara kerja secara tiba-tiba tanpa ukuran yang jelas atau menuntut kedekatan emosional yang berlebihan. Stimulus yang efektif adalah perbandingan kuantitatif (jumlah tabel lama vs baru), penyusunan contoh panduan 4 langkah, dan ketepatan menuliskan kesepakatan jadwal.
+- **Pertumbuhan PASK/ASK diri:** Persepsi saya semakin tajam dalam membedakan kebutuhan rekan yang berorientasi konsep-otonomi vs rekan yang berorientasi prosedur-ketertiban. Keterampilan saya meningkat dalam menerjemahkan perubahan tugas menjadi SOP tertulis yang mudah diikuti.
+- **Relasi:** Terhadap rekan yang menjunjung komitmen dan prosedur seperti Budi, rasa dipercaya dan dipedulikan dibangun melalui kejelasan aturan, pembagian beban yang terukur, dan ketepatan menepati janji, bukan lewat basa-basi emosional.
+- **Pelajaran untuk situasi berikutnya:** Ketika memperkenalkan metode kerja baru di dalam tim, selalu sertakan jembatan perbandingan dengan metode lama dan sediakan panduan tertulis sejak awal.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Pemeriksaan 2 tabel verifikasi Tahap 1 | Mahasiswa & Budi | H-36 (Pukul 12.00 WIB) | Dokumen panduan 4 langkah | Format 2 tabel sesuai acuan | Terlaksana dalam simulasi |
+| Pengumpulan 5 tabel lengkap dengan kolom Req-ID | Budi | H-26 (Pukul 22.00 WIB) | Daftar referensi Req-ID tertulis | 5 tabel terisi lengkap dan valid | Terjadwal dalam rencana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+*Batas bukti:* Seluruh interaksi dilakukan dalam bentuk teks simulasi; ekspresi nonverbal tidak teramati dan pelaksanaan riil di luar ruang simulasi merupakan proyeksi rencana kerja.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+## Bobot dan nilai akhir UTS
 
-{{< include "../../includes/uts-penilaian.md" >}}
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Belum Dinilai |
+| Sesi 2a | 18% | Belum Dinilai |
+| Sesi 2b | 18% | Belum Dinilai |
+| Sesi 3a | 18% | Belum dilaksanakan |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Ringkasan Kasus 2 (Rata-rata Sesi 2a dan 2b):** 100 (Kontribusi Kasus 2 = 36% dari nilai UTS).
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia lengkap.

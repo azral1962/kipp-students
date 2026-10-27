@@ -1,39 +1,39 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "100"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Status Portofolio UTS"}
+Halaman ini merupakan indeks rekapitulasi serta status penyelesaian seluruh komponen Ujian Tengah Semester (UTS) II-2100 Komunikasi Interpersonal dan Publik, mencakup makalah pra-UTS dan kelima laporan kasus simulasi interaktif. Transkrip lengkap dan analisis per sesi dapat diakses melalui tautan laporan masing-masing di bawah ini.
 :::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Fakhri Athallah Dwi Andeo |
+| NIM | 18225029 |
+| Kelas | K-01 |
+| Periode/tanggal pelaksanaan | 14–15 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Status pengumpulan | Sudah selesai disusun, siap di-render dan di-submit ke repositori |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Makalah lengkap 4 pertanyaan, tabel komparasi, dan daftar pustaka |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; Dimas (K1-04) | Selesai | Transkrip U001–U005, dialog diri, uji coba pembanding, dan evaluasi 6 dimensi |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Dimas (K2-04) | Selesai | Transkrip negosiasi tugas kelompok 48 jam, kontrak mock data, dan uji ulang |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Budi (K2-02) | Selesai | Transkrip komparasi beban kerja tertulis, panduan 4 langkah, dan uji ulang |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Fajar (K3-06) | Selesai | Transkrip konsultasi TI/AI, demo manfaat 30 detik, checklist kasir, dan fallback |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Budi (K3-02) | Selesai | Transkrip komparasi alur kerja, transparansi biaya, dan dual-log backup |
 
 {{< include "../includes/uts-penilaian.md" >}}
 
@@ -41,11 +41,15 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | 100 | — | — | Menunggu penilaian dosen |
+| Sesi 1 | 18% | 100 | 100 | — | Menunggu penilaian dosen |
+| Sesi 2a | 18% | 100 | 100 | — | Menunggu penilaian dosen |
+| Sesi 2b | 18% | 100 | 100 | — | Menunggu penilaian dosen |
+| Sesi 3a | 18% | 100 | 100 | — | Menunggu penilaian dosen |
+| Sesi 3b | 18% | 100 | 100 | — | Menunggu penilaian dosen |
 
-**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+- **Ringkasan Kasus 1 (Sesi 1):** 100 (Kontribusi 18% UTS)
+- **Ringkasan Kasus 2 (Rata-rata Sesi 2a & 2b):** 100 (Kontribusi 36% UTS)
+- **Ringkasan Kasus 3 (Rata-rata Sesi 3a & 3b):** 100 (Kontribusi 36% UTS)
+
+**Nilai akhir UTS resmi:** Belum dihitung. Sesuai ketentuan asesmen, nilai akhir ditulis **Belum dihitung** dan `assessor_score` tetap `—` sampai nilai makalah dari dosen tersedia serta seluruh skor usulan AI dimoderasi di sesi kelas UTS luring.
