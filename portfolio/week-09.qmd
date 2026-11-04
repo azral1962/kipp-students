@@ -2,7 +2,7 @@
 title: "Lembar Kerja Bab 09"
 week: 9
 status: "Siap Dinilai"
-self_score: 
+self_score: "21/24"
 subtitle: "Demonstrasi Pembangun Keinginan (TAIDA III – Dari Minat menuju Keinginan)"
 author: "Mahasiswa – Komunikasi Inter Personal dan Publik"
 date: 2026-11-16
