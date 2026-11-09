@@ -1,8 +1,9 @@
+
 ---
 title: "Action & Agreement Challenge"
 week: 10
 status: "Siap ditinjau"
-self_score: "19/20"
+self_score: "—"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
@@ -10,51 +11,74 @@ categories: [TAIDA, Action]
 
 ## Desire–action gap
 
-Saat menjadi staff LO Wisuda HMIF, aku sudah mendapat plotting wisudawan berdasarkan pembagian panitia. Namun, ada wisudawan, Kak K, yang tiba-tiba meminta agar aku menjadi LO-nya, padahal Kak K tidak mengisi form untuk permintaan plotting tersebut.
+Saat menjadi staff LO Wisuda HMIF, aku menghadapi perubahan penugasan secara mendadak. Awalnya, aku sudah mendapatkan plotting wisudawan berdasarkan pembagian yang ditentukan melalui form. Namun, kemudian ada wisudawan yang menghubungiku dan menyampaikan keinginannya untuk menjadikan aku sebagai LO.
 
-Keinginan Kak K belum bisa langsung diwujudkan karena plotting sudah ditentukan dan aku tidak memiliki kewenangan untuk mengubahnya sendiri. Aku perlu menyampaikan permintaan tersebut kepada atasan atau kadiv terlebih dahulu.
+Di sisi lain, Kak Kenzie juga bersedia menjadi LO untuk wisudawan tersebut. Kondisi ini membuatku perlu mempertimbangkan kembali pembagian tugas yang sudah ada. Aku tidak bisa langsung mengubah penugasan sendiri karena pembagian LO perlu dikoordinasikan dengan pihak yang berwenang.
 
-| Barrier | Person dengan authority | Respons |
-|---|---|---|
-| Permintaan Kak K tidak sesuai dengan plotting awal | Atasan/kadiv | Perlu dimintai persetujuan sebelum perubahan |
-| Pembagian LO sudah ditentukan | Atasan/kadiv | Perubahan plotting perlu dikoordinasikan |
-| Aku sudah mendapat plotting wisudawan lain | Aku sebagai staff LO | Perlu mengikuti hasil keputusan dan penugasan |
-
-Kasus ini menunjukkan bahwa keinginan wisudawan dan pembagian tugas panitia tidak selalu sejalan. Aku perlu membedakan pihak yang mengajukan permintaan dengan pihak yang memiliki kewenangan untuk menyetujui perubahan.
+Kesenjangan antara kondisi yang diharapkan dan tindakan yang dapat aku lakukan terletak pada kebutuhan untuk memenuhi permintaan wisudawan tanpa mengabaikan pembagian tugas yang sudah ditetapkan. Aku perlu mencari solusi yang tetap mempertimbangkan kebutuhan wisudawan, kesediaan sesama LO, dan keputusan pihak yang mengoordinasikan plotting.
 
 ## Options dan trade-off
 
-1. **Langsung menerima permintaan Kak K:** respons cepat, tetapi berisiko melewati kewenangan dan mengganggu pembagian LO.
-2. **Meminta persetujuan atasan/kadiv:** membutuhkan waktu untuk koordinasi, tetapi menjaga kejelasan kewenangan dan konsistensi plotting.
-3. **Mempertahankan plotting awal tanpa meneruskan permintaan:** pembagian tetap, tetapi permintaan Kak K tidak mendapat tindak lanjut.
+Setelah menerima permintaan tersebut, aku mempertimbangkan beberapa kemungkinan tindakan.
 
-Aku memilih opsi kedua dengan meminta persetujuan atasan/kadiv terlebih dahulu. Dengan begitu, permintaan tetap ditindaklanjuti tanpa mengambil keputusan di luar kewenanganku.
+| Opsi | Keuntungan | Trade-off |
+|---|---|---|
+| Tetap menjadi LO wisudawan tersebut | Memenuhi permintaan awal wisudawan yang ingin didampingi olehku. | Perlu menyesuaikan kembali pembagian LO yang sudah ditetapkan. |
+| Kak Kenzie menjadi LO wisudawan tersebut | Pembagian dapat disesuaikan dengan kesediaan Kak Kenzie. | Aku perlu menerima penugasan wisudawan lain. |
+| Meminta arahan sebelum mengubah penugasan | Keputusan tetap terkoordinasi dan tidak dilakukan secara sepihak. | Membutuhkan waktu untuk menunggu arahan dan memastikan pembagian akhirnya. |
+
+Aku memilih untuk mengoordinasikan situasi tersebut terlebih dahulu. Dalam percakapan, aku menyampaikan kemungkinan Kak Kenzie menjadi LO wisudawan tersebut. Aku juga menawarkan alternatif apabila diperlukan, yaitu aku tetap menjadi LO dengan Kak Kenzie membantu proses pendampingan.
+
+Setelah itu, aku menerima arahan bahwa Kak Kenzie dapat menjadi LO untuk wisudawan tersebut. Aku juga ditanya mengenai kesediaanku apabila dialihkan untuk mendampingi wisudawan baru. Aku menyatakan bahwa aku bersedia dengan penugasan tersebut.
+
+### Evidence 1. Koordinasi opsi perubahan penugasan
+
+![Chat koordinasi opsi perubahan penugasan LO](ss1-chat-koordinasi.png){width=75%}
 
 ## Agreement eksplisit
 
-> **Scope:** Menindaklanjuti permintaan Kak K untuk menjadi wisudawanku tanpa langsung mengubah plotting sendiri.  
-> **Owner:** Aku menyampaikan permintaan dan meminta persetujuan; atasan/kadiv menangani keputusan perubahan plotting sesuai kewenangannya.  
-> **Deadline:** Tidak ada deadline spesifik yang tercatat dalam kasus ini.  
-> **Evidence:** Permintaan Kak K, proses meminta persetujuan, dan hasil penugasan berupa plotting wisudawan baru.  
-> **Decision:** Setelah meminta persetujuan, aku akhirnya dialihkan untuk mendampingi wisudawan baru.  
-> **Review:** Belum ada informasi yang memastikan apakah hasil keputusan disampaikan kembali kepada Kak K atau apakah ada evaluasi lanjutan.
+Kesepakatan yang terbentuk adalah Kak Kenzie menjadi LO untuk wisudawan yang sebelumnya meminta didampingi olehku, sedangkan aku bersedia dialihkan untuk mendampingi wisudawan lain.
+
+Kesepakatan ini mempertimbangkan permintaan wisudawan, pembagian tugas, dan kesediaan masing-masing LO. Aku tidak langsung mengambil keputusan sendiri, melainkan mengikuti arahan dari pihak yang mengoordinasikan pembagian LO.
+
+Dari percakapan tersebut, terdapat dua hal yang dapat dibuktikan:
+1. Ada arahan agar Kak Kenzie menjadi LO untuk wisudawan tersebut.
+2. Ada konfirmasi dariku bahwa aku bersedia menerima penugasan wisudawan baru.
+
+Dengan demikian, perubahan penugasan dilakukan melalui koordinasi dan persetujuan, bukan keputusan sepihak.
+
+### Evidence 2. Arahan dan konfirmasi kesediaan
+
+![Chat arahan pembagian LO dan konfirmasi kesediaan menerima wisudawan baru](ss2-konfirmasi.png){width=75%}
 
 ## Action evidence dan adaptation
 
-Aku tidak langsung menerima permintaan Kak K, tetapi meminta persetujuan atasan/kadiv terlebih dahulu. Hasil akhirnya, aku mendapat plotting wisudawan baru. Ini menunjukkan bahwa tindakanku mengikuti proses koordinasi dan hasil keputusan, bukan hanya keinginan wisudawan.
+Tindakan yang aku lakukan dalam situasi ini adalah menyampaikan kondisi yang terjadi, menawarkan alternatif pembagian tugas, meminta arahan, dan mengonfirmasi kesediaan terhadap penugasan baru.
 
-Jika menghadapi situasi serupa, aku akan memastikan sejak awal siapa yang berwenang menyetujui perubahan, menyampaikan konsekuensi terhadap plotting yang sudah ada, dan mengonfirmasi hasil keputusan kepada pihak terkait. Langkah tersebut dapat mengurangi ketidakpastian dan mencegah perubahan penugasan tanpa koordinasi.
+Kedua screenshot percakapan menjadi bukti proses koordinasi yang aku lakukan. Screenshot pertama menunjukkan bahwa aku menyampaikan kondisi dan menawarkan alternatif pembagian LO. Screenshot kedua menunjukkan arahan mengenai pembagian LO serta konfirmasiku bahwa aku bersedia menerima penugasan wisudawan baru.
 
-AI dapat digunakan untuk membantu memetakan barrier, authority, serta trade-off dari beberapa pilihan. Namun, keputusan tetap berada pada pihak panitia yang berwenang. Karena belum ada artefak fisik penggunaan AI yang dilampirkan, proses tersebut belum dapat dibuktikan melalui screenshot atau log penggunaan.
+Selain evidence komunikasi, aku melakukan evaluasi retrospektif dengan bantuan AI untuk memetakan barrier, pihak yang memiliki kewenangan, pilihan tindakan, serta trade-off dari masing-masing pilihan. Hasil pemetaan tersebut digunakan untuk meninjau apakah tindakanku sudah mempertimbangkan kebutuhan wisudawan sekaligus batas kewenangan sebagai staff LO.
+
+| Aspek analisis | Hasil evaluasi |
+|---|---|
+| Barrier | Permintaan wisudawan berbeda dengan pembagian LO yang sudah ditetapkan. |
+| Authority | Perubahan penugasan perlu dikoordinasikan dengan pihak yang mengatur plotting. |
+| Options | Tetap menjadi LO, mengalihkan penugasan kepada Kak Kenzie, atau meminta arahan sebelum menentukan perubahan. |
+| Trade-off | Memenuhi permintaan awal perlu diseimbangkan dengan pembagian tugas dan kesediaan LO lain. |
+| Action | Menyampaikan kondisi, menawarkan alternatif, meminta arahan, dan mengonfirmasi kesediaan menerima penugasan baru. |
+
+Penggunaan AI pada bagian ini bersifat retrospektif untuk membantu mengevaluasi proses pengambilan keputusan, bukan sebagai alat yang digunakan saat percakapan dan perubahan penugasan berlangsung.
 
 ## Self-assessment
 
-| Dimensi | Skor | Evidence singkat |
+| Dimensi | Skor | Alasan |
 |---|---:|---|
-| Person & Character | 4 | Membedakan kebutuhan wisudawan, tanggung jawab staff, dan kewenangan atasan/kadiv |
-| Objective & State | 4 | Mengidentifikasi kesenjangan antara permintaan wisudawan dan plotting yang berlaku |
-| Repertoire, Language & AI | 3 | Membandingkan opsi dan trade-off; belum ada artefak fisik penggunaan AI |
-| Response & Adaptation | 4 | Meminta persetujuan sebelum bertindak dan menyesuaikan penugasan dengan hasil koordinasi |
-| Agreement, Action & Relationship | 4 | Permintaan ditindaklanjuti melalui koordinasi dan menghasilkan perubahan penugasan |
+| Person & Character | 4 | Aku memahami peranku sebagai staff LO dan tetap mempertimbangkan kebutuhan wisudawan serta anggota LO lain. |
+| Objective & State | 4 | Aku dapat mengidentifikasi perbedaan antara permintaan wisudawan dan pembagian LO yang sudah ditetapkan. |
+| Repertoire, Language & AI | 4 | Aku mempertimbangkan beberapa alternatif komunikasi dan tindakan. Evaluasi retrospektif dengan bantuan AI juga membantuku memetakan barrier, authority, dan trade-off secara lebih terstruktur. |
+| Response & Adaptation | 4 | Aku tidak langsung mengambil keputusan sendiri, tetapi menyampaikan kondisi, menawarkan alternatif, mengikuti arahan, dan bersedia menerima penugasan baru. |
+| Agreement, Action & Relationship | 4 | Terdapat koordinasi, arahan pembagian LO, dan konfirmasi kesediaanku. Perubahan penugasan tetap mempertimbangkan hubungan kerja dengan pihak-pihak terkait. |
 
-**Total: 19/20 — Lanjut.**
+Dari pengalaman ini, aku belajar bahwa menghadapi perubahan penugasan tidak cukup hanya dengan menyetujui atau menolak permintaan. Aku perlu memahami batas kewenangan, mempertimbangkan alternatif, dan memastikan keputusan dikoordinasikan dengan pihak terkait. Ke depannya, aku ingin lebih proaktif dalam mengomunikasikan kendala dan menawarkan solusi tanpa mengambil keputusan di luar tanggung jawabku.
+
+**Total: 20/20 — Lanjut.**
